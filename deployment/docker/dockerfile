@@ -1,0 +1,36 @@
+# deployment/docker/dockerfile
+FROM python:3.11-slim AS base
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
+
+# System deps (for building some wheels)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential curl \
+ && rm -rf /var/lib/apt/lists/*
+
+# Workdir inside the container
+WORKDIR /app
+
+# ---- Install deps first (better layer caching) ----
+# We're building from the REPO ROOT as context, so this finds requirements.txt there
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# ---- Copy source code ----
+# Copy only what we need; adjust if you add packages later
+COPY src ./src
+
+# Make Python see /app/src as a module root so we can import "api.vectorApi"
+ENV PYTHONPATH=/app/src
+
+# App port
+ENV PORT=8080
+EXPOSE 8080
+
+# Healthcheck (optional) — only keep if you actually have /health route
+# HEALTHCHECK --interval=30s --timeout=5s --retries=3 \
+#   CMD curl -fsS http://localhost:8080/health || exit 1
+
+# Start FastAPI — note: Linux is case-sensitive; vectorApi has capital A
+CMD ["uvicorn", "api.vectorApi:app", "--host", "0.0.0.0", "--port", "8080"]
