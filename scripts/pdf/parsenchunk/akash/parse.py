@@ -2,6 +2,8 @@
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.document_loaders import UnstructuredPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_experimental.text_splitter import SemanticChunker
 from bs4 import BeautifulSoup
 from pdfminer.high_level import extract_text_to_fp
 from pdfminer.layout import LAParams
@@ -118,11 +120,34 @@ def unstructued_driver(filepath):
     print(f"TOTAL TIME: {time.time() - start}")
 
 def embedding_driver(filepath):
-    pass
+    # Good lightweight models for docs:
+
+    #  - sentence-transformers/all-MiniLM-L6-v2  (small, fast)
+    #  - thenlper/gte-base                       (balanced)
+    #  - intfloat/e5-base-v2                     (popular, strong)
+    emb = HuggingFaceEmbeddings(
+        model_name="thenlper/gte-base",    # pick one from above
+        # encode_kwargs={"normalize_embeddings": True},  # optional
+    )
+
+    sem_splitter = SemanticChunker(
+    embeddings=emb,
+        # Optional knobs:
+        # breakpoint_threshold_type="percentile",       # or "standard_deviation"
+        # breakpoint_threshold_amount=95,               # higher → fewer, larger chunks
+    )
+
+    text = open("unstructured_parser_res.md").read()  # or the cleaned text you want to chunk
+    chunks = sem_splitter.split_text(text)
+
+    with open("embedding_parser_res.md", "w") as f:
+        for i, chunk in enumerate(chunks):
+            f.write(f"\n# Chunk {i}\n{chunk}")
+
 
 def main():
     filepath = "/Users/akashwudali/XITM_RPF_Analyzer/docs/rpfs/2-RFP 2000004198.pdf"
-    unstructued_driver(filepath)
+    embedding_driver(filepath)
 
 
 if __name__=="__main__":
