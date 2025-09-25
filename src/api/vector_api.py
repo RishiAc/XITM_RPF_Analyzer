@@ -1,7 +1,7 @@
 # src/api/app.py
 import os
 import uuid
-from typing import List, Optional
+from typing import List, Tuple, Optional
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
@@ -53,15 +53,17 @@ def _ensure_payload_index():
             return
         raise
 
-def _embed(texts: List[str]) -> List[list[float]]:
-    vecs = _app_model.encode(texts, normalize_embeddings=True, convert_to_numpy=True)
+def _embed(chunks: List[str]) -> List[List[float]]:
+    texts = [chunk[0] for chunk in chunks]
+
+    vecs = _app_model.encode(texts, normalize_embeddings=True)
     return [v.tolist() for v in vecs]
 
 app = FastAPI(title="XITM RFP API", version="0.0.2")
 
 class IngestBody(BaseModel):
     doc_id: str
-    chunks: List[str]
+    chunks: List[Tuple[str, int]]
 
 class SearchBody(BaseModel):
     doc_id: str
@@ -91,7 +93,7 @@ def ingest_chunks(body: IngestBody):
                 models.PointStruct(
                     id=pid,
                     vector=vector,
-                    payload={"doc_id": body.doc_id, "text": t},
+                    payload={"doc_id": body.doc_id, "text": t[0], "page_num": t[1]}
                 )
             )
 
