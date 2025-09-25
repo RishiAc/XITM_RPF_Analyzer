@@ -9,11 +9,10 @@ from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient, models
 from qdrant_client.http.exceptions import UnexpectedResponse
 # src/api/app.py (only showing the diffs/additions)
-from qdrant_client.http.exceptions import UnexpectedResponse
 
 # ---- env ----
 QDRANT_URL = os.getenv("QDRANT_URL")
-QDRANT_API_KEY = os.getenv("QDRANT_API_KEY") or None
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 QDRANT_COLLECTION = os.getenv("QDRANT_COLLECTION", "rfp_chunks")
 EMBED_MODEL = os.getenv("EMBED_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
 
@@ -87,7 +86,7 @@ def ingest_chunks(body: IngestBody):
         points = []
         for i, t in enumerate(body.chunks):
             pid = str(uuid.uuid5(uuid.NAMESPACE_URL, f"{body.doc_id}:{i}"))  # deterministic UUID
-            vector = vecs[i] if isinstance(vecs[i], list) else vecs[i].tolist()
+            vector = vecs[i]
             points.append(
                 models.PointStruct(
                     id=pid,
@@ -121,7 +120,7 @@ def search(body: SearchBody):
         hits = _client.search(
             collection_name=QDRANT_COLLECTION,
             query_vector=qvec,
-            limit=body.top_k or 5,
+            limit=body.top_k,
             query_filter=filt,
             with_payload=True,
         )
