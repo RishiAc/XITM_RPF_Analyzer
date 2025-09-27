@@ -29,17 +29,19 @@ def normalize_headers(md_text: str) -> str:
 
 # Saves chunks to an output folder
 def save_splits_to_files(splits):
-    os.makedirs("output", exist_ok=True)
+    os.makedirs("output2", exist_ok=True)
     
     for i, doc in enumerate(splits, start=1):
         text = document_to_string(doc)
-        filename = os.path.join("output", f"chunk_{i:03d}.md")
+        filename = os.path.join("output2", f"chunk_{i:03d}.md")
         with open(filename, "w", encoding="utf-8") as f:
             f.write(text)
 
 def main():
     # Convert PDF to markdown
-    md_text = pmf.to_markdown('../../../../docs/rpfs/2-RFP 2000004198.pdf')
+    # md_text = pmf.to_markdown('../../../../docs/rpfs/2-RFP 2000004198.pdf')
+    md_text = pmf.to_markdown('../../../../docs/rpfs/K26-0023-25I -RFP-Child Access Case Screeners.pdf')
+    
     
     # Normalize headers
     md_text_clean = normalize_headers(md_text)
@@ -48,7 +50,8 @@ def main():
     headers_to_split_on = [
         ("#", "Header 1"),
         ("##", "Header 2"),
-        ("###", "Header 3")
+        ("###", "Header 3"),
+        ("**", "Header 4")
     ]
     
     # Split markdown based on headers
