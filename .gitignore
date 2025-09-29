@@ -1,0 +1,14 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# env
+.env
+.env.*
+
+# local data
+qdrant_storage/
+
+# node (future frontend)
+node_modules/
