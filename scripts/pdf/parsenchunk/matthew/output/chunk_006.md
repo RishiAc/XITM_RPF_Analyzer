@@ -1,0 +1,280 @@
+Header 2: TECHNOLOGY PROFILES AND ADDITIONAL REQUIREMENTS:
+
+5.## Fairfax County Information Technology Profile and Requirements:  
+5.1.1. To meet the requirements of this solicitation, proposals for providing IT staff
+augmentation support should comprehensively address all aspects of the related
+labor category, including skill sets, experience, and availability of proposed
+personnel. The offeror will describe their organizational experience in delivering
+services and solutions in the particular labor category. Submissions from general
+staffing firms or vendors without demonstrable delivery experience in the IT category
+will be disqualified. The Offeror will be responsible for demonstrating that supplied
+staff fully integrate with existing County teams and projects. The County will provide
+guidance on the methodology and design required for each support area in each
+future work order. Offeror must demonstrate ability to integrate the augmented staff
+into existing County processes and workflows. Any solutions developed or
+implemented by staff augmentation support must be fully integrated into the core
+County software, database and interfaces and seamlessly integrate with county
+technologies. Proposals must detail the following; organizational skill sets and
+expertise, proposed staffing models, ensure augmented staff can seamlessly
+integrate and use existing county frameworks, methodologies, and tools. This
+includes a commitment to adhering to the County's security guidelines and best
+practices. The Offeror should ensure that the proposal includes, examples of
+relevant case studies, past work or projects in government settings, and a clear plan
+for onboarding and integrating these staff members within the County’s existing IT
+organization. Proposals must demonstrate offerors ability to provide staff that can
+meet one or more of the supported areas and show competencies in the core
+technologies used by the county. Information about Fairfax County IT Projects,
+Standards, environments and platforms can be found in the Information Technology
+[Plan, https://www.fairfaxcounty.gov/informationtechnology/it-plan.](https://www.fairfaxcounty.gov/informationtechnology/it-plan)  
+5.1.2. Fairfax County IT Management Overview – The Department of Information
+Technology (DIT) is the County’s central IT agency that establishes standards and
+architecture for information and communication systems for all County agencies.
+DIT provides leadership, process, governance, resources, and expertise in
+deploying information technology, and provides technology infrastructure, and
+designs, develops, implements and maintains enterprise-wide and agencies’
+specific applications. The Director of DIT is also the County's Chief Information
+Officer and has authority for strategic leadership for technology investments, and
+direction in deployment of technology county-wide, and oversees implementation of
+policy and IT projects. DIT has a Project Management Office that works with all
+agencies’ Project Managers (PM) in reviewing project plans for performance and
+scope, and approving project expenditures. DIT assigns a technical PM who is
+responsible for working with project System Integrators (SI) and staff augmentation
+support on the technical implementation processes.  
+3  
+RFP 2000004198  
+**SPECIAL PROVISIONS**  
+5.1.3. The County prefers solutions use industry standards out-of-the-box, including
+contemporary best practices for solution architecture, configurability, integration,
+user access and data security; be available 24x7x365; are scalable and meet
+reasonable performance requirements; and allow for appropriate maintenance
+windows.  
+5.1.4. Any solutions custom built by an SI, then DIT will specify the standard for the build
+and the underlying infrastructure which contractors must adhere to.  
+5.1.5. If support is for a commercial licensed software product, it is expected that work is
+based on its manufacture specifications and not manipulated outside its developed
+architecture and development standards. The solution design should recommend
+the hardware and database environment that ensures optimal performance,
+supportability and reliability.  
+5.1.6. Solution support may be required on technology that is hosted outside the County’s
+IT environment, such as a subscription service. Augmented staff must adhere to
+County IT Security standards for data security and privacy and user access from the
+county’s local and remote network. DIT will specify remote access specifications.  
+5.## County Network Environment:  
+5.2.1. The County’s technology architecture is a tactical asset that defines technology
+components necessary to support business operations and the infrastructure
+required for implementation of technologies in response to the changing needs of
+government business and industry evolution. It is a multi-layered architecture that
+includes:  
+- Application and Data Architectures,  
+- Platform Architecture,  
+- Network Architecture,  
+- Internet Architecture, and  
+- Security Architecture.  
+5.2.2. More information about the County’s enterprise architecture is available in the
+Information Technology Plan, published by the County DIT, at  
+[https://www.fairfaxcounty.gov/informationtechnology/it](https://www.fairfaxcounty.gov/informationtechnology/it-plan) plan  
+5.## Requirements for Solutions Supported by Staff Augmentation:  
+5.3.1. All information systems delivery and management is governed by the Architecture
+Review Board (ARB) and other program specific committees that are chartered to
+manage scope and functionality delivery issues, and advise and/or direct
+development efforts and promote conformance to a variety of standards, including
+but not limited, to those in the Information Technology Plan,
+[https://www.fairfaxcounty.gov/informationtechnology/it-plan.](https://www.fairfaxcounty.gov/informationtechnology/it-plan) Offerors with staff
+augmentation support in the various domains may be required to review solution
+architecture with the DIT ARB while supporting the county. The DIT ARB provides
+technical review and sign-off of Solution designs.  
+5.3.2. In general, solutions that are installed on premises at Fairfax County use industry
+standards and must meet the following requirements, which are described in the
+Information Technology Plan,
+[https://www.fairfaxcounty.gov/informationtechnology/it-plan:](https://www.fairfaxcounty.gov/informationtechnology/it-plan)  
+- Enterprise Architecture and Standards,  
+- Application Platforms and Architecture, and  
+- Database and Operating Systems.  
+4  
+RFP 2000004198  
+**SPECIAL PROVISIONS**  
+5.3.3. Deviations: Deviations from the architecture and standards may become a barrier
+to the sustainability of the County’s integration and interoperability posture and may
+be subject to further review. When responding to various statements of work during
+the duration of this contract, offerors must specifically disclose all aspects of the
+proposed solution which deviate from the documented standards and desired
+architectures, and provide approaches for consideration about the manner in which
+non-standard components may be integrated.  
+5.3.4. Graphical User Interfaces: The County has standard templates that are required for
+its websites to have maximum consistency across applications and content. Any
+hosted applications and most COTS applications should be able to present through
+the County template or simulation for County brand and identity. Alternatives to
+using these templates must be arranged through the County DIT.  
+5.## IT/Cyber Security:  
+5.4.1. All solution components must meet Information Security practices as described in
+the Fairfax County Information Technology Security Policy:
+[https://www.fairfaxcounty.gov/informationtechnology/sites/informationtechnology/fil](https://www.fairfaxcounty.gov/informationtechnology/sites/informationtechnology/files/assets/security/pm70-05_01.pdf)
+[es/assets/security/pm70-05_01.pdf.](https://www.fairfaxcounty.gov/informationtechnology/sites/informationtechnology/files/assets/security/pm70-05_01.pdf)  
+5.4.2. The Contractor must provide complete Fairfax County Project Proposal Matrix for
+Meeting Information Technology Security Policy Requirements ( **Attachment C** )
+upon request by the County.  
+5.4.3. Contractors implementing solutions must be compliant with all federal and Virginia
+laws and regulations governing the access, use and management of Personally
+Identifiable Information (PII), Payment Card Industry (PCI) compliant and meet
+Americans with Disabilities Act (ADA) requirements.  
+5.4.4. Offerors must include in their proposals the completed **Attachment D:** Fairfax
+County IT Services Provider Consultant/Contractor Agreement, for the firm and its
+personnel that have roles in the implementation and management of the solution
+implementation and post implementation maintenance and support, as applicable.
+This requirement is non-negotiable.  
+5.4.5. Contractor personnel are subject to monitoring by the County IT Security Office
+(ISO), and any person of the Contractor or its subcontractors or representatives that
+breach IT Security Policy and/or ethics are automatically removed from the
+engagement.  
+5.4.6. Sensitive and Confidential Information: Sensitive or Confidential information may
+not be removed from Fairfax County premises or systems unless the information’s
+owner has approved such removal or exposure in advance. This includes, but is not
+limited to, various active data services, (REST, WebSocket, GraphQL, etc.) portable
+computer hard disks, portable memory devices (including USB drives), tape
+cartridges, and paper documents containing sensitive or confidential information.
+This paragraph does not apply to authorized off-site backups which are in encrypted
+form.  
+5.4.7. Authorized Tools and Programs: Except as otherwise expressly authorized by
+DIT/ISO, users shall not download, install or run security programs or utilities that
+reveal weaknesses in the security of a system. For example, Fairfax County users
+shall not run password cracking programs, network reconnaissance/discovery
+software/applications, key loggers, packet sniffers, network mapping tools, port
+scanners or any other non-approved programs while connected in any manner to
+the Fairfax County network infrastructure.  
+5  
+RFP 2000004198  
+**SPECIAL PROVISIONS**  
+5.4.8. Remote Access: Authorized users accessing the County’s network remotely shall
+abide by security policies and procedures to protect the County's equipment, data,
+and network access as if they were working on premises.  
+A. Remote access is a service provided by the County and shall be used for
+authorized business purposes only. To this end, management shall approve
+every request for remote access.  
+B. Remote access to the Fairfax County network shall be done using the DIT
+provided or supported services that are approved by the Information Security
+Office.  
+C. Agencies or individuals who wish to implement non-standard Remote Access
+solutions to the Fairfax County production network shall obtain prior approval
+from DIT and the Information Security Office.  
+D. Secure remote access shall be strictly controlled. Control will be enforced via
+remote access authentication using security tokens that provide one-time
+password authentication or public/private keys with strong pass-phrases.
+Furthermore, users may not share passwords or access devices to permit
+others onto the County network.  
+E. Remote Access control will be enforced via network and system level
+auditing. This information will be readily available for monitoring and review
+by appropriate personnel.  
+F. External access to and from information systems shall meet Fairfax County
+remote access standards and guidelines.  
+G. Reconfiguration of a home user’s equipment for the purpose of split-tunneling
+or dual homing is not permitted.  
+H. All hosts that are connected to Fairfax County internal networks via remote
+access technologies shall use the most up-to-date anti-virus software.  
+I. By using remote access technology with personal equipment, users shall
+understand that their machines are a de facto extension of Fairfax County’s
+network, and as such are subject to the same standards that apply to Countyowned equipment; therefore, their machines shall be configured to comply
+with Fairfax County policies and DIT standards for anti-virus software and
+patch management.  
+J. The County monitors its networks and systems for security violations. Users
+agree to this monitoring when they use the service.  
+K. The link shall be encrypted whenever a computer network connection is
+established between a County computer and another computer at a location
+outside an official Fairfax County office, and whenever this connection
+transmits, or is likely to transmit sensitive information.  
+5.## Ownership of and Access to Data, Source Code:  
+5.5.1. All County data is and must remain the sole property of the County. Therefore, all
+tools and capabilities native to the Offeror’s solution should be available to the
+County to allow for full access to that data. All tables, layouts, queries, stored
+procedures, XML schema and other content developed to support the operation of
+a database and/or County applications in the Fairfax environment become the
+property of the County, and shall be available to the appropriate County personnel
+as needed and upon request.  
+6  
+RFP 2000004198  
+**SPECIAL PROVISIONS**  
+5.5.2. Source code shall revert to the County if the Contractor files for bankruptcy or
+protection from creditors in a court of law. The County shall have full rights to use
+source code for any purposes other than resale. The same applies if the Contractor
+is merged or acquired and the software is no longer supported. Software source
+code will be updated to reflect the most current version of the software source code
+materials including all adjustments and configuration made for Fairfax County.  
+5.5.3. Once contract is awarded, Contractor must provide documentation about schemas
+or database table organization at a level of detail that enables report writers to
+navigate and extract all information necessary to produce ad hoc reports.  
+5.5.4. All source code developed under a given task order must remain the sole property
+of the County. Contractor may request permission to re-use portions of the code
+written by their staff, however, this request must be made in writing to the Fairfax
+County Department of Procurement and Material Management for review and
+approval.  
+5.5.5. The above is not meant to include proprietary programs, tools or other intellectual
+property. However, such claim to proprietary content cannot intrude on the County’s
+right to access its data without undue interference or additional cost.  
+5.5.6. Data owned by Fairfax County may not be used by the Contractor for any purposes
+without the express written consent of the appropriate County representative. Data
+covered under specific federal, state and local privacy laws are confidential. Any
+breach of privacy is cause for termination of contract.  
+5.5.7. Data Access (Off-Premise): If the solution is hosted outside the County’s network
+the County requires 24/7 access to all data and all communications, transactions,
+and all other records of business concerning the software in relation to the agencies
+that utilize and/or access HCSIS.  
+5.## Standard County Data:  
+5.6.1. Certain elements are standardized in format and content to enable enterprise-wide
+data usability, coordination of services, analysis, and public safety. New systems
+that use any of these elements are required to meet these requirements and any
+deviation from the standard must be documented and approved by the CTO.  
+5.## Infrastructure Requirements:  
+5.7.1. Contractors supporting solutions implemented and hosted at the County, must
+ensure all infrastructure needs are specified and approved. Contractors must
+maintain for County technical documentation and hardware proposals for
+consideration in their support capacity  
+5.7.2. For a proposed solution the County may require up to six separate computing
+environments, with the ability to run concurrently, for sandbox, development, testing,
+training, acceptance, and production. To ensure that each environment is technically
+equivalent, duplicate servers and workstations as specified below shall be utilized
+except where virtual machine technology is preferred by the County. The County
+will work with the Contractor to duplicate or approximate other relevant
+environmental considerations such as the network and system loading to ensure
+realistic testing scenarios are facilitated.  
+7  
+RFP 2000004198  
+**SPECIAL PROVISIONS**  
+5.7.3. When responding to statements of work, solution hardware requirements should be
+listed in detail to include make and model required for the full implementation of the
+application. All hardware components must be sized appropriately to ensure that the
+performance requirements of the Contractor’s application will be met. Equipment
+specifications provided by the County within this RFP shall be considered as minimal
+requirements. Deviations for hardware proposed will be finalized during final design
+stages of the project.  
+5.7.4. The County maintains a four-year replacement program for workstations and a fouryear replacement program for servers and associated ancillary equipment. The
+Contractor shall prepare technology refreshment specifications and costs for
+installed hardware currently under maintenance agreement every four years or
+when requested.  
+5.## Disaster Recovery/Continuity of Operations:  
+5.8.1. For solutions developed using staff augmentation from this contract, regardless of
+the architecture of the solutions or systems the Contractor supports,, the Contractor
+shall be continually ready to invoke a Business Continuity and Disaster Recovery
+(“BC-DR”) plan that at a minimum addresses the following scenarios: (i) The central
+computer installation and resident software are destroyed or damaged, (ii) System
+interruption or failure resulting from network, operating hardware, software, or
+operational errors that compromises the integrity of transactions that are active in a
+live system at the time of the outage, (iii) System interruption or failure resulting from
+network, operating hardware, software or operational errors that compromises the
+integrity of data maintained in a live or archival system, (iv) System interruption or
+failure resulting from network, operating hardware, software or operational errors
+that does not compromise the integrity of transactions or data maintained in a live
+or archival system but does prevent access to the system, i.e., causes unscheduled
+system unavailability. The BC-DR plan shall account for and be in effect during the
+entire period beginning with project kickoff and ending with the end of any turnover
+period. If Contractor is fully supporting BC-DR then BC-DR plans must be prior
+approved by the County.  
+5.8.2. Fairfax County operates a contemporary near real-time co-location site for county
+applications and data off-site. Any solutions supported must be able to seamlessly
+fail-over and be active-active. If components of the supported solutions are a
+subscription service hosted by the Offeror or third-party data-center, the contractors
+must include provisions and descriptions of its DR site and procedures. Fairfax
+County must have direct access to inspect the host and co-location sites.  
+5.8.3. The Contractor’s Disaster Recovery plan should document the processes necessary
+to respond to system disruption or a disaster that would affect the system.  
+5.8.4. The Contractor’s Disaster Recovery plan shall identify the activities, resources, and
+procedures needed to carry out processing requirements for a prolonged period of
+time.
