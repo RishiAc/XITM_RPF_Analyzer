@@ -84,16 +84,24 @@ You will get `QDRANT_URL` and `QDRANT_API_KEY` from Qdrant Cloud.
 
 Copy paste this into another terminal after running the API and docker
 ```bash
-curl -X POST http://localhost:8080/ingest-chunks \
-  -H "Content-Type: application/json" \
-  -d '{
+curl -X POST http://localhost:8080/vector/ingest-chunks   -H "Content-Type: application/json"   -d '{
     "doc_id": "RFP-DEMO-001",
     "chunks": [
-      "All proposals must be submitted via SAM.gov by 2:00 PM ET.",
-      "Technical volume is limited to 25 pages, Times New Roman 12pt.",
-      "This procurement is a WOSB set-aside under NAICS 541512."
+      {
+        "chunk_num": 3,
+        "text": "All proposals must be submitted via SAM.gov by 2:00 PM ET."
+      },
+
+      {
+        "chunk_num": 2, "text": "Technical volume is limited to 25 pages, Times New Roman 12pt."
+      },
+
+      {
+        "chunk_num": 1, "text": "This procurement is a WOSB set-aside under NAICS 541512."
+      }
     ]
   }'
+
 ```
 
 Expected response:
