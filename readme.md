@@ -111,7 +111,7 @@ Expected response:
 
 ### Run a semantic search
 ```bash
-curl -X POST http://localhost:8080/search \
+curl -X POST http://localhost:8080/vector/search \
   -H "Content-Type: application/json" \
   -d '{
     "doc_id": "RFP-DEMO-001",
