@@ -1,7 +1,7 @@
 curl -X POST http://localhost:8080/chunk/upload-pdf \
   -H "Content-Type: application/json" \
   -d '{
-    "file": "app/docs/rpfs/K26-0023-25I -RFP-Child Access Case Screeners.pdf",
+    "file": "docs/rpfs/K26-0023-25I -RFP-Child Access Case Screeners.pdf",
     "doc_id": "Test RFP"
   }'
 
@@ -9,7 +9,14 @@ curl -X POST http://localhost:8080/vector/search \
   -H "Content-Type: application/json" \
   -d '{
     "doc_id": "Test RFP",
-    "query": "Proposal due date",
-    "top_k": 5
+    "query": "Is an oral presentation required?",
+    "top_k": 10
   }'
 
+curl -X POST http://localhost:8080/vector/search \
+  -H "Content-Type: application/json" \
+  -d '{
+    "doc_id": "Test RFP",
+    "query": "Cancellations",
+    "top_k": 5
+  }'
