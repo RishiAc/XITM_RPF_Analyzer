@@ -30,4 +30,6 @@ def chunks_to_json(doc_id, nodes):
     return output
 
 if __name__ == "__main__":
-    print(chunks_to_json("test", parse("/Users/nidhingangisetty/XITM_RPF_Analyzer/docs/rpfs/rfp-26-001-htdc.pdf")))
+    filepath = "/Users/akashwudali/XITM_RPF_Analyzer/docs/rpfs/2-RFP 2000004198.pdf"
+    json_chunks = chunks_to_json("test", parse(filepath))
+    print(json_chunks)
