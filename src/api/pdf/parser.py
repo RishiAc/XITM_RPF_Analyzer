@@ -1,8 +1,13 @@
 from llama_parse import LlamaParse
 from llama_index.core.node_parser import SentenceSplitter
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # take environment variables
+
 def parse(file):
-    parser = LlamaParse(api_key="llx-y0lDjk4o2QVdB13CbRMdFdl3iEAZpBo6AbnsWFdGgBqgJb7l")
+    parser = LlamaParse(api_key=os.getenv("LLAMA_PARSE_KEY"))
     parsed_doc = parser.load_data(file)
 
     splitter = SentenceSplitter(chunk_size=512, chunk_overlap=75)
@@ -28,6 +33,3 @@ def chunks_to_json(doc_id, nodes):
         })
 
     return output
-
-if __name__ == "__main__":
-    print(chunks_to_json("test", parse("/Users/nidhingangisetty/XITM_RPF_Analyzer/docs/rpfs/rfp-26-001-htdc.pdf")))

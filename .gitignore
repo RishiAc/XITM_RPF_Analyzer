@@ -15,3 +15,5 @@ qdrant_storage/
 
 # node (future frontend)
 node_modules/
+
+workspace/
