@@ -1,0 +1,1895 @@
+
+--- Chunk 1 ---
+VIRGINIA ASSOCIATION
+GM                                                                                                                 OF STATE COLLEGE &
+                                                                                                                   UNIVERSITY PURCHASING
+
+               GEORGE MASON                             Purchasing Department                                      PROFESSIONALS
+               UNIVERSITY                               4400 University Drive, MS 3C1, Fairfax, VA 22030       VASCUPP
+  T..                                                   Phone: 703.993.2580; http://fiscal.gmu.edu/purchasing/
+
+                                                                    REQUEST FOR PROPOSALS
+                                                                        GMU-RB0607-25
+
+ISSUE DATE:                                                         September 4, 2025
+
+TITLE:                                                              IT Consulting & Staff Augmentation Services
+
+PRIMARY PROCUREMENT OFFICER:                                        Regina Bazile, Senior Buyer
+SECONDARY PROCUREMENT OFFICER:                                      Katherine Sirotin, Director
+
+QUESTIONS/INQUIRIES: Submit all inquiries through George Mason’s Bonfire Portal, no later than 4:00 PM Eastern Time (ET) on September 11,
+2025. All questions must be submitted through George Mason’s Bonfire portal. For assistance with technical questions related to Bonfire, contact
+Support@GoBonfire.com or visit Bonfire’s help forum at https://vendorsupport.gobonfire.com/hc/en-us. Responses to questions will be posted to
+George Mason’s Bonfire portal and by 5:00 PM ET on October 1, 2025.
+
+PROPOSAL DUE DATE AND TIME: October 16, 2025 @ 2:00 PM ET. ATTENTION: PROPOSALS WILL NOT BE ACCEPTED VIA EMAIL,
+MAIL, THROUGH eVA OR IN PERSON. SEE SECTION XIII.A.1 FOR DETAILS ON ELECTRONIC PROPOSAL SUBMISSION.
+
+IMPORTANT! All communication with Offerors will take place in Bonfire, to include negotiations. George Mason can only message individuals at
+your organization that have interacted in Bonfire for this specific RFP. Please ensure the appropriate person to handle negotiations and other RFP
+communication has individually logged into the system and either downloaded documents, submitted your proposal or asked a question.
+
+In Compliance With This Request For Proposal And To All The Conditions Imposed Therein And Hereby Incorporated By Reference, The
+Undersigned Offers And Agrees To Furnish The Goods/Services In Accordance With The Attached Signed Proposal Or As Mutually Agreed
+Upon By Subsequent Negotiations.
+
+--- Chunk 2 ---
+Name and Address of Firm:
+
+Legal Name:                                                               Date:
+
+DBA:
+
+Address:
+                                                                          By:
+                                                                                               Signature
+
+FEI/FIN No.                                                               Name:
+
+Fax No.                                                                   Title:
+
+Email:                                                                    Telephone No.
+
+SWaM Certified:      Yes:            No:                (See Section VII. SWaM CERTIFICATION for complete details).
+
+SWaM Certification Number:
+
+Check the box next to the option that applies to your proposal submission. See section IV. Final Contract for additional information.
+
+☐  Option 1: Full Acceptance:                                             ☐      Option 2: Proposed Exceptions and/or Additional Documents
+   1.      We have reviewed George Mason’s Standard Contract and                 Submitted:
+           all related documents.                                                1.     We have reviewed George Mason’s Standard Contract and
+   2.      We have no proposed changes.                                          2.     all related documents.
+   3.      We understand that if we are advanced to negotiations, no                    We have included a list of proposed exceptions and/or
+           contract  exceptions,     redlines,  vendor  documents,  or           3.     redlined contract documents with our proposal.
+           additional terms will be considered, unless proposed by                      We understand that if we are advanced to negotiations, no
+           George Mason.                                                                additional contract exceptions, redlines, vendor documents,
+                                                                                        or additional terms will be considered beyond what has been
+                                                                                        submitted with our proposal, unless proposed by George
+                                                                                        Mason.
+
+This public body does not discriminate against faith-based organizations in accordance with the Governing Rules, § 36 or against a Bidder/Offeror
+because of race, religion, color, sex, national origin, age, disability, or any other prohibited by state law relating to discrimination in employment.
+
+                                                                              1
+
+--- Chunk 3 ---
+OFFEROR PROPOSAL SUBMISSION CHECKLIST
+
+Offerors responding to this RFP should use this checklist to ensure all requested documents are completed and submitted with their
+proposal.
+
+ □       RFP Cover Page, accurately filled in and signed with checked off box confirming your proposal contains any exceptions
+         to George Mason’s Standard Contract and all terms and conditions or subsequent Statements of Work that could apply
+         over the life of any resulting contract.
+
+ □       All addenda, if any were issued and a signature line is included.
+
+ □       Attachment A - Small Business Subcontracting Plan. This is a requirement for all Offerors.
+
+ □       Exceptions (if any) to George Mason’s Standard Contract.
+
+ □       Any Statements of Work or supplemental document(s) George Mason may be required to sign or that could potentially be
+         incorporated into a final contract or apply during the term of a resulting contract.
+
+ □       Any agreement that George Mason would be required to sign with a third party.
+
+ □       State your payment preference as required in Bonfire. Only select one payment option.
+
+ □       Ensure your proposal contains all information requested and answers all questions outlined in Section XII.d. Specific
+         Requirements. Your proposal must include a response to each of these 4 questions at the end of Section XII.B.
+
+          1.     Are you and/or your subcontractor currently involved in litigation with any party?
+          2.     Please list any investigation or action from any state, local, federal or other regulatory body (OSHA, IRS, DOL,
+                 etc.) related to your firm or any subcontractor in the last three years.
+          3.     Please list all lawsuits that involved your firm or any subcontractor in the last three years.
+          4.     In the past ten (10) years has your firm’s name changed? If so, please provide a reason for the change.
+
+ □       If your proposal contains proprietary information, you must submit a second copy in accordance with Section XIII.A.1.
+         General Requirements and Section XIII.A.2.d. that outlines the specific submission format.
+
+
+2
+
+--- Chunk 4 ---
+TABLE OF CONTENTS
+                   GMU-RB0607-25
+
+SECTION          DESCRIPTION                                          PAGE
+
+I.               PURPOSE                                              4
+
+II.              PURCHASING MANUAL/GOVERNING RULES                    4
+
+III.             COMMUNICATION                                        4
+
+IV.              FINAL CONTRACT                                       4
+
+V.               ADDITIONAL USERS                                     4
+
+VI.              eVA BUSINESS-TO-GOVERNMENT VENDOR REGISTRATION       5
+
+VII.             SWaM CERTIFICATION                                   5
+
+VIII.            SMALL BUSINESS SUBCONTRACTING PLAN                   5
+
+IX.              PERIOD OF PERFORMANCE                                5
+
+X.               BACKGROUND                                           5
+
+XI.              STATEMENT OF NEEDS                                   5
+
+XII.             COSTS OF SERVICES                                    8
+
+XIII.            PROPOSAL PREPARATION AND SUBMISSION REQUIREMENTS     9
+
+XIV.             INITIAL EVALUATION CRITERIA AND SUBSEQUENT AWARD     11
+
+XV.              CONTRACT ADMINISTRATION                              12
+
+XVI.             PAYMENT TERMS/METHOD OF PAYMENT                      12
+
+XVII.            SOLICITATION TERMS AND CONDITIONS                    12
+
+XVIII.           RFP SCHEDULE                                         13
+
+ATTACHMENT A     SMALL BUSINESS SUBCONTRACTING PLAN                   15
+
+ATTACHMENT B     STANDARD CONTRACT & DATA SECURITY ADDENDUM           17
+
+ATTACHMENT C     SAMPLE INVOICE FORMAT                                29
+
+
+3
+
+--- Chunk 5 ---
+I.       PURPOSE: The purpose of this Request for Proposal (RFP) is to solicit proposals to establish a contract through competitive
+         negotiations with one or more qualified vendors to provide “as needed” information technology related staff augmentation
+         support, to supplement Mason’s existing ITS workforce, and project/task specific IT consulting services to George Mason
+         University. Mason anticipates making multiple awards under this RFP. There will be no guarantee of any Statements of Work
+         (“SOW”) as a result of an award. George Mason University (herein after referred to as “George Mason,” or “University”) is a
+         public institution of higher education and agency of the Commonwealth of Virginia.
+
+II.      PURCHASING MANUAL/GOVERNING RULES:                    This solicitation and any resulting contract shall be subject to the
+         provisions of the Commonwealth of Virginia Purchasing Manual for Institutions of Higher Education and their Vendor's, and
+         any revisions thereto, and the Governing Rules, which are hereby incorporated into this contract in their entirety. A copy of
+         both documents is available for review at: https://vascupp.org
+
+III.     COMMUNICATION: Communications regarding the Request For Proposals shall be formal from the date of issuance until
+         a contract has been awarded. Unless otherwise instructed offerors are to communicate with only the Procurement Officers listed
+         on the cover page. Offerors are not to communicate with any other employees of George Mason.
+
+IV.      FINAL CONTRACT: ATTACHMENT B to this solicitation is George Mason’s standard two-party contract. It is the intent
+         of this solicitation to base the final contractual documents off of George Mason’s standard two-party contract and George
+         Mason’s General Terms and Conditions as outlined in Attachment B – Standard Contract. Any exceptions to our standard
+         contract and General Terms and Conditions must be denoted in your RFP response. Other documents may be incorporated into
+         the final contract, either by way of attachment or by reference, but in all cases this contract document and George Mason’s
+         General Terms and Conditions shall jointly take precedence over all other documents and will govern the terms and conditions
+         of the contract.
+
+         As a public institution of higher education and agency of the Commonwealth of Virginia, George Mason cannot agree to any
+         of the following terms in any documents or hyperlinks:
+
+         A.     An express or implied waiver of sovereign immunity.
+
+--- Chunk 6 ---
+As a public institution of higher education and agency of the Commonwealth of Virginia, George Mason cannot agree to any
+         of the following terms in any documents or hyperlinks:
+
+         A.     An express or implied waiver of sovereign immunity.
+         B.     An agreement to indemnify, defend or hold harmless any entity.
+         C.     An agreement to maintain insurance.
+         D.     An agreement providing for binding arbitration.
+         E.     An agreement providing for the payment of attorneys' fees, costs of collection, or liquidated damages.
+         F.     Waiver of jury trial.
+         G.     Choice of law or venue other than the Commonwealth of Virginia.
+
+         Contracts will only be issued to the FEI/FIN Number and Firm listed on the signed cover page submitted in your RFP response.
+         Joint proposals will not be accepted.
+
+         Note: The Offeror must include any and all terms and conditions, additional documents, and/or statements of work that could
+         potentially be incorporated into a final contract or apply during the term of a resulting contract. As outlined in Attachment B –
+         Standard Contract, Statements of Work (“SOW”) for specific engagements may only include the work to be performed during
+         scope of the specific engagement. Additional terms and conditions will not be accepted on any SOW submitted during the
+         course of the contract. All SOW’s must be on a form approved by George Mason prior to the start of the contract.
+
+         In addition to the above note, the Offeror must submit with their proposal any agreement that George Mason would be required
+         to sign with a third party.
+
+V.       ADDITIONAL USERS:          It is the intent of this solicitation and resulting contract(s) to allow for cooperative procurement.
+         Accordingly, any public body, public or private health or educational institutions, or affiliated corporations may access any
+         resulting contract if authorized by the contractor.
+
+         Participation in this cooperative procurement is strictly voluntary. If authorized by the Contractor(s), the resultant contract(s)
+         will be extended to the entities indicated above to purchase goods and services in accordance with contract terms. As a separate
+         contractual relationship, the participating entity will place its own orders directly with the Contractor(s) and shall fully and
+         independently administer its use of the contract(s) to include contractual disputes, invoicing and payments without direct
+         administration from the University.
+
+--- Chunk 7 ---
+No modification of this contract or execution of a separate agreement is required to
+         participate; however, the participating entity and the Contractor may modify the terms and conditions of the contract to
+         accommodate specific governing laws, regulations, policies, and business goals required by the participating entity. Any such
+         modification will apply solely between the participating entity and the contractor.
+
+         The University may require the Contractor provide semi-annual usage reports for all entities accessing the contract. The
+         University shall not be held liable for any costs or damages incurred by any other participating entity as a result of any
+
+                                                               4
+
+--- Chunk 8 ---
+authorization by the Contractor to extend the contract. It is understood and agreed that the University is not responsible for the
+          acts or omissions of any entity and will not be considered in default of the contract no matter the circumstances.
+
+          Use of the resulting contract(s) does not preclude any participating entity from using other contracts or competitive processes
+          as needed.
+
+VI.       eVA BUSINESS-TO-GOVERNMENT VENDOR REGISTRATION: The eVA Internet electronic procurement solution,
+          website portal www.eVA.virginia.gov, streamlines and automates government purchasing activities in the Commonwealth.
+          The eVA portal is the gateway for vendors to conduct business with state agencies and public bodies. All vendors desiring to
+          provide goods and/or services to the Commonwealth shall participate in the eVA Internet eProcurement solution by completing
+          the free eVA Vendor Registration. All bidders or offerors agree to self-register in eVA and pay the Vendor Transaction Fees
+          prior to being awarded a contract. Registration instructions and transaction fees may be viewed at: https://eva.virginia.gov/
+
+VII.      SWaM CERTIFICATION:                           Vendor agrees to fully support the Commonwealth of Virginia and George Mason’s efforts
+          related to SWaM goals. Upon contract execution, eligible vendors (as determined by George Mason and the Virginia
+          Department of Small Business and Supplier Diversity) shall submit all required documents necessary to achieve SWaM
+          certification to the Department of Small Business and Supplier Diversity within 90 days. Vendors currently SWaM certified
+          agree to maintain their certification for the duration of the contract and shall submit all required renewal documentation at least
+          30 days prior to existing SWaM expiration. https://www.sbsd.virginia.gov/
+
+VIII.     SMALL BUSINESS SUBCONTRACTING PLAN: All potential offerors are required to fill out and submit Attachments A
+          with their proposal.
+
+          Note: Invoices shall only be submitted to George Mason by the entity awarded a contract. Subcontractors cannot submit
+          invoices to George Mason under any resulting contract.
+
+IX.       PERIOD OF PERFORMANCE: One (1) year from Effective Date of contract with nine (9) successive one-year renewal
+          options (or as negotiated).
+
+X.        BACKGROUND: George Mason University is a diverse, innovative and entrepreneurial institution with global distinction in
+          a range of academic fields.
+
+--- Chunk 9 ---
+X.        BACKGROUND: George Mason University is a diverse, innovative and entrepreneurial institution with global distinction in
+          a range of academic fields. Located just outside Washington, D.C., our beautiful 677-acre residential campus boasts a diverse
+          student population. Over 6,200 students live on campus in over 40 residence halls.
+
+          George Mason University’s short history is one of an enterprising and innovative pioneer, creating a major teaching and
+          research university from a small, one-room schoolhouse in just 50 years. George Mason University is recognized as an
+          innovative, entrepreneurial institution with global distinction in a range of academic fields. With strong undergraduate and
+          graduate degree programs in engineering and information technology, dance, organizational psychology and health care, Mason
+          students are routinely recognized with national and international scholarships. Enrollment is more than 38,000, with students
+          studying in 198 degree programs at the undergraduate, masters, doctoral, and professional levels. Additionally, Mason has
+          more than 200,000 living alumni with 60% residing in the Washington Metropolitan Area.
+
+          Mason has campuses in Fairfax, Arlington, and Prince William counties. In addition to these three campuses, George Mason
+          University operates a site in Woodbridge, VA and has partnered with the Smithsonian Institution to create the Smithsonian-
+          University School of Conservation in Front Royal, Virginia. Approximately 6,000 employees are distributed at these locations.
+          Mason also offers programs online and at the Center for Innovative Technology in Herndon. Each location has a distinctive
+          academic focus that plays a critical role in the economy of its region.
+
+          Mason’s Information Technology Services (ITS) is at the forefront of enabling the university’s mission through strategic
+          innovation and digital transformation. As technology continues to evolve rapidly, ITS is committed to delivering secure,
+          scalable, and forward-thinking solutions that support academic excellence, research advancement, and operational efficiency.
+          Our service areas encompass strategic governance, user-focused service delivery, robust cybersecurity, and innovative
+          technology operations, all designed to support and enhance George Mason University's mission and community needs.
+          Mason has periodically performed RFP’s for consulting and staff augmentation. The last RFP, number GMU-1700-21 was
+          conducted in 2021 and those contracts are now expiring.
+
+--- Chunk 10 ---
+Mason has periodically performed RFP’s for consulting and staff augmentation. The last RFP, number GMU-1700-21 was
+          conducted in 2021 and those contracts are now expiring. History of those contracts can be viewed at the following location:
+          Contract Insight - Contract Management System Public Portal           While not predictive of future needs, over the last 12 months,
+          Mason has utilized approximately 23 staff augmentation positions and 6 general consulting engagements.
+
+XI.       STATEMENT OF NEEDS: George Mason University (Mason) desires to contract with qualified firms to provide information
+          technology (IT) related staff augmentation support, to supplement Mason’s existing ITS workforce, AND high-level strategic
+          and tactical expertise and a range of services to support technologies used by the University. It is anticipated that contracts will
+          be awarded to multiple firms for some and/or all of the services listed on an “as needed basis”. Mason has a strong preference
+          for firms who can provide both IT staff-augmentation support and on-demand IT Consulting services as defined below.
+          In addition, Mason strongly prefers those firms with prior higher education experience and who have been in business
+
+                                                                5
+
+--- Chunk 11 ---
+for at least three years.
+
+1.          IT Staff-Augmentation Services – George Mason University has a central IT department known as Information
+            Technology Services (ITS) that supports the various campuses and colleges IT systems and needs. To support this
+            function the University has recurring need to augment our existing IT staff/functions with temporary, supplemental
+            personnel/support from contracted sources. Successful firms will work directly with ITS to determine the necessary skill
+            set for each job order/position placed, and must ensure the University’s minimum qualifications are met. The University
+            will not consider outsourcing recruitment or hiring functions and is not considering “temporary-to-permanent” placement
+            arrangements as part of this solicitation. Employees of firms may apply for regular University positions, but will be
+            subject to the same competitive application and selection process as other applications. The University will not agree to
+            non-compete or non-solicitation clauses.
+
+      i.           Due to the variety of IT needs throughout the organization, the University is looking to contract with IT staffing
+                   firms that can accommodate quick recruitment and placement for the following types of roles/areas of support and
+                   preferably with experience, background and knowledge working with the University’s Key Applications/Systems
+                   (or similar systems) listed below:
+
+                    1. Areas of Support: Application integration, data center, business intelligence and databases, collaborative
+                     technologies, communications and project management, computer and software resources, data governance and
+                     integration, email and telecommunications, enterprise applications, infrastructure and network, IT security,
+                     learning management systems, systems integration, technology and classroom support, technology enhanced
+                     classrooms, videoconferencing and telepresence, virtual computing labs, and web content management. Learn
+                     more at https://its.gmu.edu/about-its/
+
+                    2.
+
+--- Chunk 12 ---
+Learn
+                     more at https://its.gmu.edu/about-its/
+
+                    2. George Mason University Key Applications:
+                     •  Enterprise Resource Planning: Ellucian Banner
+                     •  Learning Management System: Canvas
+                     •  Business Intelligence: MicroStrategy
+                     •  Customer Relationship Management: Salesforce
+                     •  IT Service Management: TeamDynamix
+                     •  Information Security and Risk: Splunk, CrowdStrike, Defender, Archer, and Sentinel
+                     •  Collaboration Tools: M365, Zoom
+                     •  WebTools: Drupal, WordPress
+                     •  Enabling Applications: Adobe (ETLA), DocuSign, and Qualtrics
+                     •  Automation: Process Maker (Ellucian Workflow)
+
+            2.     Contractors are required to supply their own computer equipment, but the University has the right to require
+                   contractors to use University-supplied equipment. If the use of University-supplied equipment is required, it will be
+                   shipped to/from the contractor at the University’s expense. If University-supplied equipment is provided, contractors
+                   are required to return the equipment at the end of their contract.
+
+            3.     In order to prevent potential labor law violations, the temporary workers placed at the University shall not
+                   simultaneously be active University employees (including student workers). All temporary workers of a successful
+                   offeror provide shall be considered your agency’s employees, not the University’s.
+
+            4.     Temporary workers released or rejected by a particular University department for significant violation(s) of
+                   University policy (e.g., failure to follow security protocols) cannot be referred for any future assignments at any
+                   University location. Failure to meet this criterion shall be considered a breach of contract.
+
+            5.     Successful offerors shall agree that the University may hire your firm’s employees at any time during or after the
+                   initial contract term or any extension thereof. The University does not recruit temporary workers for permanent
+                   positions or engage in temp-to-hire contracts, but temporary workers are free to apply for open positions at the
+                   University on the same terms as any other applicant. This does not preclude firms from having non-compete
+                   agreements with their employees but the University will not be a party to or responsible for upholding said non-
+                   compete agreement between the firm and their employee.
+
+            6.
+
+--- Chunk 13 ---
+This does not preclude firms from having non-compete
+                   agreements with their employees but the University will not be a party to or responsible for upholding said non-
+                   compete agreement between the firm and their employee.
+
+            6.     Successful offerors shall obtain, at your expense, all necessary bonding, permits, licenses, and required insurance
+                   coverage, to comply with federal, state, and local statutes, rules, and regulations applicable to employment services.
+
+            7.     Selected firms will be solely responsible for staying fully informed of and faithfully observing all laws, ordinances,
+                   and regulations affecting the rights of your employees, and you shall protect and indemnify the University and its
+                   officers and agents, against any claims of liability arising from or based on any violation thereof. Successful
+
+                                                            6
+
+--- Chunk 14 ---
+Vendors are required to verify that their employees are eligible to work in the United States and to follow all
+        applicable state and federal laws.
+
+ h.     Your employees shall comply with all University health and safety protocols. These protocols are binding on
+        temporary agency workers placed with the University. The University has the discretion to discontinue the use of a
+        temporary worker who does not follow these protocols.
+
+ i.     Similarly, your employees shall comply with all instructions from University personnel pertaining to conduct and
+        building regulations. The University reserves the right to request the removal or replacement of any temporary
+        worker at any time, for any reason that is not a violation of public law. Your agency’s employees are expected to
+        conduct themselves professionally and comply with any departmental dress codes.
+
+2. On-Demand IT Consulting Services - Work awarded in this area may still be informally competed amongst vendors that
+were selected from this RFP. Terms and Conditions will be conforming as provided herein. Contractor shall serve on special
+projects as a technology expert when requested and as needed. Reports shall be provided back to Mason summarizing options
+and providing recommendations. Contractor shall serve as a technology advisor to understand, communicate, and propose
+solutions as requested. Contractor shall serve as a resource of research, implementation, troubleshooting, and other technical
+tasks to support the efforts of George Mason University Information Technology Services (ITS) staff. Functional consultants
+shall be represented by the contractor as experts in the tasks and functions assigned.
+
+For a list of key applications see Section XI. 1. i. 2 “George Mason Key Applications”. Project Management tools can be
+seen at https://its.gmu.edu/working-with-its/ppmo/
+
+Learn more about student connectivity at https://its.gmu.edu/service/network-access/
+
+a. Provide detailed corporate competencies/experience serving one or more of the roles, technologies and capabilities listed
+       below:
+
+       i. Change and transformation
+             1. Change analysis - business analysis, requirements definition and management, and user acceptance testing
+             2. Change implementation - portfolio, program and project management and/or support
+             3. Change planning - business process improvement, organization design and implementation, and
+              organizational change management
+
+        ii. Delivery and operation
+             1. Data and records operations - database administration and records management
+             2.
+
+--- Chunk 15 ---
+Change planning - business process improvement, organization design and implementation, and
+              organizational change management
+
+        ii. Delivery and operation
+             1. Data and records operations - database administration and records management
+             2. Security services - cybercrime investigation, digital forensics, identity and access management,
+              penetration testing, security operations, and vulnerability assessment
+             3. Service management - asset management, technology management, application support, configuration
+              management, deployment, infrastructure operations, network support, system software administration, and
+              technology service management
+
+        iii. Development and implementation
+             1. Data and analytics - business intelligence, data analytics, data engineering, data management, data
+              modelling and design, and database design
+             2. Systems development - infrastructure design, network design, programming/software development,
+              software configuration, software design, systems and software lifecycle engineering, and systems design
+             3. User centered design - customer experience and user experience analysis, design, and evaluation
+
+        iv. Strategy and architecture
+             1. Governance, risk and compliance - artificial intelligence (AI) and data ethics, audit, governance, quality
+              assurance, quality management, and risk management
+             2. Security and privacy - information and data compliance, information assurance, information security,
+              threat intelligence, and vulnerability research
+             3. Strategy and planning - enterprise and business architecture, formal research, information management,
+              information systems coordination, solution architecture, strategic planning, and sustainability
+
+b. Describe approach and methodology to providing IT services to George Mason. Include how your firm would manage
+ the scope of projects and how your firm aligns with current best practices.
+
+c. Provide examples of the names, qualifications, and experience in key personnel and subject matter experts to be assigned
+ to George Mason. Designate who would be assigned as the primary relationship manager for this account. The
+
+                                                  7
+
+--- Chunk 16 ---
+University reserves the right to accept or reject any proposed or assigned consultant, without cause, at any time during
+              the duration of the contract.
+
+           d. Describe the ability to provide continuity of consultants throughout the duration of a project. Provide examples of both
+              on-site and remote teams that would work with George Mason within the USA.
+
+           e. Describe services available from your firm and/or partners and associated costs. Examples of services that could be
+              included are:
+               i.       Implementation
+               ii.      Development
+               iii.     Project Management
+               iv.      Architecture and Design
+               v.       Capacity Planning
+               vi.      Installation and Configuration
+               vii.     Performance and Scalability
+               viii. Conversion
+               ix.      Monitoring, administration and upgrades
+               x.       Operations metrics
+
+           f. Describe the ability to assist in the development and offering of training and documentation, as well as a thorough
+              transfer of knowledge to ITS on any given engagement.
+
+           g. Provide examples of recent projects and managed services at representative agencies comparable to George Mason.
+              Describe the project, time frame, end result, etc. Prior higher education experience is preferred but not required.
+
+           h. Describe how your firm would propose a functional staffing plan indicating the number, characteristics, and schedule for
+              the consultants.
+
+           i. Describe any functions to be subcontracted and the expertise and credentials required from the subcontractor.
+
+XII.     COST OF SERVICES: George Mason University strongly encourages contractors to propose deeply discounted rate
+         structures in their submission. An award from Mason not only presents an opportunity to do business with the University, but
+         may also open the door to additional work with other participating entities. (See CONTRACT PARTICIPATION for more
+         details.)
+
+         Contractors shall complete, in Bonfire, the pricing schedule (“Labor Rates (BT-24KX))”. Please provide hourly pricing for any
+         and all labor categories and rates associated with IT staff augmentation, consulting, planning, install, implementation,
+         development project management, etc. Specifically address the following in your proposal:
+
+          a.  Labor rates should be broken out by the actual hourly rate paid to the employee, firm’s mark-up on the rate, and the fully
+              burdened hourly rate to be billed to the University for temp labor and IT consulting services. See Bid Table: BT-24KX.
+
+--- Chunk 17 ---
+See Bid Table: BT-24KX.
+
+          b.  Confirm that travel expenses will be reimbursed at cost with no markup and may not exceed Commonwealth of Virginia
+              expense guidelines. For consulting, rates must include travel-related expenses if contractor is traveling within a 50-mile
+              radius of George Mason's Fairfax campus. If the contractor is traveling from outside a 50-mile radius of the Fairfax
+              Campus,   travel will   only be  paid   on a reimbursement basis in        accordance with George Mason's          polices,
+              http://fiscal.gmu.edu/travel/, and GSA per diem rates. Additional hourly rates for travel will not be considered. Under no
+              circumstances shall Mason make payment or provide reimbursement for any travel fees, including parking for
+              temporary workers.
+
+          c.  If different than hourly pricing, describe your pricing structure for consulting engagements, training options and associated
+              costs. Include a catalog of training offerings and differentiation between technical staff and end-user training.
+
+          d. Provide a sample invoice for both staff augmentation AND consulting services as part of your offer. Mason has provided
+              an Example Invoice as Attachment C – Sample Invoice Format showing an acceptable breakdown for an example project
+              for both a consulting and staff augmentation engagement. At a minimum, contractors are required to provide a breakdown
+              of the hours worked, the rate, and the total per engagement/project or per day for staff augmentation services.
+
+          e.  For your last five most recent, either ongoing or completed projects (Determined by date of final payment by the customer)
+              that exceeded $100k and were billed on an hourly basis, list the following:
+
+                  1. The type of consulting
+                  2. The original estimated hours
+
+                                                               8
+
+--- Chunk 18 ---
+3. The final hours billed
+                 4. The original project cost estimated
+                 5. The final price (all charges) paid by the customer
+
+XIII.     PROPOSAL PREPARATION AND SUBMISSION REQUIREMENTS:
+
+          A.     GENERAL REQUIREMENTS:
+
+                 1.     RFP Response: In order to be considered, Offerors must submit a complete response to George Mason's
+                        Purchasing Office prior to the due date and time stated in this RFP. Offerors are required to submit one (1)
+                        signed copy of the entire proposal including all attachments and proprietary information. If the proposal
+                        contains proprietary information, then submit two (2) proposals must be submitted; one (1) with proprietary
+                        information included and one (1) with proprietary information removed (see 2.d. below for details on how to
+                        submit a redacted proposal). The Offeror shall make no other distribution of the proposals.
+
+                        At the conclusion of the RFP process proposals with proprietary information removed (redacted versions)
+                        shall be provided to requestors in accordance with Virginia’s Freedom of Information Act. Offerors will not
+                        be notified of the release of this information.
+
+                        An Offeror may not request any of the following be proprietary and/or confidential in their proposal:
+
+                        a.     Pricing or any calculation used to determine pricing;
+                        b.     A notation or footer on the bottom of every page with “proprietary and confidential;”
+                        c.     Entire contents of company history or executive summary;
+                        d.     A case study, social media post, or billboard already available to the public;
+                        e.     Name of company or firm listed as a reference;
+                        f.     Any resulting Statement of Work (SOW), Order Form, or Invoice.
+
+                        ELECTRONIC        PROPOSAL     SUBMISSION:     ATTENTION:      PROPOSALS             WILL   NOT      BE
+                        ACCEPTED VIA EMAIL, MAIL, THROUGH eVA, OR IN PERSON. George Mason will only accept
+                        electronic proposal submissions via Bonfire for this Request for Proposals.
+
+                        The following shall apply:
+
+                        a.     You must register with Bonfire and submit your proposal, and it must be received prior to the
+                               submission  deadline,   by             submitting  through  the  online       Bonfire  portal  at
+                               https://gmu.bonfirehub.com.
+
+--- Chunk 19 ---
+b.     The Offeror must ensure the proposals are uploaded and submitted through Bonfire sufficiently in
+                               advance of the proposal deadline. Plan Ahead: It is the Offeror’s responsibility to ensure that
+                               electronic proposal submissions have sufficient time to make its way through Bonfire’s
+                               submission portal. George Mason recommends you submit your proposal the day prior to the
+                               due date.
+
+                        c.     Submissions by other methods will not be accepted. Minimum system requirements: Microsoft
+                               Edge, Google Chrome, Safari, or Mozilla Firefox. JavaScript and browser cookies must be enabled.
+
+                        d.     Respondents should contact Bonfire at support@gobonfire.com for technical questions related to
+                               submission or visit Bonfire’s help forum at https://vendorsupport.gobonfire.com/hc/en-us.
+
+                        e.     Submission materials should be prepared in the file formats listed under Requested Information for
+                               this opportunity in the Bonfire Portal. The maximum upload file size is 1000 MB. Documents should
+                               not be embedded within uploaded files, as the embedded files will not be accessible or evaluated.
+
+                        f.     All solicitation schedules are subject to change.
+
+                        g.     Go to      George       Mason’s  Bonfire  Portal   for      all  updates  and  schedule  changes.
+                               https://gmu.bonfirehub.com
+
+                        h.     All communication with Offerors will take place in Bonfire, to include negotiations. George Mason
+                               can only message Offerors that have interacted with this specific RFP. Please ensure the appropriate
+                               person to handle negotiations and other RFP notifications has submitted the Offerors proposal in
+                               Bonfire.
+
+                                                                9
+
+--- Chunk 20 ---
+2.            Proposal Presentation:
+
+              a.     Proposals shall be signed by an authorized representative of the Offeror. All information requested must
+                     be submitted. Failure to submit all information requested may result in your proposal being scored low.
+
+              b.     Proposals should be prepared simply and economically, providing a straightforward, concise description
+                     of capabilities to satisfy the requirement of the RFP. Emphasis should be on completeness and clarity of
+                     content.
+
+              c.     Proposals should not exceed fifteen (15) single sided 8.5”x11” pages. Font size should be no smaller
+                     than 10-point. Within these 15 pages firms should cover the core proposal requirements listed in Section
+                     XIII. B Specific Requirements. The firm’s title page, executive summary/cover letter, table of contents
+                     and/or indexes will not count towards the 15 pages. A firm may include additional appendices to
+                     illustrate work samples, resumes, reports or other supporting information however, only the 15 pages
+                     will be evaluated against the scoring criteria by the Committee.
+
+              d.     Proposals should be organized in the order in which the requirements are presented in the RFP. All pages
+                     of the proposal should be numbered. Each paragraph in the proposal should reference the paragraph
+                     number corresponding section of the RFP. It is also helpful to cite the paragraph number, sub letter and
+                     repeat the text of the requirement as it appears in the RFP. The proposal should contain a table of contents
+                     which cross references the RFP requirements. Information which the Offeror desires to present that does
+                     not fall within any of the requirement of the RFP should be inserted at the appropriate place or be attached
+                     at the end of the proposal and designated as additional material.
+
+                     A WORD version of this RFP will be provided upon request.
+
+              e.     Except as provided, once an award is announced, all proposals submitted in response to this RFP will
+                     be open to inspection by any citizen, or interested person, firm or corporation, in accordance with the
+                     Virginia Freedom of Information Act.
+
+--- Chunk 21 ---
+Trade secrets or proprietary information submitted by a firm
+                     prior to or as part of its proposal will not be subject to public disclosure under the Virginia Freedom of
+                     Information Act only under the following circumstances: (1) the appropriate information is clearly
+                     identified by some distinct method such as highlighting or underlining; (2) only the specific words,
+                     figures, or paragraphs that constitute trade secrets or proprietary information are identified; and (3) a
+                     summary page is supplied immediately following the proposal title page that includes (a) the
+                     information to be protected, (b) the section(s)/page number(s) where this information is found in the
+                     proposal, and (c) a statement why protection is necessary for each section listed. A statement simply
+                     noting “trade secret” is not a sufficient reason for redaction. The firm must also provide a separate
+                     attachment of the proposal with the trade secrets and/or proprietary information redacted. If all of these
+                     requirements are not met, then the firm’s entire proposal will be available for public inspection.
+                     IMPORTANT: A firm may not request that its entire proposal be treated as a trade secret or
+                     proprietary information, nor may a firm request that its pricing/fees be treated as a trade secret
+                     or proprietary information, or otherwise be deemed confidential. If after given a reasonable time,
+                     the Offeror refuses to withdraw the aforementioned designation, the proposal will be rejected.
+
+       3.     Oral Presentation: Offerors who submit a proposal in response to this RFP may be required to give an oral
+              presentation/demonstration of their proposal/product to George Mason. This will provide an opportunity for
+              the Offeror to clarify or elaborate on their proposal. Performance during oral presentations may affect the
+              final award decision. If required, oral presentations will be scheduled at the appropriate time.
+
+              George Mason will expect that the person or persons who will be working on the project to make the
+              presentation so experience of the Offeror’s staff can be evaluated prior to making selection. Oral
+              presentations are an option of George Mason and may or may not be conducted; therefore, it is imperative
+              all proposals should be complete.
+
+B.     SPECIFIC REQUIREMENTS: Proposals should be as thorough and detailed as possible to allow George Mason to
+       properly evaluate the Offeror’s capabilities and approach toward providing the required services.
+
+--- Chunk 22 ---
+B.     SPECIFIC REQUIREMENTS: Proposals should be as thorough and detailed as possible to allow George Mason to
+       properly evaluate the Offeror’s capabilities and approach toward providing the required services. Offerors should
+       submit the following items as a complete proposal. Proposals should be 10-point or larger and should not exceed 15
+       pages in length, excluding the procedural information, executive summary, and resumes.
+
+
+10
+
+--- Chunk 23 ---
+1.     Procedural information:
+
+                       a.          Return signed cover page and all addenda, if any, signed and completed as required.
+                       b.          Return Attachment A - Small Business Subcontracting Plan.
+                       c.          Exceptions (if any) to George Mason’s two-party contract, Attachment B.
+                       d.          Any SOW or supplemental document George Mason may be required to sign. See section IV. Final
+                                   Contract
+                       e.          State your payment preference as required in Bonfire. (See section XVI.)
+
+                2.     Executive Summary: Submit an executive summary at the beginning of the proposal response not to exceed
+                       2 pages.
+
+                3.     Qualifications and Experience:         Describe your experience, qualifications and success in providing the
+                       services described in the Statement of Needs to include the following:
+
+                       a.          Background and brief history of your company.
+                       b.          Names, qualifications and experience of personnel to be assigned to work with George Mason.
+                       c.          No fewer than three (3) references that demonstrate the Offeror’s qualifications, preferably from
+                                   other comparable higher education institutions your company is/has provided services with and that
+                                   are similar in size and scope to that which has been described herein. Include a contact name, contact
+                                   title, phone number, and email for each reference and indicate the length of service.
+
+                4.     Specific Plan (Methodology): Explain your specific plans for providing the proposed services outlined in
+                       the Statement of Needs including:
+
+                       a.          Your approach to providing the services described herein.
+                       b.          What, when and how services will be performed.
+
+                5.     Proposed Pricing:
+                       a.          Provide pricing as specified in XII. COST OF SERVICES.
+                       b.          Complete the pricing schedule in Bonfire.
+                       c.          Provide a sample invoice that conforms to the breakout provided in Attachment C – Sample Invoice
+                                   Format. If you are unable to conform to this format you must provide a justification for why this is
+                                   not feasible.
+
+                6.     In your proposal response please address the following:
+
+                       a.          Are you and/or your subcontractor currently involved in litigation with any party?
+                       b.          Please list any investigation or action from any state, local, federal or other regulatory body (OSHA,
+                                   IRS, DOL, etc.)
+
+--- Chunk 24 ---
+b.          Please list any investigation or action from any state, local, federal or other regulatory body (OSHA,
+                                   IRS, DOL, etc.) related to your firm or any subcontractor in the last three years.
+                       c.          Please list all lawsuits that involved your firm or any subcontractor in the last three years.
+                       d.          In the past ten (10) years has your firm’s name changed? If so please provide a reason for the change.
+
+XIV.     INITIAL EVALUATION CRITERIA AND SUBSEQUENT AWARD:
+
+         A.     INITIAL EVALUATION CRITERIA: Proposals shall be initially evaluated and ranked using the following criteria:
+
+                                   Description of Criteria                       Maximum Point Value
+
+                1.     Quality of products/services offered and suitability
+                       for the intended purpose                                              30
+
+                2.     Qualifications and experiences of offeror in providing
+                       the goods/services, including references                              25
+
+                3.     Specific plans or methodology to be used to provide the
+                       services                                                              15
+
+                4.     Price Offered                                                         20
+
+                5.     Offeror is certified as a small, minority, or
+                       women-owned business (SWaM) with Virginia
+                       SBSD at the proposal due date & time.                                 10
+
+                                                                11
+
+--- Chunk 25 ---
+__________________
+                                                Total Points Available:    100
+
+          B.     AWARD: Following the initial scoring by the evaluation committee, at least two or more top ranked offerors may
+                 be contacted for oral presentations/demonstrations or advanced directly to the negotiations stage. If oral presentations
+                 are conducted George Mason will then determine, in its sole discretion, which offerors will advance to the
+                 negotiations phase. Negotiations shall then be conducted with each of the offerors so selected. Price shall be
+                 considered, but need not be the sole determining factor. After negotiations have been conducted with each offeror so
+                 selected, George Mason shall select the offeror which, in its sole discretion has made the best proposal, and shall
+                 award the contract to that offeror. When the terms and conditions of multiple awards are so provided in the Request
+                 for Proposal, awards may be made to more than one offeror. Should George Mason determine in writing and in its
+                 sole discretion that only one offeror has made the best proposal, a contract may be negotiated and awarded to that
+                 offeror. George Mason is not required to furnish a statement of the reasons why a particular proposal was not deemed
+                 to be the most advantageous (Governing Rules §49.D.).
+
+XV.       CONTRACT ADMINISTRATION: Upon award of the contract, George Mason shall designate, in writing, the name of the
+          Contract Administrator who shall work with the contractor in formulating mutually acceptable plans and standards for the
+          operations of this service. The Contract Administrator shall use all powers under the contract to enforce its faithful performance.
+          The Contract Administrator shall determine the amount, quality and acceptability of work and shall decide all other questions
+          in connection with the work. All direction and order from George Mason shall be transmitted through the Contract
+          Administrator, or their designee(s) however, the Contract Administrator shall have no authority to approve changes which shall
+          alter the concept or scope of the work or change the basis for compensation to the contractor.
+
+XVI.      PAYMENT TERMS / METHOD OF PAYMENT:
+
+          PLEASE NOTE: THE VENDOR MUST REFERENCE THE PURCHASE ORDER NUMBER ON ALL INVOICES SUBMITTED
+          FOR PAYMENT.
+
+--- Chunk 26 ---
+XVI.      PAYMENT TERMS / METHOD OF PAYMENT:
+
+          PLEASE NOTE: THE VENDOR MUST REFERENCE THE PURCHASE ORDER NUMBER ON ALL INVOICES SUBMITTED
+          FOR PAYMENT. SEE SAMPLE INVOICE FORMAT IN ATTACHMENT C.
+
+          Option #1- Payment to be mailed in 10 days-George Mason will make payment to the vendor under 2%/10 Net 30 payment
+          terms. Invoices should be submitted via email to the designated Accounts Payable email address which is acctpay@gmu.edu.
+
+          The 10-day payment period begins the first business day after receipt of proper invoice or receipt of goods, whichever occurs
+          last. A paper check will be mailed on or before the 10ᵗʰ day.
+
+          Option #2- To be paid in 20 days. The vendor may opt to be paid through our Virtual Payables credit card program. The vendor
+          shall submit an invoice and will be paid via credit card on the 20ᵗʰ day from receipt of a valid invoice. The vendor will incur
+          standard credit card interchange fees through their processor. All invoices should be sent to:
+
+                 George Mason University
+                 Accounts Payable Department
+                 4400 University Drive, Mailstop 3C1
+                 Fairfax, VA 22030
+                 Voice: 703.993.2580 | Fax: 703.993.2589
+                 e-mail: AcctPay@gmu.edu
+
+          Option#3- Net 30 Payment Terms. Vendor will enroll in Paymode-X where all payments will be made electronically to the
+          vendor’s bank account. To sign up for electronic payments, please contact the Paymode-X Enrollment Team at 1-800-331-
+          0974 or email enrollment@paymode-x.com. The enrollment team can assist you with any questions about the enrollment
+          process and setting up the membership.
+
+          Please state your payment preference in your proposal response.
+
+XVII.     SOLICITATION TERMS AND CONDITIONS:
+
+          A.     ANNOUNCEMENT OF AWARD: Upon the award or the announcement of the decision to award a contract over
+                 $200,000, as a result of this solicitation, George Mason will publicly post such notice on the DGS/DPS eVA web site
+                 (https://eva.virginia.gov/) for a minimum of 10 days.
+
+--- Chunk 27 ---
+B.     BEST AND FINAL OFFER (BAFO):       At the conclusion of negotiations, the offeror(s) may be asked to submit in
+                 writing, a best and final offer (BAFO). After the BAFO is submitted, no further negotiations shall be conducted with
+                 the offeror(s).
+
+                                                        12
+
+--- Chunk 28 ---
+C.     CONFLICT OF INTEREST: By submitting a proposal the contractor warrants that they have fully complied with the
+               Virginia Conflict of Interest Act; furthermore certifying that they are not currently an employee of the Commonwealth
+               of Virginia.
+
+        D.     DEBARMENT STATUS: By submitting a proposal, offerors certify that they are not currently debarred by the
+               Commonwealth of Virginia from submitting bids or proposals on contracts for the type of goods and/or services
+               covered by this solicitation, nor are they an agent of any person or entity that is currently so debarred.
+
+        E.     ETHICS IN PUBLIC CONTRACTING: By submitting a proposal, offerors certify that their proposal is made without
+               collusion or fraud and that they have not offered or received any kickbacks or inducements from any other offeror,
+               supplier, manufacturer or subcontractor in connection with their proposal, and that they have not conferred on any
+               public employee having official responsibility for this procurement transaction any payment, loan, subscription,
+               advance, deposit of money, services or anything of more than nominal value, present or promised, unless consideration
+               of substantially equal or greater value was exchanged.
+
+        F.     LATE PROPOSALS: To be considered for selection, proposals must be received in George Mason’s Bonfire Portal
+               by the designated date and hour. The official time used in the receipt of proposals is the proposal due date and hour in
+               George Mason’s Bonfire Portal. Proposals submitted after the due date and time has expired will not be accepted nor
+               considered. George Mason is not responsible for any delays related to Bonfire’s website or vendor registration process.
+               It is the responsibility of the offeror to ensure that their proposal is submitted by the designated date and hour.
+
+        G.     MANDATORY USE OF GEORGE MASON FORM AND TERMS AND CONDITIONS:                                    Failure to submit a
+               proposal on the official George Mason form provided for that purpose may be a cause for rejection of the proposal.
+               Modification of or additions to the General Terms and Conditions of this solicitation may be cause for rejection of the
+               proposal; however, George Mason reserves the right to decide, on a case-by-case basis, in its sole discretion, whether
+               to reject such a proposal.
+
+--- Chunk 29 ---
+H.     OBLIGATION OF OFFEROR: It is the responsibility of each offeror to inquire about and clarify any requirements
+               of this solicitation that are not understood. George Mason will not be bound by oral explanations as to the meaning of
+               specifications or language contained in this solicitation. Therefore, all inquiries must be in writing and submitted as
+               instructed on page 1 of this solicitation. By submitting a proposal, the offeror covenants and agrees that they have
+               satisfied themselves, from their own investigation of the conditions to be met, that they fully understand their
+               obligation and that they will not make any claim for, or have right to cancellation or relief from the resulting contact
+               because of any misunderstanding or lack of information.
+
+        I.     QUALIFICATIONS OF OFFERORS: George Mason may make such reasonable investigations as deemed proper
+               and necessary to determine the ability of the offeror to perform the services/furnish the goods and the offeror shall
+               furnish to George Mason all such information and data for this purpose as may be requested. George Mason reserves
+               the right to inspect the offeror’s physical facilities prior to award to satisfy questions regarding the offeror’s
+               capabilities. George Mason further reserves the right to reject any proposal if the evidence submitted by, or
+               investigations of, such offeror fails to satisfy George Mason that such offeror is properly qualified to carry out the
+               obligations of the resulting contract and to provide the services and/or furnish the goods contemplated therein.
+
+        J.     RFP DEBRIEFING:             In accordance with §49 of the Governing Rules George Mason is not required to furnish a
+               statement of the reasons why a particular proposal was not deemed to be the most advantageous. However, upon
+               request we will provide a scoring/ranking summary and the award justification memo from the evaluation committee.
+               Formal debriefings are generally not offered.
+
+        K.     TESTING AND INSPECTION:   George Mason reserves the right to conduct any test/inspection it may deem
+               advisable to assure goods and services conform to the specifications.
+
+XVIII.  RFP SCHEDULE (Subject to Change): Go to George Mason’s Bonfire Portal for all updates and schedule changes. The
+        schedule notated below is tentative and subject to change.
+
+--- Chunk 30 ---
+XVIII.  RFP SCHEDULE (Subject to Change): Go to George Mason’s Bonfire Portal for all updates and schedule changes. The
+        schedule notated below is tentative and subject to change. Note that all Addendums, Question and Answers, and any other
+        documentation or RFP updates will be posted and made available in Bonfire: https://gmu.bonfirehub.com
+        In the event of a conflict between the dates listed in this RFP and in Bonfire, the dates listed in Bonfire shall take
+        precedence.
+
+                                         RFP Schedule (Subject to Change)
+         Issue Date                                                   September 4, 2025
+         Contractor Questions Due                                     September 11, 2025 by 4:00PM ET
+         George Mason University Response to Contractor Questions     October 1, 2025 by 5:00PM ET
+         Proposal Submission Deadline (Bonfire ONLY)                  October 16, 2025 by 2:00PM ET
+
+                                                            13
+
+--- Chunk 31 ---
+Committee Evaluation                  October 17, 2025 – November 10, 2025
+Oral Presentations (If Requested)     Week of November 17, 2025
+Finalist Negotiations                 December 1, 2025 – January 30, 2025
+Notice of Award                       February 16, 2026
+Contract Start Deadline               TBD
+
+
+14
+
+--- Chunk 32 ---
+ATTACHMENT A
+                                                         SMALL BUSINESS SUBCONTRACTING PLAN
+                                                             TO BE COMPLETED BY OFFEROR
+
+Offerors must advise any portion of this contract that will be subcontracted. All potential offerors are required to include this document
+with their proposal in order to be considered responsive.
+
+Small Business: "Small business (including micro)” means a business which holds a certification as such by the Virginia Department
+of Small Business and Supplier Diversity (DSBSD) on the due date and time for proposals. This shall also include DSBSD certified
+women- owned and minority-owned businesses and businesses with DSBSD service disabled veteran owned status when they also hold
+a DSBSD certification as a small business on the proposal due date. Currently, DSBSD offers small business certification and micro
+business designation to firms that qualify.
+
+Certification applications are available through DSBSD online at www.SBSD.virginia.gov (Customer Service).
+
+Offeror Name:
+
+Preparer Name:                                           Date:
+
+Who will be doing the work: □ I plan to use subcontractors □ I plan to complete all work
+
+Instructions
+A.     If you are certified by the DSBSD as a micro/small business, complete Section A of this form.
+
+B.     If the “I plan to use subcontractors” box is checked, complete Section B of this form. For the proposal to be considered and the
+       offeror to be declared responsive, the offeror shall identify the portions of the contract that will be subcontracted to any
+       subcontractor, to include DSBSD certified small business for the initial contract period in relation to the offeror’s total price for the
+       initial contract period in Section B.
+
+Section A
+If your firm is certified by the DSBSD provide your certification number and the date of certification.
+
+Certification Number:                       Certification Date:
+
+Section B
+If the “I plan to use subcontractors” box is checked, populate the requested information below, per subcontractor to show your firm's
+plans for utilization of any subcontractor, to include DSBSD-certified small businesses, in the performance of this contractfor the initial
+contract period in relation to the offeror’s total price for the initial contract period. Certified small businesses includebut are not limited to
+DSBSD-certified women-owned and minority-owned businesses and businesses with DSBSD service disabled veteran-owned status
+that have also received the DSBSD small business certification.
+
+--- Chunk 33 ---
+Certified small businesses includebut are not limited to
+DSBSD-certified women-owned and minority-owned businesses and businesses with DSBSD service disabled veteran-owned status
+that have also received the DSBSD small business certification. Include plans to utilize small businesses as part of joint ventures,
+partnerships, subcontractors, suppliers, etc. It is important to note that these proposed participation will be incorporated into the
+subsequent contract and will be a requirement of the contract. Failure to obtain the proposed participation dollar value or percentages
+may result in breach of the contract.
+
+Plans for Utilization of Any subcontractor, to include DSBSD-Certified Small Businesses, for this Procurement
+Subcontract #1
+Company Name:                                            SBSD Cert #:
+Contact Name:                                            SBSD Certification:
+Contact Phone:                                           Contact Email:
+Value % or $ (Initial Term):                             Contact Address:
+Description of Work:
+
+Subcontract #2
+Company Name:                                            SBSD Cert #:
+Contact Name:                                            SBSD Certification:
+Contact Phone:                                           Contact Email:
+Value % or $ (Initial Term):                             Contact Address:
+Description of Work:
+
+
+15
+
+--- Chunk 34 ---
+Subcontract #3
+Company Name:                    SBSD Cert #:
+Contact Name:                    SBSD Certification:
+Contact Phone:                   Contact Email:
+Value % or $ (Initial Term):     Contact Address:
+Description of Work:
+
+Subcontract #4
+Company Name:                    SBSD Cert #:
+Contact Name:                    SBSD Certification:
+Contact Phone:                   Contact Email:
+Value % or $ (Initial Term):     Contact Address:
+Description of Work:
+
+Subcontract #5
+Company Name:                    SBSD Cert #:
+Contact Name:                    SBSD Certification:
+Contact Phone:                   Contact Email:
+Value % or $ (Initial Term):     Contact Address:
+Description of Work:
+
+
+16
+
+--- Chunk 35 ---
+GM                                                                            Purchasing Department
+                       GEORGE MASON                                           4400 University Drive, MS 3C1, Fairfax, VA 22030
+         TM            UNIVERSITY                                             Phone: 703.993.2580; http://fiscal.gmu.edu/purchasing/
+
+                                       ATTACHMENT B – STANDARD CONTRACT
+
+Note: Other documents may be incorporated into this document, either by way of attachment or by reference, but in all cases
+this contract document shall take precedence over all other documents and will govern the terms and conditions of the contract.
+
+This Contract entered on this ____ day of         , 2025 (Effective Date) by ________________ hereinafter called “Contractor”
+(located at ____________) and George Mason University hereinafter called “George Mason,” “University”.
+
+I.             WITNESSETH that the Contractor and George Mason, in consideration of the mutual covenants, promises and agreement
+               herein contained, agree as follows:
+
+II.            SCOPE OF CONTRACT: The Contractor shall provide                for the                                 of
+               George Mason University as set forth in the Contract documents.
+
+               During the term of this Contract, Contractor may issue Statements of Work (“SOW”) to modify the scope of the engagement
+               or otherwise change the work to be performed under this Contract. All SOW’s must be on a form approved by George Mason
+               prior to the start of this Contract. Any SOW that does not conform to the pre-approved SOW form shall be void even if approved
+               by George Mason. Additionally, the SOW shall be limited to modifications to the scope of the engagement or other changes to
+               the work to be performed under this Contract; any other terms contained in a SOW shall be void and have no effect even if
+               approved by George Mason. Other than changes to the scope of the engagement or the work to be performed under this Contract,
+               Contractor may not change, modify, add, supersede, or remove any term from this Contract through a SOW.
+
+III.           PERIOD OF CONTRACT:     One year from the Effective Date with nine (9) successive one-year renewal options. (or as
+               negotiated)
+
+IV.            PRICE SCHEDULE: The pricing specified in this section represents the complete list of charges from the Contractor. George
+               Mason shall not be liable for any additional charges.
+
+               Negotiated price schedule will be inserted here.
+
+--- Chunk 36 ---
+PRICE SCHEDULE: The pricing specified in this section represents the complete list of charges from the Contractor. George
+               Mason shall not be liable for any additional charges.
+
+               Negotiated price schedule will be inserted here.
+
+V.             CONTRACT ADMINISTRATION: ___________ shall serve as Contract Administrator for this Contract and shall use all
+               powers under the Contract to enforce its faithful performance. The Contract Administrator shall determine the amount, quality
+               and acceptability of work and shall decide all other questions in connection with the work. All direction and order from George
+               Mason shall be transmitted through the Contract Administrator, however, the Contract Administrator shall have no authority
+               to approve changes which shall alter the concept or scope or change the basis for compensation.
+
+VI.            METHOD OF PAYMENT: As selected from RFP Payment Term Options / Method of Payment. Contractor shall submit
+               invoices directly to acctpay@gmu.edu and copy the Contract Administrator. Invoices must reference a George Mason Purchase
+               Order number to be considered valid. Invoices will only be accepted if submitted after services rendered or goods received. All
+               invoice will be paid Net 30 (or as selected in Payment Terms / Method of Payment), after receipt of invoice in the accounts
+               payable email inbox.
+
+VII.           THE CONTRACT DOCUMENTS SHALL CONSIST OF (In order of precedence):
+
+               A.     This signed form;
+               B.     Data Security Addendum (attached);
+               C.     Negotiation Response(s) dated XXXXX (attached);
+               D.     RFP No. GMU-XXXX-XX, in its entirety (attached);
+               E.     Contractor’s proposal dated XXXXXX (attached);
+               F.     Contractor’s Statement of Work template (attached).
+
+VIII.          GOVERNING RULES: This Contract is governed by the provisions of the Restructured Higher Education Financial and
+               Administrative Operations Act, Chapter 10 (§ 23.1-1000 et seq.) of Title 23.1 of the Code of Virginia, and the “Governing
+               Rules” and the Purchasing Manual for Institutions of Higher Education and their Vendors. Documents may be viewed at:
+               https://vascupp.org.
+
+                                                                    17
+
+--- Chunk 37 ---
+IX.     CONTRACT PARTICIPATION: It is the intent of this Contract to allow for cooperative procurement.                      Accordingly, any
+        public body, public or private health or educational institutions, or affiliated corporations may access this Contract if authorized
+        by the Contractor.
+
+        Participation in this Contract is strictly voluntary. If authorized by the Contractor, the contract will be extended to the entities
+        indicated above to purchase goods and services in accordance with contract terms. As a separate contractual relationship, the
+        participating entity will place its own orders directly with the Contractor and shall fully and independently administer its use
+        of the contract to include contractual disputes, invoicing and payments without direct administration from the University. No
+        modification of this Contract or execution of a separate agreement is required to participate; however, the participating entity
+        and the Contractor may modify the terms and conditions of the contract to accommodate specific governing laws, regulations,
+        policies, and business goals required by the participating entity. Any such modification will apply solely between the
+        participating entity and the Contractor.
+
+        The University may request the Contractor provide semi-annual usage reports for all entities accessing the Contract. The
+        University shall not be held liable for any costs or damages incurred by any other participating entity as a result of any
+        authorization by the Contractor to extend the Contract. It is understood and agreed that the University is not responsible for the
+        acts or omissions of any entity and will not be considered in default of the contract no matter the circumstances.
+
+        Use of this Contract does not preclude any participating entity from using other contracts or competitive processes as needed.
+
+X.      STANDARD TERMS AND CONDITIONS:
+
+        A.     APPLICABLE LAW AND CHOICE OF FORUM:                                This Contract shall be construed, governed, and interpreted
+               pursuant to the laws of the Commonwealth of Virginia. All disputes arising under this Contract shall be brought before
+               an appropriate court in the Commonwealth of Virginia.
+
+        B.     ANTI-DISCRIMINATION: By entering into this Contract, Contractor certifies to the Commonwealth that they will
+               conform to the provisions of the Federal Civil Rights Act of 1964, as amended, as well as the Virginia Fair
+               Employment Contracting Act of 1975, as amended, where applicable, the Virginians with Disabilities Act, the
+               Americans with Disabilities Act and §§ 9&10 of the Governing Rules.
+
+--- Chunk 38 ---
+If Contractor is a faith-based organization, the
+               organization shall not discriminate against any recipient of goods, services, or disbursements made pursuant to the
+               Contract on the basis of the recipient's religion, religious belief, refusal to participate in a religious practice, or on the
+               basis of race, age, color, gender or national origin and shall be subject to the same rules as other organizations that
+               contract with public bodies to account for the use of the funds provided; however, if the faith-based organization
+               segregates public funds into separate accounts, only the accounts and programs funded with public funds shall be
+               subject to audit by the public body. (Governing Rules, § 36).
+
+               In every contract over $10,000 the provisions in 1. and 2. below apply:
+
+               1.     During the performance of this Contract, the Contractor agrees as follows:
+
+                      a.     The Contractor will not discriminate against any employee or applicant for employment because of
+                             race, religion, color, sex, national origin, age, disability, or any other basis prohibited by state law
+                             relating to        discrimination in employment, except  where there  is a bona                fide occupational
+                             qualification reasonably necessary to the normal operation of the Contractor. The Contractor agrees
+                             to post in conspicuous places, available to employees and applicants for employment, notices setting
+                             forth the provisions of this nondiscrimination clause.
+
+                      b.     The Contractor, in all solicitations or advertisements for employees placed by or on behalf of the
+                             Contractor, will state that such Contractor is an equal opportunity employer.
+
+                      c.     Notices, advertisements and solicitations placed in accordance with federal law, rule or regulation
+                             shall be deemed sufficient for the purpose of meeting these requirements.
+
+               2.     The Contractor will include the provisions of 1. above in every subcontract or purchase order over $10,000,
+                      so that the provisions will be binding upon each subcontractor or Contractor.
+
+       C.      ANTITRUST:                        By entering into this Contract, the Contractor conveys, sells, assigns, and transfers to the
+               Commonwealth of Virginia all rights, title and interest in and to all causes of action it may now have or hereafter
+               acquire under the antitrust laws of the United States and the Commonwealth of Virginia, relating to the particular
+               goods or services purchased or acquired by the Commonwealth of Virginia under this Contract.
+
+                                                               18
+
+--- Chunk 39 ---
+D.     ASSIGNMENT: Neither party will assign or otherwise transfer its rights or obligations under this Contract without
+       both parties’ prior written consent. Any attempted assignment, transfer, or delegation without such consent is void.
+
+E.     AUDIT: The Contractor shall retain all books, records, and other documents relative to this Contract for five (5) years
+       after final payment. George Mason, its authorized agents, and/or state auditors shall have full access to and the right
+       to examine any of said materials during said period.
+
+F.     AVAILABILITY OF FUNDS: It is understood and agreed between the parties herein that George Mason shall be
+       bound hereunder only to the extent of the funds available or which may hereafter become available for the purpose of
+       this Contract.
+
+G.     AUTHORIZED SIGNATURES: The signatory for each Party certifies that he or she is an authorized agent to sign
+       on behalf such Party.
+
+H.     BACKGROUND CHECKS:   Prior to any of Contractors        employees,  agents,  or subcontractors         (collectively
+       "Personnel") performing services on any George Mason campus, Contractor shall, at its sole expense, obtain
+       comprehensive background checks on all Personnel. Such background checks shall include, at minimum: a review of
+       the Personnel's records to include social security number search, local and federal criminal records (any misdemeanor
+       convictions and/or felony convictions), the Sex Offender Registry, and the SanctionsBase+ Search or equivalent. In
+       addition, for sensitive financial work or when operating a motor vehicle in the performance of duties for George
+       Mason, the background investigation shall include a credit report or motor vehicle check, respectively. Contractor
+       warrants that all such Personnel have successfully passed these background checks and are qualified to perform the
+       contracted services. Contractor shall maintain records of all background checks and make them available to George
+       Mason upon request. George Mason reserves the right to deny access to its premises to any Personnel based on the
+       results of these background checks or for any other reason at George Mason’s sole discretion. Contractor shall
+       immediately remove any Personnel from George Mason’s premises upon George Mason’s request. Signature on this
+       Contract confirms your compliance with this requirement.
+
+--- Chunk 40 ---
+Contractor shall
+       immediately remove any Personnel from George Mason’s premises upon George Mason’s request. Signature on this
+       Contract confirms your compliance with this requirement.
+
+I.     CANCELLATION OF CONTRACT: George Mason reserves the right to cancel this Contract, in part or in whole,
+       without penalty, for any reason, upon 60 days written notice to the Contractor. Upon written notice of cancellation
+       from George Mason, George Mason shall be fully released from any further obligation under the Contract and
+       Contractor agrees to directly refund all payments, for services not already performed, to George Mason, including any
+       pre-paid deposits, within 14 days. Any contract cancellation notice shall not relieve the Contractor of the obligation
+       to deliver and/or perform on all outstanding orders issued prior to the effective date of cancellation.
+
+J.     CHANGES TO THE CONTRACT: Changes can be made to this Contract in any of the following ways:
+
+       1.     The parties may agree in writing to modify the scope of this Contract.
+
+       2.     George Mason may order changes within the general scope of Contract at any time by written notice to
+              Contractor. Changes within the scope of this Contract include, but are not limited to, things such as services
+              to be performed, the method of packing or shipment, and the place of delivery or installation. Contractor shall
+              comply with the notice upon receipt. Contractor shall be compensated for any additional costs incurred as
+              the result of such order and shall give George Mason a credit for any savings. Said compensation shall be
+              determined by one of the following methods:
+
+              a.     By mutual agreement between the parties in writing; or
+
+              b.     By agreeing upon a unit price or using a unit price set forth in the contract, if the work to be done
+                     can be expressed in units, and the contractor accounts for the number of units of work performed,
+                     subject to the George Mason’s right to audit Contractor’s records and/or to determine the correct
+                     number of units independently; or
+
+              c.     By ordering Contractor to proceed with the work and keep a record of all costs incurred and savings
+                     realized. A markup for overhead and profit may be allowed if provided by the Contract. The same
+                     markup shall be used for determining a decrease in price as the result of savings realized.
+
+--- Chunk 41 ---
+A markup for overhead and profit may be allowed if provided by the Contract. The same
+                     markup shall be used for determining a decrease in price as the result of savings realized. Contractor
+                     shall present George Mason with all vouchers and records of expenses incurred and savings realized.
+                     George Mason shall have the right to audit the records of Contractor as it deems necessary to
+                     determine costs or savings. Any claim for an adjustment in price under this provision must be
+                     asserted by written notice to George Mason within thirty (30) days from the date of receipt of the
+                     written order from George Mason. If the Parties fail to agree on an amount of adjustment, the
+                     question of an increase or decrease in the contract price or time for performance shall be resolved
+                     in accordance with the procedures for resolving disputes provided by the Disputes Clause of this
+
+                                         19
+
+--- Chunk 42 ---
+Contract or, if there is none, in accordance with the disputes provisions of the Commonwealth of
+                        Virginia Purchasing Manual for Institutions of Higher Education and Their Contractors. Neither the
+                        existence of a claim nor a dispute resolution process, litigation or any other provision of this Contract
+                        shall excuse the Contractor from promptly complying with the changes ordered by George Mason
+                        or with the performance of the contract generally.
+
+K.     CLAIMS: Contractual claims, whether for money or other relief, shall be submitted in writing no later than 60 days
+       after final payment. However, written notice of the Contractor's intention to file a claim shall be given at the time of
+       the occurrence or beginning of the work upon which the claim is based. Nothing herein shall preclude a contract from
+       requiring submission of an invoice for final payment within a certain time after completion and acceptance of the work
+       or acceptance of the goods. Pendency of claims shall not delay payment of amounts agreed due in the final payment.
+
+       1.       The Contractor must submit written claim to:
+                Chief Procurement Officer
+                George Mason University
+                4400 University Drive, MSN 3C5
+                Fairfax, VA 22030
+
+       2.       The Contractor must submit any unresolved claim in writing no later than 60 days after final payment to the
+                Chief Procurement Officer.
+
+       3.       Upon receiving the written claim, the Chief Procurement Officer will review the written materials relating to
+                the claim and will mail their decision to the Contractor within 60 days after receipt of the claim.
+
+       4.       The Contractor may appeal the Chief Procurement Officer’s decision in accordance with §55 of the
+                Governing Rules.
+
+L.     COLLECTION AND ATTORNEY’S FEES:        The Contractor shall pay to George Mason any reasonable attorney’s
+       fees or collection fees, at the maximum allowable rate permitted under Virginia law, incurred in enforcing this Contract
+       or pursuing and collecting past-due amounts under this Contract.
+
+--- Chunk 43 ---
+M.     COMPLIANCE: All goods and services provided to George Mason shall be done so in accordance with any and all
+       applicable local, state, federal, and international laws, regulations and/or requirements and any industry standards,
+       including but not limited to: the Family Educational Rights and Privacy Act (FERPA), Health Insurance Portability
+       and Accountability Act (HIPAA) and Health Information Technology for Economic and Clinical Health Act
+       (HITECH), Government     Data Collection and Dissemination      Practices Act, Gramm-Leach-Bliley           Financial
+       Modernization Act (GLB), Payment Card Industry Data Security Standards (PCI-DSS), Americans with Disabilities
+       Act (ADA), and Federal Export Administration Regulations. Any Contractor personnel visiting George Mason
+       facilities will comply with all applicable George Mason policies regarding access to, use of, and conduct within such
+       facilities. George Mason’s policies can be found at  https://universitypolicy.gmu.edu/all-policies/ and any facility
+       specific policies can be obtained from the facility manager.
+
+N.     CONFIDENTIALITY OF PERSONALLY IDENTIFIABLE INFORMATION: The Contractor shall ensure that
+       personally identifiable information (“PII”) which is defined as any information that by itself or when combined with
+       other information can be connected to a specific person and may include but is not limited to personal identifiers such
+       as name, address, phone, date of birth, Social Security number, student or personal identification numbers, driver’s
+       license numbers, state or federal identification numbers, biometric information, religious or political affiliation, non-
+       directory information, and any other information protected by state or federal privacy laws, will be collected and held
+       confidential and in accordance with this Contract, during and following the term of this Contract, and will not be
+       divulged without the individual's and George Mason's written consent and only in accordance with federal law or the
+       Code of Virginia.
+
+O.     CONFLICT OF INTEREST: Contractor represents to George Mason that its entering into this Contract with George
+       Mason and its performance through its agents, officers and employees does not and will not involve, contribute to nor
+       create a conflict of interest prohibited by Virginia State and Local Government Conflict of Interests Act (Va.
+
+--- Chunk 44 ---
+Code
+       2.2-3100 et seq), the Virginia Ethics in Public Contracting Act (§57 of the           Governing Rules), the Virginia
+       Governmental Frauds Act (Va. Code 18.2 – 498.1 et seq) or any other applicable law or regulation.
+
+P.     CONTINUITY OF SERVICES:
+
+       1.       The Contractor recognizes that the services under this Contract are vital to George Mason and must be
+                continued without interruption and that, upon Contract expiration, a successor, either George Mason or
+                another contractor, may continue them. The Contractor agrees:
+
+                                                20
+
+--- Chunk 45 ---
+a.      To exercise its best efforts and cooperation to affect an orderly and efficient transition to a successor;
+              b.      To make all George Mason owned facilities, equipment, and data available to any successor at an
+                      appropriate time prior to the expiration of the Contract to facilitate transition to successor; and
+              c.      That the University Procurement Officer shall have final authority to resolve disputes related to the
+                      transition of the Contract from the Contractor to its successor.
+
+       2.     The Contractor shall, upon written notice from the Procurement Officer, furnish phase-in/phase-out services
+              for up to ninety (90) days after this Contract expires and shall negotiate in good faith a plan with the successor
+              to execute the phase-in/phase-out services. This plan shall be subject to the Procurement Officer’s approval.
+
+       3.     The Contractor shall be reimbursed for all reasonable, pre-approved phase-in/phase-out costs (i.e., costs
+              incurred within the agreed period after Contract expiration that result from phase-in, phase-out operations).
+              All phase-in/phase-out work fees must be approved by the Procurement Officer in writing prior to
+              commencement of said work.
+
+Q.     DEBARMENT STATUS:     As of the Effective Date, the Contractor certifies that it is not currently debarred by the
+       Commonwealth of Virginia from submitting bids or proposals on contracts for the type of services covered by this
+       Contract, nor is the Contractor an agent of any person or entity that is currently so debarred.
+
+R.     DEFAULT: In the case of failure to deliver goods or services in accordance with this Contract, George Mason, after
+       due oral or written notice, may procure them from other sources and hold Contractor responsible for any resulting
+       additional purchase and administrative costs. This remedy shall be in addition to any other remedies which George
+       Mason may have.
+
+S.     DRUG-FREE WORKPLACE:  Contractor has, and shall have in place during the performance of this Contract, a
+       drug-free workplace policy (DFWP), which it provides in writing to all its employees, vendors, and subcontractors,
+       and which specifically prohibits the following on company premises, during work-related activities, or while
+       conducting company business: the sale, purchase, manufacture, dispensation, distribution possession, or use of any
+       illegal drug under federal law (including marijuana).
+
+--- Chunk 46 ---
+For purposes of this section, “drug-free workplace” covers all
+       sites at which work is done by Contractor in connection with this Contract.
+
+T.     ENTIRE CONTRACT: This Contract constitutes the entire understanding of the Parties with respect to the subject
+       matter herein and supersedes all prior oral or written contracts with respect to the subject matter herein. This Contract
+       can be modified or amended only by a writing signed by all of the Parties.
+
+U.     EXPORT CONTROL:
+
+       1.     Munitions Items: If the Contractor is providing any items, data or services under this order that are controlled
+              by the Department of State, Directorate of Defense Trade Controls, International Traffic in Arms Regulations
+              (“ITAR”), or any items, technology or software controlled under the “600 series” classifications of the Bureau
+              of Industry and Security’s Commerce Control List (“CCL”) (collectively, “Munitions Items”), prior to
+              delivery, Contractor must:
+
+              a.      notify George Mason (by sending an email to export@gmu.edu), and
+
+              b.      receive written authorization for shipment from George Mason’s Director of Export Controls.
+
+              The notification provided by the Contractor must include the name of the George Mason point of contact,
+              identify and describe each ITAR or CCL-controlled commodity, provide the associated U.S. Munitions List
+              (USML) category number(s) or Export Control Classification Number, and indicate whether or not the
+              determination was reached as a result of a commodity jurisdiction determination, or self-classification
+              process. The Contractor promises that if it fails to obtain the required written pre-authorization approval for
+              shipment to George Mason of any Munitions Item, it will reimburse George Mason for any fines, legal costs
+              and other fees imposed for any violation of export controls regarding the Munition Item that are reasonably
+              related to the Contractor’s failure to provide notice or obtain George Mason’s written pre-authorization.
+
+       2.
+
+--- Chunk 47 ---
+2.     Dual-Use Items: If the Contractor is providing any dual-use items, technology or software under this order
+              that are listed on the CCL in a series other than a “600 series”, Contractor must (i) include the Export Control
+              Classification Number (ECCN) on the packing or other transmittal documentation traveling with the item(s)
+              and, (ii) send a description of the item, its ECCN, and the name of the George Mason point of contact to:
+              export@gmu.edu.
+
+V.     FORCE MAJEURE: George Mason shall be excused from any and all liability for failure or delay in performance of
+
+                                        21
+
+--- Chunk 48 ---
+any obligation under this Contract resulting from any cause not within the reasonable control of George Mason, which
+        includes but is not limited to acts of God, fire, flood, explosion, earthquake, or other natural forces, war, civil unrest,
+        accident, any strike or labor disturbance, travel restrictions, acts of government, disease, pandemic, or contagion,
+        whether such cause is similar or dissimilar to any of the foregoing. Upon written notification from George Mason that
+        such cause has occurred, Contractor agrees to directly refund all payments to George Mason, for services not yet
+        performed, including any pre-paid deposits within 14 days.
+
+W.      FUTURE GOODS AND SERVICES: George Mason reserves the right to have Contractor provide additional goods
+        and/or services that may be required by George Mason during the term of this Contract. Any such goods and/or
+        services will be provided by the Contractor under the same pricing, terms and conditions of this Contract. Such
+        additional goods and/or services may include other products, components, accessories, subsystems or related services
+        that are newly introduced during the term of the Contract. Such newly introduced additional goods and/or services
+        will be provided to George Mason at Favored Customer pricing, terms and conditions.
+
+X.      IMMIGRATION REFORM AND CONTROL ACT OF 1986: By entering into this Contract Contractor certifies that
+        they do not and will not during the performance of this Contract employ illegal alien workers or otherwise violate the
+        provisions of the federal Immigration Reform and Control Act of 1986.
+
+Y.      INDEMNIFICATION: Contractor agrees to indemnify, defend and hold harmless George Mason, the Commonwealth
+        of Virginia, its officers, agents, and employees from any claims, damages and actions of any kind or nature, whether
+        at law or in equity, arising from or caused by the use of any materials, goods, or equipment of any kind or nature
+        furnished by the Contractor/any services of any kind or nature furnished by the Contractor, provided that such liability
+        is not attributable to the sole negligence of George Mason or to the failure of George Mason to use the materials,
+        goods, or equipment in the manner already and permanently described by the Contractor on the materials, goods or
+        equipment delivered. Contractor understands and acknowledges that George Mason has not agreed to provide any
+        indemnification or save harmless agreements running to Contractor.
+
+--- Chunk 49 ---
+Contractor understands and acknowledges that George Mason has not agreed to provide any
+        indemnification or save harmless agreements running to Contractor.
+
+Z.      INDEPENDENT CONTRACTOR: The Contractor is not an employee of George Mason, but is engaged as an
+        independent contractor. The Contractor shall indemnify and hold harmless the Commonwealth of Virginia, George
+        Mason, and its employees and agents, with respect to all withholding, Social Security, unemployment compensation
+        and all other taxes or amounts of any kind relating to the Contractor’s performance of this Contract. Nothing in this
+        Contract shall be construed as authority for the Contractor to make commitments which will bind George Mason or
+        to otherwise act on behalf of George Mason, except as George Mason may expressly authorize in writing.
+
+AA.     INFORMATION TECHNOLOGY ACCESS ACT:       Computer and network security is of paramount concern at
+        George Mason. George Mason wants to ensure that computer/network hardware and software does not compromise
+        the security of its IT environment. Contractor agrees to use commercially reasonable measures in connection with any
+        offering your company makes to avoid any known threat to the security of the IT environment at George Mason.
+
+        All e-learning and information technology developed, purchased, upgraded or renewed by or for the use of George
+        Mason shall comply with all applicable University policies, Federal and State laws and regulations including but not
+        limited to Section 508 of the Rehabilitation Act (29 U.S.C. 794d), the Information Technology Access Act, §§2.2-
+        3500 through 2.2-3504 of the Code of Virginia, as amended, and all other regulations promulgated under Title II of
+        The Americans with Disabilities Act which are applicable to all benefits, services, programs, and activities provided
+        by or on behalf of the University. The Contractor shall also comply with the Web Content Accessibility Guidelines
+        (WCAG) 2.1 AA. For more information, please visit http://ati.gmu.edu, under Policies and Procedures.
+
+BB.     INSURANCE: The Contractor shall maintain all insurance necessary with respect to the services provided to George
+        Mason. The Contractor further certifies that they will maintain the insurance coverage during the entire term of the
+        Contract and that all insurance is to be placed with insurers with a current reasonable A.M. Best’s rating authorized
+        to    sell insurance in the Commonwealth of Virginia      by the Virginia State Corporation Commission.
+
+--- Chunk 50 ---
+Best’s rating authorized
+        to    sell insurance in the Commonwealth of Virginia      by the Virginia State Corporation Commission.          The
+        Commonwealth of Virginia and George Mason shall be named as an additional insured. By requiring such minimum
+        insurance, George Mason shall not be deemed or construed to have assessed the risk that may be applicable to the
+        Contractor. The Contractor shall assess its own risks and, if it deems appropriate and/or prudent, maintain higher limits
+        and/or broader coverage. The Contractor is not relieved of any liability or other obligations assumed or pursuant to
+        this Contract by reason of its failure to obtain or maintain insurance in sufficient amounts, duration, or types.
+
+        1.         Commercial General Liability Insurance in an amount not less than one million dollars ($1,000,000) per
+                   occurrence for bodily injury or property damage, personal injury and advertising injury, products and
+                   completed operations coverage;
+
+        2.         Workers Compensation Insurance in an amount not less than that prescribed by statutory limits; and, as
+                   applicable;
+
+                                                    22
+
+--- Chunk 51 ---
+3.     Commercial Automobile Liability Insurance applicable to bodily injury and property damage, covering
+               owned, non-owned, leased, and hired vehicles in an amount not less than one million dollars ($1,000,000)
+               per occurrence; and
+
+        4.     An umbrella/excess policy in an amount not less than five million dollars ($5,000,000) to apply over and
+               above Commercial General Liability, Employer’s Liability, and Commercial Automobile Liability Insurance.
+
+CC.     INTELLECTUAL PROPERTY: Contractor warrants and represents that it will not violate or infringe any intellectual
+        property right or any other personal or proprietary right and shall indemnify and hold harmless George Mason against
+        any claim of infringement of intellectual property rights which may arise under this Contract.
+
+        1.     Unless expressly agreed to the contrary in writing, all goods, products, materials, documents, reports,
+               writings, video images, photographs or papers of any nature including software or computer images prepared
+               or provided by Contractor (or its subcontractors) for George Mason will not be disclosed to any other person
+               or entity without the written permission of George Mason.
+
+        2.     Work Made for Hire. Contractor warrants to George Mason that George Mason will own all rights, title and
+               interest in any and all intellectual property rights created in the performance or otherwise arising from the
+               Contract and will have full ownership and beneficial use thereof, free and clear of claims of any nature by
+               any third party including, without limitation, copyright or patent infringement claims. Contractor agrees to
+               assign and hereby assigns all rights, title, and interest in any and all intellectual property created in the
+               performance or otherwise arising from the Contract, and will execute any future assignments or other
+               documents needed for George Mason to document, register, or otherwise perfect such rights. Notwithstanding
+               the foregoing, for research collaboration pursuant to subcontracts under sponsored research contracts
+               administered by the University's Office of Sponsored Programs, intellectual property rights will be governed
+               by the terms of the grant or contract to George Mason to the extent such grant or contract requires intellectual
+               property terms to apply to subcontractors.
+
+DD.
+
+--- Chunk 52 ---
+DD.     NON-DISCRIMINATION: All parties to this Contract agree to not discriminate on the basis of race, color, religion,
+        national origin, sex, pregnancy, childbirth or related medical conditions, age (except where sex or age is a bona fide
+        occupational qualification, marital status or disability).
+
+EE.     NON-EXCLUSIVITY: Nothing herein is intended nor shall be construed as creating any exclusive arrangement with
+        Contractor. This Contract will not restrict or prohibit George Mason from acquiring the same or similar goods and/or
+        services from other entities or sources.
+
+FF.     PAYMENT TO SUBCONTRACTORS:              The Contractor shall take the following actions upon receiving payment
+        from George Mason: (1) pay the subcontractor within seven days for the proportionate share of the total payment
+        received from George Mason attributable to the work performed by the subcontractor under that Contract; or (2) notify
+        George Mason and subcontractor within seven days, in writing, of its intention to withhold all or a part of the
+        subcontractor's payment with the reason for non-payment. The Contractor shall collect the appropriate Tax
+        Identification Number (Either SSN# or EIN#) based on the entity type of the subcontractor. The Contractor shall pay
+        interest to subcontractors on all amounts owed by the Contractor that remain unpaid after seven days following receipt
+        by the Contractor of payment from George Mason for work performed by the subcontractor under that contract, except
+        for amounts withheld as allowed by prior notification. Unless otherwise provided under the terms of this Contract,
+        interest shall accrue to subcontractors at the rate of one percent per month. The Contractor shall include in each of its
+        subcontracts a provision requiring each subcontractor to include or otherwise be subject to the same payment and
+        interest requirements with respect to each lower-tier subcontractor. A contractor's obligation to pay an interest charge
+        to a subcontractor may not be construed to be an obligation of George Mason. A contract modification may not be
+        made for the purpose of providing reimbursement for such interest charge. A cost reimbursement claim may not
+        include any amount for reimbursement for such interest charge.
+
+GG.
+
+--- Chunk 53 ---
+A contract modification may not be
+        made for the purpose of providing reimbursement for such interest charge. A cost reimbursement claim may not
+        include any amount for reimbursement for such interest charge.
+
+GG.     PUBLICITY: Contractor shall not use, in its external advertising, marketing programs, or promotional efforts, any
+        data, name, insignia, trademarks, pictures or other representation of the University or its employees except on the
+        specific written authorization in advance by the University. The University must receive all requests for authorization
+        in writing no later than ten (10) days in advance of the use date.
+
+HH.     REMEDIES: If the Contractor breaches this Contract, in addition to any other rights or remedies, George Mason may
+        terminate this Contract without prior notice.
+
+II.     RENEWAL OF CONTRACT: This Contract may be renewed by George Mason for nine (9) successive one-year
+        renewal options under the terms and conditions of this Contract except as stated in 1. and 2. below. Price increases
+
+                                                     23
+
+--- Chunk 54 ---
+may be negotiated only at the time of renewal. Written notice of the University’s intention to renew shall be given
+        approximately 90 days prior to the expiration date of each contract period.
+
+        1.        If the University elects to exercise the option to renew the Contract for an additional one-year period, the
+                  Contract price(s) for the additional one year shall not exceed the Contract price(s) of the original Contract
+                  increased/decreased by more than the percentage increase/decrease of the “other goods and services”
+                  category of the CPI-U section of the Consumer Price Index of the United States Bureau of Labor Statistics
+                  for the latest twelve months for which statistics are available or 2%, whichever is lower.
+
+        2.        If during any subsequent renewal periods, the University elects to exercise the option to renew the Contract,
+                  the Contract price(s) for the subsequent renewal period shall not exceed the Contract price(s) of the previous
+                  renewal period increased/decreased by more than the percentage increase/decrease of the “other goods and
+                  services” category of the CPI-U section of the Consumer Price Index of the United States bureau of Labor
+                  Statistics for the latest twelve months for which statistics are available, or 2%, whichever is lower.
+
+JJ.     REPORTING OF CRIMES, ACCIDENTS, FIRES AND OTHER EMERGENCIES: Any George Mason Employee,
+        including contracted service providers, who is not a staff member in Counseling and Psychological Services (CAPS)
+        or a pastoral counselor, functioning within the scope of that recognition, is considered a “Campus Security Authority
+        (CSA).” CSAs must promptly report all crimes and other emergencies occurring on or near property owned or
+        controlled by George Mason to the Department of Police & Public Safety or local police and fire authorities by dialing
+        9-1-1. At the request of a victim or survivor, identifying information may be excluded from a report (e.g., names,
+        initials, contact information, etc.).  Please visit  the following website for more information     and        training:
+        http://police.gmu.edu/clery-act-reporting/campus-security-authority-csa/.”
+
+KK.
+
+--- Chunk 55 ---
+Please visit  the following website for more information     and        training:
+        http://police.gmu.edu/clery-act-reporting/campus-security-authority-csa/.”
+
+KK.     RESPONSE TO LEGAL ORDERS, DEMANDS, OR REQUESTS FOR DATA:                                   Except as otherwise expressly
+        prohibited by law, Contractor will: i) immediately notify George Mason of any subpoenas, warrants, or other legal
+        orders, demands or requests received by Contractor seeking University Data; ii) consult with George Mason regarding
+        its response; iii) cooperate with George Mason’s reasonable requests in connection with efforts by George Mason to
+        intervene and quash or modify the legal order, demand or request; and iv) upon George Mason’s request, provide
+        George Mason with a copy of its response.
+
+        If George Mason receives a subpoena, warrant, or other legal order, demand (including request pursuant to the Virginia
+        Freedom of Information Act) or request seeking University Data maintained by Contractor, George Mason will
+        promptly provide a copy to Contractor. Contractor will promptly supply George Mason with copies of data required
+        for George Mason to respond, and will cooperate with George Mason’s reasonable requests in connection with its
+        response.
+
+LL.     SEVERABILITY:       Should any portion of this Contract be declared invalid or unenforceable for any reason, such
+        portion is deemed severable from the Contract and the remainder of this Contract shall remain fully valid and
+        enforceable.
+
+MM.     SOVEREIGN IMMUNITY:            Nothing in this Contract shall be deemed a waiver of the sovereign immunity of the
+        Commonwealth of Virginia and of George Mason.
+
+NN.     SUBCONTRACTS: No portion of the work shall be subcontracted without prior written consent from George Mason.
+        In the event that the Contractor desires to subcontract some part of the work specified herein, the Contractor shall
+        furnish George Mason the names, qualifications and experience of their proposed subcontractors. The Contractor shall,
+        however, remain fully liable and responsible for the work to be done by its subcontractor(s) and shall assure
+        compliance with all requirements of this Contract. This paragraph applies to, but is not limited to, subcontractor(s)
+        who process University Data.
+
+OO.     SWaM CERTIFICATION: Contractor agrees to fully support the Commonwealth of Virginia and George Mason’s
+        efforts related to SWaM goals.
+
+--- Chunk 56 ---
+OO.     SWaM CERTIFICATION: Contractor agrees to fully support the Commonwealth of Virginia and George Mason’s
+        efforts related to SWaM goals. Upon contract execution, Contractor (as determined by George Mason and the Virginia
+        Department of Small Business and Supplier Diversity) shall submit all required documents necessary to achieve
+        SWaM certification to the Department of Small Business and Supplier Diversity within 90 days. If Contractor is
+        currently SWaM certified, Contractor agrees to maintain their certification for the duration of the Contract and shall
+        submit    all  required  renewal documentation at    least  30 days prior  to  existing  SWaM       expiration at
+        https://www.sbsd.virginia.gov/.
+
+PP.     UNIVERSITY DATA: University Data includes all George Mason owned, controlled, or collected PII and any other
+        information that is not intentionally made available by George Mason on public websites, including but not limited to
+        business, administrative and financial data, intellectual property, and patient, student and personnel data. Contractor
+
+                                                      24
+
+--- Chunk 57 ---
+agrees to the following regarding University Data it may collect or process as part of this Contract:
+
+        1.     Contractor will use University Data only for the purpose of fulfilling its duties under the Contract and will
+               not share such data with or disclose it to any third party without the prior written consent of George Mason,
+               except as required by the Contract or as otherwise required by law. University Data will only be processed
+               by Contractor to the extent necessary to fulfill its responsibilities under the Contract or as otherwise directed
+               by George Mason.
+
+        2.     University Data, including any back-ups, will not be accessed, stored, or transferred outside the United States
+               without prior written consent from George Mason. Contractor will provide access to University Data only to
+               its employees and subcontractors who need to access the data to fulfill Contractor’s obligations under the
+               Contract. Contractor will ensure that employees who perform work under the Contract have read, understood,
+               and received appropriate instruction as to how to comply with the data protection provisions of the Contract
+               and to maintain the confidentiality of the University Data.
+
+        3.     The parties agree that as between them, all rights including all intellectual property rights in and to University
+               Data shall remain the exclusive property of George Mason, and Contractor has a limited, nonexclusive license
+               to use the University Data as provided in the Contract solely for the purpose of performing its obligations
+               under the Contract. The Contract does not give a party any rights, implied or otherwise, to the other party’s
+               data, content, or intellectual property, except as expressly stated in the Contract.
+
+        4.     Contractor will take reasonable measures, including audit trails, to protect University Data against
+               deterioration or degradation of data quality and authenticity. Contractor shall be responsible for ensuring that
+               University Data, per the Virginia Public Records Act, is preserved, maintained, and accessible throughout
+               their lifecycle, including converting and migrating electronic data as often as necessary so that information
+               is not lost due to hardware, software, or media obsolescence or deterioration.
+
+        5.     Contractor shall notify George Mason within three business days if it receives a request from an individual
+               under any applicable law regarding PII about the individual, including but not limited to a request to view,
+               access, delete, correct, or amend the information.
+
+--- Chunk 58 ---
+Contractor shall not take any action regarding such a request
+               except as directed by George Mason.
+
+        6.     If Contractor will have access to University Data that includes “education records” as defined under the
+               Family Educational Rights and Privacy Act (FERPA), the Contractor acknowledges that for the purposes of
+               the Contract it will be designated as a “school official” with “legitimate educational interests” in the
+               University education records, as those terms have been defined under FERPA and its implementing
+               regulations, and the Contractor agrees to abide by the limitations and requirements imposed on school
+               officials. Contractor will use the education records only for the purpose of fulfilling its duties under the
+               Contract for George Mason’s and its end user’s benefit, and will not share such data with or disclose it to any
+               third party except as provided for in the Contract, required by law, or authorized in writing by the University.
+
+QQ.     UNIVERSITY DATA SECURITY: Data security is of paramount concern to George Mason. Contractor will utilize,
+        store and process University Data in a secure environment in accordance with commercial best practices, including
+        appropriate administrative, physical, and technical safeguards, to secure such data from unauthorized access,
+        disclosure, alteration, and use. Such measures will be no less protective than those used to secure Contractor’s own
+        data of a similar type, and in no event less than reasonable in view of the type and nature of the data involved. At a
+        minimum, Contractor shall use industry-standard and up-to-date security tools and technologies such as anti-virus
+        protections and intrusion detection methods to protect University Data.
+
+        1.     Immediately upon becoming aware of circumstances that could have resulted in unauthorized access to or
+               disclosure or use of University Data, Contractor will notify George Mason, fully investigate the incident, and
+               cooperate fully with George Mason’s investigation of and response to and remediation of the incident. Except
+               as otherwise required by law, Contractor will not provide notice of the incident directly to individuals who’s
+               PII was involved, regulatory agencies, or other entities, without prior written permission from George Mason.
+
+        2.     If Contractor provides goods and services that require the exchange of sensitive University Data, the Data
+               Security Addendum attached to this Contract provides additional requirements Contractor must take to
+               protect the University Data.
+
+--- Chunk 59 ---
+2.     If Contractor provides goods and services that require the exchange of sensitive University Data, the Data
+               Security Addendum attached to this Contract provides additional requirements Contractor must take to
+               protect the University Data. George Mason reserves the right to determine whether the University Data
+               involved in this Contract is sensitive, and if it so determines it will provide the Data Security Addendum to
+               Contractor and it will be attached to and incorporated into this contract. Types of University Data that may
+               be considered sensitive include, but is not limited to, (1) PII; (2) credit card data; (3) financial or business
+               data which has the potential to affect the accuracy of the University’s financial statements; (4) medical or
+               health data; (5) sensitive or confidential business information; (6) trade secrets; (7) data which could create
+
+                                                  25
+
+--- Chunk 60 ---
+a security (including IT security) risk to George Mason; and (8) confidential student or employee information.
+
+          3.     George Mason reserves the right in its sole discretion to perform audits of Contactor, at George Mason’s
+                 expense, to ensure compliance with all obligations regarding University Data. Contractor shall reasonably
+                 cooperate in the performance of such audits. Contractor will make available to George Mason all information
+                 necessary to demonstrate compliance with its data processing obligations. Failure to adequately protect
+                 University Data or comply with the terms of this Contract with regard to University Data may be grounds to
+                 terminate this Contract.
+
+RR.       UNIVERSITY DATA UPON TERMINATION OR EXPIRATION: Upon termination or expiration of the Contract,
+          Contractor will ensure that all University Data are securely returned or destroyed as directed by George Mason in its
+          sole discretion within 180 days of the request being made. Transfer to George Mason or a third party designated by
+          George Mason shall occur within a reasonable period of time, and without significant interruption in service.
+          Contractor shall ensure that such transfer/migration uses facilities and methods that are compatible with the relevant
+          systems of George Mason or its transferee, and to the extent technologically feasible, that George Mason will have
+          reasonable access to University Data during the transition. In the event that George Mason requests destruction of its
+          data, Contractor agrees to destroy all data in its possession and in the possession of any subcontractors or agents to
+          which the Contractor might have transferred University Data. Contractor agrees to provide documentation of data
+          destruction to the University.
+
+          Contractor will notify the University of any impending cessation of its business and any contingency plans. This
+          includes immediate transfer of any previously escrowed assets and University Data and providing George Mason
+          access to Contractor’s facilities to remove and destroy George Mason-owned assets and University Data. Contractor
+          shall implement its exit plan and take all necessary actions to ensure a smooth transition of service with minimal
+          disruption to George Mason. Contractor will also provide a full inventory and configuration of servers, routers, other
+          hardware, and software involved in service delivery along with supporting documentation, indicating which if any of
+          these are owned by or dedicated to George Mason.
+
+--- Chunk 61 ---
+Contractor will also provide a full inventory and configuration of servers, routers, other
+          hardware, and software involved in service delivery along with supporting documentation, indicating which if any of
+          these are owned by or dedicated to George Mason. Contractor will work closely with its successor to ensure a
+          successful transition to the new equipment, with minimal downtime and effect on George Mason, all such work to be
+          coordinated and performed in advance of the formal, final transition date.
+
+SS.       UNIVERSITY REVIEW/APPROVAL: All goods, services, products, design, etc. produced by the Contractor for or
+          on behalf of George Mason are subject to George Mason’s review and approval.
+
+TT.       WAIVER: The failure of a party to enforce any provision in this Contract shall not be deemed to be a waiver of such
+          right.
+
+Contractor Name                          George Mason University
+
+Signature                                Signature
+
+Name:                                    Name:
+
+Title:                                   Title:
+
+Date:                                    Date:
+
+
+26
+
+--- Chunk 62 ---
+Data Security Addendum for inclusion in GMU-RB0607-25 with
+                      George Mason University (the “University”)
+
+This Addendum supplements the above-referenced Contract between the University and Full legal name of Firm/Vendor (“Selected
+Firm/Vendor”) dated            (the “Contract”). It is applicable only in those situations where the Selected Firm/Vendor provides goods
+or services under the Contract or a Purchase Order which necessitate that the Selected Firm/Vendor create, obtain, transmit, use,
+maintain, process, store, or dispose of University’s Protected Data (as defined in the Definitions Section of this Addendum) as part of
+its work under the Contract.
+
+This Addendum sets forth the terms and conditions pursuant to which Protected Data will be safeguarded by the Selected Firm/Vendor
+during the term of the Parties’ Contract and after its termination.
+
+1.     Definitions
+       Terms used herein shall have the same definition as stated in the Contract. Additionally, the following definitions shall apply to this
+       Addendum.
+       a.     “Personally Identifiable Information (“PII”)” means any information that can be connected to a specific person and may
+              include but is not limited to personal identifiers such as name, address, phone, date of birth, Social Security number, student or
+              personal identification numbers, driver’s license numbers, state or federal identification numbers, non-directory information
+              and any other information protected by state or federal privacy laws.
+       b.     “University Data” includes all University owned Personally Identifiable Information and other information that is not
+              intentionally made generally available by the University on public websites, including but not limited to business,
+              administrative and financial data, intellectual property, and patient, student and personnel data.
+       c.     “Protected Data” means data identified by University to Selected Firm/Vendor as Protected Data and may include, but is not
+              limited to: (1) PII; (2) credit card data; (3) financial or business data which has the potential to affect the accuracy of the
+              University’s financial statements; (4) medical or health data; (5) sensitive or confidential business information; (6) trade secrets;
+              (7) data which could create a security (including IT security) risk to the University; and (8) confidential student or employee
+              information.
+
+--- Chunk 63 ---
+‘Protected Data’ includes both Highly Sensitive and Restricted categories of data as defined in the University
+              Policy 1114 Data Stewardship.
+       d.     “Securely Destroy” means taking actions that render data written on media unrecoverable by both ordinary and extraordinary
+              means. These actions must meet or exceed those sections of the National Institute of Standards and Technology (NIST) SP
+              800-88 guidelines relevant to data categorized as high security.
+       e.     “Security Breach” means a security-relevant event in which the security of a system or procedure used to create, obtain,
+              transmit, maintain, use, process, store or dispose of data is breached, and in which University Data is exposed to unauthorized
+              disclosure, access, alteration, or use.
+       f.     “Services” means any goods or services acquired by the University from the Selected Firm/Vendor.
+
+2.     Data Security
+       a.     In addition to the security requirements stated in the Contract, Selected Firm/Vendor warrants that all electronic Protected Data
+              will be encrypted in transmission (including via web interface) and stored at AES-128 encryption or greater. Additionally,
+              Selected Firm/Vendor warrants that all Protected Data shall be Securely Destroyed, when destruction is requested by the
+              University.
+
+       b.     If Selected Firm/Vendor’s use of Protected Data include the storing, processing or transmitting of credit card data for the
+              University, Selected Firm/Vendor represents and warrants that for the life of the Contract and while Selected Firm/Vendor has
+              possession of University customer cardholder data, the software and services used for processing transactions shall be
+              compliant  with  standards   established  by  the    Payment    Card  Industry  (PCI)  Security          Standards  Council
+              (www.pcisecuritystandards.org). In the case of a third-party application, the application will be listed as PA-DSS compliant at
+              the time of implementation by the University. Selected Firm/Vendor acknowledges and agrees that it is responsible for the
+              security of all University customer cardholder data or identity information managed, retained, or maintained by Selected
+              Firm/Vendor, including but not limited to protecting against fraudulent or unapproved use of such credit card or identity
+              information.
+
+--- Chunk 64 ---
+Selected Firm/Vendor agrees to indemnify and hold University, its officers, employees, and agents, harmless for,
+              from, and against any and all claims, causes of action, suits, judgments, assessments, costs (including reasonable attorneys'
+              fees), and expenses arising out of or relating to any loss of University customer credit card or identity information managed,
+              retained, or maintained by Selected Firm/Vendor, including but not limited to fraudulent or unapproved use of such credit card
+              or identity information. Selected Firm/Vendor shall, upon written request, furnish proof of compliance with the Payment Card
+              Industry Data Security Standard (PCI DSS) within 10 business days of the request. Selected Firm/Vendor agrees that,
+              notwithstanding anything to the contrary in the Contract or the Addendum, the University may terminate the Contract
+              immediately without penalty upon notice to the Selected Firm/Vendor in the event Selected Firm/Vendor fails to maintain
+              compliance with the PCI DSS or fails to maintain the confidentiality or integrity of any cardholder data.
+
+
+27
+
+--- Chunk 65 ---
+3.     Employee Background Checks and Qualifications
+       a.     In addition to the employee background checks provided for in the Contract, Selected Firm/Vendor shall perform the following
+              background checks on all employees who have potential to access Protected Data: Social Security Number trace; seven (7)
+              year felony and misdemeanor criminal records check of federal, state, or local records (as applicable) for job related crimes;
+              Office of Foreign Assets Control List (OFAC) check; Bureau of Industry and Security List (BIS) check; and Office of Defense
+              Trade Controls Debarred Persons List (DDTC).
+
+4.     Insurance
+       a.     In addition to the insurance requirements outlined in the Contract, Selected Firm/Vendor agrees to maintain Cyber Liability
+              Insurance in an amount not less than $2,000,000 per incident, for the entire term of the Contract. The Commonwealth of
+              Virginia and the University shall be named as an additional insured.
+
+5.     Security Breach
+       a.     Liability. In addition to any other remedies available to the University under law or equity, Selected Firm/Vendor will reimburse
+              the University in full for all costs incurred by the University in investigation and remediation of any Security Breach of
+              Protected Data, including but not limited to providing notification to individuals whose Personally Identifiable Information
+              was compromised and to regulatory agencies or other entities as required by law or contract; providing one year’s credit
+              monitoring to the affected individuals if the Personally Identifiable Information exposed during the breach could be used to
+              commit financial identity theft; and the payment of legal fees, audit costs, fines, and other fees imposed by regulatory agencies
+              or contracting partners as a result of the Security Breach.
+
+6.     Audits
+       a.     Selected Firm/Vendor will at its expense conduct or have conducted at least annually a: i) security audit with audit objectives
+              deemed sufficient by the University, which attests the Selected Firm/Vendor’s security policies, procedures and controls; ii)
+              vulnerability scan, performed by industry-standard and up-to-date scanning technology, of Selected Firm/Vendor’s electronic
+              systems and facilities that are used in any way to deliver electronic services under the Contract; and iii) formal penetration test,
+              performed by a process and qualified personnel approved by the University, of Selected Firm/Vendor’s electronic systems and
+              facilities that are used in any way to deliver electronic services under the Contract.
+
+--- Chunk 66 ---
+b.     Additionally, the Selected Firm/Vendor will provide the University upon request the results of the above audits, scans and tests,
+              and will promptly modify its security measures as needed based on those results in order to meet its obligations under the
+              Contract. The University may require, at University expense, the Selected Firm/Vendor to perform additional audits and tests,
+              the results of which will be provided promptly to the University.
+       c.     Selected Firm/Vendor must provide     the  University      with  its  current  industry standard independent third-party
+              certification/attestation such as Service Organization Control (SOC) 2 Type II audit report, ISO27001/2 or equivalent, and
+              provide a list of all subservice provider(s) relevant to the contract. The University shall have sole discretion to determine
+              whether the audit report/certification/attestation provided is sufficient to satisfy the requirements of this paragraph. It is further
+              agreed that such industry standard audit report/certificate/attestation, will be made available free of cost to the University, will
+              be provided upon issuance by the auditor on an annual-basis. The report should be directed to the appropriate representative
+              identified by the University. Selected Firm/Vendor also commits to providing the University with a designated point of contact
+              for these reports, addressing issues raised in the report including if issues have been cited with the subservice provider(s), and
+              responding to any follow up questions posed by the University in relation to the SOC report. Selected Firm/Vendor agrees to
+              be held legally accountable for the accuracy of any self-attestations provided by the Selected Firm/Vendor towards fulfilling
+              the requirements within this addendum.
+
+IN WITNESS WHEREOF, this Addendum has been executed by an authorized representative of each party as of the date set forth
+beneath such party’s designated representative’s signature.
+
+Selected Firm/Vendor                                       George Mason University
+
+Signature                                                  Signature
+
+Name:                                                      Name:
+
+Title:                                                     Title:
+
+Date:                                                      Date:
+
+
+28
+
+--- Chunk 67 ---
+ATTACHMENT C – SAMPLE INVOICE FORMAT
+
+Company Name                                                                       SAMPLE INVOICE
+ 1.
+ Street Address
+ City, ST ZIP
+           Code                                                                                    3. INVOICE #:15454
+ Phone: Phone Fax: Fax                                                                                     4. 3/31/2019
+
+ BILL TO:                                                                      5.  PURCHA SE ORDFR #: EP2227832
+ George Mason University                                 Invoices must contain ALL of the following
+ Attn: Accounts Payable                                  1. Remit to payment address  in order to be processed:
+ 4400 University Dr.                                     2.
+ 4200 Merten Hall, MSN 3C1                                    Mason as the party to be billed
+ Fairfax, VA 22030                                      The vendor supplied invoice number
+ Email: acctpay@gmu.edu                                 The date of service and/or shipment
+                                                        The purchase order number (starts with EP or E)
+                                                        Description of goods or services
+
+Hours listed in increments of 15 minutes. For example: 15 minutes = 0.25 hours
+
+     Duration                 Summary                                         Hours                Rate       Total
+                      Employee 1 Name. Business Analyst for consulting work
+ 6/1/xx - 6/31/xx     for Project 1 and Project 2.                            22.75                $200.00     $4,550.00
+                      Employee 2 Name. Project Administrator for data
+ 6/1/xx - 6/31/xx     governance for Project 1 and Project 2.                 10.25                $150.00     $1,537.50
+                                                                  Invoice total                                $6,087.50
+
+"Employee 1
+Name"                 "Position Title" example: Business Analyst
+       Date                Description of Activities                        Project 1              Project 2    Total Hours
+     6/3/20xx         Meeting to understand business needs.                                           1.75          1.75
+    6/10/20xx         Identify and analyzing stakeholders.                     3.5                                  3.50
+    6/17/20xx         Define scope and requirements.                            2                     3.5           5.50
+    6/23/20xx         Evaluation possible items for solutions.                                        1.75          1.75
+    6/25-20xx         Document and support solutions.
+
+--- Chunk 68 ---
+1.75          1.75
+    6/25-20xx         Document and support solutions.                          5.25                   3.00          8.25
+    6/30/20xx         Evaluate results of solutions.                                                   2            2.00
+                                                                     Total    10.75                  12.00         22.75
+
+"Employee 2
+Name"                 "Position Title" example: Project Administrator
+       Date                Description of Activities                        Project 1              Project 2    Total Hours
+     6/2/20xx         Meeting with Mason staff to clarify project demands.      1                      2             3
+     6/7/20xx         Follow up with Budget and Order status.                  1.00                   1.00           2
+    6/10/20xx         Completion of Project 2, Project 1 outstanding items.    3.75                   0.25           4
+    6/21/20xx         Reports to Mason team.                                   0.50                   0.75          1.25
+                                                                     Total     6.25                    4           10.25
+
+
+29

@@ -1,7 +1,7 @@
 
 ### Put these in your .env located at the root of your repo: ###
 
-QDRANT_API_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.CJ_VLIwqMA6BcpBv66qE3ZQvnIWb61y5DpiLtf_L2B0
+QDRANT_API_KEY=
 QDRANT_URL=https://b0a197c1-9124-4747-815f-8731febbdecd.us-east-1-1.aws.cloud.qdrant.io
 QDRANT_COLLECTION=testCluster
 EMBED_MODEL=sentence-transformers/all-MiniLM-L6-v2
@@ -84,16 +84,24 @@ You will get `QDRANT_URL` and `QDRANT_API_KEY` from Qdrant Cloud.
 
 Copy paste this into another terminal after running the API and docker
 ```bash
-curl -X POST http://localhost:8080/ingest-chunks \
-  -H "Content-Type: application/json" \
-  -d '{
+curl -X POST http://localhost:8080/vector/ingest-chunks   -H "Content-Type: application/json"   -d '{
     "doc_id": "RFP-DEMO-001",
     "chunks": [
-      "All proposals must be submitted via SAM.gov by 2:00 PM ET.",
-      "Technical volume is limited to 25 pages, Times New Roman 12pt.",
-      "This procurement is a WOSB set-aside under NAICS 541512."
+      {
+        "chunk_num": 3,
+        "text": "All proposals must be submitted via SAM.gov by 2:00 PM ET."
+      },
+
+      {
+        "chunk_num": 2, "text": "Technical volume is limited to 25 pages, Times New Roman 12pt."
+      },
+
+      {
+        "chunk_num": 1, "text": "This procurement is a WOSB set-aside under NAICS 541512."
+      }
     ]
   }'
+
 ```
 
 Expected response:
@@ -103,7 +111,7 @@ Expected response:
 
 ### Run a semantic search
 ```bash
-curl -X POST http://localhost:8080/search \
+curl -X POST http://localhost:8080/vector/search \
   -H "Content-Type: application/json" \
   -d '{
     "doc_id": "RFP-DEMO-001",

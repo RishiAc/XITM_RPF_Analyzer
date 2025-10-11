@@ -1,0 +1,14 @@
+Header 2: AMERICANS WITH DISABILITIES ACT REQUIREMENTS:
+
+32.1. Fairfax County Government is fully committed to the Americans with Disabilities Act (ADA)
+which guarantees non-discrimination and equal access for persons with disabilities in
+employment, public accommodations, transportation, and all County programs, activities and
+services. Fairfax County government contractors, subcontractors, vendors, and/or suppliers
+are subject to this ADA policy. All individuals having any County contractual agreement must
+make the same commitment. Your acceptance of this contract acknowledges your commitment
+and compliance with ADA.  
+32.2. Fairfax County is committed to a policy of nondiscrimination in all County programs, services,
+and activities and will provide reasonable accommodations upon request. Offerors requesting
+special accommodations should call the Department ADA representative at (703) 324-3201 or
+TTY 711. Please allow two (2) working days in advance of the event to make the necessary
+arrangements.

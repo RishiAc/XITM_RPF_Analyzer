@@ -1,0 +1,32 @@
+Header 2: SUBMISSION OF PROPOSAL:
+
+15.1. Proposals must be received electronically through Fairfax County’s online Procurement Portal
+[at: https://fairfaxcounty.bonfirehub.com, on or before the Submittal Deadline. Submissions will](https://fairfaxcounty.bonfirehub.com/)
+only be accepted through the portal. Fairfax County will not accept proposals submitted by
+paper, telephone, facsimile (“FAX”) transmission, or electronic mail (i.e., e-mail) in response to
+this RFP. Proposal submissions and registration are free of charge. Offerors can register for a
+[free account at: https://fairfaxcounty.bonfirehub.com, which will be required when preparing a](https://fairfaxcounty.bonfirehub.com/)
+submission. Documents may be uploaded at any time during the open period. The official time
+used for receipt of proposals/modifications is the time stamp within the Bonfire (Euna) portal.
+No other clocks, calendars or timepieces are recognized. For technical questions related to a
+submission contact Bonfire (Euna) at [Support@GoBonfire.com](mailto:Support@GoBonfire.com) or click on the link “Contact
+Bonfire Support here” under Need Help?. (Note: it takes an average of 16 minutes to an hour
+for a response). Therefore, offerors shall take the necessary steps to submit their proposals in
+advance.  
+15.2. If, at the time of the scheduled proposal closing Fairfax County Government is closed due to
+inclement weather or another unforeseeable event, the proposal closing will still proceed
+electronically through the Bonfire (Euna) system.  
+15.3. Technical Information: Uploading large documents may take time, depending on the size of the
+file(s) and your Internet connection speed. You will receive an email confirmation receipt with
+a unique confirmation number once you finalize your submission. Minimum system
+requirements for the Bonfire (Euna) portal - Microsoft Edge, Google Chrome, or Mozilla Firefox.
+JavaScript must be enabled. Browser cookies must be enabled.  
+15.4. It is the Offeror's responsibility to clearly identify and to describe the services being offered in
+response to the Request for Proposal. Offerors are cautioned that organization of their
+response, as well as thoroughness is critical to the County's evaluation process. The RFP
+forms must be completed legibly and in their entirety; and all required supplemental information
+must be furnished and presented in an organized, comprehensive and easy to follow manner.  
+15.5. Unnecessarily elaborate brochures of other presentations beyond that sufficient to present a
+complete and effective proposal is not desired.  
+15.6. By executing the cover sheet (DPMM32), Offeror acknowledges that they have read this
+Request for Proposal, understand it, and agree to be bound by its terms and conditions.
