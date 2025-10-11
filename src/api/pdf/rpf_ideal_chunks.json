@@ -1,0 +1,274 @@
+{
+    "chunks": [
+        {
+            "chunk_number": 1,
+            "chunk_text": "Fairfax County Public Schools (\"FCPS\"): FCPS is the largest school system in the Commonwealth of Virginia and the 10th largest in the United States. The school system consists of approximately 250 schools and work sites serving almost 181,000 students in grades Kindergarten through 12th grade and approximately 24,000 full-time staff/employees across Fairfax County Virginia. For information about FCPS, visit the website at: http:/www.fcps.edu/. FCPS' current technical environment includes client server systems serving both instructional and administrative applications. Most applications will be accessed through school-wide LANs and a large distributed wireless network which connects sites through the Institutional Network (INET). To support this enterprise FCPS has established a robust network infrastructure to support with a distribution ring of 200 Gigabytes (GB) over fiber (connected to a Cox circuit of 100GB, and a CenturyLink circuit of 20G for a total of 120GB. Each elementary school has a dedicated 1.2GB circuit. In addition, middle schools have a 2GB dedicated circuit, secondary schools have 4GB dedicated circuit and high schools have a 3G dedicated circuit. FCPS Wide-Area-Network (WAN) connects over 250 sites throughout Fairfax County. A centralized Network Operation Center (NOC) hosts more than 2,000 physical and virtual servers and hundreds of enterprise applications. FCPS also has a backup NOc for disaster recovery purposes. A variety of technologies are deployed to keep FCPS users safely connected including firewalls, switches, Wireless Access Points and controllers. Windows. Unix",
+            "queries": [
+                "Tell me about Fairfax County Public Schools' size and scope",
+                "What does the FCPS IT infrastructure look like",
+                "Can you describe the FCPS network capacity and setup"
+            ]
+        },
+        {
+            "chunk_number": 2,
+            "chunk_text": "Attachment I (signed and completed) Documentation reflects firm having been in business for a minimum of 5 years Attachment D (signed and completed) Attachment E (signed and completed) Attachment F, G, H (signed and completed) Resumes or Bios verification of employees in working titles for a Labor Category listed in Exhibit A (ref. Special Provisions, paragraph 2.5.) (example Labor Category: Infrastructure Technical Support, need to provide 20 resumes or bios for employees in each working title listed.)",
+            "queries": [
+                "What documents are mandatory for submission",
+                "What is the minimum operating experience required for the firm",
+                "How many resumes or bios are needed for each labor category"
+            ]
+        },
+        {
+            "chunk_number": 3,
+            "chunk_text": "The County reserves the right to approve and dism\u00edss Contractor Starf.",
+            "queries": [
+                "What control does the county have over contractor staff",
+                "Can the county dismiss contractor employees",
+                "Does the county approve contractor personnel"
+            ]
+        },
+        {
+            "chunk_number": 4,
+            "chunk_text": "The period of the contract shall be a term of five (5) years. This contract may be renewed for (p to an additional five (5) years, one year at a time or any combination thereof, as mutuall agreed upon. Automatic contract renewals are prohibited.",
+            "queries": [
+                "What is the duration of the contract",
+                "Can the contract be extended",
+                "Are automatic contract renewals permitted"
+            ]
+        },
+        {
+            "chunk_number": 5,
+            "chunk_text": "Federal funds may be expended under these contracts; therefore, the offeror(s) must agree b sSini\u00edpg and accepting the federal terms and conditions without exceptions (ref. Attachment  Z, and H.",
+            "queries": [
+                "Must federal terms and conditions be accepted without modifications",
+                "What are the rules for contracts using federal money",
+                "Does the offeror need to agree to all federal conditions"
+            ]
+        },
+        {
+            "chunk_number": 6,
+            "chunk_text": "Offerors are required to have existing staff in each working title for the IT Staff Augmentation labor category or categories the offeror is submitting a proposal(s) to. Verification will be demonstrated through the submission of resumes or bios for their current employee and should indicate education, background, and recent relevant experience in the respective category/field. Resumes or bios must be of existing staff at the responding firm and resumes or bios should indicate that they are currently employed by the offeror. For each working title, offeror must provide at least one resume or bio of current professionals currently employed by the organization who have been placed on similar engagements in the past three years. Include certifications (e.g., as with cybersecurity CISSP, CISM, CEH, OSCP, or equivalents) and detail their hands-on project roles.)",
+            "queries": [
+                "What are the requirements for demonstrating existing staff?",
+                "What details are needed on resumes for proposed personnel?",
+                "Do proposed staff need to be current employees with recent experience?"
+            ]
+        },
+        {
+            "chunk_number": 7,
+            "chunk_text": "The Offeror must describe their evaluation and quality control procedures to monitor the performance of the Offeror assigned staff. Offerors should speak to procedures for addressing any deficiencies in performance and steps for remediation and address the following: 1 Assurance that the selected staff can be retained for future work orders if the contract is renewed or extended; 2) The Offeror's recommended administrative procedures which deals with submissions and approval of leave (vacation time), sick leave, and other absences; 3) The Offeror must include estimate of the amount of leave the staff may be entitled to during the year; 4) The Offeror must address their recommended procedures for a reduction in the number of staff assigned if Fairfax County decides to reduce the number of IT Contractors need on the project; 5) Assurance that an individual meets the requirements per Special Provisions, paragraph 6.2.; 6) If the County terminate work under this contract.",
+            "queries": [
+                "What procedures are required for monitoring staff performance",
+                "How should staff leave and absences be handled",
+                "What are the guidelines for staff retention and changes"
+            ]
+        },
+        {
+            "chunk_number": 8,
+            "chunk_text": "or dual homing is not permitted. Reconfiguration of a home user's equipment for the purpose of split-tunneling",
+            "queries": [
+                "What network configurations are not permitted",
+                "Is split tunneling allowed for home users",
+                "Can user equipment be reconfigured for split tunneling"
+            ]
+        },
+        {
+            "chunk_number": 9,
+            "chunk_text": "4.1. Each Offeror responding to this RFP should supply all the documentation reguired in the RFf Failure to provide documentation with the Offeror's response to the RFP may result in the disgualification of the Offeror's proposal.",
+            "queries": [
+                "What are the consequences of not providing all documentation",
+                "Am I required to submit all documentation with my proposal",
+                "What can cause a proposal to be disqualified"
+            ]
+        },
+        {
+            "chunk_number": 10,
+            "chunk_text": "8.9. Should the County determine in writing and in its sole discretion that only one Offeror is fully qualified, or that one Offeror is clearly more highly qualified than the others under consideration a contract may be negotiated and awarded to that offeror. Each SAC will make appropriate recommendations to the County Purchasing Agent, if appropriate, prior to the actual award o contract.",
+            "queries": [
+                "What happens if only one company is deemed fully qualified",
+                "Can the county award a contract to a clearly superior bidder",
+                "What are the conditions for negotiating with a single offeror"
+            ]
+        },
+        {
+            "chunk_number": 11,
+            "chunk_text": "b. Support personnel proposed must have the necessary level of training an experience with the application suite to ensure that the County is receiving expert-level support. The Offeror must provide the County with a listing of al certificates, training courses and other relevant evidence to document the leve of expertise of proposed support personnel.",
+            "queries": [
+                "What experience is required for support personnel?",
+                "How do I prove the expertise of my support staff?",
+                "What training level is expected for proposed support staff?"
+            ]
+        },
+        {
+            "chunk_number": 12,
+            "chunk_text": "Cover Letter: The letter will indicate the principal or officer of the Offeror organization who will be the County's primary point of contact during negotiations. This individual must have the authority to negotiate all aspects of the scope of services and provisions on behalf of the Offeror.",
+            "queries": [
+                "Who should be designated as the primary contact",
+                "What authority must the main negotiator have",
+                "What information about the offeror's contact is required in the cover letter"
+            ]
+        },
+        {
+            "chunk_number": 13,
+            "chunk_text": "(9.9. The Contractor will provide an original, signed Certificate of Insurance citing the contract number and such endorsements as prescribed herein and The County of Fairfax, its officers, employees and agents shall be named as an \"additional insured\" for all liability policies and it shall be stated on the Insurance Certificate that this coverage \"is primary to all other coverage the County may possess.\"",
+            "queries": [
+                "What are the insurance requirements for Fairfax County?",
+                "Does the contractor's insurance need to be primary?",
+                "How should the County be named on the insurance certificate"
+            ]
+        },
+        {
+            "chunk_number": 14,
+            "chunk_text": "18.8. Each SAC will then conduct a final evaluation of the proposals. Selection shall be made of twc or more Offerors deemed to be fully qualified and best suited among those submitting proposals to the labor categories, on the basis of the factors involved in the RFP, including price if so stated in the RFP. Negotiations shall then be conducted with each of the Offerors so selected The County will consider all cost and business terms to be negotiable and will not be artificially constrained by an Offeror's internal corporate policies. In short, Offerors that contend they lack flexibility because of their corporate policy on a particular negotiation item will face a significant disadvantage and may not be elevated to the final negotiation phase. After negotiations have been conducted with each offeror so selected, the County shall select the Offeror which, in its opinion, has made the best proposal, and shall award the contract to that Offeror.",
+            "queries": [
+                "Explain the final evaluation and contract award process",
+                "How will the County conduct negotiations with offerors",
+                "What factors could put an offeror at a disadvantage"
+            ]
+        },
+        {
+            "chunk_number": 15,
+            "chunk_text": "The Contractor will provide a staffing plan in response to the County Tasks order Scope of Work (\"SOw\"), request, etc. describing the Contractor's proposed stat distribution to accomplish this work.",
+            "queries": [
+                "What details should be in the staffing plan",
+                "How should staff be distributed for the SOW tasks",
+                "What is the contractor's staffing proposal requirement"
+            ]
+        },
+        {
+            "chunk_number": 16,
+            "chunk_text": "2. More information about the County's enterprise architecture is available in th InformationTechnology Plan, published by the County DIT, https://www.fairfaxcounty.gov/informationtechnology/it-plan",
+            "queries": [
+                "Where can I find more about the county's IT architecture",
+                "What is the link to the county's Information Technology Plan",
+                "Which department publishes the county's IT plan"
+            ]
+        },
+        {
+            "chunk_number": 17,
+            "chunk_text": "The personnel named in the technical proposal will remain assigned to the project throughout the period of this contract. No diversion or replacement may be made without submission of a resume of the proposed replacement with final approval being ranted by the County Procurement Agent.",
+            "queries": [
+                "Can I replace the staff named in my proposal?",
+                "What is the process for changing assigned project personnel?",
+                "Who needs to approve personnel substitutions?"
+            ]
+        },
+        {
+            "chunk_number": 18,
+            "chunk_text": "Statement of Qualifications: The Statement of Qualifications must include the following: 1. Organizational Experience: Offeror must describe their qualifications and experience to perform the work described in this RFP. Responding firms should have direct relevant experience in the respective category/field for at least five (5) years from the date of this RFP. Proposals will only be accepted from organizations that have directly provided staff augmentation services for at least three (3) years within the last five (5) years for federal, state, or local governments. Submissions from general staffing firms or vendors without demonstrable delivery experience will be disqualified. Responding firms must have existing staff in the respective labor category who would be available to fulfill Fairfax County needs. Information about experience should include direct experience with specific subject matters. The Offeror's record should reflect from the date of this RFP a minimum of five (5) years of experience in work of a similar nature and magnitude to that being proposed. Relevant experience must be associated with contracts or services not more than five years prior to the date of this RFP. Offeror must have performed staff augmentation engagements in the submitted category with at least three distinct clients within the past five years. Each contract must have lasted a minimum of three years and involved mid-to-senior level professionals like those described in the working titles. Offeror must submit three (3) case studies demonstrating past staff augmentation engagements. Each case study should include: a. Federal, State, Local Government client name b. Project scope, roles provided, and duration C. Key outcomes and performance metrics d. Contact information for client references",
+            "queries": [
+                "What experience must my company demonstrate to be eligible",
+                "What are the specific requirements for staff augmentation experience",
+                "What information should be provided in the required case studies"
+            ]
+        },
+        {
+            "chunk_number": 19,
+            "chunk_text": "The link shall be encrypted whenever a computer network connection is established between a County computer and another computer at a location outside an official Fairfax County office, and whenever this connection transmits, or is likely to transmit sensitive information.",
+            "queries": [
+                "When do I need to encrypt my computer's connection to the County network?",
+                "What are the security requirements for transmitting sensitive information off-site?",
+                "Are there encryption rules for connecting to the County from an external location?"
+            ]
+        },
+        {
+            "chunk_number": 20,
+            "chunk_text": ".4. Budget is subject to annual appropriations for County needs. Please refer to the Incumbent vendor information (excel file) and https://www.fairfaxcounty.gov/topics/financialtransparenc) for information on spending to date.",
+            "queries": [
+                "What are the budget limitations for this project",
+                "Where can I find data on previous vendor expenditures",
+                "Is the funding for this contract subject to yearly review"
+            ]
+        },
+        {
+            "chunk_number": 21,
+            "chunk_text": "Proposals must be received electronically through Fairfax County's online Procurement Portal at:https://fairfaxcounty.bonfirehub.com, on or before the Submittal Deadline. Submissions wil only be accepted through the portal. Fairfax County will not accept proposals submitted by paper, telephone, facsimile (\"FAX\") transmission, or electronic mail (i.e., e-mail) in response to this RFP. Proposal submissions and registration are free of charge. Offerors can register for a free account at: https://fairfaxcounty.bonfirehub.com, which will be required when preparing a submission. Documents may be uploaded at any time during the open period. The official time used for receipt of proposals/modifications is the time stamp within the Bonfire (Euna) portal. No other clocks, calendars or timepieces are recognized. For technical questions related to a submission contact Bonfire (Euna) at Support@GoBonfire.com or click on the link \"Contact Bonfire Support here\" under Need Help?. (Note: it takes an average of 16 minutes to an hour for a response). Therefore, offerors shall take the necessary steps to submit their proposals in adyance.",
+            "queries": [
+                "Where should I upload my proposal documents",
+                "What are the accepted methods for submitting a proposal",
+                "Is there a specific online portal for proposals"
+            ]
+        },
+        {
+            "chunk_number": 22,
+            "chunk_text": "3. Staffing_ Plan: The staffing plan should indicate a chart that partitions the time commitment of each professional staff member across the proposed tasks and a timeline for the engagements. It is mandatory that this section identifies the key personnel who are to work on the contract, their relationship to the Offeror organization, This requirement includes Consultants as well as regular employees of the offeror, if relevant.",
+            "queries": [
+                "What should be included in the staffing plan section",
+                "How do I list key staff members and their commitments",
+                "Are consultants required to be identified in the proposed team breakdown"
+            ]
+        },
+        {
+            "chunk_number": 23,
+            "chunk_text": "2: The last day to submit questions to be addressed in the addendum will be addressed in Bonfire (Euna) under \"Questions Due Date.\" All questions pertaining to this RFP shall be submitted tc dpmmteam1@fairfaxcounty.gov. Questions submitted in Bonfire (Euna)will not be considered, therefore, please make sure to send your questions to the e-mail address above.",
+            "queries": [
+                "How do I submit questions regarding the proposal",
+                "Where can I find the deadline for submitting questions",
+                "Should I submit my questions through Bonfire"
+            ]
+        },
+        {
+            "chunk_number": 24,
+            "chunk_text": "Fairfax County strongly encourages offerors to submit proposals well in advance of the proposal submission deadline. A proposal submission is not considered successful unless all necessary files have been uploaded and the 'Submit & Finalize' step has been completed. Offerors are esponsible for the consequences of any failure to plan ahead in the submission of its Proposal.",
+            "queries": [
+                "What makes a proposal submission valid",
+                "What happens if a proposal is submitted late",
+                "Is there a recommended time to submit proposals"
+            ]
+        },
+        {
+            "chunk_number": 25,
+            "chunk_text": "This RFP is being utilized for competitive negotiation. Under the competitive negotiation process, a contract may be awarded to the responsible offeror whose proposal is determined to be the most advantageous to the County, taking into consideration price and the evaluation factors set forth in the RFP. The County reserves the right to make multiple awards as a result of this solicitation.",
+            "queries": [
+                "How will the contract be awarded",
+                "What factors will be considered when evaluating proposals",
+                "Is it possible for multiple awards to be made"
+            ]
+        },
+        {
+            "chunk_number": 26,
+            "chunk_text": "4.4. Offerors must include in their proposals the completed Attachment D: Fairfax County IT Services Provider Consultant/Contractor Agreement, for the firm and its personnel that have roles in the implementation and management of the solution implementation and post implementation maintenance and support, as applicable This requirement is non-negotiable.",
+            "queries": [
+                "Do I need to include Attachment D in my proposal",
+                "Which personnel must complete the IT services provider agreement",
+                "Is the IT services provider agreement a mandatory submission"
+            ]
+        },
+        {
+            "chunk_number": 27,
+            "chunk_text": ".5. Offerors are advised that, in the event of receipt of an adequate number of proposals, which, in the opinion of the County Purchasing Agent, require no clarifications and/or supplementary information, such proposals may be evaluated without further discussion. Conseguently offerors should provide complete, thorough proposals with the offeror's most favorable terms Should proposals require additional clarification and/or supplementary information, offerors should submit such additional material in a timely manner.",
+            "queries": [
+                "Will there be discussions about my proposal",
+                "What are the expectations for initial proposal submission",
+                "What if my proposal needs more information"
+            ]
+        },
+        {
+            "chunk_number": 28,
+            "chunk_text": "2.1. Trade secrets or proprietary information submitted by an offeror in connection with a procurement transaction shall not be subject to public disclosure under the Virginia Freedom of Information Act; however, offerors must invoke the protections of this section prior to or upon submission of the data or other materials.",
+            "queries": [
+                "How to keep submitted trade secrets confidential",
+                "What are the public disclosure rules for proposal information",
+                "When should I invoke proprietary information protection"
+            ]
+        },
+        {
+            "chunk_number": 29,
+            "chunk_text": "8.7. Reference Checks: The County may contact references provided with the proposal. The Offeror's ability to meet the service requirements of its customers, and its responsiveness to its clients will be evaluated through discussions with Offeror references supplied in Offeror Qualifications and supplemental discovery work, as necessary. Research will target areas concerning offeror history, such as implementation success, cost overruns, project support and post implementation support, and may include inquiries concerning the product, such as stability, flexibility, and usability. Note: The County may contact any other site that may have experience with the Offeror's",
+            "queries": [
+                "How will the county perform reference checks",
+                "What criteria will be used when evaluating references",
+                "Can the county contact references not provided in the proposal"
+            ]
+        },
+        {
+            "chunk_number": 30,
+            "chunk_text": ".1. For IT Staff Augmentation the County will either specify in its reguest or give the firm fifteer (15) calendar days' notice when a specific engagement under this contract(s) is to be terminated and the professional(s) are no longer needed.",
+            "queries": [
+                "What is the notice period for IT staff augmentation termination",
+                "How does the county handle ending IT staffing engagements",
+                "When does the county provide notice that an IT professional is no longer required"
+            ]
+        }
+    ]
+}
