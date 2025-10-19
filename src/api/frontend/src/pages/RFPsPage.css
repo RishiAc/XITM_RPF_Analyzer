@@ -1,0 +1,56 @@
+.cards-page {
+  height: 100vh;                /* fill the viewport */
+  padding: 2rem;
+  padding-top: 100px;           /* leave space for fixed navbar */
+  padding-bottom: 2rem;         /* allow scrolling to bottom */
+  box-sizing: border-box;       /* include padding in height */
+  overflow-y: auto;             /* enable vertical scroll */
+  background-color: var(--dark-bg);
+
+  /* Hide scrollbars across browsers */
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE 10+ */
+}
+.cards-page::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.page-title {
+  color: var(--accent-yellow);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.card {
+  background-color: rgb(32, 32, 71);
+  color: var(--text-light);
+  padding: 2rem;
+  border-radius: 12px;
+  width: 15rem;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.card:hover {
+  background-color: var(--primary-blue);
+  transform: translateY(-5px);
+}
+
+.card h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.4rem;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}

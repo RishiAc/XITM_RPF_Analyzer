@@ -1,0 +1,141 @@
+/* ====== Color Palette ====== */
+:root {
+  --primary-blue: #0097e6;
+  --accent-yellow: #ffc107;
+  --dark-bg: #001f3f;
+  --text-black: #050505;
+  --text-light: rgb(226, 226, 226);
+  --text-muted: #dcdcdc;
+}
+
+/* ====== General Page Layout ====== */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: var(--dark-bg);
+  color: var(--text-light);
+  height: 100vh;
+  overflow: hidden; /* body scroll hidden, container handles scrolling */
+}
+
+.home-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; /* vertically and horizontally center upload box */
+  padding: 2rem;
+  text-align: center;
+  flex-direction: column;
+  overflow-y: auto;
+
+  /* Hide scrollbars */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+}
+
+.home-container::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+/* ====== Navbar ====== */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--primary-blue);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 2rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+}
+
+.navbar .logo {
+  color: var(--accent-yellow);
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.navbar a {
+  color: var(--text-light);
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.navbar a:hover {
+  color: var(--accent-yellow);
+}
+
+/* ====== Upload Box ====== */
+.upload-box {
+  background-color: rgb(32, 32, 71); /* matches purplish theme */
+  border-radius: 12px;
+  width: 22rem;
+  padding: 2.5rem 3rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* center all children */
+  gap: 1.5rem;
+}
+
+.upload-box h2 {
+  margin: 0;
+  color: var(--accent-yellow);
+  font-size: 1.6rem;
+}
+
+/* Center file input */
+.upload-box input[type="file"] {
+  display: block;
+  margin: 0 auto;
+  color: var(--text-light);
+}
+
+/* Center button */
+.upload-box button {
+  background-color: var(--primary-blue);
+  color: var(--text-light);
+  border: none;
+  border-radius: 6px;
+  padding: 0.7rem 1.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.upload-box button:hover {
+  background-color: #0056b3;
+}
+
+/* ====== Buttons (Generic) ====== */
+.btn {
+  background-color: var(--accent-yellow);
+  color: #000;
+  border: none;
+  border-radius: 30px;
+  padding: 12px 28px;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #e6a900;
+  transform: translateY(-2px);
+}
+
+/* ====== Footer ====== */
+.footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #001a35;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}

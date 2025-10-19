@@ -1,0 +1,135 @@
+/* ===== ChatPage.css ===== */
+
+/* Page container */
+.chat-page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: var(--dark-bg);
+  color: var(--text-light);
+  font-family: 'Poppins', sans-serif;
+  padding-top: 70px; /* navbar space */
+  position: relative;
+}
+
+.chat-title {
+  position: fixed;       /* keeps it on screen */
+  top: 50px;             /* below navbar */
+  left: 0;
+  width: 100%;           /* full width */
+  height: 60px;          /* adjust as needed */
+  background-color: var(--dark-bg); 
+  color: var(--accent-yellow);
+  display: flex;
+  align-items: center;
+  padding: 0 20px;       /* some horizontal padding */
+  font-size: 1.5rem;
+  font-weight: 600;
+  z-index: 100;
+}
+
+.chat-title h2 {
+  margin: 0;
+  color: var(--accent-yellow);
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+/* Chat container fills remaining space */
+.chat-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1rem 2rem;
+  margin-top: 100px; /* space for fixed title */
+  overflow: hidden;
+}
+
+/* Scrollable chat box */
+.chat-box {
+  flex: 1; /* fills all available space */
+  overflow-y: auto; /* enable scrolling */
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  padding-right: 0.5rem;
+  margin-bottom: 1rem;
+  scroll-behavior: smooth;
+}
+
+/* Messages */
+.chat-message {
+  max-width: 60%;
+  padding: 0.8rem 1rem;
+  border-radius: 12px;
+  font-size: 1rem;
+  line-height: 1.4;
+  word-wrap: break-word;
+}
+
+/* User messages (right) */
+.chat-message.user {
+  background-color: var(--primary-blue);
+  color: var(--text-light);
+  align-self: flex-end;
+  border-bottom-right-radius: 2px;
+}
+
+/* Bot messages (left) */
+.chat-message.bot {
+  background-color: rgb(50, 50, 90);
+  color: var(--text-light);
+  align-self: flex-start;
+  border-bottom-left-radius: 2px;
+}
+
+/* Input section */
+.chat-input-container {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.chat-input-container input {
+  flex: 1;
+  padding: 0.8rem 1rem;
+  border-radius: 12px;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  background-color: rgb(30, 30, 60);
+  color: var(--text-light);
+}
+
+.chat-input-container input::placeholder {
+  color: var(--text-muted);
+}
+
+.chat-input-container button {
+  padding: 0.8rem 1.5rem;
+  background-color: var(--accent-yellow);
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.chat-input-container button:hover {
+  background-color: #e6a900;
+  transform: translateY(-2px);
+}
+
+/* Scrollbar styling */
+.chat-box::-webkit-scrollbar {
+  width: 6px;
+}
+
+.chat-box::-webkit-scrollbar-thumb {
+  background-color: rgb(70, 70, 120);
+  border-radius: 3px;
+}
+
+.chat-box::-webkit-scrollbar-track {
+  background-color: rgb(30, 30, 60);
+}
