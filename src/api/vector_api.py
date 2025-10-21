@@ -5,7 +5,7 @@ from typing import List, Dict, Optional, Union
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, CrossEncoder
 from qdrant_client import QdrantClient, models
 from qdrant_client.http.exceptions import UnexpectedResponse
 from supabase import create_client, Client
@@ -154,15 +154,8 @@ def search(body: SearchBody):
             query_filter=filt,
             with_payload=True,
         )
-        return {
-            "results": [
-                {
-                    "score": h.score,
-                    "text": (h.payload or {}).get("text", "")[:500],
-                }
-                for h in hits
-            ]
-        }
+        return rerank(hits, body.query)
+        
     except UnexpectedResponse as e:
         code = getattr(e, "status_code", None)
         raise HTTPException(status_code=502, detail=f"Qdrant search error: {code} {e}")
@@ -219,3 +212,17 @@ def orchestrate_queries(body: OrchestrateBody):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"orchestrate-queries error: {type(e).__name__}: {e}")
+def rerank(hits, query):
+    reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
+    texts = [hit.payload["text"] for hit in hits]
+    scores = reranker.predict([(query, text) for text in texts])
+    reranked_results = [
+        (hits[i], float(scores[i]))
+        for i in range(len(hits))
+    ]
+    reranked_results.sort(key=lambda x: x[1], reverse=True)
+    return reranked_results
+
+
+    
+
