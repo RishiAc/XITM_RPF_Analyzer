@@ -8,6 +8,8 @@ from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer
 from qdrant_client import QdrantClient, models
 from qdrant_client.http.exceptions import UnexpectedResponse
+from supabase import create_client, Client
+
 # src/api/app.py (only showing the diffs/additions)
 
 # ---- env ----
@@ -15,10 +17,12 @@ QDRANT_URL = os.getenv("QDRANT_URL")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 QDRANT_COLLECTION = os.getenv("QDRANT_COLLECTION", "rfp_chunks")
 EMBED_MODEL = os.getenv("EMBED_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
-
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 # ---- singletons ----
 _app_model = SentenceTransformer(EMBED_MODEL)
 _client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=20)
+_sb: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 def _ensure_collection(dim: int):
     try:
@@ -59,7 +63,24 @@ def _embed(chunks: List[Dict[str, Union[int, str]]]) -> List[List[float]]:
     vecs = _app_model.encode(texts, normalize_embeddings=True)
     return [v.tolist() for v in vecs]
 
-router = APIRouter(prefix="/vector", tags=["vector"])
+def _fetch_query_table(query_numbers: Optional[List[int]] = None) -> List[Dict]:
+    """
+    SELECT query_number, knowledge_base_answer, rfp_query_text, weight
+    FROM public.Query_Table
+    [WHERE query_number IN (...)]
+    ORDER BY query_number ASC
+    """
+    q = _sb.table("Query_Table").select(
+        "query_number, knowledge_base_answer, rfp_query_text, weight"
+    ).order("query_number", desc=False)
+
+    if query_numbers:
+        q = q.in_("query_number", query_numbers)
+
+    res = q.execute()
+    return res.data or []
+
+router = APIRouter(prefix = "/vector", tags=["vector"])
 
 class IngestBody(BaseModel):
     doc_id: str
@@ -69,6 +90,13 @@ class SearchBody(BaseModel):
     doc_id: str
     query: str
     top_k: Optional[int] = 5
+
+class OrchestrateBody(BaseModel):
+    rfp_id: str            # maps to RFPs.id
+    rfp_doc_id: str        # Qdrant payload doc_id for this RFP
+    top_k: Optional[int] = 5
+    query_numbers: Optional[List[int]] = None  # optional subset
+
 
 @router.get("/health")
 def health():
@@ -140,3 +168,54 @@ def search(body: SearchBody):
         raise HTTPException(status_code=502, detail=f"Qdrant search error: {code} {e}")
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"search error: {type(e).__name__}: {e}")
+
+@router.post("/orchestrate-queries")
+def orchestrate_queries(body: OrchestrateBody):
+    """
+    Loops through Query_Table, calls EXISTING /vector/search for each query,
+    and returns a bare JSON payload for the LLM layer.
+    """
+    try:
+        # 1) Load query set
+        rows = _fetch_query_table(body.query_numbers)
+        if not rows:
+            raise HTTPException(status_code=400, detail="No queries found in Query_Table")
+
+        results = []
+
+        # 2) For each query, call your existing search() with SearchBody
+        for row in rows:
+            qnum = row.get("query_number")
+            rfp_q = (row.get("rfp_query_text") or "").strip()
+            kb_ans = (row.get("knowledge_base_answer") or "").strip()
+            weight = row.get("weight")
+
+            if not rfp_q:
+                # Still include the record with empty citations; LLM layer can decide to skip
+                rfp_topk = []
+            else:
+                # IMPORTANT: Call your existing search() function directly
+                sb = SearchBody(doc_id=body.rfp_doc_id, query=rfp_q, top_k=body.top_k or 5)
+                search_resp = search(sb)  # <-- reuses your /vector/search implementation
+                rfp_topk = search_resp.get("results", [])
+
+            # Shape for LLM layer
+            results.append({
+                "rfp_id": body.rfp_id,
+                "query_number": qnum,
+                "rfp_query_text": rfp_q,
+                "knowledge_base_answer": kb_ans,
+                "weight": weight,
+                "rfp_topk": rfp_topk,
+            })
+
+        return {
+            "rfp_id": body.rfp_id,
+            "total_queries": len(results),
+            "queries": results
+        }
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"orchestrate-queries error: {type(e).__name__}: {e}")
