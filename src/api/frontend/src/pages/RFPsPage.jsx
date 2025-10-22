@@ -49,7 +49,6 @@ const RFPsPage = () => {
 				onClick={() => handleCardClick(card)}
 			>
 				<h2>{card.title}</h2>
-				<p>{card.description}</p>
 			</div>
 			))}
 		</div>

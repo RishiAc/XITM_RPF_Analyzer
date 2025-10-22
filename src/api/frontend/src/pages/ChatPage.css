@@ -5,7 +5,7 @@
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background-color: var(--dark-bg);
+  background-color: var(--light-bg);
   color: var(--text-light);
   font-family: 'Poppins', sans-serif;
   padding-top: 70px; /* navbar space */
@@ -14,11 +14,11 @@
 
 .chat-title {
   position: fixed;       /* keeps it on screen */
-  top: 50px;             /* below navbar */
+  top: 80px;             /* below navbar */
   left: 0;
   width: 100%;           /* full width */
   height: 60px;          /* adjust as needed */
-  background-color: var(--dark-bg); 
+  background-color: var(--light-bg); 
   color: var(--accent-yellow);
   display: flex;
   align-items: center;
@@ -30,9 +30,23 @@
 
 .chat-title h2 {
   margin: 0;
-  color: var(--accent-yellow);
+  color: var(--primary-blue);
   font-size: 1.5rem;
   font-weight: 600;
+  position: relative;       /* enables ::after positioning */
+  display: inline-block;    /* keeps underline aligned with text width */
+}
+
+/* yellow underline below each card title */
+.chat-title h2::after {
+  content: "";
+  position: absolute;
+  left: 0;                  /* aligns underline with left edge of text */
+  bottom: -6px;             /* distance below the text */
+  width: 30px;              /* adjust for desired length */
+  height: 3px;              /* thickness */
+  background-color: var(--accent-yellow);
+  border-radius: 2px;
 }
 
 /* Chat container fills remaining space */
@@ -54,6 +68,7 @@
   flex-direction: column;
   gap: 0.8rem;
   padding-right: 0.5rem;
+  margin-top: 40px;
   margin-bottom: 1rem;
   scroll-behavior: smooth;
 }
@@ -78,8 +93,8 @@
 
 /* Bot messages (left) */
 .chat-message.bot {
-  background-color: rgb(50, 50, 90);
-  color: var(--text-light);
+  background-color: rgb(235, 234, 234);
+  color: var(--text-black);
   align-self: flex-start;
   border-bottom-left-radius: 2px;
 }
@@ -97,8 +112,9 @@
   border: none;
   outline: none;
   font-size: 1rem;
-  background-color: rgb(30, 30, 60);
-  color: var(--text-light);
+  background-color: rgb(253, 253, 253);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  color: var(--text-black);
 }
 
 .chat-input-container input::placeholder {
@@ -126,10 +142,10 @@
 }
 
 .chat-box::-webkit-scrollbar-thumb {
-  background-color: rgb(70, 70, 120);
+  background-color: rgb(218, 218, 218);
   border-radius: 3px;
 }
 
 .chat-box::-webkit-scrollbar-track {
-  background-color: rgb(30, 30, 60);
+  background-color: rgb(255, 255, 255);
 }
