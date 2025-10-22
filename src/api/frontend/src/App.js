@@ -1,8 +1,9 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import RFPsPage from "./pages/RFPsPage";
 import ChatPage from "./pages/ChatPage";
+import Dashboard from "./pages/Dashboard";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/rfps" element={<RFPsPage />} />
         <Route path="/chat/:id" element={<ChatPage />} />
+        <Route path="/dashboard" element={<Dashboard />} />
       </Routes>
     </Router>
   );
