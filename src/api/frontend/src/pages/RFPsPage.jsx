@@ -33,7 +33,8 @@ const RFPsPage = () => {
 
   const handleCardClick = (card) => {
   // Pass title via state
-  navigate(`/chat/${card.id}`, { state: { title: card.title } });
+  // navigate(`/chat/${card.id}`, { state: { title: card.title } });
+  navigate(`/dashboard`, { state: { title: card.title } });
   };
 
   return (
