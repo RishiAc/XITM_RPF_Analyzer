@@ -5,7 +5,7 @@
   padding-bottom: 2rem;         /* allow scrolling to bottom */
   box-sizing: border-box;       /* include padding in height */
   overflow-y: auto;             /* enable vertical scroll */
-  background-color: var(--dark-bg);
+  background-color: var(--light-bg);
 
   /* Hide scrollbars across browsers */
   scrollbar-width: none;        /* Firefox */
@@ -17,9 +17,26 @@
 }
 
 .page-title {
-  color: var(--accent-yellow);
+  color: var(--text-black);
   margin-bottom: 2rem;
-  text-align: center;
+  text-align: left;
+  width: 100%;
+  align-self: flex-start;
+}
+
+.page-title h1 {
+  position: relative;       /* enables ::after positioning */
+  display: inline-block;    /* keeps underline aligned with text width */
+}
+.page-title h1::after {
+  content: "";
+  position: absolute;
+  left: 0;                  /* aligns underline with left edge of text */
+  bottom: -6px;             /* distance below the text */
+  width: 30px;              /* adjust for desired length */
+  height: 3px;              /* thickness */
+  background-color: var(--accent-yellow);
+  border-radius: 2px;
 }
 
 .cards-container {
@@ -30,8 +47,8 @@
 }
 
 .card {
-  background-color: rgb(32, 32, 71);
-  color: var(--text-light);
+  background-color: rgb(252, 252, 252);
+  color: var(--text-black);
   padding: 2rem;
   border-radius: 12px;
   width: 15rem;
@@ -41,13 +58,28 @@
 }
 
 .card:hover {
-  background-color: var(--primary-blue);
+  background-color: white;
   transform: translateY(-5px);
 }
 
 .card h2 {
   margin: 0 0 1rem 0;
   font-size: 1.4rem;
+  position: relative;       /* enables ::after positioning */
+  display: inline-block;    /* keeps underline aligned with text width */
+  color: var(--primary-blue);
+} 
+
+/* yellow underline below each card title */
+.card h2::after {
+  content: "";
+  position: absolute;
+  left: 0;                  /* aligns underline with left edge of text */
+  bottom: -6px;             /* distance below the text */
+  width: 30px;              /* adjust for desired length */
+  height: 3px;              /* thickness */
+  background-color: var(--accent-yellow);
+  border-radius: 2px;
 }
 
 .card p {
