@@ -7,8 +7,8 @@ import { supabase } from "./supabaseClient.js";
 export async function fetchRFPs() {
   const { data, error } = await supabase
     .from("RFPs")
-    .select("id")
-    .order("id", { ascending: true });
+    .select("name")
+    .order("name", { ascending: true });
 
   if (error) {
     console.error("❌ Error fetching RFPs:", error);
@@ -17,7 +17,7 @@ export async function fetchRFPs() {
 
   const formatted = data.map((row) => ({
     id: row.id,
-    title: `RFP ${row.id}`,
+    title: `RFP ${row.name}`,
   }));
   console.log(formatted)
   return formatted;
