@@ -20,6 +20,9 @@ class UpdateBody(BaseModel):
     rfp_query_text: str | None
     weight: float | None
 
+class DeleteBody(BaseModel):
+    query_number: int
+
 @router.post("/creat_query_row")
 async def create_query_row(body: CreateBody):
     """Creates and inserts a row in Query_Table with the given information"""
@@ -48,5 +51,5 @@ async def update_query_row(body: UpdateBody):
     supabase_client.table("Query_Table").update(update_json).eq("query_number", body.query_number).execute()
 
 @router.post("/delete_query_row")
-async def delete_query_row():
-    
+async def delete_query_row(body: DeleteBody):
+    supabase_client.table("Query_Table").delete().eq("query_number", body.query_number).execute()
