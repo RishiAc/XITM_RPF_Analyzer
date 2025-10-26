@@ -1,4 +1,4 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 from supabase import create_client, Client
 import os
@@ -26,30 +26,41 @@ class DeleteBody(BaseModel):
 @router.post("/creat_query_row")
 async def create_query_row(body: CreateBody):
     """Creates and inserts a row in Query_Table with the given information"""
-
-    supabase_client.table("Query_Table").insert({
-        "knowledge_base_answer": body.knowledge_base_answer,
-        "rfp_query_text": body.rfp_query_text,
-        "weight": body.weight
-    }).execute()
+    try:
+        supabase_client.table("Query_Table").insert({
+            "knowledge_base_answer": body.knowledge_base_answer,
+            "rfp_query_text": body.rfp_query_text,
+            "weight": body.weight
+        }).execute()
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 @router.post("/update_query_row")
 async def update_query_row(body: UpdateBody):
     """Updates the row in Query_Table with given query_number using the given information,
     if any information is None, that coulumn's data will not be changed"""
+    try:
+        # Construct update json based on given rows
+        update_json = {}
+        if body.knowledge_base_answer != None:
+            update_json["knowledge_base_answer"] = body.knowledge_base_answer
+        if body.rfp_query_text != None:
+            update_json["rfp_query_text"] = body.rfp_query_text
+        if body.weight != None:
+            update_json["weigth"] = body.weight
 
-    # Construct update json based on given rows
-    update_json = {}
-    if body.knowledge_base_answer != None:
-        update_json["knowledge_base_answer"] = body.knowledge_base_answer
-    if body.rfp_query_text != None:
-        update_json["rfp_query_text"] = body.rfp_query_text
-    if body.weight != None:
-        update_json["weigth"] = body.weight
-
-    # Update row
-    supabase_client.table("Query_Table").update(update_json).eq("query_number", body.query_number).execute()
+        # Update row
+        supabase_client.table("Query_Table").update(update_json).eq("query_number", body.query_number).execute()
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 @router.post("/delete_query_row")
 async def delete_query_row(body: DeleteBody):
-    supabase_client.table("Query_Table").delete().eq("query_number", body.query_number).execute()
+    """Deletes the row in Query_Table with given query_number"""
+    try:
+        supabase_client.table("Query_Table").delete().eq("query_number", body.query_number).execute()
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
