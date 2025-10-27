@@ -18,14 +18,13 @@ async def upload_pdf(file: UploadFile = File(...), doc_id: str = Form(...)):
 
         # Convert PDF to JSON
         json_chunks = chunks_to_json(doc_id, chunks)["chunks"]
-
+        
         # Convert JSON into IngestBody
         ingest_body = IngestBody(doc_id=doc_id, chunks=json_chunks)
 
         # Call your existing function
         result = ingest_chunks(ingest_body)
 
-        return result
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -33,3 +32,4 @@ async def upload_pdf(file: UploadFile = File(...), doc_id: str = Form(...)):
     finally:
         # Close temp_file
         temp_file.close()
+        return result
