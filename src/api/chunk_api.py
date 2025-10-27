@@ -25,7 +25,6 @@ async def upload_pdf(file: UploadFile = File(...), doc_id: str = Form(...)):
         # Call your existing function
         result = ingest_chunks(ingest_body)
 
-        return result
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -33,3 +32,4 @@ async def upload_pdf(file: UploadFile = File(...), doc_id: str = Form(...)):
     finally:
         # Close temp_file
         temp_file.close()
+        return result
