@@ -1,0 +1,95 @@
+.cards-page {
+  height: 100vh;                /* fill the viewport */
+  /* padding: 2rem; */
+  padding-top: 50px;          
+  padding-bottom: 2rem;         /* allow scrolling to bottom */
+  box-sizing: border-box;       /* include padding in height */
+  overflow-y: auto;             /* enable vertical scroll */
+  background-color: var(--light-bg);
+
+  /* Hide scrollbars across browsers */
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE 10+ */
+}
+
+.cards-page::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.cards-page .home-container  {
+  margin: 2rem;
+  margin-top: 60px;
+  display: block;
+}
+
+.page-title {
+  color: var(--text-black);
+  margin-bottom: 2rem;
+  text-align: left;
+  width: 100%;
+  align-self: flex-start;
+}
+
+.page-title h1 {
+  position: relative;       /* enables ::after positioning */
+  display: inline-block;    /* keeps underline aligned with text width */
+}
+.page-title h1::after {
+  content: "";
+  position: absolute;
+  left: 0;                  /* aligns underline with left edge of text */
+  bottom: -6px;             /* distance below the text */
+  width: 30px;              /* adjust for desired length */
+  height: 3px;              /* thickness */
+  background-color: var(--accent-yellow);
+  border-radius: 2px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.card {
+  background-color: rgb(252, 252, 252);
+  color: var(--text-black);
+  padding: 2rem;
+  border-radius: 12px;
+  width: 15rem;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: transform 0.3s, background-color 0.3s;
+}
+
+.card:hover {
+  background-color: white;
+  transform: translateY(-5px);
+}
+
+.card h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.4rem;
+  position: relative;       /* enables ::after positioning */
+  display: inline-block;    /* keeps underline aligned with text width */
+  color: var(--primary-blue);
+} 
+
+/* yellow underline below each card title */
+.card h2::after {
+  content: "";
+  position: absolute;
+  left: 0;                  /* aligns underline with left edge of text */
+  bottom: -6px;             /* distance below the text */
+  width: 30px;              /* adjust for desired length */
+  height: 3px;              /* thickness */
+  background-color: var(--accent-yellow);
+  border-radius: 2px;
+}
+
+.card p {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
