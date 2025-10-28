@@ -1,23 +1,35 @@
 import React, { useState } from "react";
 import "./Home.css";
 import Navbar from "../components/Navbar";
+import { uploadPDF } from "../SupaBase/uploadPDF"; // adjust path if needed
 
 const Home = () => {
-    const [file, setFile] = useState(null);
+  const [file, setFile] = useState(null);
+  const [status, setStatus] = useState("");
 
-    const handleFileChange = (e) => {
-        setFile(e.target.files[0]);
-    };
+  const handleFileChange = (e) => {
+    setFile(e.target.files[0]);
+  };
 
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        if (file) {
-            console.log("Uploaded PDF:", file.name);
-            // backend call here
-        } else {
-            alert("Please upload a PDF file.");
-        }
-    };
+   const handleSubmit = async (e) => {
+    e.preventDefault();
+    if (!file) {
+      alert("Please upload a PDF file.");
+      return;
+    }
+
+    try {
+      setStatus("Uploading...");
+
+      // ✅ Use the JS helper to upload the PDF
+      const result = await uploadPDF(file);
+
+      console.log("Upload successful:", result);
+      setStatus(`Upload successful! Doc ID: ${result.qdrant_doc_id}`);
+    } catch (err) {
+      setStatus("Upload failed.");
+    }
+  };
 
     return (
         <div className="home-container">
