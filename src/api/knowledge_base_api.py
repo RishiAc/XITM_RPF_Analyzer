@@ -1,12 +1,13 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
-from supabase import create_client, Client
+from supabase import create_client
+from typing import Optional
 import os
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 
-supabase_client = create_client(SUPABASE_URL, SUPABASE_KEY)
+query_table = create_client(SUPABASE_URL, SUPABASE_KEY).table("Query_Table")
 router = APIRouter(prefix="/knowledge_base", tags=["knowledge_base"])
 
 class CreateBody(BaseModel):
@@ -16,18 +17,25 @@ class CreateBody(BaseModel):
 
 class UpdateBody(BaseModel):
     query_number: int
-    knowledge_base_answer: str | None
-    rfp_query_text: str | None
-    weight: float | None
+    knowledge_base_answer: Optional[str] = None
+    rfp_query_text: Optional[str] = None
+    weight: Optional[float] = None
 
-class DeleteBody(BaseModel):
-    query_number: int
-
-@router.post("/creat_query_row")
+@router.post("/create_query_row")
 async def create_query_row(body: CreateBody):
-    """Creates and inserts a row in Query_Table with the given information"""
+    """
+    Creates and inserts a row in Query_Table with the given information
+
+    Arguments are given in a json format
+    Args:
+        knowledge_base_answer (str): the given answer for this query to store in the knowledge base
+        rfp_query_text (str): the actual query that was answered by the client
+        weight (float): the importance of this query
+    Returns:
+        the response given by the supabase api
+    """
     try:
-        supabase_client.table("Query_Table").insert({
+        return query_table.insert({
             "knowledge_base_answer": body.knowledge_base_answer,
             "rfp_query_text": body.rfp_query_text,
             "weight": body.weight
@@ -38,8 +46,19 @@ async def create_query_row(body: CreateBody):
 
 @router.post("/update_query_row")
 async def update_query_row(body: UpdateBody):
-    """Updates the row in Query_Table with given query_number using the given information,
-    if any information is None, that coulumn's data will not be changed"""
+    """
+    Updates the row in Query_Table with given query_number using the given information,
+    if any information is None, that coulumn's data will not be changed
+
+    Arguments are given in a json format
+    Args:
+        query_number (int): the number of the query to be updated
+        knowledge_base_answer (Optional[str]): the new knowledge_base_answer for the row, this column will not be changed if this argument is not given
+        rfp_query_text (Optional[str]): the new rfp_query_text for the row, this column will not be changed if this argument is not given
+        weight (Optional[float]): the new weight for the row, this column will not be changed if this argument is not given
+    Returns:
+        the response given by the supabase api
+    """
     try:
         # Construct update json based on given rows
         update_json = {}
@@ -48,19 +67,42 @@ async def update_query_row(body: UpdateBody):
         if body.rfp_query_text != None:
             update_json["rfp_query_text"] = body.rfp_query_text
         if body.weight != None:
-            update_json["weigth"] = body.weight
+            update_json["weight"] = body.weight
 
         # Update row
-        supabase_client.table("Query_Table").update(update_json).eq("query_number", body.query_number).execute()
+        return query_table.update(update_json).eq("query_number", body.query_number).execute()
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-@router.post("/delete_query_row")
-async def delete_query_row(body: DeleteBody):
-    """Deletes the row in Query_Table with given query_number"""
+@router.post("/delete_query_row/{query_number}")
+async def delete_query_row(query_number: int):
+    """
+    Deletes the row in Query_Table with given query_number
+
+    Args:
+        query_number (int): the number of the query to delete
+    Returns:
+        the response given by the supabase api
+    """
     try:
-        supabase_client.table("Query_Table").delete().eq("query_number", body.query_number).execute()
+        return query_table.delete().eq("query_number", query_number).execute()
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@router.post("/select_query_row/{query_number}")
+async def select_query_row(query_number: int):
+    """
+    Runs a select query to get the row in Query_Table with the given query_number
+
+    Args:
+        query_number (int): the number of the query to select
+    Returns:
+        the response given by the supabase api, in this case, the requested row
+    """
+    try:
+        return query_table.select("*").eq("query_number", query_number).execute()
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
