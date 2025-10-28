@@ -5,6 +5,7 @@ import { supabase } from "./supabaseClient.js";
  * and returns a list of dictionaries formatted like cardsData.
  */
 export async function fetchRFPs() {
+  // goes to supabase selects the name collumn and creates a row based on names
   const { data, error } = await supabase
     .from("RFPs")
     .select("name")
