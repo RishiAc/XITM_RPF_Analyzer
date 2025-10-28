@@ -10,9 +10,12 @@
 }
 
 /* ====== General Page Layout ====== */
+html, body, #root, .home-container, .home-content, .home-left, .upload-box, button, label, p, h1, h2, h3, h4, h5, h6 {
+  font-family: "inter", sans-serif;
+}
+
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica;
   background: var(--light-bg);
   color: var(--text-black);
   height: 100vh;
@@ -116,8 +119,32 @@ body {
 }
 
 .upload-box p {
-  color: var(--accent-yellow);
+  color: var(--primary-blue);
+  font-weight: 500;
 }
+
+
+/* ====== Custom File Upload Button ====== */
+.upload-label {
+  background-color: var(--accent-yellow);
+  color: var(--dark-bg);
+  font-weight: 600;
+  border: none;
+  border-radius: 6px;
+  padding: 0.7rem 1.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+  display: inline-block;
+  font-size: 0.95rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.upload-label:hover {
+  background-color: #ffb300;
+  transform: scale(1.03);
+}
+
 
 /* ====== Responsiveness ====== */
 @media (max-width: 900px) {
