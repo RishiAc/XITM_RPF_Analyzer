@@ -19,6 +19,7 @@ const Home = () => {
     }
 
     try {
+      console.log("test");
       setStatus("Uploading...");
 
       // Use the JS helper to upload the PDF
@@ -54,6 +55,8 @@ const Home = () => {
                     />
                     <button type="submit">Upload</button>
                     {file && <p>Selected file: {file.name}</p>}
+
+                    {status && <p className="upload-status">{status}</p>}
 			    </form>
             </div>
         </div>
