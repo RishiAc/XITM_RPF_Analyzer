@@ -1,7 +1,7 @@
 .cards-page {
   height: 100vh;                /* fill the viewport */
-  padding: 2rem;
-  padding-top: 100px;           /* leave space for fixed navbar */
+  /* padding: 2rem; */
+  padding-top: 50px;          
   padding-bottom: 2rem;         /* allow scrolling to bottom */
   box-sizing: border-box;       /* include padding in height */
   overflow-y: auto;             /* enable vertical scroll */
@@ -11,9 +11,16 @@
   scrollbar-width: none;        /* Firefox */
   -ms-overflow-style: none;     /* IE 10+ */
 }
+
 .cards-page::-webkit-scrollbar {
   width: 0px;
   background: transparent;
+}
+
+.cards-page .home-container  {
+  margin: 2rem;
+  margin-top: 60px;
+  display: block;
 }
 
 .page-title {
