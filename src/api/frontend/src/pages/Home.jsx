@@ -21,7 +21,7 @@ const Home = () => {
     try {
       setStatus("Uploading...");
 
-      // ✅ Use the JS helper to upload the PDF
+      // Use the JS helper to upload the PDF
       const result = await uploadPDF(file);
 
       console.log("Upload successful:", result);
