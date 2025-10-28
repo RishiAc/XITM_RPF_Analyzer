@@ -18,7 +18,7 @@ async def upload_pdf(file: UploadFile = File(...), doc_id: str = Form(...)):
 
         # Convert PDF to JSON
         json_chunks = chunks_to_json(doc_id, chunks)["chunks"]
-
+        
         # Convert JSON into IngestBody
         ingest_body = IngestBody(doc_id=doc_id, chunks=json_chunks)
 
