@@ -54,11 +54,8 @@ export async function uploadPDF(file) {
 
     // 3️⃣ Send PDF to FastAPI for Qdrant ingestion
     const formData = new FormData();
-    console.log("hekk");
     formData.append("file", file);
-    console.log("hekk1");
     formData.append("doc_id", qdrant_doc_id); // match Supabase id
-    console.log("hekk2");
 
     const response = await fetch("http://localhost:8080/chunk/upload-pdf", {
       method: "POST",
