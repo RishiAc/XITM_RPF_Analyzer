@@ -1,4 +1,4 @@
-from . import vector_api, chunk_api
+import vector_api, chunk_api, scoring_api
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -16,4 +16,4 @@ app.add_middleware(
 
 app.include_router(vector_api.router)
 app.include_router(chunk_api.router)
-
+app.include_router(scoring_api.router)

@@ -153,6 +153,7 @@ def search(body: SearchBody):
             limit=body.top_k,
             query_filter=filt,
             with_payload=True,
+            with_vectors=True
         )
         return rerank(hits, body.query)
         
@@ -183,6 +184,11 @@ def orchestrate_queries(body: OrchestrateBody):
             kb_ans = (row.get("knowledge_base_answer") or "").strip()
             weight = row.get("weight")
 
+            kb_embedding = []
+
+            if kb_ans:
+                kb_embedding = _embed([{"text": kb_ans}])[0]
+
             if not rfp_q:
                 # Still include the record with empty citations; LLM layer can decide to skip
                 rfp_topk = []
@@ -190,7 +196,12 @@ def orchestrate_queries(body: OrchestrateBody):
                 # IMPORTANT: Call your existing search() function directly
                 sb = SearchBody(doc_id=body.rfp_doc_id, query=rfp_q, top_k=body.top_k or 5)
                 search_resp = search(sb)  # <-- reuses your /vector/search implementation
-                rfp_topk = search_resp.get("results", [])
+
+                print("-"*50)
+                print(search_resp)
+
+                # previous code would cause attribute error since search_resp returns a list of (hit, score)
+                rfp_topk = [resp[0] for resp in search_resp]
 
             # Shape for LLM layer
             results.append({
@@ -198,6 +209,7 @@ def orchestrate_queries(body: OrchestrateBody):
                 "query_number": qnum,
                 "rfp_query_text": rfp_q,
                 "knowledge_base_answer": kb_ans,
+                "knowledge_base_answer_embedding": kb_embedding,
                 "weight": weight,
                 "rfp_topk": rfp_topk,
             })
@@ -222,7 +234,3 @@ def rerank(hits, query):
     ]
     reranked_results.sort(key=lambda x: x[1], reverse=True)
     return reranked_results
-
-
-    
-

@@ -2,6 +2,13 @@ from llama_parse import LlamaParse
 from llama_index.core.node_parser import SentenceSplitter
 import re
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # take environment variables
+
+def parse(file):
+    parser = LlamaParse(api_key=os.getenv("LLAMA_PARSE_KEY"))
 def write_to_file(nodes, file):
     with open(file, "w") as f:
         for i, node in enumerate(nodes):

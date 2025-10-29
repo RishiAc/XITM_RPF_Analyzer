@@ -2,7 +2,7 @@
 .env
 =======
 # python
-.venv/
+venv/
 __pycache__/
 *.pyc
 
@@ -15,3 +15,5 @@ qdrant_storage/
 
 # node (future frontend)
 node_modules/
+
+workspace/
