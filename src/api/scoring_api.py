@@ -2,6 +2,7 @@ from fastapi import APIRouter, File, Form, UploadFile, HTTPException
 from vector_api import OrchestrateBody, orchestrate_queries
 from pydantic import BaseModel
 import numpy as np
+from clients.supabase import _sb
 
 router = APIRouter(prefix="/score", tags=["score"])
 
@@ -22,7 +23,46 @@ def _cosine_similarity(v1, v2):
     
     return cos_sim
 
-def _calculate_score(body: OrchestrateBody):
+def _upsert_rfp_eval(rfp_id, chunks, query_number, question, ans, score):
+
+    print(f"Attemtping Upsert: {rfp_id} {query_number} {question} {ans} {score}")
+
+    try:
+        data, count = _sb.table("RFP_Evals").upsert({
+            "rfp_id": rfp_id,
+            "query_number": query_number,
+            "question": question,
+            "knowledge_base_chunk": ans,
+            "rfp_citation_chunks": chunks,
+            "score": score
+        }).execute()
+
+        print(data)
+        print(count)
+    except Exception as e:
+        print(f"Upsert Failed With Unknown Exception:\n {e}")
+
+def _calculate_score(chunks, ans_embedding):
+
+    total_cos_sim = 0
+
+    # assuming chunks are qdrant stored point objects
+    for chunk in chunks:
+        print("-"*50)
+        print(chunk)
+
+        chunk_embedding = chunk.vector
+        chunk_text = chunk.payload["text"]
+        chunk_page_num = chunk.payload["page_num"]
+
+        # compute the similarity score
+        cos_sim = _cosine_similarity(list(chunk_embedding), list(ans_embedding))
+        total_cos_sim += cos_sim
+    
+    return total_cos_sim
+
+@router.post("/score-rfp")
+def score_rfp(body: OrchestrateBody):
 
     tests = orchestrate_queries(body)
 
@@ -37,26 +77,11 @@ def _calculate_score(body: OrchestrateBody):
 
         rfp_chunks = test["rfp_topk"]
 
-        # assuming chunks are qdrant scored point objects
-        for chunk in rfp_chunks:
-            chunk_embedding = chunk.vector
-            chunk_text = chunk.payload["text"]
-            chunk_page_num = chunk.payload["page_num"]
+        total_cos_sim = _calculate_score(rfp_chunks, ans_embedding)
+        _upsert_rfp_eval(body.rfp_id, rfp_chunks, query_number, question, ans, total_cos_sim)
 
-            # compute the similarity score
-            cos_sim = _cosine_similarity(list(chunk_embedding), list(ans_embedding))
-
-            # TODO: use an NLI model to compute hypothesis pairs
-
-            score += cos_sim * weight
-
-    return score
-
-@router.post("/score-rfp")
-def score_rfp(body: OrchestrateBody):
-
-    score = _calculate_score(body)
-
+        score += total_cos_sim * weight
+        
     return {
         "score": max(0, score)
     }
