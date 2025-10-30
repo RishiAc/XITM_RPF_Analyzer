@@ -15,7 +15,7 @@ def write_to_file(nodes, file):
             f.write(f"--- Chunk #{i} ---\n")
             f.write(node.text + "\n")
 
-def parse(file, chunkSize: int = 64, chunkOverlap: int = 12):
+def parse(file, chunkSize: int = 1028, chunkOverlap: int = 50):
     parser = LlamaParse(
         api_key="llx-y0lDjk4o2QVdB13CbRMdFdl3iEAZpBo6AbnsWFdGgBqgJb7l",  # See how to get your API key at https://docs.cloud.llamaindex.ai/api_key
         parse_mode="parse_page_with_agent",  # The parsing mode
@@ -53,3 +53,5 @@ def chunks_to_json(doc_id, nodes):
 
     return output
 
+# print(chunks_to_json("test", parse(r"C:\Users\mcyoo\Desktop\XITM\XITM_RPF_Analyzer\docs\rfps\2-RFP 2000004198.pdf")))
+# print(chunks_to_json("test", parse(r"C:\Users\mcyoo\Desktop\XITM\XITM_RPF_Analyzer\docs\rfps\2-RFP 2000004198.pdf")))

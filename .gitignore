@@ -17,3 +17,4 @@ qdrant_storage/
 node_modules/
 
 workspace/
+.DS_Store
