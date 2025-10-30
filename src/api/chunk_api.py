@@ -1,8 +1,8 @@
-from vector_api import IngestBody, ingest_chunks
-from pdf.parser import parse, chunks_to_json
+from .vector_api import IngestBody, ingest_chunks
+from .pdf.parser import parse, chunks_to_json
 from fastapi import APIRouter, File, Form, UploadFile, HTTPException
 from tempfile import NamedTemporaryFile
-from clients.supabase import _sb
+from .clients.supabase import _sb
 
 router = APIRouter(prefix="/chunk", tags=["chunk"])
 

@@ -6,7 +6,7 @@ import requests
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 from typing import List, Dict, Optional
-
+from .vector_api import search, SearchBody
 # ---- Environment ----
 OPENAI_API_KEY = "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"
 DB_URL = os.getenv("DATABASE_URL")
@@ -32,58 +32,65 @@ def get_db_conn():
         raise HTTPException(status_code=500, detail=f"Database connection failed: {e}")
 
 # ---- Request Models ----
-class EvalRequest(BaseModel):
-    rfp_id: str
-    query_number: int
-    query_text: str
+class EvaluateRequest(BaseModel):
+    doc_id: str
+    query: str
+    top_k: Optional[int] = 5
     qa_answer: str
-    top_k: Optional[int] = 5  # how many chunks to retrieve
 
-# ---- OpenAI Scoring ----
+
 @router.post("/llm-eval")
-def evaluate_llm_test():
+def evaluate_llm_test(body: EvaluateRequest):
     """
-    Temporary hardcoded version — no vector search.
-    Just compares one fixed firm answer and RFP excerpts.
-    """
-
-    qa_answer = """
-    Our company provides minimal SIEM monitoring, incident response,
-    and cloud infrastructure threat detection across AWS and Azure environments.
+    Evaluate how well a firm's QA answer aligns with the top-k RFP text segments.
     """
 
-    retrieved_texts = [
-        "The contractor shall provide continuous threat monitoring and intrusion detection services.",
-        "The contractor shall maintain SIEM-based alerts and reporting 24/7.",
-        "The contractor shall support multiple cloud environments, including AWS and Azure."
-    ]
+    try:
+        # 1️⃣ Build SearchBody and run vector search
+        search_body = SearchBody(
+            doc_id=body.doc_id,
+            query=body.query,
+            top_k=body.top_k
+        )
+        search_results = search(search_body)  # [(hit, score), ...]
 
-    prompt = f"""
+        # 2️⃣ Slice to top_k results (in case rerank returns extras)
+        top_hits = search_results[:body.top_k]
+
+        # 3️⃣ Extract only the text from each top hit
+        retrieved_texts = []
+        for hit, score in top_hits:
+            text = (hit.payload or {}).get("text", "")
+            retrieved_texts.append(text[:500])  # keep first 500 chars for clarity
+
+        # 4️⃣ Build evaluation prompt for LLM
+        prompt = f"""
 You are evaluating how well a firm's capabilities align with the RFP requirements.
 
 Rate from 1–5:
-5 = No alignment
-4 = Weakly related
+1 = No alignment
+2 = Weakly related
 3 = Some relevant overlap
-2 = Strong alignment with minor gaps
-1 = Fully aligned, comprehensive match
+4 = Strong alignment with minor gaps
+5 = Fully aligned, comprehensive match
 
 Return JSON only:
 {{"score": <int>, "explanation": "<brief reasoning>"}}
 
 Firm Capabilities:
-{qa_answer}
+{body.qa_answer}
 
 RFP Statement of Work excerpts:
 {chr(10).join(['- ' + t for t in retrieved_texts])}
 """
 
-    try:
+        # 5️⃣ Call OpenAI for evaluation
         completion = openai.chat.completions.create(
             model="gpt-4o-mini",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.2,
         )
+
         text = completion.choices[0].message.content.strip()
         return json.loads(text)
 
