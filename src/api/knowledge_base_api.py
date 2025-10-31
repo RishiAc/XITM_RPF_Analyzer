@@ -14,12 +14,14 @@ class CreateBody(BaseModel):
     knowledge_base_answer: str
     rfp_query_text: str
     weight: float
+    query_phase: int
 
 class UpdateBody(BaseModel):
     query_number: int
     knowledge_base_answer: Optional[str] = None
     rfp_query_text: Optional[str] = None
     weight: Optional[float] = None
+    query_phase: Optional[int] = None
 
 @router.post("/create_query_row")
 async def create_query_row(body: CreateBody):
@@ -31,6 +33,7 @@ async def create_query_row(body: CreateBody):
         knowledge_base_answer (str): the given answer for this query to store in the knowledge base
         rfp_query_text (str): the actual query that was answered by the client
         weight (float): the importance of this query
+        query_phase (int): the phase this query is a part of
     Returns:
         the response given by the supabase api
     """
@@ -38,7 +41,8 @@ async def create_query_row(body: CreateBody):
         return query_table.insert({
             "knowledge_base_answer": body.knowledge_base_answer,
             "rfp_query_text": body.rfp_query_text,
-            "weight": body.weight
+            "weight": body.weight,
+            "query_phase": body.query_phase
         }).execute()
     
     except Exception as e:
@@ -56,6 +60,7 @@ async def update_query_row(body: UpdateBody):
         knowledge_base_answer (Optional[str]): the new knowledge_base_answer for the row, this column will not be changed if this argument is not given
         rfp_query_text (Optional[str]): the new rfp_query_text for the row, this column will not be changed if this argument is not given
         weight (Optional[float]): the new weight for the row, this column will not be changed if this argument is not given
+        query_phase (Optional[int]): the new phase for this query
     Returns:
         the response given by the supabase api
     """
@@ -68,6 +73,8 @@ async def update_query_row(body: UpdateBody):
             update_json["rfp_query_text"] = body.rfp_query_text
         if body.weight != None:
             update_json["weight"] = body.weight
+        if body.query_phase != None:
+            update_json["query_phase"] = body.query_phase
 
         # Update row
         return query_table.update(update_json).eq("query_number", body.query_number).execute()
