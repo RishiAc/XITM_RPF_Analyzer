@@ -2,14 +2,13 @@ import os
 import json
 import openai
 import psycopg2
-import requests
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
-from typing import List, Dict, Optional
+from typing import Optional
 from .vector_api import search, SearchBody
 # ---- Environment ----
-OPENAI_API_KEY = "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"
-DB_URL = os.getenv("DATABASE_URL")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+DB_URL = os.getenv("SUPABASE_URL")
 VECTOR_API_URL = "http://localhost:8000/vector/search"
 MOCK_DB = True
 
@@ -38,13 +37,11 @@ class EvaluateRequest(BaseModel):
     top_k: Optional[int] = 5
     qa_answer: str
 
-
 @router.post("/llm-eval")
 def evaluate_llm_test(body: EvaluateRequest):
     """
     Evaluate how well a firm's QA answer aligns with the top-k RFP text segments.
     """
-
     try:
         # 1️⃣ Build SearchBody and run vector search
         search_body = SearchBody(
