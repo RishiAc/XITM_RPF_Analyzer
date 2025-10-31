@@ -11,6 +11,7 @@ query_table = create_client(SUPABASE_URL, SUPABASE_KEY).table("Query_Table")
 router = APIRouter(prefix="/knowledge_base", tags=["knowledge_base"])
 
 class CreateBody(BaseModel):
+    query_number: Optional[int] = None
     knowledge_base_answer: str
     rfp_query_text: str
     weight: float
@@ -30,6 +31,7 @@ async def create_query_row(body: CreateBody):
 
     Arguments are given in a json format
     Args:
+        query_number (Optional[int]): query number for this query, if not given one will be automatically assigned
         knowledge_base_answer (str): the given answer for this query to store in the knowledge base
         rfp_query_text (str): the actual query that was answered by the client
         weight (float): the importance of this query
@@ -38,12 +40,16 @@ async def create_query_row(body: CreateBody):
         the response given by the supabase api
     """
     try:
-        return query_table.insert({
+        create_json = {
             "knowledge_base_answer": body.knowledge_base_answer,
             "rfp_query_text": body.rfp_query_text,
             "weight": body.weight,
             "query_phase": body.query_phase
-        }).execute()
+        }
+        if body.query_number != None:
+            create_json["query_number"] = body.query_number
+
+        return query_table.insert(create_json).execute()
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
