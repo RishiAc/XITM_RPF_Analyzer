@@ -22,6 +22,7 @@ SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 # ---- singletons ----
 _app_model = SentenceTransformer(EMBED_MODEL)
 _client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=20)
+print(SUPABASE_URL)
 _sb: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 def _ensure_collection(dim: int):

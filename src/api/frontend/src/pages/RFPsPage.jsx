@@ -12,7 +12,7 @@ const RFPsPage = () => {
   const navigate = useNavigate();
 
   const handleCardClick = (card) => {
-  navigate(`/chat/${card.title}`, { state: { title: card.title } });
+  navigate(`/chat/${card.id}`, { state: { title: card.title } });
 //   navigate(`/dashboard`, { state: { title: card.title } });
   };
 

@@ -8,7 +8,7 @@ export async function fetchRFPs() {
   // goes to supabase selects the name collumn and creates a row based on names
   const { data, error } = await supabase
     .from("RFPs")
-    .select("name")
+    .select("name, id")
     .order("name", { ascending: true });
 
   if (error) {
