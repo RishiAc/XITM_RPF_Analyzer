@@ -2,13 +2,17 @@ from llama_parse import LlamaParse
 from llama_index.core.node_parser import SentenceSplitter
 import re
 
+from dotenv import load_dotenv
+
+load_dotenv()  # take environment variables
+
 def write_to_file(nodes, file):
     with open(file, "w") as f:
         for i, node in enumerate(nodes):
             f.write(f"--- Chunk #{i} ---\n")
             f.write(node.text + "\n")
 
-def parse(file, chunkSize: int = 64, chunkOverlap: int = 12):
+def parse(file, chunk_size: int = 1028, chunk_overlap: int = 50):
     parser = LlamaParse(
         api_key="llx-y0lDjk4o2QVdB13CbRMdFdl3iEAZpBo6AbnsWFdGgBqgJb7l",  # See how to get your API key at https://docs.cloud.llamaindex.ai/api_key
         parse_mode="parse_page_with_agent",  # The parsing mode
@@ -20,7 +24,7 @@ def parse(file, chunkSize: int = 64, chunkOverlap: int = 12):
     )
     parsed_doc = parser.load_data(file)
 
-    splitter = SentenceSplitter(chunk_size=chunkSize, chunk_overlap=chunkOverlap)
+    splitter = SentenceSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     nodes = splitter.get_nodes_from_documents(parsed_doc)
 
     write_to_file(nodes, "rfp_chunks_with_chat.txt2")
@@ -46,3 +50,6 @@ def chunks_to_json(doc_id, nodes):
 
     return output
 
+if __name__ == "__main__":
+    print(chunks_to_json("test", parse(r"C:\Users\mcyoo\Desktop\XITM\XITM_RPF_Analyzer\docs\rfps\2-RFP 2000004198.pdf")))
+    print(chunks_to_json("test", parse(r"C:\Users\mcyoo\Desktop\XITM\XITM_RPF_Analyzer\docs\rfps\2-RFP 2000004198.pdf")))
