@@ -89,7 +89,8 @@ RFP Statement of Work excerpts:
             temperature=0.2,
         )
 
-        text = re.sub("`{3}|json", "", completion.choices[0].message.content).strip()
+        text = re.search(r'(\{"score": \d, "explanation": .+\})', completion.choices[0].message.content).group(1)
+        print(text)
         return json.loads(text)
 
     except Exception as e:
