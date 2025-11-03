@@ -9,7 +9,7 @@ export async function uploadPDF(file) {
     const formData = new FormData();
     formData.append("file", file);
 
-    const response = await fetch("http://localhost:8080/chunk/upload-pdf", {
+    const response = await fetch("http://localhost:8000/chunk/upload-pdf", {
       method: "POST",
       body: formData,
     });
