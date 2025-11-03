@@ -1,11 +1,3 @@
-// src/api/uploadPDF.js
-import { createClient } from "@supabase/supabase-js";
-
-// Initialize Supabase client (still fine to have for future use)
-const supabaseUrl = process.env.REACT_APP_SUPABASE_URL;
-const supabaseKey = process.env.REACT_APP_SUPABASE_ANON_KEY;
-const supabase = createClient(supabaseUrl, supabaseKey);
-
 /**
  * Upload a PDF and send it to FastAPI for Supabase + Qdrant processing
  * @param {File} file - PDF file
