@@ -2,6 +2,7 @@ import os
 import json
 import openai
 import psycopg2
+import re
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 from typing import Optional
@@ -88,7 +89,8 @@ RFP Statement of Work excerpts:
             temperature=0.2,
         )
 
-        text = completion.choices[0].message.content.strip()
+        text = re.search(r'(\{"score": \d, "explanation": .+\})', completion.choices[0].message.content).group(1)
+        print(text)
         return json.loads(text)
 
     except Exception as e:
