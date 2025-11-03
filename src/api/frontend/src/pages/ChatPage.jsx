@@ -2,6 +2,8 @@ import React, { useState, useEffect, useRef } from "react";
 import { useParams, useLocation } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import "./ChatPage.css";
+import { queryRFP } from "../api/query";
+import MarkdownView from "../components/MarkdownView";
 
 const ChatPage = () => {
     const { id } = useParams();
@@ -15,14 +17,35 @@ const ChatPage = () => {
     const [input, setInput] = useState("");
     const chatEndRef = useRef(null);
 
-    const sendMessage = () => {
+    const sendMessage = async () => {
         if (!input.trim()) return;
+
+        console.log(`INPUT: ${input}`);
+        console.log(`ID: ${id}`);
+
         setMessages((prev) => [
             ...prev,
             { type: "user", text: input },
-            { type: "bot", text: "This is a filler response." },
         ]);
+
         setInput("");
+
+        const response = await queryRFP(input, id);
+
+        console.log("RESPONSE");
+        console.log(response);
+
+        if (response.error === undefined) {
+            setMessages((prev) => [
+                ...prev,
+                { type: "bot", text: response.answer },
+            ]);
+        } else {
+            setMessages((prev) => [
+                ...prev,
+                { type: "bot", text: response.error},
+            ]);
+        }
     };
 
     // Auto-scroll to bottom when messages update
@@ -44,7 +67,7 @@ const ChatPage = () => {
                             className={`chat-message ${msg.type}`}
                             >
                             {msg.type === "bot"
-                            ? `Most Relevant Chunk: ${msg.text}`
+                            ? <MarkdownView md={msg.text} />
                             : msg.text}
                         </div>
                     ))}
