@@ -20,9 +20,23 @@ class SummaryResponse(BaseModel):
     sources: list[str]
 
 def _gen_rfp_summary_sys_prompt(chunks: list[ChunkResponse]) -> str:
-    chunk_content = "\n\n".join([chunk.chunk_text for chunk in chunks])
 
-    print(chunk_content)
+    chunk_texts = []
+
+    print('CHUNK CONTEXT')
+
+    for chunk in chunks:
+        print("-"*50)
+        print(chunk.chunk_text)
+
+        chunk_texts.append(chunk.chunk_text)
+
+    print(f"Finished processing chunks {len(chunk_texts)}")
+    print(type(chunk_texts[0]))
+
+    chunk_content = "\n\n".join(chunk_texts)
+
+    print(f"LEN OF CHUNK CONTEXT: {len(chunk_content)}")
 
     system_prompt = f"""
     
@@ -61,6 +75,9 @@ def _gen_rfp_summary_sys_prompt(chunks: list[ChunkResponse]) -> str:
 def _generate_summary(query: str, chunks: list[ChunkResponse]) -> SummaryResponse:
     system_prompt = _gen_rfp_summary_sys_prompt(chunks=chunks)
 
+    print("SYSTEM PROMPT:")
+    print(system_prompt)
+
     response : SummaryResponse = get_chat_completion(
         system_message=system_prompt,
         user_prompt=query,
@@ -79,7 +96,6 @@ def _process_chunks(res: list[ScoredPoint]) -> list[ChunkResponse]:
 
     for chunk in res:
         chunk = chunk[0]
-        print(chunk)
         chunk_text = chunk.payload["text"]
         confidence = chunk.score
 
@@ -102,6 +118,7 @@ def query_rfp(body: QueryBody):
         payload = SearchBody(
             doc_id = body.rfp_doc_id,
             query = body.query,
+            top_k = 20
         )
 
         res = search(payload)
@@ -111,6 +128,7 @@ def query_rfp(body: QueryBody):
         return response
     
     except Exception as e:
+        print("Error")
         return {
             "error": e
-        }
+        }, 400
