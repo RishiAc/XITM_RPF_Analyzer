@@ -5,7 +5,7 @@ client = OpenAI()
 def get_chat_completion(system_message, user_prompt, response_format):
 
     completion = client.chat.completions.parse(
-        model="gpt-4o-2024-08-06",
+        model="gpt-5-nano",
         messages=[
             {"role": "system", "content": system_message},
             {"role": "user", "content": user_prompt},
