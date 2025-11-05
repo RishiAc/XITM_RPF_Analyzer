@@ -1,6 +1,11 @@
 import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import "./KnowledgeBasePage.css";
+import {
+  fetchQueries as fetchQueriesApi,
+  createOrUpdateQuery,
+  deleteQuery as deleteQueryApi,
+} from "../api/knowledgebase";
 
 const KnowledgeBasePage = () => {
   const [queries, setQueries] = useState([]);
@@ -13,69 +18,34 @@ const KnowledgeBasePage = () => {
   });
   const [isEditing, setIsEditing] = useState(false);
 
-  // Fetch all queries
   const fetchQueries = async () => {
-    try {
-      const response = await fetch("/knowledge_base/get_all_query_rows");
-      const data = await response.json();
-      if (data && data.data) setQueries(data.data);
-    } catch (error) {
-      console.error("Error fetching queries:", error);
-    }
+    const data = await fetchQueriesApi();
+    setQueries(data);
   };
 
   useEffect(() => {
     fetchQueries();
   }, []);
 
-  // Handle add or update
   const handleSubmit = async (e) => {
     e.preventDefault();
-    try {
-      const endpoint = isEditing
-        ? "/knowledge_base/update_query_row"
-        : "/knowledge_base/create_query_row";
-
-      const payload = {
-        ...form,
-        weight: parseFloat(form.weight),
-        query_phase: parseInt(form.query_phase),
-      };
-
-      const response = await fetch(endpoint, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
+    const success = await createOrUpdateQuery(form, isEditing);
+    if (success) {
+      setForm({
+        query_number: "",
+        knowledge_base_answer: "",
+        rfp_query_text: "",
+        weight: "",
+        query_phase: "",
       });
-
-      if (response.ok) {
-        setForm({
-          query_number: "",
-          knowledge_base_answer: "",
-          rfp_query_text: "",
-          weight: "",
-          query_phase: "",
-        });
-        setIsEditing(false);
-        fetchQueries();
-      }
-    } catch (error) {
-      console.error("Error submitting form:", error);
+      setIsEditing(false);
+      fetchQueries();
     }
   };
 
-  // Handle delete
   const handleDelete = async (query_number) => {
-    if (!window.confirm("Delete this query?")) return;
-    try {
-      const response = await fetch(
-        `/knowledge_base/delete_query_row/${query_number}`,
-        { method: "POST" }
-      );
-      if (response.ok) fetchQueries();
-    } catch (error) {
-      console.error("Error deleting:", error);
-    }
+    const success = await deleteQueryApi(query_number);
+    if (success) fetchQueries();
   };
 
   const handleEdit = (q) => {
