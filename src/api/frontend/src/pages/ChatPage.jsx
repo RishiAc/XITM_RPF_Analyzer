@@ -90,7 +90,7 @@ const ChatPage = () => {
               className={`chat-message ${msg.type}`}
             >
               {msg.type === "bot" ? (
-                <MarkdownView md={msg.text} />
+                <MarkdownView md={typeof msg.text === "string" ? msg.text : String(msg.text)} />
               ) : (
                 msg.text
               )}
