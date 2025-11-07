@@ -59,10 +59,10 @@ def _gen_rfp_summary_sys_prompt(chunks: list[ChunkResponse]) -> str:
     ### Ground Rules:
     1. You MUST answer the query based on the chunks of text from the request for proposal document
     2. Each source you provide must not be longer than a sentence. If you use multiply sentence those are seperate sources.
-    3. Assume that the person reading your response does not have the document with them. For your sources you must provide the full quote you used
+    3. Assume that the person reading your response does not have the document with them. For your sources you must provide the full quote you used.
     4. You answer should be as specific and verbose as possible.
     5. They should be easy to read for a business development analyst.
-    6. Don't include your sources in the response itself
+    6. Don't include your sources in the answer field. Only include them in the sources field.
 
     ### Chunks from request for proposal
 
