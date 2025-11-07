@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useRef } from "react";
 import { useParams, useLocation } from "react-router-dom";
 import Navbar from "../components/Navbar";
-import { evaluateLLM } from "../api/evaluateLLM";
 import "./ChatPage.css";
 import { queryRFP } from "../api/query";
 import MarkdownView from "../components/MarkdownView";
+import Source from "../components/Source";
 
 const ChatPage = () => {
   const { id } = useParams();
@@ -14,6 +14,7 @@ const ChatPage = () => {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
+  const [activeSourceIndex, setActiveSourceIndex] = useState(null);
   const chatEndRef = useRef(null);
 
   useEffect(() => {
@@ -41,28 +42,15 @@ const ChatPage = () => {
       if (response.error === undefined) {
         setMessages((prev) => [
           ...prev,
-          { type: "bot", text: response.answer },
+          { type: "bot", text: response.answer, sources: response.sources },
         ]);
       } else {
         setMessages((prev) => [
           ...prev,
-          { type: "bot", text: response.error },
+          { type: "bot", text: response.error, sources: [] },
         ]);
       }
 
-      // Optionally call the evaluation endpoint (if you need it)
-    //   try {
-    //     const evalResponse = await evaluateLLM(
-    //       id,
-    //       userInput,
-    //       response.answer ?? userInput,
-    //       5
-    //     );
-    //     console.log("EVAL RESPONSE");
-    //     console.log(evalResponse);
-    //   } catch (evalErr) {
-    //     console.error("Error evaluating LLM:", evalErr);
-    //   }
     } catch (err) {
       console.error(err);
       setMessages((prev) => [
@@ -74,6 +62,21 @@ const ChatPage = () => {
     }
   };
 
+  const handleToggleSources = (index) => {
+    setActiveSourceIndex((prev) => (prev === index ? null : index));
+  };
+
+  const handleCloseSources = () => {
+    setActiveSourceIndex(null);
+  };
+
+  const activeSources =
+    activeSourceIndex !== null
+      ? messages[activeSourceIndex]?.sources ?? []
+      : [];
+
+  const isSourcesOpen = activeSources.length > 0;
+
   return (
     <div className="chat-page">
       <Navbar />
@@ -82,15 +85,26 @@ const ChatPage = () => {
         <h2>{title}</h2>
       </div>
 
-      <div className="chat-container">
-        <div className="chat-box">
+      <div
+        className={`chat-container${isSourcesOpen ? " sources-open" : ""}`}
+      >
+        <section className="chat-main">
+          <div className="chat-box">
           {messages.map((msg, idx) => (
-            <div
-              key={idx}
-              className={`chat-message ${msg.type}`}
-            >
+            <div key={idx} className={`chat-message ${msg.type}`}>
               {msg.type === "bot" ? (
-                <MarkdownView md={msg.text} />
+                <>
+                  <MarkdownView md={msg.text} />
+                    {msg.sources?.length ? (
+                      <button
+                        type="button"
+                        className="chat-message__sources-button"
+                        onClick={() => handleToggleSources(idx)}
+                      >
+                        Sources ({msg.sources.length})
+                      </button>
+                    ) : null}
+                </>
               ) : (
                 msg.text
               )}
@@ -104,20 +118,47 @@ const ChatPage = () => {
           )}
 
           <div ref={chatEndRef} />
-        </div>
+          </div>
 
-        <div className="chat-input-container">
-          <input
-            type="text"
-            placeholder="Type a message..."
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            onKeyDown={(e) => e.key === "Enter" && sendMessage()}
-            disabled={loading}
-          />
-          <button onClick={sendMessage} disabled={loading}>
-            {loading ? "Sending..." : "Send"}
-          </button>
+          <div className="chat-input-container">
+            <input
+              type="text"
+              placeholder="Type a message..."
+              value={input}
+              onChange={(e) => setInput(e.target.value)}
+              onKeyDown={(e) => e.key === "Enter" && sendMessage()}
+              disabled={loading}
+            />
+            <button onClick={sendMessage} disabled={loading}>
+              {loading ? "Sending..." : "Send"}
+            </button>
+          </div>
+        </section>
+
+        <div
+          className="chat-sources-panel"
+          aria-label="Sources panel"
+          aria-hidden={!isSourcesOpen}
+        >
+          {isSourcesOpen ? (
+            <>
+              <div className="chat-sources-panel__header">
+                <h3>Sources</h3>
+                <button
+                  type="button"
+                  className="chat-sources-panel__close"
+                  onClick={handleCloseSources}
+                >
+                  ×
+                </button>
+              </div>
+              <div className="chat-sources-panel__body">
+                {activeSources.map((source, index) => (
+                  <Source key={index} text={source} />
+                ))}
+              </div>
+            </>
+          ) : null}
         </div>
       </div>
     </div>
