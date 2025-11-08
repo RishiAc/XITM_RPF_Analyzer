@@ -4,6 +4,8 @@ import Home from "./pages/Home";
 import RFPsPage from "./pages/RFPsPage";
 import ChatPage from "./pages/ChatPage";
 import Dashboard from "./pages/Dashboard";
+import LoginPage from "./pages/LoginPage";
+import SignupPage from "./pages/SignupPage";
 
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
 
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/signup" element={<SignupPage />} />
         <Route path="/rfps" element={<RFPsPage />} />
         <Route path="/chat/:id" element={<ChatPage />} />
         <Route path="/dashboard" element={<Dashboard />} />
