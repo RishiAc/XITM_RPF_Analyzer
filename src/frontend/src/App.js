@@ -6,6 +6,7 @@ import ChatPage from "./pages/ChatPage";
 import Dashboard from "./pages/Dashboard";
 import LoginPage from "./pages/LoginPage";
 import SignupPage from "./pages/SignupPage";
+import RequireAuth from "./components/RequireAuth";
 
 
 function App() {
@@ -16,12 +17,15 @@ function App() {
       </nav> */}
 
       <Routes>
-        <Route path="/" element={<Home />} />
         <Route path="/login" element={<LoginPage />} />
         <Route path="/signup" element={<SignupPage />} />
-        <Route path="/rfps" element={<RFPsPage />} />
-        <Route path="/chat/:id" element={<ChatPage />} />
-        <Route path="/dashboard" element={<Dashboard />} />
+
+        <Route element={<RequireAuth />}>
+          <Route path="/" element={<Home />} />
+          <Route path="/rfps" element={<RFPsPage />} />
+          <Route path="/chat/:id" element={<ChatPage />} />
+          <Route path="/dashboard" element={<Dashboard />} />
+        </Route>
       </Routes>
     </Router>
   );
