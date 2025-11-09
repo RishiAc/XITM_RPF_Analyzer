@@ -66,13 +66,13 @@ def _embed(chunks: List[Dict[str, Union[int, str]]]) -> List[List[float]]:
 
 def _fetch_query_table(query_numbers: Optional[List[int]] = None) -> List[Dict]:
     """
-    SELECT query_number, knowledge_base_answer, rfp_query_text, weight
+    SELECT query_number, knowledge_base_answer, rfp_query_text, weight, query_phase
     FROM public.Query_Table
     [WHERE query_number IN (...)]
     ORDER BY query_number ASC
     """
     q = _sb.table("Query_Table").select(
-        "query_number, knowledge_base_answer, rfp_query_text, weight"
+        "query_number, knowledge_base_answer, rfp_query_text, weight, query_phase"
     ).order("query_number", desc=False)
 
     if query_numbers:
@@ -80,6 +80,7 @@ def _fetch_query_table(query_numbers: Optional[List[int]] = None) -> List[Dict]:
 
     res = q.execute()
     return res.data or []
+
 
 router = APIRouter(prefix = "/vector", tags=["vector"])
 
@@ -171,48 +172,35 @@ def orchestrate_queries(body: OrchestrateBody):
     and returns a bare JSON payload for the LLM layer.
     """
     try:
-        # 1) Load query set
         rows = _fetch_query_table(body.query_numbers)
         if not rows:
             raise HTTPException(status_code=400, detail="No queries found in Query_Table")
 
         results = []
 
-        # 2) For each query, call your existing search() with SearchBody
         for row in rows:
             qnum = row.get("query_number")
             rfp_q = (row.get("rfp_query_text") or "").strip()
             kb_ans = (row.get("knowledge_base_answer") or "").strip()
             weight = row.get("weight")
+            query_phase = row.get("query_phase")  # <-- NEW
 
-            kb_embedding = []
-
-            if kb_ans:
-                kb_embedding = _embed([{"text": kb_ans}])[0]
-
-            if not rfp_q:
-                # Still include the record with empty citations; LLM layer can decide to skip
-                rfp_topk = []
-            else:
-                # IMPORTANT: Call your existing search() function directly
+   
+            if rfp_q:
                 sb = SearchBody(doc_id=body.rfp_doc_id, query=rfp_q, top_k=body.top_k or 5)
-                search_resp = search(sb)  # <-- reuses your /vector/search implementation
+                search_resp = search(sb)             # {"results":[...]}
+                rfp_topk = search_resp.get("results", [])
+            else:
+                rfp_topk = []
 
-                print("-"*50)
-                print(search_resp)
-
-                # previous code would cause attribute error since search_resp returns a list of (hit, score)
-                rfp_topk = [resp[0] for resp in search_resp]
-
-            # Shape for LLM layer
             results.append({
                 "rfp_id": body.rfp_id,
                 "query_number": qnum,
+                "query_phase": query_phase,                 # <-- NEW in output
                 "rfp_query_text": rfp_q,
                 "knowledge_base_answer": kb_ans,
-                "knowledge_base_answer_embedding": kb_embedding,
                 "weight": weight,
-                "rfp_topk": rfp_topk,
+                "rfp_topk": rfp_topk,                      # list of dicts from /search
             })
 
         return {
@@ -229,9 +217,17 @@ def rerank(hits, query):
     reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
     texts = [hit.payload["text"] for hit in hits]
     scores = reranker.predict([(query, text) for text in texts])
+    
+    # Return structured results with text and metadata
     reranked_results = [
-        (hits[i], float(scores[i]))
+        {
+            "text": hits[i].payload["text"],
+            "score": float(scores[i]),
+            "page_num": hits[i].payload.get("page_num"),
+            "doc_id": hits[i].payload.get("doc_id")
+        }
         for i in range(len(hits))
     ]
-    reranked_results.sort(key=lambda x: x[1], reverse=True)
+    # Sort by score
+    reranked_results.sort(key=lambda x: x["score"], reverse=True)
     return reranked_results
