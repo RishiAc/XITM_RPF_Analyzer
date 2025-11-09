@@ -2,7 +2,7 @@ import React from "react";
 import "./Navbar.css";
 import XITM_logo from "../assets/XITM_logo.png";
 import { useAuth } from "../context/AuthContext";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const Navbar = () => {
   const navigate = useNavigate();
@@ -19,14 +19,14 @@ const Navbar = () => {
         <img src={XITM_logo} alt="XITM Logo" className="logo-img" />
       </div>
       <div className="nav-links">
-        <a href="/">Home</a>
-        <a href="/RFPs">RFPs</a>
+        <Link to="/">Home</Link>
+        <Link to="/rfps">RFPs</Link>
         {!isLoading && user ? (
           <button className="logout-button" onClick={handleLogout}>
             Log out
           </button>
         ) : (
-          <a href="/login">Login</a>
+          <Link to="/login">Login</Link>
         )}
       </div>
     </nav>

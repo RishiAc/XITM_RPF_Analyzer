@@ -3,7 +3,7 @@ import "./LoginPage.css";
 import Navbar from "../components/Navbar";
 import { authConfig, isEmailAllowed } from "../config/authConfig";
 import { supabase } from "../SupaBase/supabaseClient";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const LoginPage = () => {
   const [email, setEmail] = useState("");
@@ -95,9 +95,9 @@ const LoginPage = () => {
           </form>
 
           <div className="login-footer">
-            <a href="/signup">
-              Sign up with your {authConfig.allowedDomain} email or admin email
-            </a>
+            <Link to="/signup">
+              Sign up with your @{authConfig.allowedDomain} email or admin email
+            </Link>
           </div>
         </section>
       </div>

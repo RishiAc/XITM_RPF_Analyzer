@@ -3,6 +3,7 @@ import "./SignupPage.css";
 import Navbar from "../components/Navbar";
 import { authConfig, isEmailAllowed } from "../config/authConfig";
 import { supabase } from "../SupaBase/supabaseClient";
+import { Link } from "react-router-dom";
 
 const SignupPage = () => {
   const [email, setEmail] = useState("");
@@ -121,7 +122,7 @@ const SignupPage = () => {
 
           <div className="signup-footer">
             <span>Already have an account?</span>
-            <a href="/login">Sign in</a>
+            <Link to="/login">Sign in</Link>
           </div>
         </section>
       </div>
