@@ -3,6 +3,7 @@ import "./LoginPage.css";
 import Navbar from "../components/Navbar";
 import { authConfig, isEmailAllowed } from "../config/authConfig";
 import { supabase } from "../SupaBase/supabaseClient";
+import { useNavigate } from "react-router-dom";
 
 const LoginPage = () => {
   const [email, setEmail] = useState("");
@@ -11,12 +12,14 @@ const LoginPage = () => {
   const [generalError, setGeneralError] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
 
+  const navigate = useNavigate();
+
   const handleSubmit = async (event) => {
     event.preventDefault();
 
     if (!isEmailAllowed(email)) {
       setEmailError(
-        `Please use your @${authConfig.allowedDomain} email or contact an administrator.`
+        `Please use your ${authConfig.allowedDomain} email or contact an administrator.`
       );
       return;
     }
@@ -36,8 +39,7 @@ const LoginPage = () => {
         return;
       }
 
-      // TODO: proceed to OTP verification step (handled in upcoming steps)
-      console.log("Primary sign-in succeeded. Awaiting OTP verification...");
+      navigate("/");
     } catch (err) {
       console.error("Supabase sign-in error:", err);
       setGeneralError("Unexpected error during sign-in. Please try again.");
@@ -93,8 +95,9 @@ const LoginPage = () => {
           </form>
 
           <div className="login-footer">
-            <span>Need an account?</span>
-            <a href="/request-access">Request access</a>
+            <a href="/signup">
+              Sign up with your {authConfig.allowedDomain} email or admin email
+            </a>
           </div>
         </section>
       </div>
