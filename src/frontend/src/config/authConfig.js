@@ -21,3 +21,22 @@ export const isEmailAllowed = (email) => {
 
   return domain === authConfig.allowedDomain.toLowerCase();
 };
+
+const API_BASE_URL =
+  process.env.NODE_ENV === "production"
+    ? "http://backend:8080"  // Internal Docker service name
+    : "http://localhost:8080";  // Local dev (non-Docker)
+
+export const AUTH_CONFIG = {
+  apiBaseUrl: API_BASE_URL,
+
+  // Add any existing auth-related config here
+  // For example:
+  endpoints: {
+    login: `${API_BASE_URL}/auth/login`,
+    register: `${API_BASE_URL}/auth/register`,
+    logout: `${API_BASE_URL}/auth/logout`,
+  },
+};
+
+export default AUTH_CONFIG;
