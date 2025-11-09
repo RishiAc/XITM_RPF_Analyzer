@@ -1,4 +1,4 @@
-const allowedDomain = process.env.REACT_APP_ALLOWED_DOMAIN || "example.com";
+const allowedDomain = process.env.REACT_APP_ALLOWED_DOMAIN;
 
 const adminEmails = (process.env.REACT_APP_ADMIN_EMAILS || "")
   .split(",")
