@@ -1,6 +1,7 @@
 # src/api/app.py
 import os
 import uuid
+import openai
 from typing import List, Dict, Optional, Union
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
@@ -9,8 +10,7 @@ from sentence_transformers import SentenceTransformer, CrossEncoder
 from qdrant_client import QdrantClient, models
 from qdrant_client.http.exceptions import UnexpectedResponse
 from supabase import create_client, Client
-
-# src/api/app.py (only showing the diffs/additions)
+from .models import SearchBody  # Updated import
 
 # ---- env ----
 QDRANT_URL = os.getenv("QDRANT_URL")
@@ -19,6 +19,12 @@ QDRANT_COLLECTION = os.getenv("QDRANT_COLLECTION", "rfp_chunks")
 EMBED_MODEL = os.getenv("EMBED_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
+
+# Add OpenAI API key initialization
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+if OPENAI_API_KEY:
+    openai.api_key = OPENAI_API_KEY
+
 # ---- singletons ----
 _app_model = SentenceTransformer(EMBED_MODEL)
 _client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=20)
@@ -72,7 +78,7 @@ def _fetch_query_table(query_numbers: Optional[List[int]] = None) -> List[Dict]:
     ORDER BY query_number ASC
     """
     q = _sb.table("Query_Table").select(
-        "query_number, knowledge_base_answer, rfp_query_text, weight, query_phase"
+        "query_number, knowledge_base_answer, rfp_query_text, weight, query_phase"  # Added query_phase
     ).order("query_number", desc=False)
 
     if query_numbers:
@@ -80,7 +86,6 @@ def _fetch_query_table(query_numbers: Optional[List[int]] = None) -> List[Dict]:
 
     res = q.execute()
     return res.data or []
-
 
 router = APIRouter(prefix = "/vector", tags=["vector"])
 
@@ -98,6 +103,12 @@ class OrchestrateBody(BaseModel):
     rfp_doc_id: str        # Qdrant payload doc_id for this RFP
     top_k: Optional[int] = 5
     query_numbers: Optional[List[int]] = None  # optional subset
+
+class OrchestrateEvalBody(BaseModel):
+    rfp_id: str
+    rfp_doc_id: str
+    top_k: Optional[int] = 5
+    query_numbers: Optional[List[int]] = None
 
 
 @router.get("/health")
@@ -172,35 +183,37 @@ def orchestrate_queries(body: OrchestrateBody):
     and returns a bare JSON payload for the LLM layer.
     """
     try:
+        # 1) Load query set
         rows = _fetch_query_table(body.query_numbers)
         if not rows:
             raise HTTPException(status_code=400, detail="No queries found in Query_Table")
 
         results = []
 
+        # 2) For each query, call your existing search() with SearchBody
         for row in rows:
             qnum = row.get("query_number")
             rfp_q = (row.get("rfp_query_text") or "").strip()
             kb_ans = (row.get("knowledge_base_answer") or "").strip()
             weight = row.get("weight")
-            query_phase = row.get("query_phase")  # <-- NEW
+            phase = row.get("query_phase")  # Get the phase
 
-   
-            if rfp_q:
-                sb = SearchBody(doc_id=body.rfp_doc_id, query=rfp_q, top_k=body.top_k or 5)
-                search_resp = search(sb)             # {"results":[...]}
-                rfp_topk = search_resp.get("results", [])
-            else:
+            if not rfp_q:
                 rfp_topk = []
+            else:
+                sb = SearchBody(doc_id=body.rfp_doc_id, query=rfp_q, top_k=body.top_k or 5)
+                search_resp = search(sb)
+                rfp_topk = search_resp
 
+            # Added query_phase to the results
             results.append({
                 "rfp_id": body.rfp_id,
                 "query_number": qnum,
-                "query_phase": query_phase,                 # <-- NEW in output
                 "rfp_query_text": rfp_q,
                 "knowledge_base_answer": kb_ans,
                 "weight": weight,
-                "rfp_topk": rfp_topk,                      # list of dicts from /search
+                "query_phase": phase,  # Include phase in output
+                "rfp_topk": rfp_topk,
             })
 
         return {
