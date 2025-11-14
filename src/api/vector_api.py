@@ -1,6 +1,7 @@
 # src/api/app.py
 import os
 import uuid
+import openai
 from typing import List, Dict, Optional, Union
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
@@ -9,8 +10,7 @@ from sentence_transformers import SentenceTransformer, CrossEncoder
 from qdrant_client import QdrantClient, models
 from qdrant_client.http.exceptions import UnexpectedResponse
 from supabase import create_client, Client
-
-# src/api/app.py (only showing the diffs/additions)
+from .models import SearchBody  # Updated import
 
 # ---- env ----
 QDRANT_URL = os.getenv("QDRANT_URL")
@@ -19,6 +19,12 @@ QDRANT_COLLECTION = os.getenv("QDRANT_COLLECTION", "rfp_chunks")
 EMBED_MODEL = os.getenv("EMBED_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
+
+# Add OpenAI API key initialization
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+if OPENAI_API_KEY:
+    openai.api_key = OPENAI_API_KEY
+
 # ---- singletons ----
 _app_model = SentenceTransformer(EMBED_MODEL)
 _client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=20)
@@ -66,13 +72,13 @@ def _embed(chunks: List[Dict[str, Union[int, str]]]) -> List[List[float]]:
 
 def _fetch_query_table(query_numbers: Optional[List[int]] = None) -> List[Dict]:
     """
-    SELECT query_number, knowledge_base_answer, rfp_query_text, weight
+    SELECT query_number, knowledge_base_answer, rfp_query_text, weight, query_phase
     FROM public.Query_Table
     [WHERE query_number IN (...)]
     ORDER BY query_number ASC
     """
     q = _sb.table("Query_Table").select(
-        "query_number, knowledge_base_answer, rfp_query_text, weight"
+        "query_number, knowledge_base_answer, rfp_query_text, weight, query_phase"  # Added query_phase
     ).order("query_number", desc=False)
 
     if query_numbers:
@@ -97,6 +103,12 @@ class OrchestrateBody(BaseModel):
     rfp_doc_id: str        # Qdrant payload doc_id for this RFP
     top_k: Optional[int] = 5
     query_numbers: Optional[List[int]] = None  # optional subset
+
+class OrchestrateEvalBody(BaseModel):
+    rfp_id: str
+    rfp_doc_id: str
+    top_k: Optional[int] = 5
+    query_numbers: Optional[List[int]] = None
 
 
 @router.get("/health")
@@ -184,34 +196,23 @@ def orchestrate_queries(body: OrchestrateBody):
             rfp_q = (row.get("rfp_query_text") or "").strip()
             kb_ans = (row.get("knowledge_base_answer") or "").strip()
             weight = row.get("weight")
-
-            kb_embedding = []
-
-            if kb_ans:
-                kb_embedding = _embed([{"text": kb_ans}])[0]
+            phase = row.get("query_phase")  # Get the phase
 
             if not rfp_q:
-                # Still include the record with empty citations; LLM layer can decide to skip
                 rfp_topk = []
             else:
-                # IMPORTANT: Call your existing search() function directly
                 sb = SearchBody(doc_id=body.rfp_doc_id, query=rfp_q, top_k=body.top_k or 5)
-                search_resp = search(sb)  # <-- reuses your /vector/search implementation
+                search_resp = search(sb)
+                rfp_topk = search_resp
 
-                print("-"*50)
-                print(search_resp)
-
-                # previous code would cause attribute error since search_resp returns a list of (hit, score)
-                rfp_topk = [resp[0] for resp in search_resp]
-
-            # Shape for LLM layer
+            # Added query_phase to the results
             results.append({
                 "rfp_id": body.rfp_id,
                 "query_number": qnum,
                 "rfp_query_text": rfp_q,
                 "knowledge_base_answer": kb_ans,
-                "knowledge_base_answer_embedding": kb_embedding,
                 "weight": weight,
+                "query_phase": phase,  # Include phase in output
                 "rfp_topk": rfp_topk,
             })
 
@@ -229,9 +230,17 @@ def rerank(hits, query):
     reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
     texts = [hit.payload["text"] for hit in hits]
     scores = reranker.predict([(query, text) for text in texts])
+    
+    # Return structured results with text and metadata
     reranked_results = [
-        (hits[i], float(scores[i]))
+        {
+            "text": hits[i].payload["text"],
+            "score": float(scores[i]),
+            "page_num": hits[i].payload.get("page_num"),
+            "doc_id": hits[i].payload.get("doc_id")
+        }
         for i in range(len(hits))
     ]
-    reranked_results.sort(key=lambda x: x[1], reverse=True)
+    # Sort by score
+    reranked_results.sort(key=lambda x: x["score"], reverse=True)
     return reranked_results
