@@ -4,7 +4,15 @@ import { createClient } from "@supabase/supabase-js";
 // Initialize Supabase client (still fine to have for future use)
 const supabaseUrl = process.env.REACT_APP_SUPABASE_URL;
 const supabaseKey = process.env.REACT_APP_SUPABASE_ANON_KEY;
-const supabase = createClient(supabaseUrl, supabaseKey);
+
+let supabase = null;
+if (supabaseUrl && supabaseKey) {
+  supabase = createClient(supabaseUrl, supabaseKey);
+} else {
+  console.warn(
+    "Supabase credentials missing (REACT_APP_SUPABASE_URL / REACT_APP_SUPABASE_ANON_KEY). Supabase client disabled."
+  );
+}
 
 /**
  * Upload a PDF and send it to FastAPI for Supabase + Qdrant processing
