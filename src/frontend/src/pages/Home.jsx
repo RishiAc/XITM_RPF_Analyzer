@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Home.css";
 import Navbar from "../components/Navbar";
-import { uploadPDF } from "../SupaBase/uploadPDF"; // adjust path if needed
+import { uploadPDF } from "../api/uploadPDF"; // adjust path if needed
 
 const Home = () => {
     const [file, setFile] = useState(null);
@@ -28,7 +28,8 @@ const Home = () => {
             console.log("Upload successful:", result);
             setStatus(`Upload successful! Doc ID: ${result.qdrant_doc_id}`);
         } catch (err) {
-            setStatus("Upload failed.");
+            setStatus("Upload failed: " + err.message);
+            console.error("Upload failed:", err);
         }
     };
 

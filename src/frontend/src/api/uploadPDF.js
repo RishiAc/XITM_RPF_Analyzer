@@ -2,6 +2,8 @@
  * Upload a PDF and send it to FastAPI for Supabase + Qdrant processing
  * @param {File} file - PDF file
  */
+import { client } from "./client.js";
+
 export async function uploadPDF(file) {
   if (!file) throw new Error("No file provided");
 
@@ -9,7 +11,9 @@ export async function uploadPDF(file) {
     const formData = new FormData();
     formData.append("file", file);
 
-    const response = await fetch("http://localhost:8000/chunk/upload-pdf", {
+    console.log("client.stagingBackendUrl", client.stagingBackendUrl);
+
+    const response = await fetch(`http://localhost:8080/chunk/upload-pdf`, {
       method: "POST",
       body: formData,
     });

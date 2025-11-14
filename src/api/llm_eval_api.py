@@ -63,24 +63,24 @@ def evaluate_llm_test(body: EvaluateRequest):
 
         # 4️⃣ Build evaluation prompt for LLM
         prompt = f"""
-You are evaluating how well a firm's capabilities align with the RFP requirements.
+            You are evaluating how well a firm's capabilities align with the RFP requirements.
 
-Rate from 1–5:
-1 = No alignment
-2 = Weakly related
-3 = Some relevant overlap
-4 = Strong alignment with minor gaps
-5 = Fully aligned, comprehensive match
+            Rate from 1–5:
+            1 = No alignment
+            2 = Weakly related
+            3 = Some relevant overlap
+            4 = Strong alignment with minor gaps
+            5 = Fully aligned, comprehensive match
 
-Return JSON only:
-{{"score": <int>, "explanation": "<brief reasoning>"}}
+            Return JSON only:
+            {{"score": <int>, "explanation": "<brief reasoning>"}}
 
-Firm Capabilities:
-{body.qa_answer}
+            Firm Capabilities:
+            {body.qa_answer}
 
-RFP Statement of Work excerpts:
-{chr(10).join(['- ' + t for t in retrieved_texts])}
-"""
+            RFP Statement of Work excerpts:
+            {chr(10).join(['- ' + t for t in retrieved_texts])}
+        """
 
         # 5️⃣ Call OpenAI for evaluation
         completion = openai.chat.completions.create(
