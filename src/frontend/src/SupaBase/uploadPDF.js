@@ -4,28 +4,23 @@
  */
 export async function uploadPDF(file) {
   if (!file) throw new Error("No file provided");
+  const url = "http://localhost:8080/chunk/upload-pdf"; // <-- ensure 8080
+  const fd = new FormData();
+  fd.append("file", file);
 
   try {
-    const formData = new FormData();
-    formData.append("file", file);
-
-    const response = await fetch("http://localhost:8080/chunk/upload-pdf", {
+    const res = await fetch(url, {
       method: "POST",
-      body: formData,
+      body: fd, // do NOT set Content-Type
     });
 
-    if (!response.ok) {
-      const errText = await response.text();
-      throw new Error(`Upload failed: ${response.status} ${errText}`);
+    if (!res.ok) {
+      const txt = await res.text();
+      throw new Error(`Upload failed: ${res.status} ${res.statusText} - ${txt}`);
     }
-
-    // ✅ Parse JSON result from FastAPI (this is your "result" dict)
-    const result = await response.json();
-
-    return result;
-
+    return await res.json();
   } catch (err) {
-    console.error("Error uploading PDF:", err);
+    console.error("uploadPDF error:", err);
     throw err;
   }
 }
