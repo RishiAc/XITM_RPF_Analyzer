@@ -155,7 +155,7 @@ def orchestrate_and_evaluate(body: OrchestrateBody):
         # Update Supabase RFP_Evals table
         for query in results:
             insert_json = {
-                "rfp_id": body.rfp_id,
+                "rfp_id": body.rfp_doc_id,
                 "query_number": query["query_number"],
                 "query_text": query["rfp_query_text"],
                 "query_llm_answer": query["evaluation"]["explanation"],
