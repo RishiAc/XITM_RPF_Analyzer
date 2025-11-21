@@ -161,7 +161,8 @@ def orchestrate_and_evaluate(body: OrchestrateBody):
                 "query_llm_answer": query["evaluation"]["explanation"],
                 "score": query["evaluation"]["score"],
                 "rfp_citation_chunks": [topk["text"] for topk in query["rfp_topk"]],
-                "knowledge_base_chunk": query.get("knowledge_base_answer")
+                "knowledge_base_chunk": query.get("knowledge_base_answer"),
+                "query_phase": query["query_phase"]
             }
             
             supabase_client.table("RFP_Evals").insert(insert_json).execute()
