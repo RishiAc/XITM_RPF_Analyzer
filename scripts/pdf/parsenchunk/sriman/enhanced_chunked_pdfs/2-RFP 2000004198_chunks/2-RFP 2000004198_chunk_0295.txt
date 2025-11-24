@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0295
+Source File: 2-RFP 2000004198.pdf
+Section Title: 75. PERSONALLY IDENTIFIABLE INFORMATION: Contractor will comply with all applicable laws regarding safeguarding and
+Section Number: 75.
+Section Type: general
+Word Count: 163
+Character Count: 1038
+Line Count: 10
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+protection of personally identifiable information made available through this Contract. Contractor must report to the County all
+breaches that result in exposure of the County’s data or other incidents compromising the security of the County’s data. For
+purposes of this section “County data” means data that the Contractor accesses, stores, or hosts pursuant to this Contract and
+includes “personal information” defined by Virginia Code § 18.2-186.6 or “medical information” defined by Virginia Code § 32.1-
+127.1:05. Such reports must be made to the County immediately upon discovery of the breach and no later than three days from
+when Contractor discovered the breach. The requirements of this paragraph are in addition to and do not relieve Contractor of
+its obligation to comply with any requirements imposed by law regarding data breaches. If any notices to individuals or third
+parties are required by applicable law due to a data breach, the parties will cooperate to ensure that such notice is timely provided.
+34
+RFP 2000004198

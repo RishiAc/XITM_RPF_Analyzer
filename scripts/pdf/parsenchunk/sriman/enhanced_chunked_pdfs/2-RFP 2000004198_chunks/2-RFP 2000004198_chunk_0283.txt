@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0283
+Source File: 2-RFP 2000004198.pdf
+Section Title: contract is declared void, the performing Contractor shall be compensated for the cost of performance up to the time of
+Section Number: None
+Section Type: budget_pricing
+Word Count: 14
+Character Count: 90
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+such declaration. In no event shall the performing Contractor be entitled to lost profits.

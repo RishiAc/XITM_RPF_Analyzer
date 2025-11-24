@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0175
+Source File: 2-RFP 2000004198.pdf
+Section Title: 28.1. In the event of conflict, the Acceptance Agreement (provided at contract award) and the Special
+Section Number: 28.1.
+Section Type: general
+Word Count: 12
+Character Count: 89
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Provisions shall take precedence over the General Conditions and Instructions to Bidders,

@@ -1,0 +1,35 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_023
+Section: 1. Minority Business Enterprise
+Section Number: 1
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: Small Business
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: insurance, solicitation, maryland, vsbe
+Word Count: 187
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+1. Minority Business Enterprise
+MBEs are encouraged to respond to this solicitation notice as Prime Contractors. In order to
+participate as an MBE in AOC procurements, MBEs must be certified by the Maryland Department
+of Transportation (MDOT). Additional information regarding certification can be located on the
+MDOT Website: https://www.mdot.maryland.gov/tso/Pages/Index.aspx?PageId=90
+a. There is no MBE goal established for this solicitation.
+2. Veteran-owned Small Business Enterprise
+VSBEs are encouraged to respond to this solicitation notice as Prime Contractors. VSBEs must
+complete three (3) steps: Supplier Registration, Veteran Verification, and VSBE Certification
+through eMMA. These steps are outlined by the State of Maryland VSBE program. Additional
+information regarding certification can be located at:
+https://gomdsmallbiz.maryland.gov/Pages/VSBE-Program.aspx
+a. There is no VSBE goal established for this solicitation.
+O. INSURANCE
+1. The Successful Offeror shall maintain, at minimum, the insurance coverages outlined in this section,
+or any minimum requirements established by law, if higher, for the duration of the contract, including
+option periods, if exercised. Evidence that the required insurance coverage has been obtained may
+be provided by Certificates of Insurance duly issued and certified by the insurance company or
+companies furnishing such insurance.

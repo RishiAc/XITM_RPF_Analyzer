@@ -1,0 +1,65 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0017
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offeror proposed resource(s) shall perform with flexible working hours, including evenings and
+Section Number: 1.
+Section Type: general
+Word Count: 458
+Character Count: 3161
+Line Count: 48
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+1. Offeror proposed resource(s) shall perform with flexible working hours, including evenings and
+weekends, to accommodate the availability of the parties.
+a. The AOC anticipates approximately twenty (20) to forty (40) hours of
+screening/administrative work per week.
+b. The Offeror proposed resource shall perform Monday through Saturday between the hours
+of 8:00AM to 8:00PM EDT.
+2. Offeror proposed resource(s) shall be compensated at the proposed hourly rate(s) including
+scheduling, interviewing, and reporting services for each case.
+a. For billing purposes, hourly rates shall be prorated and rounded up in fifteen (15) minute
+intervals.
+H. INTERVIEW PROCESS
+Shortlisted Offeror proposed resource(s) will be required to complete a panel interview including the
+following:
+1. The anticipated duration of the interview is one (1) hour.
+a. The AOC will conduct the interview(s) via a Microsoft Teams meeting.
+(1) The proposed resource(s) must have their camera on for the duration of the
+interview.
+END OF SECTION III.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 19
+SECTION IV. PROPOSAL FORMAT
+A. PROPOSAL SUBMISSION
+1. Offerors shall submit their Technical and Financial Proposal in accordance with the required and
+optional submittals as defined in Section IV.B & Section IV.C of this RFP, and the Procurement
+Portal. By submitting a response in the Procurement Portal, the submitting individual certifies they
+are authorized to bind the Offeror to the requirements of this Solicitation, including all addenda.
+2. Offerors proposing more than one (1) resource shall complete their initial submission including the
+requested documentation for only one (1) resource. After the initial submission, Offerors shall visit
+the solicitation in the Procurement Portal, and select prepare an additional submission. When
+completing an additional submission, the Procurement Portal will only request additional
+information/documentation unique to the additional resource(s) (e.g., resource name, resume,
+references) for each subsequent submission up to the maximum allowable submissions. Failure to
+adhere to any of these instructions may result in the proposal(s) being determined to be not
+reasonably susceptible of being selected for award.
+B. TECHNICAL PROPOSAL
+1. Offerors must omit all pricing information from the Technical Proposal, and only include pricing
+information in the Financial Proposal.
+2. Acknowledgments
+a. Exceptions to Terms & Conditions: Offeror shall acknowledge any exceptions to the
+requirements of this RFP, the Contract (Attachment A), or any other attachments on the
+Procurement Portal. Offerors answering “Yes” shall provide any exceptions as a submittal
+in the Technical Proposal. Exceptions to terms and conditions may result in having the
+proposal deemed unacceptable or classified as not reasonably susceptible of being selected
+for award.
+b. Addenda Acknowledgment: Offeror shall acknowledge receipt of any addenda on the
+Procurement Portal. Failure to acknowledge addenda may result in your proposal being
+found not reasonably susceptible of being selected for award.

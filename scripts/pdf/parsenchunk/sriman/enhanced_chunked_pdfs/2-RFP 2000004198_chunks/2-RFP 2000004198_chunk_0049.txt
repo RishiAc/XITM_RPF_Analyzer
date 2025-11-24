@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0049
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6.4. The Offeror must describe their evaluation and quality control procedures to monitor the
+Section Number: 6.4.
+Section Type: evaluation_criteria
+Word Count: 140
+Character Count: 894
+Line Count: 10
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+performance of the Offeror assigned staff. Offerors should speak to procedures for addressing
+any deficiencies in performance and steps for remediation and address the following: 1)
+Assurance that the selected staff can be retained for future work orders if the contract is
+renewed or extended; 2) The Offeror’s recommended administrative procedures which deals
+with submissions and approval of leave (vacation time), sick leave, and other absences; 3) The
+Offeror must include estimate of the amount of leave the staff may be entitled to during the
+year; 4) The Offeror must address their recommended procedures for a reduction in the number
+of staff assigned if Fairfax County decides to reduce the number of IT Contractors need on the
+project; 5) Assurance that an individual meets the requirements per Special Provisions,
+paragraph 6.2.; 6) If the County terminate work under this contract.

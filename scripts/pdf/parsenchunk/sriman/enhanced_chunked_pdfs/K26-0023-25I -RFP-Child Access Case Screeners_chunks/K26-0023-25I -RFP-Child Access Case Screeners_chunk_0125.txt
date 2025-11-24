@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0125
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Any information which is claimed to be confidential and/or proprietary shall be clearly identified in
+Section Number: 2.
+Section Type: general
+Word Count: 42
+Character Count: 303
+Line Count: 8
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+the Financial Proposal. An explanation for each claim of confidentiality shall be included in the
+Financial Proposal.
+END OF SECTION IV.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 22
+SECTION V. EVALUATION PROCEDURE
+A. EVALUATION COMMITTEE

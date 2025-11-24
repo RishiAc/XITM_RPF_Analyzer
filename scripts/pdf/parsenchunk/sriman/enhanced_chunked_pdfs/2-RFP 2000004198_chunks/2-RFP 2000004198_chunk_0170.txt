@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0170
+Source File: 2-RFP 2000004198.pdf
+Section Title: 23.3. The Contractor shall continue its work on other phases of the project or contract, if in the sole
+Section Number: 23.3.
+Section Type: general
+Word Count: 41
+Character Count: 262
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+discretion of the County Purchasing Agent such work is not impacted by the County’s delay,
+suspension, or interruption. All changes to the work plan or project milestones shall be reflected
+in writing as a contract amendment.
+20
+RFP 2000004198
+SPECIAL PROVISIONS

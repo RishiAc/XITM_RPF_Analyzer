@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0052
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6.7. The Offeror shall describe what document is provided to their clients when providing IT Staff
+Section Number: 6.7.
+Section Type: general
+Word Count: 14
+Character Count: 93
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Augmentation. Provide a sample or samples of the documents presented to the offeror’s clients

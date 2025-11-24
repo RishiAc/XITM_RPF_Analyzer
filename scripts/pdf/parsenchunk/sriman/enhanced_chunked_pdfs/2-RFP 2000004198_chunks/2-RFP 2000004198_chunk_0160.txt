@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0160
+Source File: 2-RFP 2000004198.pdf
+Section Title: 21.2. If multiple departments are involved, the Contractor must invoice each Project Manager
+Section Number: 21.2.
+Section Type: general
+Word Count: 64
+Character Count: 407
+Line Count: 8
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+separately. Invoices for all users of the contract must meet County requirements, unless
+otherwise indicated. The Contractor must send the Project Manager(s) an itemized monthly
+invoice (or as agreed to between the parties), which must include the information listed below:
+a. Project Milestone;
+b. Project Phase and task;
+c. Contract number and PO Number;
+d. Date of services;
+e. The type of services; and,

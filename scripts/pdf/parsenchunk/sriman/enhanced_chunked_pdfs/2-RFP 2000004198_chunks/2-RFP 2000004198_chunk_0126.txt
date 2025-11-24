@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0126
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.1. The Contractor is responsible for its work and every part thereof, and for all materials, tools,
+Section Number: 19.1.
+Section Type: general
+Word Count: 66
+Character Count: 411
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+equipment, appliances, and property of any and all description used in connection therewith.
+The Contractor assumes all risk of direct and indirect damage or injury to the property or
+persons used or employed on or in connection with the work contracted for, and of all damage
+or injury to any person or property wherever located, resulting from any action, omission,
+commission or operation under the contract.

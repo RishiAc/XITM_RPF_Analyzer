@@ -1,0 +1,74 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0010
+Source File: 2-RFP 2000004198.pdf
+Section Title: a. Statement and discussion of the requirements as they are analyzed by the offeror.
+Section Number: None
+Phase: P2
+Word Count: 489
+Character Count: 3343
+Line Count: 47
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: offeror, should, experience, must, years, statement, five, staff, proposed, include
+
+=== CHUNK CONTENT ===
+a. Statement and discussion of the requirements as they are analyzed by the offeror.
+b. Offeror's proposed technical approaches and a detailed outline of the proposed
+program for executing the requirements of the Statement of Needs and achieving
+project objectives.
+c. Preliminary layouts, sketches, diagrams, other graphic representations,
+calculations, and other data as may be necessary for presentation, substantiation,
+justification, or understanding of the Statement of Needs as applicable.
+d. Offeror should demonstrate an awareness of potential difficulties in the completion
+of this undertaking, and a plan for surmounting them. Special attention should be
+given to methodological issues that will be encountered in such a project.
+e. The offeror should include detailed descriptions of activities that are to occur,
+significant milestones, and anticipated deliverables as applicable.
+3. Treatment of the Issues: In this section, the offeror may also comment if deemed
+appropriate, on any aspect of the Request for Proposal, including suggestions on possible
+alternative approaches to the coverage, definition, development, and organization of the
+issues presented in the “Statement of Need” section, and may propose alternative
+approaches.
+4. Statement of Qualifications: The Statement of Qualifications must include the following:
+1. Organizational Experience: Offeror must describe their qualifications and experience
+to perform the work described in this RFP. Responding firms should have direct
+relevant experience in the respective category/field for at least five (5) years from the
+date of this RFP. Proposals will only be accepted from organizations that have directly
+provided staff augmentation services for at least three (3) years within the last five (5)
+years for federal, state, or local governments. Submissions from general staffing firms
+or vendors without demonstrable delivery experience will be disqualified. Responding
+firms must have existing staff in the respective labor category who would be available
+to fulfill Fairfax County needs. Information about experience should include direct
+experience with specific subject matters. The Offeror’s record should reflect from the
+date of this RFP a minimum of five (5) years of experience in work of a similar nature
+and magnitude to that being proposed. Relevant experience must be associated with
+contracts or services not more than five years prior to the date of this RFP. Offeror
+must have performed staff augmentation engagements in the submitted category with
+at least three distinct clients within the past five years. Each contract must have lasted
+a minimum of three years and involved mid-to-senior level professionals like those
+described in the working titles. Offeror must submit three (3) case studies
+demonstrating past staff augmentation engagements. Each case study should
+include:
+a. Federal, State, Local Government client name
+b. Project scope, roles provided, and duration
+c. Key outcomes and performance metrics
+d. Contact information for client references
+11
+RFP 2000004198
+SPECIAL PROVISIONS
+2. Personnel: Full-time and part-time staff, proposed consultants and subcontractors
+who may be assigned direct work on this contract should be identified. Information is
+required which will show the specific persons who at this time would compose

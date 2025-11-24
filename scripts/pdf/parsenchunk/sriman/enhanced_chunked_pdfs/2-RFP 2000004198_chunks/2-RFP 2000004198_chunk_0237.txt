@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0237
+Source File: 2-RFP 2000004198.pdf
+Section Title: 40. PRICE REDUCTION-If the Contractor makes a general price reduction for any material covered by the solicitation to customers
+Section Number: 40.
+Section Type: general
+Word Count: 132
+Character Count: 804
+Line Count: 8
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+generally, an equivalent price reduction shall apply to this contract for the duration of the contract period (or until the price is
+further reduced). Such price reduction shall be effective at the same time and in the same manner as the reduction in the price
+to customers generally. For purpose of this provision, a "general price reduction" shall mean any horizontal reduction in the price
+of an article or service offered (1) to Contractor's customers generally, or (2) in the Contractor's price schedule for the class of
+customers (i.e., wholesalers, jobbers, or retailers), which was used as the basis for bidding on this solicitation. An occasional
+sale at a lower price, or sale of distressed merchandise at a lower price is not a "general price reduction" under this provision.
+28
+RFP 2000004198

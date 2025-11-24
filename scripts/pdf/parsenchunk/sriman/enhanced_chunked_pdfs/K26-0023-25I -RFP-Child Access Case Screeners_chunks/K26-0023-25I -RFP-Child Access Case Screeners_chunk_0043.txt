@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0043
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 7. Successful Offeror personnel are required to immediately notify the Contract Manager, the
+Section Number: 7.
+Section Type: general
+Word Count: 21
+Character Count: 145
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Administrative Official of the respective department or office or the Contract Manager, if their
+security identification badge is lost or stolen.

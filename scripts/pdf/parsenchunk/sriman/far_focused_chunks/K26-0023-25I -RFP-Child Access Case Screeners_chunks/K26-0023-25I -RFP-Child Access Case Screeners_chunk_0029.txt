@@ -1,0 +1,29 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0029
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 13. If the AOC determines that there is cause for the Successful Offeror’s work to be suspended, the
+Section Number: 13.
+Section Type: contract_clauses
+Word Count: 167
+Character Count: 1062
+Line Count: 14
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+13. If the AOC determines that there is cause for the Successful Offeror’s work to be suspended, the
+Successful Offeror shall take the following steps:
+a. Immediately cease to represent itself as providing services to the AOC.
+b. Deliver to the AOC: (a) a report describing the current state of the Deliverables provided by
+the Successful Offeror under this Agreement and any applicable Statements of Work
+outstanding as of the date of termination; (b) all AOC Confidential information in its
+possession or, at AOC’s option, destroy all such AOC Confidential information; and (c) all
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 9
+work product to the AOC within seven (7) business days as of the date of termination. Work
+product includes, but is not limited to, works for hire and materials as described in §29.3.
+c. The Successful Offeror is responsible for all AOC assets (including but not limited to,
+laptops, tablets, computers, cell phones, other portable electronic devices, accessories, and

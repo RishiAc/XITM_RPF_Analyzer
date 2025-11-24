@@ -1,0 +1,35 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0018
+Source File: 2-RFP 2000004198.pdf
+Section Title: robust network infrastructure to support with a distribution ring of 200 Gigabytes (GB) over fiber
+Section Number: None
+Section Type: general
+Word Count: 145
+Character Count: 1127
+Line Count: 18
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+(connected to a Cox circuit of 100GB, and a CenturyLink circuit of 20G for a total of 120GB.
+Each elementary school has a dedicated 1.2GB circuit. In addition, middle schools have a 2GB
+dedicated circuit, secondary schools have 4GB dedicated circuit and high schools have a 3G
+dedicated circuit. FCPS Wide-Area-Network (WAN) connects over 250 sites throughout Fairfax
+County. A centralized Network Operation Center (NOC) hosts more than 2,000 physical and
+virtual servers and hundreds of enterprise applications. FCPS also has a backup NOC for
+disaster recovery purposes. A variety of technologies are deployed to keep FCPS users safely
+connected including firewalls, switches, Wireless Access Points and controllers, Windows, Unix
+servers.
+FCPS has several helpful resources that are available online to assist Offerors in
+learning more about the FCPS:
+Resource URL
+Information Technology https://www.fcps.edu/department/department-information-technology
+2
+RFP 2000004198
+SPECIAL PROVISIONS
+Strategic Plan https://www.fcps.edu/about-fcps/strategic-plan
+Purchasing Services https://www.fcps.edu/get-involved/doing-business-fcps

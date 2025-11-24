@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0040
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. Answers to all substantive questions that are not clearly specific only to one (1) Offeror will be
+Section Number: 3.
+Section Type: general
+Word Count: 118
+Character Count: 729
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+3. Answers to all substantive questions that are not clearly specific only to one (1) Offeror will be
+answered via Addenda and will be furnished to all potential Offerors known to have received the
+RFP as posted on the Procurement Portal.
+4. The statements and interpretations contained in responses to any questions, whether responded to
+verbally or in writing, are not binding on the AOC unless issued in writing as an addendum.
+F. PROPOSAL CLOSING DATE & TIME
+1. Proposals must be received through the Procurement Portal not later than the date and time indicated
+on the solicitation. Offerors shall allow sufficient time to complete the submission process on the
+Procurement Portal. Untimely proposals will not be considered.

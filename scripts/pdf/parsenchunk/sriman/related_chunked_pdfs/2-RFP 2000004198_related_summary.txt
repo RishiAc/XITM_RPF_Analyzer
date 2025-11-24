@@ -1,0 +1,14 @@
+Related Sections PDF Processing Summary
+=====================================
+
+File: 2-RFP 2000004198.pdf
+Total Pages: 36
+Total Characters: 147,643
+Total Words: 22,501
+Original Sections: 358
+Grouped Sections: 9
+Total Chunks: 7
+Max Chunk Size: 8000
+Min Chunk Size: 3000
+Chunking Strategy: related_sections_grouping
+Processed: 2025-09-19T18:30:29.953480

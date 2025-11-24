@@ -1,0 +1,54 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0025
+Source File: 2-RFP 2000004198.pdf
+Section Title: by reference other contractual terms and conditions applicable to the procurement.
+Section Number: None
+Section Type: contract_clauses
+Word Count: 570
+Character Count: 3493
+Line Count: 37
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+by reference other contractual terms and conditions applicable to the procurement.
+SOLICITATION: The process of notifying prospective bidders that the County wishes to receive bids on a set of requirements
+to provide goods or services. The notification of County requirements may consist of public advertising (newspaper, County Web
+Site, or other electronic notification), the mailing of Notices of Solicitation, Invitation for Bid (IFB) or Request for Proposal (RFP),
+the public posting of notices, issuance of an informal solicitation to include telephone calls to prospective bidders.
+CONDITIONS OF BIDDING
+3. BID FORMS-Unless otherwise specified in the solicitation, all bids must be (i) submitted on the forms provided by the County,
+including the bid Cover Sheet and Pricing Schedule(s); (ii) properly signed in ink in the identified spaces; and (iii) submitted in a
+sealed envelope or package.
+If the bid prices or any other submissions differ on the copy of the submitted bid, the ORIGINAL copy shall prevail.
+4. LATE BIDS & MODIFICATIONS OF BIDS-
+a. Bids or proposals received after the date and time specified for receipt in the solicitation will not be considered.
+b. If an emergency, unanticipated event, or closing of County offices interrupts or suspends normal County business operations
+24
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+so that bids cannot be received at the County office designated for receipt of bids by the exact time specified in
+the solicitation, then bids will be due at the same time of day specified in the solicitation on the first work day that normal
+County business operations resume.
+c. The official time used for receipt of bids/modifications is the time and date stamp clock located in the Department of
+Procurement & Material Management. No other clocks, calendars or timepieces are recognized. All bidders must ensure
+all bids/modifications are received prior to the scheduled due date/time.
+5. WITHDRAWAL OF BIDS- Bids shall be withdrawn only as set forth in the Fairfax County Purchasing Resolution.
+6. ERRORS IN BIDS-When an error is made in extending total prices, the unit bid price will govern. Erasures in bids must be
+initialed by the bidder. Bidders are cautioned to recheck their bids for possible error. Errors discovered after public opening
+cannot be corrected and the bidder will be required to perform if its bid is accepted.
+7. LABELING OF BIDS – All bids and proposals submitted in response to a County solicitation must be submitted in a sealed
+envelope or package identified with the solicitation number, title, and bidder’s name and address clearly marked on the outside
+of the envelope or package.
+8. ACCEPTANCE OF BIDS/BINDING 90 DAYS-Unless otherwise specified, all formal bids submitted shall be binding for ninety
+(90) calendar days following bid opening date, unless extended by mutual consent of all parties.
+9. CONDITIONAL BIDS-Conditional bids may be rejected in whole or in part.
+10. BIDS FOR ALL OR PART-The Purchasing Agent reserves the right to make award on all items in the aggregate or on any of
+the items on an individual basis, whichever is in the best interest of the County. A bidder may restrict its bid to consideration in
+the group aggregate by so stating, but must name a single unit price on each item bid. Any bid in which the bidder names a total
+price for all the articles without quoting a unit price for each and every separate item may not be considered for award.

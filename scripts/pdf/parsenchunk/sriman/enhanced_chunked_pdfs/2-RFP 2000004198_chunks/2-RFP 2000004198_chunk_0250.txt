@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0250
+Source File: 2-RFP 2000004198.pdf
+Section Title: 52. BILLING-Billing for the Fairfax County Public Schools and for County agencies: Unless otherwise specified on the contract or
+Section Number: 52.
+Section Type: general
+Word Count: 42
+Character Count: 257
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+purchase order (PO), invoices are to be submitted for each purchase order immediately upon completion of the shipment or
+services. Invoices should be mailed to the "BILL TO" address on the PO or to the appropriate address specified in the contract.
+PAYMENTS

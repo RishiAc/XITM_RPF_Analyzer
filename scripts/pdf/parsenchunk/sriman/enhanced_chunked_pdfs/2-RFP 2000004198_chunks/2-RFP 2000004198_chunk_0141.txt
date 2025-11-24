@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0141
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.8. European markets including those based in London, and the domestic surplus lines markets
+Section Number: 19.8.
+Section Type: general
+Word Count: 44
+Character Count: 268
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+that operate on a non-admitted basis are exempt from this requirement provided that the
+Contractor's broker can provide financial data to establish that a market is equal to or exceeds
+the financial strengths associated with the A.M. Best's rating of A: VII or better.

@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0057
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: C. OFFEROR & RESOURCE QUALIFICATIONS
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 77
+Character Count: 536
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+C. OFFEROR & RESOURCE QUALIFICATIONS
+1. The Offeror shall have one (1) year of experience in providing recruitment, staffing, and/or otherwise
+providing professional consulting services. If the Offeror is the proposed resource and is not
+represented by a recruitment/staffing agency, this minimum requirement will not apply.
+2. The Offeror shall propose resource(s) that meet the following minimum qualifications:
+a. Bachelor’s degree in social work, psychology, human services, counseling, or a similar field,
+as determined by the AOC.

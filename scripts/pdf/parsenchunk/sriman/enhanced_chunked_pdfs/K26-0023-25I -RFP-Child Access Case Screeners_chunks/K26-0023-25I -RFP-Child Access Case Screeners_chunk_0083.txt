@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0083
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Any exceptions to the terms and conditions of this RFP or the Contract must be clearly identified in
+Section Number: 2.
+Section Type: contract_clauses
+Word Count: 15
+Character Count: 110
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+the Technical Proposal. All exceptions will be taken into consideration when evaluating an Offeror’s
+proposal.

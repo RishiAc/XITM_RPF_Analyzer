@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0290
+Source File: 2-RFP 2000004198.pdf
+Section Title: 70. VENUE: This contract and its terms, including but not limited to, the parties’ obligations, the performance due, and the remedies
+Section Number: 70.
+Section Type: contract_clauses
+Word Count: 97
+Character Count: 593
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+available to each party, are governed, construed, and interpreted in accordance with the laws of the Commonwealth of Virginia.
+Any jurisdiction’s choice of law, conflicts of laws, rules, or provisions that would cause the application of any laws other than
+those of the Commonwealth of Virginia do not apply. Any and all disputes, claims, and causes of action arising out of or in any
+way connected with this contract or its performance must be brought in the applicable court of Fairfax County, or in the United
+States District Court for the Eastern District of Virginia, Alexandria Division.

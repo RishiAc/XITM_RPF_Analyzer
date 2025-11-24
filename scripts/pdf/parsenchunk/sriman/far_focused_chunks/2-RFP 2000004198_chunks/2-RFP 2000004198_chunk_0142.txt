@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0142
+Source File: 2-RFP 2000004198.pdf
+Section Title: or deliverables to make them non-infringing; or (c) replace such products or software with a non-infringing equivalent. If, in
+Section Number: None
+Section Type: deliverables_timeline
+Word Count: 237
+Character Count: 1517
+Line Count: 13
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+or deliverables to make them non-infringing; or (c) replace such products or software with a non-infringing equivalent. If, in
+the Contractor’s reasonable opinion, none of the foregoing options is feasible Contractor must immediately notify the County
+and accept the return of the products, software, services, or deliverables, along with any other components rendered
+unusable as a result of the infringement or claimed infringement, and refund to the County the price paid to Contractor for
+such components as well as any pre-paid fees for the allegedly infringing services, including license, subscription fees, or
+both. Nothing in Paragraph 59, however, relieves the Contractor of liability to the County for damages sustained by the
+County by virtue of any breach of contract related to a third-party infringement claim.
+c. Right to Participate in Defense. The County may, at its sole expense, participate in the defense or resolution of a
+Claim. Contractor will have primary control of the defense and resolution of the Claim, except when such defense or
+resolution requires the County to (i) admit liability or wrongdoing; or (ii) to pay money. In either of these cases Contractor
+must obtain the County’s prior written consent before raising such defense or entering into such resolution.
+d. No Indemnification by the County. The parties agree that under applicable law the County cannot indemnify or
+defend the Contractor. To the extent any promise or term contained in this Contract, including any exhibits,

@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0022
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. To ensure compliance with the JIS Information Security Policy, the approval, configuration, and
+Section Number: 3.
+Section Type: security_compliance
+Word Count: 139
+Character Count: 915
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+3. To ensure compliance with the JIS Information Security Policy, the approval, configuration, and
+monitoring of secured remote access into AOC systems will be processed by JIS staff. All remote
+connections that utilize a shared infrastructure must utilize encryption for transmission of data and
+authentication.
+4. Any software used to meet the requirements of this solicitation, on any AOC system, must be
+included in the Offeror’s technical proposal. Software must be assessed by JIS and approved by the
+JIS Chief Information Officer. At the discretion of JIS, proposed software may be determined to be
+a risk to system and information integrity security controls and therefore rejected. If software is to
+be used remotely, the Judiciary shall control the method of access to our network via Virtual Private
+Network (VPN), firewall configurations, and/or segregating remote machine access within our
+environment.

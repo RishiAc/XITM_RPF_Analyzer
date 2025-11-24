@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0154
+Source File: 2-RFP 2000004198.pdf
+Section Title: 66. APPEAL OF DETERMINATION OF NONRESPONSIBILITY-
+Section Number: 66.
+Section Type: contract_clauses
+Word Count: 180
+Character Count: 1057
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+66. APPEAL OF DETERMINATION OF NONRESPONSIBILITY-
+a. Any bidder who, despite being the apparent low bidder, is determined not to be a responsible bidder for a particular County
+contract shall be notified in writing by the Purchasing Agent. Such notice shall state the basis for the determination, which
+shall be final unless the bidder appeals the decision within ten (10) days of receipt of the notice by instituting legal action as
+provided in the Code of Virginia. The bidder may not institute legal action until all statutory requirements have been met.
+b. If, upon appeal, it is determined that the decision of the Purchasing Agent was arbitrary or capricious and the award for the
+particular County contract in question has not been made, the sole relief available to the bidder shall be a finding that the
+bidder is a responsible bidder for the County contract in question. Where the award has been made and performance has
+begun, the County may declare the contract void upon a finding that this action is in the best interest of the public. Where a

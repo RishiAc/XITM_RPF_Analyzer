@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0176
+Source File: 2-RFP 2000004198.pdf
+Section Title: 29.1. If one or more subcontractors are required, the contractor is encouraged to utilize small,
+Section Number: 29.1.
+Section Type: general
+Word Count: 50
+Character Count: 412
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+minority-owned, and women-owned business enterprises. For assistance in finding
+subcontractors, contact the Virginia Department of Small Business and Supplier Diversity
+https://www.sbsd.virginia.gov; local chambers of commerce and other business organizations.
+by Fairfax County, as a small, minority-owned, and/or woman-owned business, and the type
+and dollar value of the subcontracted goods/services provided.

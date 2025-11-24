@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0025
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.6. Standard County Data:
+Section Number: 5.6.
+Section Type: general
+Word Count: 86
+Character Count: 614
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5.6. Standard County Data:
+5.6.1. Certain elements are standardized in format and content to enable enterprise-wide
+data usability, coordination of services, analysis, and public safety. New systems
+that use any of these elements are required to meet these requirements and any
+deviation from the standard must be documented and approved by the CTO.
+5.7. Infrastructure Requirements:
+5.7.1. Contractors supporting solutions implemented and hosted at the County, must
+ensure all infrastructure needs are specified and approved. Contractors must
+maintain for County technical documentation and hardware proposals for

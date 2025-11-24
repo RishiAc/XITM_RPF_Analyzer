@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0013
+Source File: 2-RFP 2000004198.pdf
+Section Title: certifications (e.g., as with cybersecurity CISSP, CISM, CEH, OSCP, or equivalents) and detail
+Section Number: None
+Section Type: security_compliance
+Word Count: 9
+Character Count: 66
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+their hands-on project roles.)
+1
+RFP 2000004198
+SPECIAL PROVISIONS

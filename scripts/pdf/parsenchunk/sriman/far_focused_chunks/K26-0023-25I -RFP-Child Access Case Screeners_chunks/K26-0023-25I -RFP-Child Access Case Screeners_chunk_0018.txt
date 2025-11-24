@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0018
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Payments to the Successful Offeror shall be made not later than thirty (30) days after the acceptance
+Section Number: 2.
+Section Type: general
+Word Count: 106
+Character Count: 651
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2. Payments to the Successful Offeror shall be made not later than thirty (30) days after the acceptance
+of deliverables, and receipt of a proper invoice from the Offeror. Any charges of interest or the like
+for late payment are prohibited.
+O. NON-DISCLOSURE AGREEMENT
+All Offerors are advised that if a contract is awarded as a result of this RFP, the Successful Offeror shall be
+required to complete a Non-Disclosure Agreement. A sample of this Agreement is included for informational
+purposes as Attachment F of this RFP. This signed Agreement must be provided with the Successful Offeror’s
+signed Contract.
+P. DAMAGE TO STATE AND PERSONAL PROPERTY

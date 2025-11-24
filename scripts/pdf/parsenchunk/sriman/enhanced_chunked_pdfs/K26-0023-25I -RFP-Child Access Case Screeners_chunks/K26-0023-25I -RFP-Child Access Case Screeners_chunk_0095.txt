@@ -1,0 +1,30 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0095
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. The following type(s) of insurance and minimum amount(s) of coverage are required and may be
+Section Number: 4.
+Section Type: insurance_warranty
+Word Count: 98
+Character Count: 684
+Line Count: 13
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+satisfied by either individual policies or a combination of individual policies and an umbrella policy:
+a. Commercial General Liability
+(1) $1,000,000 combined single limit per occurrence for bodily injury, property damage,
+and personal and advertising injury, and $2,000,000 annual aggregate.
+(2) A combined single limit per occurrence of $2,000,000 is acceptable.
+b. Worker’s Compensation
+(1) $500,000 each accident.
+(2) $500,000 each disease for each employee.
+(3) $500,000 each disease per policy limit.
+(4) Coverage must be valid in all states where work is performed.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 16

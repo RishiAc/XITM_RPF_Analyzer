@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0249
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 47
+Character Count: 303
+Line Count: 8
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+c. The Quantity Ordered,
+d. The Quantity Shipped,
+e. The Quantity Back Ordered,
+f. The Name of the Contractor.
+Contractors are cautioned that failure to comply with these conditions is sufficient reason for the County’s refusal to accept the
+goods.
+BILLING

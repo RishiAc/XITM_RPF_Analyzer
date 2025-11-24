@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0029
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.1.6. Solution support may be required on technology that is hosted outside the County’s
+Section Number: None
+Section Type: general
+Word Count: 37
+Character Count: 244
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+IT environment, such as a subscription service. Augmented staff must adhere to
+County IT Security standards for data security and privacy and user access from the
+county’s local and remote network. DIT will specify remote access specifications.

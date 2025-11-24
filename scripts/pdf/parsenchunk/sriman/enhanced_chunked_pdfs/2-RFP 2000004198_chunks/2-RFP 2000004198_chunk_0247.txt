@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0247
+Source File: 2-RFP 2000004198.pdf
+Section Title: 49. METHOD AND CONTAINERS-Unless otherwise specified, goods shall be delivered in commercial packages in standard
+Section Number: 49.
+Section Type: general
+Word Count: 33
+Character Count: 223
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+commercial containers that are constructed to ensure acceptance by common or other carrier for safe transportation to the point
+of delivery. Containers become the property of the County unless otherwise specified by bidder.

@@ -1,0 +1,31 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0034
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.4. IT/Cyber Security:
+Section Number: 5.4.
+Section Type: security_compliance
+Word Count: 120
+Character Count: 997
+Line Count: 14
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+5.4.1. All solution components must meet Information Security practices as described in
+the Fairfax County Information Technology Security Policy:
+https://www.fairfaxcounty.gov/informationtechnology/sites/informationtechnology/fil
+es/assets/security/pm70-05_01.pdf.
+5.4.2. The Contractor must provide complete Fairfax County Project Proposal Matrix for
+Meeting Information Technology Security Policy Requirements (Attachment C)
+upon request by the County.
+5.4.3. Contractors implementing solutions must be compliant with all federal and Virginia
+laws and regulations governing the access, use and management of Personally
+Identifiable Information (PII), Payment Card Industry (PCI) compliant and meet
+Americans with Disabilities Act (ADA) requirements.
+5.4.4. Offerors must include in their proposals the completed Attachment D: Fairfax
+County IT Services Provider Consultant/Contractor Agreement, for the firm and its
+personnel that have roles in the implementation and management of the solution

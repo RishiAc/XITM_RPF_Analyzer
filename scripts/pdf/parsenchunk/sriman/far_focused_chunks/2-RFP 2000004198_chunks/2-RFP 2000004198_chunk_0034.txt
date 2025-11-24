@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0034
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6.7. The Offeror shall describe what document is provided to their clients when providing IT Staff
+Section Number: 6.7.
+Section Type: general
+Word Count: 101
+Character Count: 664
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+6.7. The Offeror shall describe what document is provided to their clients when providing IT Staff
+Augmentation. Provide a sample or samples of the documents presented to the offeror’s clients
+(i.e. scope of work (SOW), quote, proposal, etc.).
+9
+RFP 2000004198
+SPECIAL PROVISIONS
+6.8. The Offeror shall describe how their company ensures staff stays up to date with technology
+and their program to maintain IT certification, demonstrating continued involvement in the
+industry and commitment to developing skills and knowledge, and participating in activities to
+keep the offeror up to date on changes in the profession, such as policy, technology, and
+tradecraft.

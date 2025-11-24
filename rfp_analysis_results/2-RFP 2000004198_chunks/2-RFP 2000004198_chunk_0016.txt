@@ -1,0 +1,73 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0016
+Source File: 2-RFP 2000004198.pdf
+Section Title: The County will consider all cost and business terms to be negotiable and will not be artificially
+Section Number: None
+Phase: P4
+Word Count: 534
+Character Count: 3467
+Line Count: 46
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: offeror, contractor, liability, county, contract, under, insurance, property, connection, damage
+
+=== CHUNK CONTENT ===
+The County will consider all cost and business terms to be negotiable and will not be artificially
+constrained by an Offeror's internal corporate policies. In short, Offerors that contend they lack
+flexibility because of their corporate policy on a particular negotiation item will face a significant
+disadvantage and may not be elevated to the final negotiation phase. After negotiations have
+been conducted with each offeror so selected, the County shall select the Offeror which, in its
+opinion, has made the best proposal, and shall award the contract to that Offeror.
+18.9. Should the County determine in writing and in its sole discretion that only one Offeror is fully
+qualified, or that one Offeror is clearly more highly qualified than the others under consideration,
+a contract may be negotiated and awarded to that offeror. Each SAC will make appropriate
+recommendations to the County Purchasing Agent, if appropriate, prior to the actual award of
+contract.
+18.10. Proposals which, after discussion and submission of additional clarification and/or
+supplementary information, are determined to meet the specifications of this RFP will be
+classified as "acceptable". Proposals found not to be acceptable will be classified as
+"unacceptable" and no further discussion concerning same will be conducted.
+18.11. The County may cancel this RFP or reject proposals at any time prior to an award and is not
+required to furnish a statement of the reasons why a particular proposal was not deemed to be
+the most advantageous.
+19. INSURANCE:
+19.1. The Contractor is responsible for its work and every part thereof, and for all materials, tools,
+equipment, appliances, and property of any and all description used in connection therewith.
+The Contractor assumes all risk of direct and indirect damage or injury to the property or
+persons used or employed on or in connection with the work contracted for, and of all damage
+or injury to any person or property wherever located, resulting from any action, omission,
+commission or operation under the contract.
+19.2. The Contractor shall, during the continuance of all work under the contract provide the
+following:
+a. Statutory Workers' Compensation and Employer's Liability insurance in limits of not less
+than $1,000,000 to protect the Contractor from any liability or damages for any injuries
+(including death and disability) to any and all of its employees, including any and all liability
+or damage which may arise by virtue of any statute or law in force within the
+Commonwealth of Virginia.
+b. Commercial General Liability insurance in the amount of $1,000,000 per occurrence/
+$2,000,000 in aggregate, to protect the Contractor, its sub-Contractors, and the interest of
+the County, its officers, employees and agents against any and all injuries to third parties,
+including bodily injury and personal injury, wherever located, resulting from any action or
+operation under the Contract or in connection with the contracted work.
+17
+RFP 2000004198
+SPECIAL PROVISIONS
+c. Owned, non-owned, and hired Automobile Liability insurance, in the amount of $1,000,000
+per occurrence/aggregate, including property damage, covering all owned, non-owned,
+borrowed, leased, or rented vehicles operated by the Contractor. In addition, all mobile
+equipment used by the Contractor in connection with the contracted work, will be insured
+under either a standard Automobile Liability policy, or a Commercial General Liability
+policy.

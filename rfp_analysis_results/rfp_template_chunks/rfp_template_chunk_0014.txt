@@ -1,0 +1,79 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0014
+Source File: rfp_template.pdf
+Section Title: H.11.3 Construction Permit and Crane Work Requirements
+Section Number: None
+Phase: P2
+Word Count: 633
+Character Count: 4244
+Line Count: 52
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contractor, shall, agency, requirements, applicable, section, incorporate, crane, system, reference
+
+=== CHUNK CONTENT ===
+H.11.3 Construction Permit and Crane Work Requirements
+[Include if applicable]
+Page 22 of 38
+The Contractor must comply with <city> code regulations. The Contractor shall apply and pay for all relevant
+permits, including coordinating any restriction of traffic/pedestrian flow and/or any necessary road closures, as
+well as any potential compensation for lost parking revenues. A permit is required for cranes. The Contractor
+shall employ a Professional Structural Engineer to certify that the location of the crane complies with
+applicable national and local codes. The Contractor shall provide credentials for crane <and forklifts if
+applicable>. The <agency> does not make any warranties regarding site suitability for crane work.
+H.11.4 Contractor Staging Area
+PV, electrical and other equipment shall only be stored in space approved for Contractor use by <agency>.
+Parking and laydown areas for equipment and materials shall be coordinated and controlled by the <agency>,
+and used only for the indicated period of time and for the indicated purpose. The following location(s) are
+available for storage: <list storage area(s)>. The Contractor is responsible for safeguarding all stored
+materials and shall take security and weatherproofing precautions. The Contractor shall hold and save the
+<agency>, its officers and agents, free and harmless from liability for the safety of any stored materials; the
+<agency> is not responsible for theft or damage. The Contractor shall submit staging/lay-down area requests
+at least two weeks in advance.
+H.11.5 Energy Sales Phase Access
+O&M shall be conducted in accordance with the requirements of Section <C.x>. During the Energy Sales
+phase, the Contractor's personnel, or personnel of designated subcontractors, will be given reasonable access
+to the site for O&M of the PV System and any equipment repair or replacement.
+H.11.6 Security Requirements
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H.11.7 Safety Requirements
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H.11.8 Fire Prevention
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H. 11.9 Contractor Employees
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H.11.10 Contractor Work Schedule
+[Incorporate agency requirements. Sample language below for your consideration.]
+The Contractor shall schedule work to be within the normal working hours between <specify times> Monday-
+Friday, exclusive of Federal holidays, as long as it will not cause interference with the normal conduct of
+<agency> business or with the progress of other Contractors' projects. However, work may be performed at
+Page 23 of 38
+night when the PV System is not producing if it can be scheduled without disruption to <agency> operations
+and security. Depending on the type of work to be performed and associated noise levels that would interrupt
+the <agency> operations, the Contractor may be required to conduct operations during evenings and
+weekends. The Contractor shall communicate work conditions that may create increase noise levels or affect
+the operations of the facility occupants to the Contracting Officer Representative 72 hours in advance of
+planned activities. Work shall not commence without the express approval of the Contracting Officer. The
+Contractor shall promptly notify the CO and the COR when it appears that <agency> activities or personnel or
+other contractor's projects are hindering the effective execution of its work efforts.
+H.11.11 Photography
+No photography, of any nature, is allowed while at <site> without the written authorization of the CO. Submit
+photography requests to the CO at least two (2) business days prior to anticipated photo session. After the
+photo session the pictures must be approved by the <agency>.
+H.11.12 Applicable Laws and Standards Conformation
+The PV System shall be installed with due care conforming to the applicable standards and practices,
+applicable laws, and easement for the Premise (if any) by qualified employees, representatives, agents or sub-
+contractors of Contractor. If the PV System fails to meet any of the foregoing standards, Contractor shall

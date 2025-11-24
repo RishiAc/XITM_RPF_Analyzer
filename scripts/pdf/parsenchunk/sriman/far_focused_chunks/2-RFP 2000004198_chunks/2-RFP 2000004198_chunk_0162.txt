@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0162
+Source File: 2-RFP 2000004198.pdf
+Section Title: 73. IMMIGRATION REFORM AND CONTROL ACT-Contractor agrees that it does not, and shall not during the performance of the
+Section Number: 73.
+Section Type: general
+Word Count: 131
+Character Count: 820
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+73. IMMIGRATION REFORM AND CONTROL ACT-Contractor agrees that it does not, and shall not during the performance of the
+contract for goods and services in the Commonwealth, knowingly employ an unauthorized alien as defined in the Federal
+Immigration Reform and Control Act of 1986.
+74. AUDIT OF RECORDS The parties agree that the County or its agent must have reasonable access to and the right to examine
+any records of the contractor involving transactions related to the contract or compliance with any clauses thereunder, for a
+period of three (3) years after final payment. The contractor shall include these same provisions in all related subcontracts. For
+purposes of this clause, the term “records” includes documents, and papers regardless of whether they are in written form,
+electronic form, or any other form.

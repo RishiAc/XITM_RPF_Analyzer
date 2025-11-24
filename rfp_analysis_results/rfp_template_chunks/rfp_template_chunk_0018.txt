@@ -1,0 +1,75 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0018
+Source File: rfp_template.pdf
+Section Title: FAR 52.222-5 Construction Wage Requirements – Secondary Site of the Work
+Section Number: None
+Phase: P2
+Word Count: 570
+Character Count: 3857
+Line Count: 48
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.222-8, FAR 52.222-11, FAR 52.222-15, FAR 52.222-27, FAR 52.222-43, FAR 52.212-4, FAR 52.222-9, FAR 52.222-12, FAR 52.222-13, FAR 52.249-2, FAR 52.12-4, FAR 52.222-5, FAR 52.222-6, FAR 52.222-10, FAR 52.222-7, FAR 52.222-14, 52.222-15, 52.222-11, 52.222-7, 52.222-9, 52.222-12, 52.222-6, 52.222-43, 52.249-2, 52.222-27, 52.222-14, 52.222-8, 52.216-1, 52.241-5, 52.12-4, 52.222-13, 52.222-10, 52.222-5, 52.212-4
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contractor, government, contract, facilities, such, shall, construction, service, requirements, site
+
+=== CHUNK CONTENT ===
+FAR 52.222-5 Construction Wage Requirements – Secondary Site of the Work
+FAR 52.222-6 Construction Wage Requirements
+FAR 52.222-7 Withholding of Funds
+FAR 52.222-8 Payrolls and Basic Records
+FAR 52.222-9 Apprentices and Trainees
+FAR 52.222-10 Compliance with Copeland Act Requirements
+FAR 52.222-11 Subcontracts (Labor Standards)
+FAR 52.222-12 Contract Termination-Debarment
+FAR 52.222-13 Compliance with Construction Wage Rate Requirements and Related Regulations
+FAR 52.222-14 Disputes Concerning Labor Standards
+FAR 52.222-15 Certification of Eligibility
+FAR 52.222-27 Affirmative Action Compliance Requirements for Construction
+FAR 52.222-43 Fair Labor Standards Act and Service Contract Labor Standards -- Price Adjustment
+(Multiple Year and Option Contracts) (May 2014)
+I.1 Clauses Incorporated By Full Text
+[FAR 52.12-4(l), Termination for the Government’s Convenience could be tailored through a FAR 52.212-4
+Addenda. Contact FEMP for example language that has been used by other federal agencies for similar
+projects. Please also refer to FAR 52.249-2.]
+52.216-1 TYPE OF CONTRACT (Apr 1984)
+The Government contemplates award of a Firm-Fixed Price contract resulting from this solicitation.
+Page 28 of 38
+52.241-5 CONTRACTOR’S FACILITES (Feb 1995)
+[Inclusion of this clause is one option to provide site access to the Contractor. Delete this clause if a separate
+site access agreement is utilized or if site access is provided through other means.]
+(a) The Contractor, at its expense, unless otherwise provided for in this contract, shall furnish, install, operate,
+and maintain all facilities required to furnish service hereunder, and measure such service at the point of
+delivery specified in the Service Specifications. Title to all such facilities shall remain with the Contractor and
+the Contractor shall be responsible for loss or damage to such facilities, except that the Government shall be
+responsible to the extent that loss or damage has been caused by the Government’s negligent acts or omissions.
+(b) Notwithstanding any terms expressed in this clause, the Contractor shall obtain approval from the
+Contracting Officer prior to any equipment installation, construction, or removal. The Government hereby
+grants to the Contractor, free of any rental or similar charge, but subject to the limitations specified in this
+contract, a revocable permit or license to enter the service location for any proper purpose under this contract.
+This permit or license includes use of the site or sites agreed upon by the parties hereto for the installation,
+operation, maintenance, and repair of the facilities of the Contractor required to be located upon Government
+premises. All applicable taxes and other charges in connection therewith, together with all liability of the
+Contractor in construction, operation, maintenance and repair of such facilities, shall be the obligation of the
+Contractor.
+(c) Authorized representatives of the Contractor will be allowed access to the facilities on Government
+premises at reasonable times to perform the obligations of the Contractor regarding such facilities. It is
+expressly understood that the Government may limit or restrict the right of access herein granted in any
+manner considered necessary (e.g., national security, public safety).
+(d) Unless otherwise specified in this contract, the Contractor shall, at its expense, remove such facilities and
+restore Government premises to their original condition as near as practicable within a reasonable time after
+the Government terminates this contract. In the event such termination of this contract is due to the fault of the
+Contractor, such facilities may be retained in place at the option of the Government for a reasonable time while
+the Government attempts to obtain service elsewhere comparable to that provided for hereunder.
+Page 29 of 38

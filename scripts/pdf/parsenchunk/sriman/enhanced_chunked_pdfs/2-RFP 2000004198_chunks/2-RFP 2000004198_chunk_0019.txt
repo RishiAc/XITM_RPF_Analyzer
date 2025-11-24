@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0019
+Source File: 2-RFP 2000004198.pdf
+Section Title: 4.3. The current contracts for these services can be viewed on the Fairfax County Contract Register
+Section Number: 4.3.
+Section Type: general
+Word Count: 28
+Character Count: 270
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+at https://www.fairfaxcounty.gov/cregister/ by entering one of the following contract numbers
+4400005604, 4400005606, 4400005607, 4400005610, 4400005623. 4400005624,
+4400005627, 4400005630, 4400005633, 4400005636, 4400005813, and 4400010820 in the
+contract number field.

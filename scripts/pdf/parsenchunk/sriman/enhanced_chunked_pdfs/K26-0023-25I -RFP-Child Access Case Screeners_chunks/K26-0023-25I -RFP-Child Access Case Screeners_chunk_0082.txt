@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0082
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: to have accepted the terms and conditions of this RFP and the Standard Contract Agreement Sample
+Section Number: None
+Section Type: contract_clauses
+Word Count: 5
+Character Count: 32
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+attached hereto as Attachment A.

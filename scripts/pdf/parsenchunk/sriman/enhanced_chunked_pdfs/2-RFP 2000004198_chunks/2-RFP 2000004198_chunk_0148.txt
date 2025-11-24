@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0148
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.12. The Contractor will provide on demand certified copies of all insurance policies related to the
+Section Number: 19.12.
+Section Type: insurance_warranty
+Word Count: 16
+Character Count: 94
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+contract within ten business days of demand by the County. These certified copies will be sent

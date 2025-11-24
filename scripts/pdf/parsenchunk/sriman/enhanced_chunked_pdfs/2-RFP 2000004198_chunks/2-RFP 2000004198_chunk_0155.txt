@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0155
+Source File: 2-RFP 2000004198.pdf
+Section Title: 20.2. A Purchase Order (PO) may be issued to the contractor on behalf of the County agency
+Section Number: 20.2.
+Section Type: general
+Word Count: 30
+Character Count: 203
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+ordering the items/services covered under this contract. The purchase order indicates that
+sufficient funds have been obligated as required by Title 15.2-1238 of the Code of the
+Commonwealth of Virginia.

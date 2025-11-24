@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0010
+Source File: 2-RFP 2000004198.pdf
+Section Title: 2.4. Offerors are required to provide a signed and completed IT Services Provider
+Section Number: 2.4.
+Section Type: general
+Word Count: 14
+Character Count: 111
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+CONSULTANT/CONTRACTOR AGREEMENT (Attachment D) and FCPS Vendor Code of
+Conduct and Expectations (Attachment E).

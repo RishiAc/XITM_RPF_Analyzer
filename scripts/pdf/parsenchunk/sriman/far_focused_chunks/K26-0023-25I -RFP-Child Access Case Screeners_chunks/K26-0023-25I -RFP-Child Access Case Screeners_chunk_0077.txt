@@ -1,0 +1,32 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0077
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. Recommendation for Award
+Section Number: 3.
+Section Type: general
+Word Count: 165
+Character Count: 1099
+Line Count: 17
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+3. Recommendation for Award
+a. Upon completion of the Technical Proposal and Financial Proposal evaluations and rankings,
+an overall ranking will be designated to each Offeror.
+b. The Procurement Officer will recommend award of the Contract to the Offeror that submitted
+the proposal determined to be the most advantageous to the AOC. In making the most
+advantageous Offeror’s determination, technical factors shall be given greater weight than
+price factors.
+E. DEBRIEFING
+Unsuccessful Offerors may request a debriefing. If the Offeror chooses to do so, the request must be
+submitted in writing to the Procurement Officer within fourteen (14) calendar days from the date they are
+notified their proposal was unsuccessful. Debriefings shall be limited to discussion of the specific Offeror’s
+proposal only and shall not include a discussion of a competing Offeror’s proposal. Debriefings shall be
+provided within thirty (30) calendar days of the award notification date.
+END OF SECTION V.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 24

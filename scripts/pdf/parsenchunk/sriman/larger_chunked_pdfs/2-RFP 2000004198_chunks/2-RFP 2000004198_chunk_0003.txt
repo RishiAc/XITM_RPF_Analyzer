@@ -1,0 +1,60 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0003
+Source File: 2-RFP 2000004198.pdf
+Section Title: 4.2. Fairfax County Public Schools (“FCPS”): FCPS is the largest school system in the
+Section Number: 4.2.
+Section Type: general
+Word Count: 407
+Character Count: 3151
+Line Count: 43
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+4.2. Fairfax County Public Schools (“FCPS”): FCPS is the largest school system in the
+Commonwealth of Virginia and the 10th largest in the United States. The school system
+consists of approximately 250 schools and work sites serving almost 181,000 students in
+grades Kindergarten through 12th grade and approximately 24,000 full-time staff/employees
+across Fairfax County Virginia. For information about FCPS, visit the website at:
+http://www.fcps.edu/. FCPS' current technical environment includes client server systems
+serving both instructional and administrative applications. Most applications will be accessed
+through school-wide LANs and a large distributed wireless network which connects sites
+through the Institutional Network (INET). To support this enterprise FCPS has established a
+robust network infrastructure to support with a distribution ring of 200 Gigabytes (GB) over fiber
+(connected to a Cox circuit of 100GB, and a CenturyLink circuit of 20G for a total of 120GB.
+Each elementary school has a dedicated 1.2GB circuit. In addition, middle schools have a 2GB
+dedicated circuit, secondary schools have 4GB dedicated circuit and high schools have a 3G
+dedicated circuit. FCPS Wide-Area-Network (WAN) connects over 250 sites throughout Fairfax
+County. A centralized Network Operation Center (NOC) hosts more than 2,000 physical and
+virtual servers and hundreds of enterprise applications. FCPS also has a backup NOC for
+disaster recovery purposes. A variety of technologies are deployed to keep FCPS users safely
+connected including firewalls, switches, Wireless Access Points and controllers, Windows, Unix
+servers.
+FCPS has several helpful resources that are available online to assist Offerors in
+learning more about the FCPS:
+Resource URL
+Information Technology https://www.fcps.edu/department/department-information-technology
+2
+RFP 2000004198
+SPECIAL PROVISIONS
+Strategic Plan https://www.fcps.edu/about-fcps/strategic-plan
+Purchasing Services https://www.fcps.edu/get-involved/doing-business-fcps
+4.3. The current contracts for these services can be viewed on the Fairfax County Contract Register
+at https://www.fairfaxcounty.gov/cregister/ by entering one of the following contract numbers
+4400005604, 4400005606, 4400005607, 4400005610, 4400005623. 4400005624,
+4400005627, 4400005630, 4400005633, 4400005636, 4400005813, and 4400010820 in the
+contract number field.
+4.4. Budget is subject to annual appropriations for County needs. Please refer to the Incumbent
+vendor information (excel file) and https://www.fairfaxcounty.gov/topics/financialtransparency
+for information on spending to date.
+5. TECHNOLOGY PROFILES AND ADDITIONAL REQUIREMENTS:
+5.1. Fairfax County Information Technology Profile and Requirements:
+5.1.1. To meet the requirements of this solicitation, proposals for providing IT staff
+augmentation support should comprehensively address all aspects of the related
+labor category, including skill sets, experience, and availability of proposed
+personnel. The offeror will describe their organizational experience in delivering
+services and solutions in the particular labor category. Submissions from general

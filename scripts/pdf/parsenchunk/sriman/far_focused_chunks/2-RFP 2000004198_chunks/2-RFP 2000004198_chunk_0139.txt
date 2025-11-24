@@ -1,0 +1,33 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0139
+Source File: 2-RFP 2000004198.pdf
+Section Title: 57. SERVICE CONTRACT GUARANTY-Contractor agrees to:
+Section Number: 57.
+Section Type: general
+Word Count: 249
+Character Count: 1550
+Line Count: 18
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+57. SERVICE CONTRACT GUARANTY-Contractor agrees to:
+a. Furnish services described in the solicitation and resultant contract at the times and places and in the manner and subject
+to conditions of those documents provided that the County may reduce the said services at any time.
+b. Enter upon the performance of services with all due diligence and dispatch, assiduously press to its complete performance,
+and exercise therein the highest degree of skill and competence.
+c. All work and services rendered in strict conformance to all laws, statues, and ordinances and the applicable government
+rules, regulations, methods, and procedures.
+d. Allow services to be inspected or reviewed by an employee of the County at any reasonable time and place selected by the
+County. The County is under no obligation to compensate Contractor for any services not rendered in strict conformity with
+the contract.
+e. Stipulate that the presence of a County Inspector shall not lessen the obligation of the Contractor for performance in
+accordance with the contract requirements, or be deemed a defense on the part of the Contractor for infraction thereof. The
+Inspector is not authorized to revoke, alter, enlarge, relax, or release any of the requirements of the contract documents.
+Any omission or failure on the part of the Inspector to disapprove or reject any work or material shall not be construed to be
+an acceptance of any such defective work or material. Notification of an omission or failure will be documented by the
+Purchasing Agent.
+30
+RFP 2000004198

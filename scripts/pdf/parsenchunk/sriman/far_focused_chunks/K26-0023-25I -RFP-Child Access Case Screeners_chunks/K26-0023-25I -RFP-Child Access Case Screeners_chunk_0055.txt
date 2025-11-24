@@ -1,0 +1,35 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0055
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 5. The insurance required above shall provide adequate protection for the Successful Offeror against
+Section Number: 5.
+Section Type: insurance_warranty
+Word Count: 226
+Character Count: 1463
+Line Count: 20
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5. The insurance required above shall provide adequate protection for the Successful Offeror against
+claims which may arise from the Contract, whether such claims arise from operations performed by
+the Successful Offeror or by anyone directly or indirectly employed by the Successful Offeror, and
+against any special hazards which may be encountered in the performance of the Contract. In
+addition, all policies required must not exclude coverage for equipment while rented to others.
+6. If any of the work under the Contract is subcontracted, the Successful Offeror shall require any
+subcontractors to obtain and maintain comparable levels of coverage and shall provide the
+Procurement Officer with the same documentation as is required of the Successful Offeror.
+P. PROPOSAL AFFIDAVIT
+A proposal submitted by an Offeror must be accompanied by a completed Bid/Proposal Affidavit. A copy of
+this Affidavit is included as Attachment B of this RFP.
+Q. CONTRACT AFFIDAVIT
+All Offerors are advised that if a Contract is awarded as a result of this solicitation, the Successful Offeror
+will be required to complete a Contract Affidavit. A sample of this Affidavit is included for informational
+purposes as Attachment C of this RFP. This Affidavit must be provided within five (5) business days of
+notification of recommendation for award.
+END OF SECTION II.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 17

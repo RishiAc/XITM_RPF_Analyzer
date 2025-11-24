@@ -1,0 +1,56 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0003
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: SECTION III. SCOPE OF WORK ..................................................................................................................... 18
+Section Number: None
+Phase: P2
+Word Count: 157
+Character Count: 3150
+Line Count: 29
+
+=== KEY DATES ===
+Due Dates: 03/25/2025
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: proposal, attachment, section, offeror, sample, scope, resource, technical, financial, evaluation
+
+=== CHUNK CONTENT ===
+SECTION III. SCOPE OF WORK ..................................................................................................................... 18
+A. SUMMARY ..................................................................................................................................................... 18
+B. BACKGROUND INFORMATION ................................................................................................................ 18
+C. OFFEROR & RESOURCE QUALIFICATIONS ........................................................................................... 18
+D. SCOPE OF WORK .......................................................................................................................................... 18
+E. OFFEROR RESOURCE(S) SKILLS, EXPERIENCE, & CAPABILITIES ................................................... 18
+F. PLACE OF PERFORMANCE ........................................................................................................................ 19
+G. SCHEDULE & COORDINATION ................................................................................................................. 19
+H. INTERVIEW PROCESS ................................................................................................................................. 19
+SECTION IV. PROPOSAL FORMAT ............................................................................................................... 20
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 3
+A. PROPOSAL SUBMISSION ............................................................................................................................ 20
+B. TECHNICAL PROPOSAL ............................................................................................................................. 20
+C. FINANCIAL PROPOSAL............................................................................................................................... 21
+SECTION V. EVALUATION PROCEDURE .................................................................................................... 23
+A. EVALUATION COMMITTEE ....................................................................................................................... 23
+B. TECHNICAL PROPOSAL CRITERIA .......................................................................................................... 23
+C. FINANCIAL PROPOSAL CRITERIA ........................................................................................................... 23
+D. SELECTION PROCEDURES ......................................................................................................................... 23
+E. DEBRIEFING .................................................................................................................................................. 24
+ATTACHMENTS
+Attachment A – Standard Contract Agreement Sample
+Attachment B – Proposal Affidavit
+Attachment C – Contract Affidavit Sample
+Attachment E – Bid/Price Proposal Form
+Attachment F – Non-Disclosure Agreement Sample
+Attachment L – Bidder/Offeror Profile

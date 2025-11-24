@@ -1,4 +1,7 @@
 const allowedDomain = process.env.REACT_APP_ALLOWED_DOMAIN;
+const allowedDomainNormalized = allowedDomain
+  ? allowedDomain.trim().toLowerCase()
+  : null;
 
 const adminEmails = (process.env.REACT_APP_ADMIN_EMAILS || "")
   .split(",")
@@ -19,7 +22,8 @@ export const isEmailAllowed = (email) => {
   if (!domain) return false;
   if (authConfig.adminEmails.includes(normalized)) return true;
 
-  return domain === authConfig.allowedDomain.toLowerCase();
+  if (!allowedDomainNormalized) return false;
+  return domain === allowedDomainNormalized;
 };
 
 const API_BASE_URL =

@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0023
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 5. Offerors using an As-a-Service (e.g., infrastructure, software, platform, hardware) subservice hosting
+Section Number: 5.
+Section Type: general
+Word Count: 97
+Character Count: 686
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5. Offerors using an As-a-Service (e.g., infrastructure, software, platform, hardware) subservice hosting
+provider (e.g., Microsoft Azure, Amazon Web Services, Google Cloud Platform) must submit a
+current Service Organization Control (SOC) 2 Type II report, or equivalent (as determined by the
+AOC), for the subservice and for the As-a-Service service provider. A SOC 2 Type II report for the
+subservice alone does not meet the requirements of this solicitation.
+S. ACCESS AND BACKGROUND CHECKS
+1. Successful Offeror may be required to submit the following information for AOC engagements for
+Successful Offeror personnel, subcontractors, third-party resources, temporary employees, and

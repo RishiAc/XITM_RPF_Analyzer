@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0088
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: authorized designee, and resolve the issue at no additional cost to the AOC.
+Section Number: None
+Section Type: budget_pricing
+Word Count: 47
+Character Count: 349
+Line Count: 7
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+N. DIVERSITY & OUTREACH PROGRAMS
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 15
+The objective of the Diversity & Outreach Programs is to encourage and increase participation in AOC
+procurements by Minority Business Enterprises (MBE) and Veteran-owned Small Business Enterprises
+(VSBE).

@@ -1,0 +1,21 @@
+Chunk ID: 2-RFP 2000004198_chunk_030
+Section: 17. PROPOSALS ACCEPTANCE PERIOD:
+Section Number: 17
+Section Type: submission_requirements
+Phase: P2
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: proposal, solicitation, days
+Word Count: 60
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+17. PROPOSALS ACCEPTANCE PERIOD:
+17.1. Any proposal submitted in response to this solicitation shall be valid for 365 days. At the end
+of the days the proposal may be withdrawn at the written request of the offeror. If the proposal
+is not withdrawn at that time it remains in effect until an award is made or the solicitation is
+canceled.

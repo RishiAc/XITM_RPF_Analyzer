@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0020
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: Q. OFFEROR SECURITY REQUIREMENTS
+Section Number: None
+Section Type: technical_requirements
+Word Count: 97
+Character Count: 748
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+Q. OFFEROR SECURITY REQUIREMENTS
+1. The Successful Offeror, and all Successful Offeror personnel and subcontractor personnel assigned
+to the Contract, must comply with all applicable federal and state laws, regulations, policies, and
+AOC policies and procedures for the duration of the contract.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 7
+2. The Successful Offeror must comply with the Judicial Information Systems (JIS) Information
+Security Policy. The Information Security Policy closely aligns with guidelines published by the
+National Institute of Standards and Technology. The Information Security Policy is available online
+at: http://www.mdcourts.gov/procurement/index.html.

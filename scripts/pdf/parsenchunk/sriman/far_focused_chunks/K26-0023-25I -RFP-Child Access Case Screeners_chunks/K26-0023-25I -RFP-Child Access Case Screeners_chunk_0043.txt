@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0043
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. An Offeror shall specifically identify those portions of its proposal that it considers confidential,
+Section Number: 1.
+Section Type: submission_requirements
+Word Count: 87
+Character Count: 604
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. An Offeror shall specifically identify those portions of its proposal that it considers confidential,
+proprietary commercial information, or trade secret, and provide justification why such materials,
+upon request, shall not be disclosed by the AOC under Title 16, Chapter 900 of the Maryland Rules.
+2. The inspection of Judiciary procurement documents shall be governed exclusively by the Judicial
+Branch Procurement Policy. Procurement documents are presumed to be open to the public for
+inspection, except as otherwise provided by the Judicial Branch Procurement Policy.
+K. OFFEROR RESPONSIBILITIES

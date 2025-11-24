@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0169
+Source File: 2-RFP 2000004198.pdf
+Section Title: County may further amend the contract by mutual agreement for any increase in the cost of
+Section Number: None
+Section Type: budget_pricing
+Word Count: 42
+Character Count: 270
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+performance of the contract (excluding profit) resulting solely from the delay or suspension of
+the contract. No adjustment shall be made under this clause for any delay or interruption
+resulting from any other cause, including the fault or negligence of the Contractor.

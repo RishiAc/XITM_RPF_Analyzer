@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0045
+Source File: 2-RFP 2000004198.pdf
+Section Title: relevant work experience unless otherwise stated.
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 130
+Character Count: 849
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+relevant work experience unless otherwise stated.
+The personnel named in the technical proposal will remain assigned to the project
+throughout the period of this contract. No diversion or replacement may be made
+without submission of a resume of the proposed replacement with final approval being
+granted by the County Procurement Agent.
+3. Staffing Plan: The staffing plan should indicate a chart that partitions the time
+commitment of each professional staff member across the proposed tasks and a
+timeline for the engagements. It is mandatory that this section identifies the key
+personnel who are to work on the contract, their relationship to the Offeror
+organization, This requirement includes Consultants as well as regular employees of
+the offeror, if relevant.
+a. The County will only accept Offeror personnel who have significant, relevant

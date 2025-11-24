@@ -1,0 +1,94 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0006
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.4. IT/Cyber Security:
+Section Number: 5.4.
+Section Type: security_compliance
+Word Count: 699
+Character Count: 4994
+Line Count: 77
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+5.4. IT/Cyber Security:
+5.4.1. All solution components must meet Information Security practices as described in
+the Fairfax County Information Technology Security Policy:
+https://www.fairfaxcounty.gov/informationtechnology/sites/informationtechnology/fil
+es/assets/security/pm70-05_01.pdf.
+5.4.2. The Contractor must provide complete Fairfax County Project Proposal Matrix for
+Meeting Information Technology Security Policy Requirements (Attachment C)
+upon request by the County.
+5.4.3. Contractors implementing solutions must be compliant with all federal and Virginia
+laws and regulations governing the access, use and management of Personally
+Identifiable Information (PII), Payment Card Industry (PCI) compliant and meet
+Americans with Disabilities Act (ADA) requirements.
+5.4.4. Offerors must include in their proposals the completed Attachment D: Fairfax
+County IT Services Provider Consultant/Contractor Agreement, for the firm and its
+personnel that have roles in the implementation and management of the solution
+implementation and post implementation maintenance and support, as applicable.
+This requirement is non-negotiable.
+5.4.5. Contractor personnel are subject to monitoring by the County IT Security Office
+(ISO), and any person of the Contractor or its subcontractors or representatives that
+breach IT Security Policy and/or ethics are automatically removed from the
+engagement.
+5.4.6. Sensitive and Confidential Information: Sensitive or Confidential information may
+not be removed from Fairfax County premises or systems unless the information’s
+owner has approved such removal or exposure in advance. This includes, but is not
+limited to, various active data services, (REST, WebSocket, GraphQL, etc.) portable
+computer hard disks, portable memory devices (including USB drives), tape
+cartridges, and paper documents containing sensitive or confidential information.
+This paragraph does not apply to authorized off-site backups which are in encrypted
+form.
+5.4.7. Authorized Tools and Programs: Except as otherwise expressly authorized by
+DIT/ISO, users shall not download, install or run security programs or utilities that
+reveal weaknesses in the security of a system. For example, Fairfax County users
+shall not run password cracking programs, network reconnaissance/discovery
+software/applications, key loggers, packet sniffers, network mapping tools, port
+scanners or any other non-approved programs while connected in any manner to
+the Fairfax County network infrastructure.
+5
+RFP 2000004198
+SPECIAL PROVISIONS
+5.4.8. Remote Access: Authorized users accessing the County’s network remotely shall
+abide by security policies and procedures to protect the County's equipment, data,
+and network access as if they were working on premises.
+A. Remote access is a service provided by the County and shall be used for
+authorized business purposes only. To this end, management shall approve
+every request for remote access.
+B. Remote access to the Fairfax County network shall be done using the DIT
+provided or supported services that are approved by the Information Security
+Office.
+C. Agencies or individuals who wish to implement non-standard Remote Access
+solutions to the Fairfax County production network shall obtain prior approval
+from DIT and the Information Security Office.
+D. Secure remote access shall be strictly controlled. Control will be enforced via
+remote access authentication using security tokens that provide one-time
+password authentication or public/private keys with strong pass-phrases.
+Furthermore, users may not share passwords or access devices to permit
+others onto the County network.
+E. Remote Access control will be enforced via network and system level
+auditing. This information will be readily available for monitoring and review
+by appropriate personnel.
+F. External access to and from information systems shall meet Fairfax County
+remote access standards and guidelines.
+G. Reconfiguration of a home user’s equipment for the purpose of split-tunneling
+or dual homing is not permitted.
+H. All hosts that are connected to Fairfax County internal networks via remote
+access technologies shall use the most up-to-date anti-virus software.
+I. By using remote access technology with personal equipment, users shall
+understand that their machines are a de facto extension of Fairfax County’s
+network, and as such are subject to the same standards that apply to County-
+owned equipment; therefore, their machines shall be configured to comply
+with Fairfax County policies and DIT standards for anti-virus software and
+patch management.
+J. The County monitors its networks and systems for security violations. Users
+agree to this monitoring when they use the service.
+K. The link shall be encrypted whenever a computer network connection is
+established between a County computer and another computer at a location
+outside an official Fairfax County office, and whenever this connection
+transmits, or is likely to transmit sensitive information.

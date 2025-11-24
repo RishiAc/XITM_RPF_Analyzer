@@ -1,0 +1,45 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0044
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.8. Disaster Recovery/Continuity of Operations:
+Section Number: 5.8.
+Section Type: general
+Word Count: 325
+Character Count: 2207
+Line Count: 28
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+5.8.1. For solutions developed using staff augmentation from this contract, regardless of
+the architecture of the solutions or systems the Contractor supports, , the Contractor
+shall be continually ready to invoke a Business Continuity and Disaster Recovery
+(“BC-DR”) plan that at a minimum addresses the following scenarios: (i) The central
+computer installation and resident software are destroyed or damaged, (ii) System
+interruption or failure resulting from network, operating hardware, software, or
+operational errors that compromises the integrity of transactions that are active in a
+live system at the time of the outage, (iii) System interruption or failure resulting from
+network, operating hardware, software or operational errors that compromises the
+integrity of data maintained in a live or archival system, (iv) System interruption or
+failure resulting from network, operating hardware, software or operational errors
+that does not compromise the integrity of transactions or data maintained in a live
+or archival system but does prevent access to the system, i.e., causes unscheduled
+system unavailability. The BC-DR plan shall account for and be in effect during the
+entire period beginning with project kickoff and ending with the end of any turnover
+period. If Contractor is fully supporting BC-DR then BC-DR plans must be prior
+approved by the County.
+5.8.2. Fairfax County operates a contemporary near real-time co-location site for county
+applications and data off-site. Any solutions supported must be able to seamlessly
+fail-over and be active-active. If components of the supported solutions are a
+subscription service hosted by the Offeror or third-party data-center, the contractors
+must include provisions and descriptions of its DR site and procedures. Fairfax
+County must have direct access to inspect the host and co-location sites.
+5.8.3. The Contractor’s Disaster Recovery plan should document the processes necessary
+to respond to system disruption or a disaster that would affect the system.
+5.8.4. The Contractor’s Disaster Recovery plan shall identify the activities, resources, and
+procedures needed to carry out processing requirements for a prolonged period of
+time.

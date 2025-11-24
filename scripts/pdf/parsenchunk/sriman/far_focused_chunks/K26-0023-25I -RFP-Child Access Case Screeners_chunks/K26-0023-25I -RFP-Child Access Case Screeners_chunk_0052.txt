@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0052
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: option periods, if exercised. Evidence that the required insurance coverage has been obtained may
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 84
+Character Count: 538
+Line Count: 6
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+option periods, if exercised. Evidence that the required insurance coverage has been obtained may
+be provided by Certificates of Insurance duly issued and certified by the insurance company or
+companies furnishing such insurance.
+2. All insurance policies shall be endorsed to provide that the insurance carrier will be responsible for
+providing immediate notice to the AOC in the event of cancellation or restriction of the insurance
+policy by either the insurance carrier or the Successful Offeror, at least sixty (60) days prior to any

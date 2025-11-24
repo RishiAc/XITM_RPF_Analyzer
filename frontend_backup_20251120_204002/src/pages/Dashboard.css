@@ -1,0 +1,84 @@
+.dashboard-container {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+/* Header below Navbar */
+.dashboard-header {
+  padding: 20px;
+}
+
+.dashboard-header h1 {
+  margin: 0;
+  color: #333;
+  position: relative;       /* enables ::after positioning */
+  display: inline-block;    /* keeps underline aligned with text width */
+}
+
+.chat-title h1::after {
+  content: "";
+  position: absolute;
+  left: 0;                  /* aligns underline with left edge of text */
+  bottom: -6px;             /* distance below the text */
+  width: 30px;              /* adjust for desired length */
+  height: 3px;              /* thickness */
+  background-color: var(--accent-yellow);
+  border-radius: 2px;
+}
+
+/* Main dashboard layout */
+.dashboard-main {
+  display: flex;
+  flex: 1;
+  padding: 20px;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Columns */
+.dashboard-left,
+.dashboard-right {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  color: var(--text-black);
+}
+
+.dashboard-left {
+  flex: 1;
+  max-width: 200px;
+}
+
+.dashboard-right {
+  flex: 1;
+  max-width: 200px;
+}
+
+/* Center column */
+.dashboard-center {
+  flex: 0 0 150px; /* keep ScoreCard size */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Clickable boxes */
+.dashboard-box {
+  background-color: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dashboard-box:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}

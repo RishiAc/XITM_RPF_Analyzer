@@ -1,0 +1,57 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0013
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. An Offeror shall specifically identify those portions of its proposal that it considers confidential,
+Section Number: 1.
+Section Type: submission_requirements
+Word Count: 497
+Character Count: 3351
+Line Count: 40
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+1. An Offeror shall specifically identify those portions of its proposal that it considers confidential,
+proprietary commercial information, or trade secret, and provide justification why such materials,
+upon request, shall not be disclosed by the AOC under Title 16, Chapter 900 of the Maryland Rules.
+2. The inspection of Judiciary procurement documents shall be governed exclusively by the Judicial
+Branch Procurement Policy. Procurement documents are presumed to be open to the public for
+inspection, except as otherwise provided by the Judicial Branch Procurement Policy.
+K. OFFEROR RESPONSIBILITIES
+1. Offerors shall be responsible for all goods and/or services and requirements set forth in this RFP
+including the contract performance of any subcontractor participation.
+2. All subcontractors must be identified and a complete description of their role relative to the proposal
+must be included in the Offeror’s proposal. If the Successful Offeror requires the use of a
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 14
+subcontractor during the life of the Contract that was not identified in the proposal or the role of an
+identified subcontractor otherwise changes, the Successful Offeror shall obtain approval from the
+Contract Manager. If applicable, subcontractors utilized in meeting the established MBE or VSBE
+participation goal(s) shall be identified as provided in the appropriate MBE/VSBE forms attached to
+this RFP.
+3. If an Offeror that seeks to perform or provide the services required by this RFP is the subsidiary of
+another entity, all information submitted by the Offeror such as, but not limited to, references and
+financial reports, shall pertain exclusively to the Offeror, unless the parent organization will
+guarantee the performance of the subsidiary. If applicable, the Offeror’s proposal must contain an
+explicit statement, signed by an authorized representative of the parent organization, stating that the
+parent organization consents to the terms of the RFP and will guarantee the performance of the
+subsidiary.
+4. A parental guarantee of the performance of the Offeror under this section will not automatically
+result in crediting the Offeror with the experience or qualification of the parent under any evaluation
+criteria pertaining to the actual Offeror’s experience and qualifications. The Offeror will be evaluated
+on the extent to which the AOC determines that the experience and qualifications of the parent are
+applicable to and shared with the Offeror, any stated intent by the parent to be directly involved in
+the performance of the contract, and the value of the parent’s participation as determined by the
+AOC.
+5. The Successful Offeror will be required to follow all current Judiciary protocols referencing
+pandemic flu or other infectious diseases including, but not limited to, proof of vaccination,
+producing negative COVID tests, completing/passing an initial screening questionnaire, non-contact
+temperature taking, the wearing of personal protective equipment (e.g., face mask), and practicing
+appropriate social distancing. Failure to comply with any of the Judiciary’s protocol could result in
+being denied entry into Judiciary workspace, and mitigation up to and including contract termination.
+L. ACCEPTANCE OF TERMS & CONDITIONS

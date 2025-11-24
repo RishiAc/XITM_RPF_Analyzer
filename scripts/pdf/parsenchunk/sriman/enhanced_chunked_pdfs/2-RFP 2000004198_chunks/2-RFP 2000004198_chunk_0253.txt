@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0253
+Source File: 2-RFP 2000004198.pdf
+Section Title: 55. PAYMENT FOR EQUIPMENT, INSTALLATION, AND TESTING-When equipment requires installation (which includes erection,
+Section Number: 55.
+Section Type: general
+Word Count: 128
+Character Count: 711
+Line Count: 7
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+setting up or placing in position, service, or use) and testing, and the installation or testing is delayed, payment may be made on
+the basis of 50% of the contract price when such equipment is delivered on the site. A further allowance of 25% may be made
+when the equipment is installed and ready for test. The balance shall be paid after the equipment is tested and found to be
+satisfactory. If the equipment must be tested, but installation is not required to be made by the Contractor or if the equipment
+must be installed but testing is not required, payment may be made on the basis of 75% at the time of delivery and the balance
+shall be paid after satisfactory test or installation is completed.
+GENERAL

@@ -1,0 +1,20 @@
+Chunk ID: 2-RFP 2000004198_chunk_033
+Section: 1. Agree to provide certificates of insurance evidencing the above coverage for a period
+Section Number: 1
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: contract, contractor
+Word Count: 45
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+1. Agree to provide certificates of insurance evidencing the above coverage for a period
+of two years after final payment for the contract. This certificate shall evidence a
+"retroactive date" no later than the beginning of the Contractor's or sub-contractor's
+work under this contract, or

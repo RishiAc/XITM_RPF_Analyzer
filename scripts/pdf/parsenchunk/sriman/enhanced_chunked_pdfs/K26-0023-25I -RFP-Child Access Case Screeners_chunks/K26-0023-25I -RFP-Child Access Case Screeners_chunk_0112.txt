@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0112
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offerors must omit all pricing information from the Technical Proposal, and only include pricing
+Section Number: 1.
+Section Type: technical_requirements
+Word Count: 5
+Character Count: 38
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+information in the Financial Proposal.

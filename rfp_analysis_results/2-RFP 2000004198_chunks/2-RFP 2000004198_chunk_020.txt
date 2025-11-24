@@ -1,0 +1,18 @@
+Chunk ID: 2-RFP 2000004198_chunk_020
+Section: 4. Financial Statements: The Offeror shall provide an income statement and balance
+Section Number: 4
+Section Type: pricing
+Phase: P4
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: financial, statements, offeror, shall, provide
+Word Count: 19
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+4. Financial Statements: The Offeror shall provide an income statement and balance
+sheet from the most recent reporting period.

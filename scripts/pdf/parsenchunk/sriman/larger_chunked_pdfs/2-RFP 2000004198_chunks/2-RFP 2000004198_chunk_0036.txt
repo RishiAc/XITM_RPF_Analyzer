@@ -1,0 +1,56 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0036
+Source File: 2-RFP 2000004198.pdf
+Section Title: by the Contractor’s products, software, services, or deliverables. Contractor must indemnify the County for any loss,
+Section Number: None
+Section Type: deliverables_timeline
+Word Count: 703
+Character Count: 4465
+Line Count: 39
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+by the Contractor’s products, software, services, or deliverables. Contractor must indemnify the County for any loss,
+damage, expense or liability, including costs and reasonable attorney’s fees that may result by reason of any such claim.
+In the event of a claim covered by this subparagraph, and in addition to all other obligations of Contractor in this Paragraph
+58, Contractor must at its expense and within a reasonable time: (a) obtain a right for the County to continue using such
+products and software, or allow Contractor to continue performing the Services; (b) modify such products, software, services
+or deliverables to make them non-infringing; or (c) replace such products or software with a non-infringing equivalent. If, in
+the Contractor’s reasonable opinion, none of the foregoing options is feasible Contractor must immediately notify the County
+and accept the return of the products, software, services, or deliverables, along with any other components rendered
+unusable as a result of the infringement or claimed infringement, and refund to the County the price paid to Contractor for
+such components as well as any pre-paid fees for the allegedly infringing services, including license, subscription fees, or
+both. Nothing in Paragraph 59, however, relieves the Contractor of liability to the County for damages sustained by the
+County by virtue of any breach of contract related to a third-party infringement claim.
+c. Right to Participate in Defense. The County may, at its sole expense, participate in the defense or resolution of a
+Claim. Contractor will have primary control of the defense and resolution of the Claim, except when such defense or
+resolution requires the County to (i) admit liability or wrongdoing; or (ii) to pay money. In either of these cases Contractor
+must obtain the County’s prior written consent before raising such defense or entering into such resolution.
+d. No Indemnification by the County. The parties agree that under applicable law the County cannot indemnify or
+defend the Contractor. To the extent any promise or term contained in this Contract, including any exhibits,
+attachments, or other documents incorporated by reference therein, includes an indemnification or obligation to
+defend by the County, that promise or term is stricken from this Contract and of no effect.
+59. OFFICIALS NOT TO BENEFIT-
+a. Each bidder, offeror, or contractor shall certify, upon signing a bid, proposal, or contract, that to the best of their knowledge
+no Fairfax County official or employee having official responsibility for the procurement transaction, or member of their
+immediate family, has received or will receive any financial benefit of more than nominal or minimal value relating to the
+award of this contract. For purposes of this Paragraph, “financial benefit” means any payment, loan, subscription, advance,
+deposit of money, services personal use rebates or anything of more than nominal or minimal value, present or promised,
+unless consideration of substantially equal or greater value is exchanged. If a financial benefit has been received or will be
+received, this fact must be disclosed with the bid or proposal or as soon thereafter as it appears that a financial benefit will
+be received. Failure to disclose the information prescribed above may result in suspension or debarment, or rescission of
+the contract made, or could affect payment pursuant to the terms of the contract.
+b. Whenever there is reason to believe that a financial benefit of the sort described in paragraph "a" has been or will be
+received in connection with a bid, proposal or contract, and that the Contractor has failed to disclose such benefit or has
+inadequately disclosed it, the County Executive, as a prerequisite to payment pursuant to the contract, or at any other time,
+may require the Contractor to furnish, under oath, answers to any interrogatories related to such possible benefit.
+c. In the event the bidder or offeror has knowledge of financial benefits as outlined above, this information should be submitted
+with the bid or proposal. If the above does not apply at time of award of contract and becomes known after inception of a
+contract, the bidder or offeror must disclose such facts to the Fairfax County Purchasing Agent, 12000 Government Center
+Parkway, Suite 427, Fairfax, Virginia 22035-0013. Relevant Invitation/Request for Proposal Number (see cover sheet)
+should be referenced in the disclosure.

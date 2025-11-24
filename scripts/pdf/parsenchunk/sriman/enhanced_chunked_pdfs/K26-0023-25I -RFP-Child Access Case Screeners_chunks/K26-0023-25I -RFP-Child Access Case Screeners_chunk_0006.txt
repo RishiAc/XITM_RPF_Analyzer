@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0006
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: SECTION III. SCOPE OF WORK ..................................................................................................................... 18
+Section Number: None
+Section Type: scope_of_work
+Word Count: 9
+Character Count: 305
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+A. SUMMARY ..................................................................................................................................................... 18
+B. BACKGROUND INFORMATION ................................................................................................................ 18

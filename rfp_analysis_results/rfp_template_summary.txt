@@ -1,0 +1,153 @@
+=== RFP COMPREHENSIVE ANALYSIS SUMMARY ===
+Source File: rfp_template.pdf
+Total Sections: 20
+Total Chunks: 20
+Total Characters: 70277
+
+=== PHASE DISTRIBUTION ===
+  - P1: 6 chunks
+  - P2: 11 chunks
+  - P4: 3 chunks
+
+=== GOVERNMENT REFERENCES SUMMARY ===
+Total FAR References Found: 121
+Total DFARS References Found: 0
+Unique FAR References:
+  - 52.12-4
+  - 52.204-4
+  - 52.212-1
+  - 52.212-3
+  - 52.212-4
+  - 52.213-17
+  - 52.216-1
+  - 52.217-2
+  - 52.222-10
+  - 52.222-11
+  - 52.222-12
+  - 52.222-13
+  - 52.222-14
+  - 52.222-15
+  - 52.222-27
+  - 52.222-43
+  - 52.222-5
+  - 52.222-6
+  - 52.222-7
+  - 52.222-8
+  - 52.222-9
+  - 52.227-1
+  - 52.228-15
+  - 52.228-16
+  - 52.228-5
+  - 52.229-3
+  - 52.232-11
+  - 52.232-18
+  - 52.236-1
+  - 52.236-10
+  - 52.236-11
+  - 52.236-12
+  - 52.236-13
+  - 52.236-14
+  - 52.236-15
+  - 52.236-2
+  - 52.236-3
+  - 52.236-5
+  - 52.236-6
+  - 52.236-7
+  - 52.236-8
+  - 52.236-9
+  - 52.237-2
+  - 52.241-5
+  - 52.242-13
+  - 52.242-15
+  - 52.247-34
+  - 52.249-2
+  - 52.249-8
+  - 52.252-2
+  - 52.253-1
+  - FAR 17.1
+  - FAR 17.108
+  - FAR 23.205
+  - FAR 41.102
+  - FAR 42
+  - FAR 52.12-4
+  - FAR 52.204-4
+  - FAR 52.212-1
+  - FAR 52.212-4
+  - FAR 52.213-17
+  - FAR 52.217-2
+  - FAR 52.222-10
+  - FAR 52.222-11
+  - FAR 52.222-12
+  - FAR 52.222-13
+  - FAR 52.222-14
+  - FAR 52.222-15
+  - FAR 52.222-27
+  - FAR 52.222-43
+  - FAR 52.222-5
+  - FAR 52.222-6
+  - FAR 52.222-7
+  - FAR 52.222-8
+  - FAR 52.222-9
+  - FAR 52.227-1
+  - FAR 52.228-15
+  - FAR 52.228-16
+  - FAR 52.228-5
+  - FAR 52.229-3
+  - FAR 52.232-11
+  - FAR 52.232-18
+  - FAR 52.236-1
+  - FAR 52.236-10
+  - FAR 52.236-11
+  - FAR 52.236-12
+  - FAR 52.236-13
+  - FAR 52.236-14
+  - FAR 52.236-15
+  - FAR 52.236-2
+  - FAR 52.236-3
+  - FAR 52.236-5
+  - FAR 52.236-6
+  - FAR 52.236-7
+  - FAR 52.236-8
+  - FAR 52.236-9
+  - FAR 52.237-2
+  - FAR 52.241-5
+  - FAR 52.242-13
+  - FAR 52.242-15
+  - FAR 52.247-34
+  - FAR 52.249-2
+  - FAR 52.249-8
+  - FAR 52.252-2
+  - FAR 52.253-1
+
+=== ELIGIBILITY SUMMARY ===
+Eligibility Types Found:
+  - SMALL_BUSINESS
+
+=== EVALUATION SUMMARY ===
+Evaluation Types: Award Basis
+
+=== KEY DATES SUMMARY ===
+Due Dates Found:
+  - September
+
+=== CHUNK LIST ===
+rfp_template_chunk_0001: General (Phase: P1)
+rfp_template_chunk_0002: *These sections are included in “Procurement Specifications Templates for Onsite Solar Photovoltaic: For (Phase: P2)
+rfp_template_chunk_0003: submitted). An agency ESCO qualified list consistent with 42 U.S.C. § 8287(b)(2)(A)-(B) requirements can be (Phase: P2)
+rfp_template_chunk_0004: including the reserve account payment, will be used to determine compliance with the ESPC statutory savings (Phase: P1)
+rfp_template_chunk_0005: Except as the context otherwise indicates, all references to “Exhibits”, “Attachments” and “Sections” refer to (Phase: P1)
+rfp_template_chunk_0006: 0001 Firm Fixed Price ($/kWh) [add annual escalation rate if applicable] (Phase: P4)
+rfp_template_chunk_0007: [See “Procurement Specifications Templates for Onsite Solar Photovoltaic: For Use in Developing Federal (Phase: P2)
+rfp_template_chunk_0008: requirements. For example, add due dates for draft designs if desired in addition to 100% design documents.] (Phase: P1)
+rfp_template_chunk_0009: necessary, with respect to the contract requirements, and will monitor the progress and quality of the (Phase: P2)
+rfp_template_chunk_0010: SPECIAL CONTRACT REQUIREMENTS (Phase: P2)
+rfp_template_chunk_0011: requirements associated with the ESCO’s reserve account. The ESCO could be required to obtain an FMV (Phase: P2)
+rfp_template_chunk_0012: manifest error. The cost of the appraisal shall be borne by the ESCO. (Phase: P4)
+rfp_template_chunk_0013: [Incorporate agency requirements and reference the DOE IDIQ contract Section H.] (Phase: P2)
+rfp_template_chunk_0014: H.11.3 Construction Permit and Crane Work Requirements (Phase: P2)
+rfp_template_chunk_0015: perform at its own cost, and without additional charge to the <agency>, the professional services necessary to (Phase: P4)
+rfp_template_chunk_0016: requirements when responding to a service interruption.] (Phase: P2)
+rfp_template_chunk_0017: https://energy.gov/eere/femp/downloads/2017-doe-idiq-espc-generic-contract) Section I Contract Clauses (Phase: P1)
+rfp_template_chunk_0018: FAR 52.222-5 Construction Wage Requirements – Secondary Site of the Work (Phase: P2)
+rfp_template_chunk_0019: PART III – LIST OF DOCUMENTS, EXHIBITS, AND OTHER ATTACHMENTS (Phase: P1)
+rfp_template_chunk_0020: https://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-solar-photovoltaic-use- (Phase: P2)

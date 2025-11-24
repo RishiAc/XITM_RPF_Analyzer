@@ -1,0 +1,79 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0037
+Source File: 2-RFP 2000004198.pdf
+Section Title: Contractor shall be compensated for the cost of performance at the rate specified in the contract up to the time of such
+Section Number: None
+Phase: P4
+Word Count: 860
+Character Count: 5388
+Line Count: 52
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contractor, shall, contract, county, purchasing, performance, final, action, virginia, employees
+
+=== CHUNK CONTENT ===
+Contractor shall be compensated for the cost of performance at the rate specified in the contract up to the time of such
+declaration. In no event shall the performing Contractor be entitled to lost profits.
+33
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+c. Pending final determination of a protest or appeal, the validity of a contract awarded and accepted in good faith in accordance
+with this article shall not be affected by the fact that a protest or appeal has been filed.
+d. An award need not be delayed for the period allowed a bidder or offeror to protest, but in the event of a timely protest, no
+further action to award the contract will be taken unless there is a written determination that proceeding without delay is
+necessary to protect the public interest or unless the bid or offer would expire.
+68. CONTRACTUAL DISPUTES-
+a. Any dispute concerning a question of fact as a result of a contract with the County which is not disposed of by agreement
+shall be decided by the Purchasing Agent, who shall reduce her decision to writing and mail or otherwise forward a copy to
+the Contractor within ninety (90) days. The decision of the Purchasing Agent shall be final and conclusive unless the
+Contractor appeals within six (6) months of the date of the final written decision by instituting legal action as provided in the
+Code of Virginia. A Contractor may not institute legal action, prior to receipt of the Purchasing Agent’s decision on the claim,
+unless the Purchasing Agent fails to render such decision within the time specified.
+b. Contractual claims, whether for money or other relief, shall be submitted in writing no later than sixty days after final payment;
+however, written notice of the Contractor's intention to file such claim shall have been given at the time of the occurrence or
+beginning of the work upon which the claim is based. Nothing herein shall preclude a contract from requiring submission of
+an invoice for final payment within a certain time after completion and acceptance of the work or acceptance of the goods.
+Pendency of claims shall not delay payment of amounts agreed due in the final payment.
+69. LEGAL ACTION-No bidder, offeror, potential bidder or offeror, or Contractor shall institute any legal action until all statutory
+requirements have been met. Statutory requirements include, but are not limited to, the requirements of the Virginia Public
+Procurement Act, as reflected in the Fairfax County Purchasing Resolution and the requirement that any contractor seeking
+monetary relief or damages from the County must submit its claim to the Board of Supervisors in compliance with Virginia Code
+§ 15.2-1243 through 1249.
+70. VENUE: This contract and its terms, including but not limited to, the parties’ obligations, the performance due, and the remedies
+available to each party, are governed, construed, and interpreted in accordance with the laws of the Commonwealth of Virginia.
+Any jurisdiction’s choice of law, conflicts of laws, rules, or provisions that would cause the application of any laws other than
+those of the Commonwealth of Virginia do not apply. Any and all disputes, claims, and causes of action arising out of or in any
+way connected with this contract or its performance must be brought in the applicable court of Fairfax County, or in the United
+States District Court for the Eastern District of Virginia, Alexandria Division.
+71. COOPERATIVE PURCHASING-The County or any entity identified in the Fairfax County Purchasing Resolution, Article 1,
+Section 3 may participate in, sponsor, conduct or administer a cooperative procurement agreement as set forth in the Fairfax
+County Purchasing Resolution.
+72. DRUG FREE WORKPLACE-During the performance of a contract, the Contractor agrees to (i) provide a drug-free workplace
+for the Contractor's employees; (ii) post in conspicuous places, available to employees and applicants for employment, a
+statement notifying employees that the unlawful manufacture, sale, distribution, dispensation, possession, or use of a controlled
+substance or marijuana is prohibited in the Contractor's workplace and specifying the actions that will be taken against employees
+for violations of such prohibition; (iii) state in all solicitations or advertisements for employees placed by or on behalf of the
+Contractor that the Contractor maintains a drug-free workplace; and (iv) include the provisions of the foregoing clauses in every
+subcontract of over $10,000, so that the provisions will be binding upon each subcontractor or vendor. For the purposes of this
+section, "drug-free workplace" means a site for the performance of work done in conjunction with a specific contract awarded to
+a Contractor in accordance with this section, the employees of whom are prohibited from engaging in the unlawful manufacture,
+sale, distribution, dispensation, possession or use of any controlled substance or marijuana during the performance of the
+contract.
+73. IMMIGRATION REFORM AND CONTROL ACT-Contractor agrees that it does not, and shall not during the performance of the
+contract for goods and services in the Commonwealth, knowingly employ an unauthorized alien as defined in the Federal
+Immigration Reform and Control Act of 1986.
+74. AUDIT OF RECORDS The parties agree that the County or its agent must have reasonable access to and the right to examine

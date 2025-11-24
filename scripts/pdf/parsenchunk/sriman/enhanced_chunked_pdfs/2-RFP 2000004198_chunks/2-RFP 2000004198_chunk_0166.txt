@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0166
+Source File: 2-RFP 2000004198.pdf
+Section Title: 23.1. The County may direct the Contractor, in writing, to suspend, delay, or interrupt all or any part
+Section Number: 23.1.
+Section Type: general
+Word Count: 49
+Character Count: 283
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+of the work of this contract for the period of time deemed appropriate for the convenience of
+the County. The County will extend the Contractor's time of completion by a period of time that
+in the discretion of the County Purchasing Agent is reasonably suited for completion of work.

@@ -1,0 +1,70 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0028
+Source File: 2-RFP 2000004198.pdf
+Section Title: County by virtue of any breach of contract by the Contractor for the purpose of set off until such time as the exact amount of
+Section Number: None
+Phase: P1
+Word Count: 707
+Character Count: 4554
+Line Count: 43
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contractor, contract, county, such, agent, shall, purchasing, payment, obligations, under
+
+=== CHUNK CONTENT ===
+County by virtue of any breach of contract by the Contractor for the purpose of set off until such time as the exact amount of
+damages due to the County from the Contractor is determined.
+32. CONTRACT ALTERATIONS-No alterations in the terms of a contract shall be valid or binding upon the County unless made in
+27
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+writing and signed by the Purchasing Agent or her authorized agent.
+33. SUBLETTING OR ASSIGNMENT -It is mutually understood and agreed that the Contractor shall not assign, transfer, convey,
+sublet or otherwise dispose of his or her contractual duties to any other person, firm or corporation, without the previous written
+consent of the Purchasing Agent. If the Contractor desires to assign its right to payment of the contract, Contractor shall notify
+the Purchasing Agent immediately, in writing, of such assignment of right to payment. In no case shall such assignment of
+contract relieve the Contractor from its obligations or change the terms of the contract.
+34. FUNDING- The obligation of the County to pay compensation due the Contractor under the contract or any other payment
+obligations under any contract awarded pursuant to this contract is subject to appropriations by the Fairfax County Board of
+Supervisors to satisfy payment of such obligations. The County’s obligations to make payments during subsequent fiscal years
+are dependent upon the same action. If such an appropriation is not made for any fiscal year, the contract shall terminate
+effective at the end of the fiscal year for which funds were appropriated and the County will not be obligated to make any payments
+under the contract beyond the amount appropriated for payment obligations under the contract. The County will provide the
+Contractor with written notice of non-appropriation of funds within thirty (30) calendar days after action is completed by the Board
+of Supervisors. However, the County’s failure to provide such notice will not extend the contract into a fiscal year in which
+sufficient funds have not been appropriated.
+35. DELIVERY/SERVICE FAILURES-If a Contractor (i) fails to deliver goods or services within the time specified or within a
+reasonable time as interpreted by the Purchasing Agent; or (ii) fails to make replacements or corrections of rejected articles or
+services when so requested, immediately or as directed by the Purchasing Agent, then the Purchasing Agent shall have the
+authority to purchase in the open market goods or services of comparable grade or quality to replace goods or services not
+delivered or rejected. On all such purchases, the Contractor shall reimburse the County, within a reasonable time specified by
+the Purchasing Agent, for any expense incurred in excess of contract prices. Such purchases shall be deducted from the contract
+quantities if applicable. Should public necessity demand it, the County reserves the right to use or consume articles delivered or
+services performed which are substandard in quality, subject to an adjustment in price to be determined by the Purchasing Agent.
+36. NON-LIABILITY-The Contractor shall not be liable in damages for delay in shipment or failure to deliver when such delay or
+failure is the result of fire, flood, strike, the transportation carrier, act of God, act of Government, act of an alien enemy or by any
+other circumstances which, in the Purchasing Agent's opinion, are beyond the reasonable control of the Contractor. Under such
+circumstances, however, the Purchasing Agent may, at her discretion terminate the contract.
+37. NON-DISCRIMINATION-During the performance of this contract, the Contractor agrees as follows:
+a. The Contractor will not discriminate against any employee or applicant for employment because of race, religion, color, sex,
+national origin, age, disability, or other basis prohibited by state law relating to discrimination in employment, except where
+there is a bona fide occupational qualification reasonably necessary to the normal operation of the Contractor. The Contractor
+agrees to post in conspicuous places, available to employees and applicants for employment, notices setting forth the
+provisions of this non-discrimination clause.
+b. The Contractor, in all solicitations or advertisements for employees placed by or on behalf of the Contractor, will state that
+such Contractor is an equal opportunity employer.
+c. Notices, advertisements and solicitations placed in accordance with federal law, rule or regulation shall be deemed sufficient

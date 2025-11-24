@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0138
+Source File: 2-RFP 2000004198.pdf
+Section Title: limits of insurance or additional insurance coverage against other hazards for which insurance
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 28
+Character Count: 185
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+is reasonably obtainable and which, at the time, are commonly insured against in the case of
+similar properties conducting similar activities within the geographic area of the Property,

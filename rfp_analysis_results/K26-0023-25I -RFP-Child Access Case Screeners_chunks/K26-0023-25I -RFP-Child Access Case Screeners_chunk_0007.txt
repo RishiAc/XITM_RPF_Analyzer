@@ -1,0 +1,86 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0007
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. Any software used to meet the requirements of this solicitation, on any AOC system, must be
+Section Number: None
+Phase: P2
+Word Count: 697
+Character Count: 4580
+Line Count: 59
+
+=== KEY DATES ===
+Due Dates: 03/25/2025
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: offeror, successful, personnel, security, criminal, contract, must, access, information, software
+
+=== CHUNK CONTENT ===
+4. Any software used to meet the requirements of this solicitation, on any AOC system, must be
+included in the Offeror’s technical proposal. Software must be assessed by JIS and approved by the
+JIS Chief Information Officer. At the discretion of JIS, proposed software may be determined to be
+a risk to system and information integrity security controls and therefore rejected. If software is to
+be used remotely, the Judiciary shall control the method of access to our network via Virtual Private
+Network (VPN), firewall configurations, and/or segregating remote machine access within our
+environment.
+5. Offerors using an As-a-Service (e.g., infrastructure, software, platform, hardware) subservice hosting
+provider (e.g., Microsoft Azure, Amazon Web Services, Google Cloud Platform) must submit a
+current Service Organization Control (SOC) 2 Type II report, or equivalent (as determined by the
+AOC), for the subservice and for the As-a-Service service provider. A SOC 2 Type II report for the
+subservice alone does not meet the requirements of this solicitation.
+S. ACCESS AND BACKGROUND CHECKS
+1. Successful Offeror may be required to submit the following information for AOC engagements for
+Successful Offeror personnel, subcontractors, third-party resources, temporary employees, and
+training candidates:
+a. Full Name.
+b. Phone Number.
+c. Personal/Private email with no connection to employer.
+d. Emergency contact information.
+2. Site visits to any AOC location must be coordinated by AOC staff with the designated site personnel
+in advance of any visit.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 8
+3. Any Successful Offeror personnel working at AOC locations, or on AOC systems or projects, or who
+have access to AOC or State criminal data or systems, must be approved in writing by the
+Procurement Officer prior to beginning work.
+4. All Successful Offeror personnel working on AOC premises, property, systems or projects, contracts,
+or who have access to AOC or State criminal data or systems, may be required to obtain a Criminal
+Justice Information System (CJIS) State and Federal criminal background check prior to beginning
+work. The AOC reserves the right to refuse to allow any Successful Offeror personnel to begin work
+based upon criminal records.
+5. All Successful Offeror personnel assigned to work at AOC locations may be required to obtain an
+AOC security identification badge prior to beginning work, and annually thereafter. The Successful
+Offeror is responsible for any fees that may be incurred for initial issuance of the badge and for any
+replacement.
+6. The security identification badge shall always be displayed while on AOC premises. To verify
+identity, the Successful Offeror personnel shall be prepared to provide photo identification upon
+request by an AOC employee.
+7. Successful Offeror personnel are required to immediately notify the Contract Manager, the
+Administrative Official of the respective department or office or the Contract Manager, if their
+security identification badge is lost or stolen.
+8. The Successful Offeror personnel must notify the Contract Manager, the Administrative Official of
+the respective department or office, within one (1) business day if any personnel have been arrested,
+indicted, served with a criminal summons, named in a peace or protective order, or named as a
+defendant in any civil case. The Successful Offeror personnel are also required to provide regular
+updated information regarding the status of any of these court actions.
+9. The Contract Manager, in conjunction with the Chief of the Office of Security Administration and
+the Procurement Officer, may impose restrictive conditions in response to prior criminal convictions,
+pending criminal charges, or a violation of AOC procedures, including removal from the contract,
+and/or restricted access to AOC locations or systems.
+10. In the event of a security incident or suspected security incident, the Successful Offeror personnel
+shall immediately notify the Contract Manager.
+11. The Successful Offeror personnel shall cooperate fully in all security incident investigations.
+12. During the contract, if necessary, for the delivery of goods and services, the Successful Offeror may
+be provided an AOC asset in the form of a cell phone, laptop, or other electronic device. All AOC
+devices are the property of the AOC and must be returned in working, acceptable condition at the
+contract’s conclusion. If said devices are not in working acceptable conditions, Successful Offeror

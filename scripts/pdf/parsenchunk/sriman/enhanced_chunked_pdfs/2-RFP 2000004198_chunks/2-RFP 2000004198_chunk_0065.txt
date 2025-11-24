@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0065
+Source File: 2-RFP 2000004198.pdf
+Section Title: or vendors without demonstrable delivery experience will be disqualified. Responding
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 14
+Character Count: 86
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+firms must have existing staff in the respective labor category who would be available

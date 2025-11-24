@@ -1,0 +1,71 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0002
+Source File: rfp_template.pdf
+Section Title: *These sections are included in “Procurement Specifications Templates for Onsite Solar Photovoltaic: For
+Section Number: None
+Phase: P2
+Word Count: 557
+Character Count: 3741
+Line Count: 44
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: SMALL_BUSINESS
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 17.1, FAR 41.102
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: energy, espc, part, contract, list, solar, section, agency, savings, system
+
+=== CHUNK CONTENT ===
+*These sections are included in “Procurement Specifications Templates for Onsite Solar Photovoltaic: For
+Use in Developing Federal Solicitations”, see https://energy.gov/eere/femp/downloads/procurement-
+specifications-templates-site-solar-photovoltaic-use-developing. Section M will be added to a future version of
+this document.
+Page 2 of 38
+PART I – THE SCHEDULE
+SOLICITATION/CONTRACT FORM
+[The following optional Executive Summary covers key components of the ESPC ESA contract that can be
+included in Section A and/or in other RFP section(s).]
+Executive Summary
+The intent of this acquisition, for <agency, site name, city, state>, is to enter into a firm-fixed-price
+<with/without> an annual escalation factor Energy Savings Performance Contract Energy Sales Agreement
+(ESPC ESA) with a single energy service company (ESCO, also referred to as the Contractor throughout the
+RFP) for the purchase of electricity generated from the following PV energy conservation measures (ECMs),
+for the purpose of achieving energy savings:
+[When sizing the PV system(s), consider whether it would be beneficial to avoid net metering. Carefully review
+the applicable net metering regulation; including how net excess generation is treated and whether the use of
+net metering will result in utility ownership of the solar renewable energy certificate (SRECs).]
+<List PV System location, type (rooftop, carport, ground-mount) and estimated size.>
+The Contractor will be responsible for PV System development at its own expense, without any up-front
+capital cost to the <agency>. The <agency> will contract to purchase all electricity generated from the PV
+System during the ESPC ESA contract term, in accordance with the terms and conditions set forth herein. Net
+metering <is/is not> anticipated. Section H.5 contains details regarding disposition of the solar renewable
+energy certificates (SRECs).
+This solicitation is issued on a <restricted with small business set-aside or other>; under FAR Parts <list the
+applicable Parts such as FAR Part 12 Commercial Items, FAR Part 15 Contracting by Negotiation, FAR Part
+17 Special Contracting Methods,1 and FAR Part 41 Acquisition of Utility Services2 and/or other FAR Parts.>
+The North American Industry Classification System (NAICS) code for this procurement is 221114, Solar
+Electric Power Generation.
+The ESPC ESA must meet all ESPC statutory and regulatory requirements (See 42 U.S.C. § 8287 et seq. and
+10 C.F.R. § 436.30 et seq.), including the requirement that the agency pay for the cost of the ESPC ESA from
+1 42 U.S.C. §8287, (a)(2)(D)(iii) states that ESPC contracts are “governed by FAR 17.1 of the Federal Acquisition
+Regulation promulgated under section 421 of title 41 or the applicable rules promulgated under this subchapter.”
+2 FAR 41.102(b)(7) states that “agencies may utilize Part 41 for any energy savings or purchased utility service
+directly resulting from implementation of a third party financed shared-savings project under 42 U.S.C. §8287 for
+periods not to exceed 25 years.”
+Page 3 of 38
+energy savings generated each year over the life of the contract. The current rate at <site name> is <$/kWh>
+and the rate is forecasted to increase at <x%> per year.
+The ESCO must be on the U.S. Department of Energy’s (DOE) Qualified List of Energy Service Companies
+(DOE Qualified List, available at http://energy.gov/eere/femp/doe-qualified-energy-service-companies) by the
+time of award. To ensure sufficient time for DOE Qualified List approval, it is recommended that Offerors
+apply to the DOE Qualified List prior to proposal submission. [The agency should determine if a more
+stringent requirement is desired (for example, application submitted or approved by the time a proposal is

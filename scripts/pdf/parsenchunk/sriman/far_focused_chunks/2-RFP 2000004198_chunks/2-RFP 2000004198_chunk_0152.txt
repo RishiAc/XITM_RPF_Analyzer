@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0152
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 110
+Character Count: 692
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+contracts; provided, that failure to perform or unsatisfactory performance caused by acts beyond the control of the
+Contractor shall not be considered to be a basis for suspension or debarment;
+5. Any other cause the Purchasing Agent determines to be so serious and compelling as to affect responsibility as a Contractor,
+such as debarment by another governmental entity for any cause listed herein, or because of prior reprimands;
+6. The contractor has abandoned performance, been terminated for default on a Fairfax County project, or has taken any actions
+that inure to the detriment of Fairfax County or a Fairfax County project ;

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0101
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15.2. If, at the time of the scheduled proposal closing Fairfax County Government is closed due to
+Section Number: 15.2.
+Section Type: submission_requirements
+Word Count: 18
+Character Count: 139
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+inclement weather or another unforeseeable event, the proposal closing will still proceed
+electronically through the Bonfire (Euna) system.

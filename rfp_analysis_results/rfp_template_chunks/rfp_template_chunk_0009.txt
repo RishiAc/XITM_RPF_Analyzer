@@ -1,0 +1,74 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0009
+Source File: rfp_template.pdf
+Section Title: necessary, with respect to the contract requirements, and will monitor the progress and quality of the
+Section Number: None
+Phase: P2
+Word Count: 529
+Character Count: 3387
+Line Count: 47
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.212-4, 52.212-4
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contractor, shall, invoice, contract, submitted, agency, correspondence, include, number, monthly
+
+=== CHUNK CONTENT ===
+necessary, with respect to the contract requirements, and will monitor the progress and quality of the
+Contractor’s performance. The COR is not an Administrative Contracting Officer and does not have authority
+to modify the Contract.
+When, in the opinion of the Contractor, the COR requests a change to any of the requirements of the Contract,
+the Contractor shall promptly notify the CO in writing. No action shall be taken by the Contractor under such
+direction until the CO has issued a modification to the Contract, or until the issue has been otherwise resolved.
+Page 16 of 38
+In the event that the COR named above is absent due to leave, illness, or official business, all responsibilities
+and functions assigned to the COR will be the responsibility of the Alternate COR.
+G.3 Correspondence
+Correspondence, notices and documents related to this contract shall be submitted via e-mail by the Contractor
+to both the CO and the COR. The Contractor shall provide the CO and COR with contact information (names,
+titles, telephone numbers, email addresses, fax numbers and mailing address) for the primary and alternative
+point of contact of those persons who have the authority to represent the Contractor and who are authorized to
+receive official notices and correspondence from <agency>.
+All correspondence and data submitted by the Contractor shall include the contract number. The Contractor
+shall sequentially number each question submitted, and keep a record of each question submitted. The
+Contractor shall describe the nature of the question, the Contract section or other pertinent document, and if
+applicable provide a recommended solution for the <agency’s> consideration.
+G.4 Payment and Billing Procedures
+The Contractor shall provide a monthly invoice that includes delivered electrical energy in kWh and the
+amount due. The Contractor’s invoice will be prepared in the format proposed by the Contractor and accepted
+by the Contracting Officer and shall include the following information:
+Account number (if any)
+Entity name for checks
+Address for mail payment
+Invoice date
+The beginning and end dates of the period covered
+Meter number
+Electricity consumption
+Unit price (electricity, in $/kWh)
+Unit price (ESCO’s reserve account, in $/kWh)
+Total due (electricity + ESCO’s reserve account, in $)
+ESCO’s reserve account balance
+Point of contact (name, address, phone and email)
+Invoices shall be submitted each month. All costs associated with billing shall be included in the offered rates.
+<Agency> will not pay any additional charges for billing services or other costs. The Contractor may only
+invoice for charges allowed under the terms and conditions of the Contract (i.e. the fixed rates for electricity
+delivered and any termination liability payments), as well as the requirements set forth in paragraph (g),
+Invoice, of FAR 52.212-4.
+The Contractor shall invoice the <agency> no later than the <x> day of each month (a “Monthly Invoice
+Date”), commencing on the first Monthly Invoice Date to occur after the PV System acceptance. The first
+invoice shall include any production that occurred prior to the initial Monthly Invoice Date. The last invoice
+shall be prorated, as necessary, to include annual production only through the end of this Contract.
+G.5 Contractor Performance Assessment Reporting
+[The agency can consider a CPARS requirement.]
+Page 17 of 38

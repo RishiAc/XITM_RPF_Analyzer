@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0001
+Source File: 2-RFP 2000004198.pdf
+Section Title: General
+Section Number: N/A
+Section Type: general
+Word Count: 44
+Character Count: 385
+Line Count: 7
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+IMPORTANT NOTICE
+THIS IS AN ELECTRONIC PROCUREMENT (eBID) SUBMISSIONS
+WILL ONLY BE ACCEPTED ELECTRONICALLY VIA THE BONFIRE
+(EUNA) PORTAL (https://fairfaxcounty.bonfirehub.com)
+Fairfax County Government uses a procurement portal powered by
+Bonfire Interactive for accepting and evaluating proposals. To register,
+visit https://fairfaxcounty.bonfirehub.com. Additional assistance is also

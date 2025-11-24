@@ -1,0 +1,72 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0006
+Source File: rfp_template.pdf
+Section Title: 0001 Firm Fixed Price ($/kWh) [add annual escalation rate if applicable]
+Section Number: 0001
+Phase: P4
+Word Count: 479
+Character Count: 3139
+Line Count: 45
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: price, shall, system, required, contract, storage, rate, page, espc, section
+
+=== CHUNK CONTENT ===
+0001 Firm Fixed Price ($/kWh) [add annual escalation rate if applicable]
+5 Tax incentive eligibility due diligence is the responsibility of the ESCO.
+Page 8 of 38
+Enter the proposed ESPC ESA price for electricity from the specified PV System, including the <x>$/kWh
+(specified in Section B.1) that will be allocated to the ESCO’s reserve account for the PV System title transfer
+at FMV. SRECs under this CLIN <Select one of the following: “are required and should be transferred to the
+government per Section H.5 instructions” or “are not required and should be sold by the ESCO to reduce the
+ESPC ESA price”>. Details regarding SREC disposition are contained in Section H.5.
+<Select one of the following: “The rate shall be fixed throughout the contract.” or “An escalation rate of
+<x>% shall be applied annually to the electricity price.” or “Offeror shall propose the annual escalation
+rate.” >
+Free On Board (FOB): Destination
+B.2 Optional CLIN:
+[This option is for roof-top PV systems, if roof repair and/or replacement may be required during the contract
+term.]
+0002 First Year Price ($)
+To permit roof repair and/or replacement, an option to relocate the PV System may be exercised at any
+time during the contract, and may be exercised more than once. The option price shall include PV System
+removal, storage, reinstallation and three (3) months of lost revenues. The Government may specify partial
+removal, storage and installation of the PV System. In such situations; the actual price will be prorated
+based on the proposed first year price and the percentage of the PV System that is removed, stored and
+reinstalled; but shall not be less than <$x> per incident. The specified price shall apply for the first year of
+the contract, with the price adjusted in future years based on the consumer price index.
+FOB: Destination
+B.3 Cancellation Ceiling Schedule
+[A cancellation ceiling schedule is an ESPC requirement since it is used to determine if Congressional
+notification is required, and should therefore be a required submittal in the RFP.]
+The proposal shall include a cancellation ceiling schedule (see Exhibit 3).
+Page 9 of 38
+DESCRIPTION/SPECIFICATIONS/STATEMENT OF WORK
+[See “Procurement Specifications Templates for Onsite Solar Photovoltaic: For Use in Developing Federal
+Solicitations”, available at https://energy.gov/eere/femp/downloads/procurement-specifications-templates-
+site-solar-photovoltaic-use-developing.
+Section C should include guaranteed savings and annual M&V requirements.]
+Page 10 of 38
+PACKAGING AND MARKING
+D.1 Payment of Postage and Fees
+All postage and fees related to submitting information including forms, reports, etc., to the Contracting Officer
+(CO) or the Contracting Officer's Representative (COR) shall be paid by the Contractor.
+D.2 Packing, Packaging, Marking and Storage of Equipment
+All packing, packaging, marking and storage expenses which are incidental to Contractor’s shipping of the
+materials under this Contract shall be within the ESPC ESA firm-fixed-price. All packaging must be new and
+suitable for shipment and short term storage.
+Page 11 of 38
+INSPECTION AND ACCEPTANCE

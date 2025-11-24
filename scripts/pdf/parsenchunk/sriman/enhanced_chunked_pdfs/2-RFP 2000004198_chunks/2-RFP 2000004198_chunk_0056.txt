@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0056
+Source File: 2-RFP 2000004198.pdf
+Section Title: 7.2. IT Staff Augmentation: The County should provide the equipment required for tasks to be
+Section Number: 7.2.
+Section Type: general
+Word Count: 77
+Character Count: 507
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+performed; unless otherwise specified when a task is issued, typically a Windows device and
+printer access via a shared network, network access, and a Contractor e-mail account. The
+County should provide necessary work supplies, workspace, and access to a communication
+device for Fairfax County and FCPS purposes. Consultants should use their company or
+personal equipment for access to his/her company access needs. Any communications and
+data done on the County network is the property of Fairfax County.

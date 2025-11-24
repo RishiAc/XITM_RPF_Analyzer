@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0101
+Source File: 2-RFP 2000004198.pdf
+Section Title: 3. BID FORMS-Unless otherwise specified in the solicitation, all bids must be (i) submitted on the forms provided by the County,
+Section Number: 3.
+Section Type: general
+Word Count: 116
+Character Count: 710
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+3. BID FORMS-Unless otherwise specified in the solicitation, all bids must be (i) submitted on the forms provided by the County,
+including the bid Cover Sheet and Pricing Schedule(s); (ii) properly signed in ink in the identified spaces; and (iii) submitted in a
+sealed envelope or package.
+If the bid prices or any other submissions differ on the copy of the submitted bid, the ORIGINAL copy shall prevail.
+4. LATE BIDS & MODIFICATIONS OF BIDS-
+a. Bids or proposals received after the date and time specified for receipt in the solicitation will not be considered.
+b. If an emergency, unanticipated event, or closing of County offices interrupts or suspends normal County business operations
+24
+RFP 2000004198

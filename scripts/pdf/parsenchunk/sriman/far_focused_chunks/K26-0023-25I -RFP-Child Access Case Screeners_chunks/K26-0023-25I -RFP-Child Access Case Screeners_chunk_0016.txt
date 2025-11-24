@@ -1,0 +1,31 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0016
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Before an entity can do business in the State of Maryland, it must be registered with the Department
+Section Number: 1.
+Section Type: general
+Word Count: 207
+Character Count: 1372
+Line Count: 16
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. Before an entity can do business in the State of Maryland, it must be registered with the Department
+of Assessments and Taxation (SDAT), 123 Market Place, Baltimore, Maryland 21202. For
+registration information, visit: https://www.egov.maryland.gov/businessexpress
+2. It is strongly recommended that any potential Offerors complete the registration prior to the closing
+date for receipt of proposals. An Offeror’s failure to complete the registration with SDAT may
+disqualify an Offeror from final consideration and recommendation for Contract award.
+L. FALSE STATEMENTS
+Offerors are advised that in connection with a procurement contract, a person may not willfully: Falsify,
+conceal, or suppress a material fact by any scheme or device; make a false or fraudulent statement or
+representation of a material fact; use a false writing or document that contains a false or fraudulent statement
+or entry of a material fact; or, aid or conspire with another person to commit any of the aforementioned acts.
+M. PRESS RELEASES
+The Successful Offeror shall issue no press release to any publication, including newspapers and social media
+outlets, regarding work being conducted under the resulting contract from this RFP, or utilize the Maryland
+Judiciary brand mark in any marketing materials, without the express written consent of the AOC.
+N. PAYMENTS TO SUCCESSFUL OFFEROR

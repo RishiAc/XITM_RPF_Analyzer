@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0157
+Source File: 2-RFP 2000004198.pdf
+Section Title: 20.4. Regardless of the method of ordering used, solely the contract and any modification determine
+Section Number: 20.4.
+Section Type: contract_clauses
+Word Count: 4
+Character Count: 27
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+performance time and dates.

@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0029
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6.1. It is the intent of the County to establish IDIQ contract(s) with qualified firm(s) for each labor
+Section Number: 6.1.
+Section Type: general
+Word Count: 95
+Character Count: 566
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+6.1. It is the intent of the County to establish IDIQ contract(s) with qualified firm(s) for each labor
+category of IT staff Augmentation that will allow the County to request Staffing on an “as needed
+basis.” A request for staffing will be initiated by the County indicating a work description, the
+job category(ies) required, the number of staff, and the anticipated length of engagement the
+professional may be engaged. The requests are generally on-site but may from time to time be
+remote on an as needed basis by the County.
+8
+RFP 2000004198
+SPECIAL PROVISIONS

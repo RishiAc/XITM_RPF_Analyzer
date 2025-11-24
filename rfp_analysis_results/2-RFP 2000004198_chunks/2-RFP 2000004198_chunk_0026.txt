@@ -1,0 +1,73 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0026
+Source File: 2-RFP 2000004198.pdf
+Section Title: County. Award may be made to as many bidders as deemed necessary to fulfill the anticipated requirements of Fairfax County.
+Section Number: None
+Phase: P2
+Word Count: 643
+Character Count: 3980
+Line Count: 46
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: bidder, contract, county, services, acceptance, award, shall, payment, bidders, purchasing
+
+=== CHUNK CONTENT ===
+County. Award may be made to as many bidders as deemed necessary to fulfill the anticipated requirements of Fairfax County.
+The Purchasing Agent also reserves the right to reject the bid of a bidder deemed to be a non-responsible bidder.
+In determining the responsibility of a bidder, the following criteria will be considered:
+a. The ability, capacity and skill of the bidder to perform the contract or provide the service required;
+b. Whether the bidder can perform the contract or provide the service promptly, or within the time specified, without delay or
+interference;
+c. The character, integrity, reputation, judgment, experience and efficiency of the bidder;
+d. The quality of performance of previous contracts or services;
+e. The previous and existing compliance by the bidder with laws and ordinances relating to the contract or services;
+f. The sufficiency of the financial resources and ability of the bidder to perform the contract or provide the service;
+g. The quality, availability and adaptability of the goods or services to the particular use required;
+h. The ability of the bidder to provide future maintenance and service for the use of the subject of the contract;
+i. Whether the bidder is in arrears to the County on debt or contract or is a defaulter on surety to the County or whether the
+bidder's County taxes or assessments are delinquent; and
+j. Such other information as may be secured by the Purchasing Agent having a bearing on the decision to award the contract.
+If an apparent low bidder is not awarded a contract for reasons of non-responsibility, the Purchasing Agent shall so notify that
+bidder and shall have recorded the reasons in the contract file.
+23. NOTICE OF ACCEPTANCE/CONTRACT DOCUMENTS-A written award (or Acceptance Agreement) mailed or otherwise
+furnished to the successful bidder within the time for acceptance specified in the solicitation shall result in a binding contract.
+The following documents, which are included in the solicitation, are incorporated by reference in and made part of the resulting
+contract:
+a. County of Fairfax Solicitation Form (Cover Sheet) and other documents which may be incorporated by reference, if
+applicable
+b. Acceptance Agreement
+c. General Conditions and Instructions to Bidders
+d. Special Provisions and Specifications
+e. Pricing Schedule
+f. Any Addenda/Amendments/Memoranda of Negotiations
+26
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+24. TIE-BIDS – If all bids are for the same total amount or unit price (including authorized discounts and delivery times), and if the
+public interest will not permit the delay of re-advertisement for bids, the Purchasing Agent is authorized to award the contract to
+the tie bidder that has its principal place of business in the County, or if there be none, to the resident Virginia tie bidder, or if
+there be none, to one of the tie bidders by drawing lots in public; or the Purchasing Agent may purchase the goods or services
+in the open market except that the price paid shall not exceed the lowest contract bid price submitted for the same goods or
+services. The decision of the County to make award to one or more such bidders shall be final.
+25. PROMPT PAYMENT DISCOUNT-
+a. Unless otherwise specified in the solicitation, prompt payment discounts requiring payment in less than fifteen (15) days will
+not be considered in evaluating a bid for award. However, even though not considered in the evaluation, such discounts will
+be taken if payment is to be made within the discount period.
+b. If a discount for prompt payment is allowed, the discount period will begin on the date of receipt of a properly completed
+invoice or acceptance of materials or services, whichever is later.
+c. For determining acceptance of supplies in accordance with the provisions of the prompt payment discount paragraph,
+inspection and acceptance shall be accomplished only after examination (including testing) of supplies and services to

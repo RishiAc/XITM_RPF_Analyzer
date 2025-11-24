@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0039
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offerors shall direct all communication regarding this RFP to the Procurement Officer. Submit
+Section Number: 1.
+Section Type: general
+Word Count: 79
+Character Count: 539
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. Offerors shall direct all communication regarding this RFP to the Procurement Officer. Submit
+questions to the Procurement Officer through the opportunity Q&A section on the Procurement
+Portal no later than the date indicated on the solicitation.
+2. The Procurement Officer, based on the availability of time to research and communicate, shall
+answer questions at their discretion prior to the proposal closing date and time.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 13

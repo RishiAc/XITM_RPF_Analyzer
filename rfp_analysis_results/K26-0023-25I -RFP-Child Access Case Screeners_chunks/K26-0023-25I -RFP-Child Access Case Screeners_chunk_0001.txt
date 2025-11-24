@@ -1,0 +1,96 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0001
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: General
+Section Number: None
+Phase: P1
+Word Count: 518
+Character Count: 5455
+Line Count: 69
+
+=== KEY DATES ===
+Due Dates: 03/25/2025, 03/25/2025
+
+=== ELIGIBILITY ===
+Eligibility Types: SMALL_BUSINESS, VETERAN
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: procurement, solicitation, contract, maryland, access, judiciary, portal, office, proposals, child
+
+=== CHUNK CONTENT ===
+STATE OF MARYLAND
+ADMINISTRATIVE OFFICE OF THE COURTS
+PROCUREMENT, CONTRACT AND GRANT ADMINISTRATION
+187 HARRY S. TRUMAN PARKWAY
+ANNAPOLIS, MD 21401
+REQUEST FOR PROPOSALS (RFP)
+FOR
+Child Access Case Screeners
+Solicitation No. K26-0023-25I
+To help us improve the quality of the Administrative Office of the Courts solicitations and to make our procurement
+process more responsive and business friendly, Offerors may provide comments and suggestions regarding this
+solicitation by utilizing the Intent to Bid under the Submission section of the solicitation.
+The sole point of contact for this solicitation is the Procurement Officer. Offerors are specifically directed NOT to
+contact any other Maryland Judiciary personnel or its contracted consultants for meetings, conferences, or discussions
+that are specifically related to this RFP at any time prior to any award and execution of a contract. Unauthorized
+contact with any Maryland Judiciary personnel or the Maryland Judiciary’s contracted consultants may be cause for
+rejection of the Offeror’s proposal.
+Unless otherwise stated in this solicitation, the Maryland Judiciary's Procurement Portal will be the sole method of
+communication during all phases of the solicitation and award process. We encourage Offerors to whitelist emails
+from the Procurement Portal to ensure relevant emails are not blocked and/or marked as spam. Additionally, Offerors
+are strongly encouraged to access the Procurement Portal on a regular basis to view and respond to relevant
+communications.
+Minority Business Enterprises (MBE) and Veteran-owned Small Business Enterprises (VSBE) are encouraged to
+respond to this Request for Proposals.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 1
+KEY INFORMATION SUMMARY SHEET
+Request for Proposals
+Child Access Case Screeners
+Solicitation No. K26-0023-25I
+RFP Issue Date: August 4th, 2025
+RFP Issuing Office: Procurement, Contract and Grant Administration
+Procurement Officer: Karen Hoang
+Maryland Judiciary, Administrative Office of the Courts
+Department of Procurement, Contract and Grant Administration
+187 Harry S. Truman Parkway
+Annapolis, MD 21401
+410-260-1582
+Karen.hoang@mdcourts.gov
+Proposal Submission: Submissions are exclusively accepted electronically via the Procurement Portal.
+Important Events: Refer to the project details and important events on the Procurement Portal for the
+date and time of the pre-proposal conference (as applicable), site visit(s) (as
+applicable), deadline for questions, and solicitation closing date & time.
+Contract Term: The contract term will be for a period of one (1) year after the date of contract
+execution with the AOC retaining the sole right to exercise four (4) one-year renewal
+options at its discretion.
+Interviews: Anticipated September 2025
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 2
+TABLE OF CONTENTS
+SECTION I. GENERAL INFORMATION .......................................................................................................... 5
+A. SUMMARY STATEMENT .............................................................................................................................. 5
+B. ABBREVIATIONS AND DEFINITIONS ........................................................................................................ 5
+C. PROCUREMENT OFFICER ............................................................................................................................ 5
+D. CONTRACT MANAGER ................................................................................................................................. 6
+E. DURATION OF OFFER ................................................................................................................................... 6
+F. REVISIONS TO THE RFP ............................................................................................................................... 6
+G. CANCELLATIONS .......................................................................................................................................... 6
+H. PROTESTS/DISPUTES .................................................................................................................................... 6
+I. MULTIPLE OR ALTERNATE PROPOSALS ................................................................................................. 6
+J. ARREARAGES ................................................................................................................................................. 6
+K. VERIFICATION OF REGISTRATION AND TAX PAYMENT .................................................................... 6
+L. FALSE STATEMENTS .................................................................................................................................... 7
+M. PRESS RELEASES ........................................................................................................................................... 7
+N. PAYMENTS TO SUCCESSFUL OFFEROR ................................................................................................... 7
+O. NON-DISCLOSURE AGREEMENT ............................................................................................................... 7
+P. DAMAGE TO STATE AND PERSONAL PROPERTY .................................................................................. 7

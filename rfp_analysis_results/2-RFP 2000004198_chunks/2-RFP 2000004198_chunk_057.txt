@@ -1,0 +1,50 @@
+Chunk ID: 2-RFP 2000004198_chunk_057
+Section: 75. PERSONALLY IDENTIFIABLE INFORMATION: Contractor will comply with all applicable laws regarding safeguarding and
+Section Number: 75
+Section Type: submission_requirements
+Phase: P2
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Medium
+FAR References: None
+Keywords: information, nonvisual, county, access
+Word Count: 442
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+75. PERSONALLY IDENTIFIABLE INFORMATION: Contractor will comply with all applicable laws regarding safeguarding and
+protection of personally identifiable information made available through this Contract. Contractor must report to the County all
+breaches that result in exposure of the County’s data or other incidents compromising the security of the County’s data. For
+purposes of this section “County data” means data that the Contractor accesses, stores, or hosts pursuant to this Contract and
+includes “personal information” defined by Virginia Code § 18.2-186.6 or “medical information” defined by Virginia Code § 32.1-
+127.1:05. Such reports must be made to the County immediately upon discovery of the breach and no later than three days from
+when Contractor discovered the breach. The requirements of this paragraph are in addition to and do not relieve Contractor of
+its obligation to comply with any requirements imposed by law regarding data breaches. If any notices to individuals or third
+parties are required by applicable law due to a data breach, the parties will cooperate to ensure that such notice is timely provided.
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+If Contractor experiences a breach of protected health information governed under HIPAA, or substance use disorder information
+governed under 42 CFR Part 2, the terms of any Business Associate or Qualified Service Organization Agreement between the
+parties will control.
+76. NONVISUAL ACCESS-All information technology, which is purchased or upgraded by the County under this contract, must
+comply with the following access standards from the date of purchase or upgrade until the expiration of the Contract:
+a. Effective, interactive control and use of the technology (including the operating system), applications programs, and format
+of the data presented, shall be readily achievable by nonvisual means;
+b. the technology equipped for nonvisual access shall be compatible with information technology used by other individuals
+with whom the blind or visually impaired individual interacts;
+c. Nonvisual access technology shall be integrated into networks used to share communications among employees, program
+participants, and the public; and
+d. The technology for nonvisual access shall have the capability of providing equivalent access by nonvisual means to
+telecommunications or other interconnected network services used by persons who are not blind or visually impaired. A
+covered entity may stipulate additional specifications in any procurement.
+e. Compliance with the nonvisual access standards set out this Section is not required if the Board of Supervisors determines
+that (i) the information technology is not available with nonvisual access because the essential elements of the information
+technology are visual and (ii) nonvisual equivalence is not available.
+APPROVED:
+/S/ Elizabeth D. Teare ____________________
+COUNTY ATTORNEY
+/S/ LeeAnne Pender ________ _____
+COUNTY PURCHASING AGENT

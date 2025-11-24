@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0098
+Source File: 2-RFP 2000004198.pdf
+Section Title: 14.2. Failure to sign “Attachment B” (Affirmation of Legally Required Contract Terms) may result in
+Section Number: 14.2.
+Section Type: contract_clauses
+Word Count: 5
+Character Count: 36
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+rejection of the offeror’s proposal.

@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0134
+Source File: 2-RFP 2000004198.pdf
+Section Title: 2. Purchase the extended reporting period endorsement for the policy or policies in force
+Section Number: 2.
+Section Type: general
+Word Count: 14
+Character Count: 85
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+during the term of this contract and evidence the purchase of this extended reporting

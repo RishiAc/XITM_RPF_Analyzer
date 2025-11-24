@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0043
+Source File: 2-RFP 2000004198.pdf
+Section Title: 3 Senior Programmers, 4 intermediate programmers, etc.
+Section Number: 3
+Section Type: contract_clauses
+Word Count: 96
+Character Count: 625
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+3 Senior Programmers, 4 intermediate programmers, etc.
+All Offeror personnel assigned to work on-site at Fairfax County may be required to
+undergo a criminal history check and sign a non-disclosure agreement. Off-site
+personnel may also be subject to a criminal history check depending on the sensitivity
+of the data involved. Note that arrangements for required criminal history checks must
+be made in advance with appropriate County personnel. The County reserves the
+right to reject any personnel proposed by the offeror for any reason.
+The Offeror(s) must provide IT staff at Senior and Intermediate levels of competency.
