@@ -8,12 +8,15 @@ from .models import SearchBody, EvaluateRequest  # Updated import
 from fastapi import APIRouter, HTTPException
 import re, json
 from .vector_api import orchestrate_queries, search, OrchestrateBody  # import search/orchestrator here
+from supabase import create_client
 
 # ---- Environment ----
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 DB_URL = os.getenv("SUPABASE_URL")
 VECTOR_API_URL = "http://localhost:8000/vector/search"
 MOCK_DB = True
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 
 if not OPENAI_API_KEY:
     raise ValueError("Missing OPENAI_API_KEY")
@@ -21,6 +24,8 @@ if not OPENAI_API_KEY:
 openai.api_key = OPENAI_API_KEY
 
 router = APIRouter(prefix="/eval", tags=["LLM Evaluation"])
+
+supabase_client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 # ---- Database Helper ----
 def get_db_conn():
@@ -145,7 +150,24 @@ def orchestrate_and_evaluate(body: OrchestrateBody):
                 except Exception as e:
                     item.update({"summary_error": str(e)})
             results.append(item)
-        return {"rfp_id": body.rfp_id, "total_queries": len(results), "queries": results}
+        return_val = {"rfp_id": body.rfp_id, "total_queries": len(results), "queries": results}
+
+        # Update Supabase RFP_Evals table
+        for query in results:
+            insert_json = {
+                "rfp_id": body.rfp_doc_id,
+                "query_number": query["query_number"],
+                "query_text": query["rfp_query_text"],
+                "query_llm_answer": query["evaluation"]["explanation"],
+                "score": query["evaluation"]["score"],
+                "rfp_citation_chunks": [topk["text"] for topk in query["rfp_topk"]],
+                "knowledge_base_chunk": query.get("knowledge_base_answer"),
+                "query_phase": query["query_phase"]
+            }
+            
+            supabase_client.table("RFP_Evals").insert(insert_json).execute()
+
+        return return_val
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"orchestrate-eval error: {e}")
 
