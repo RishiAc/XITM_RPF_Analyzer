@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0018
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.3. Requirements for Solutions Supported by Staff Augmentation:
+Section Number: 5.3.
+Section Type: technical_requirements
+Word Count: 67
+Character Count: 527
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5.3. Requirements for Solutions Supported by Staff Augmentation:
+5.3.1. All information systems delivery and management is governed by the Architecture
+Review Board (ARB) and other program specific committees that are chartered to
+manage scope and functionality delivery issues, and advise and/or direct
+development efforts and promote conformance to a variety of standards, including
+but not limited, to those in the Information Technology Plan,
+https://www.fairfaxcounty.gov/informationtechnology/it-plan. Offerors with staff

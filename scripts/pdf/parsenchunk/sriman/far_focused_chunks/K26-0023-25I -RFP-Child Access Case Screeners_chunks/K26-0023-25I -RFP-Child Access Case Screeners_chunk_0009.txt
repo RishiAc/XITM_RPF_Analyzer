@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0009
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: Attachment N – Bidder/Offeror Resource Experience
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 105
+Character Count: 735
+Line Count: 13
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+Attachment N – Bidder/Offeror Resource Experience
+Attachment O – Resource Acknowledgment
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 4
+SECTION I. GENERAL INFORMATION
+A. SUMMARY STATEMENT
+The Administrative Office of the Courts (AOC) issues this Request for Proposal (RFP) on behalf of the
+Department of Juvenile and Family Services to obtain services to screen child access cases for intimate
+partner violence, domestic violence, and/or child abuse to assist courts in determining whether cases are
+appropriate for mediation pursuant to Md. Rule 9-205.
+B. ABBREVIATIONS AND DEFINITIONS
+For this RFP, the following abbreviations or terms have the meanings indicated below:

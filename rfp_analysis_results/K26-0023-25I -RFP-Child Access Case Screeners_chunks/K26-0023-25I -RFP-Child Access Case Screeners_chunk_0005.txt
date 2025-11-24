@@ -1,0 +1,108 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0005
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: requirements set by the United States Small Business Administration, that is organized to engage in
+Section Number: None
+Phase: P1
+Word Count: 970
+Character Count: 6181
+Line Count: 81
+
+=== KEY DATES ===
+Due Dates: 03/25/2025, 03/25/2025
+
+=== ELIGIBILITY ===
+Eligibility Types: SMALL_BUSINESS
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: offeror, procurement, contract, shall, proposals, offerors, state, maryland, date, addenda
+
+=== CHUNK CONTENT ===
+requirements set by the United States Small Business Administration, that is organized to engage in
+commercial transactions, and is at least 51 percent owned and controlled by one or more individuals
+who are Veterans, and who manage the operations of the business, and is so registered and certified
+in eMMA.
+C. PROCUREMENT OFFICER
+The sole point of contact in the AOC for purposes of this RFP is the Procurement Officer noted on the Key
+Information Summary Sheet. The AOC may change the Procurement Officer at any time by written notice
+to the Offeror. Only information communicated by the Procurement Officer shall be deemed the official
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 5
+position of the AOC. No other State of Maryland or AOC employee, official, or representative has the
+authority to change the requirements of this solicitation. Attempts by the Offeror to contact members of the
+evaluation committee, or otherwise circumvent this procedure in any manner may be grounds for
+disqualification.
+D. CONTRACT MANAGER
+The Contract Manager for post-award activities will be disclosed to the Successful Offeror. The AOC may
+change the Contract Manager at any time by written notice to the Successful Offeror.
+E. DURATION OF OFFER
+Proposals submitted in response to this RFP are irrevocable for 180 days following: (1) the closing date of
+proposals, (2) Best and Final Offers (BAFOs), if requested, or (3) the resolution date of any protest
+concerning this RFP. This period may be extended at the Procurement Officer’s request only with the
+Offeror’s written agreement.
+F. REVISIONS TO THE RFP
+1. The AOC reserves the right to amend this RFP at any time prior to the proposal closing date and
+time. If the RFP is revised prior to the proposal closing date and time, the AOC shall post any addenda
+to the RFP on the Procurement Portal and shall attempt to provide such addenda to all prospective
+Offerors that received the RFP or are otherwise known by the Procurement Officers to have obtained
+this RFP. It remains the responsibility of all prospective Offerors to review the Procurement Portal
+for any addenda issued prior to the submission of proposals.
+2. If one (1) or more addenda are issued to this RFP, Offerors shall acknowledge receipt of all addenda
+on the Procurement Portal. Addenda issued after the closing date and time for proposals will be sent
+only to those Offerors who submitted a timely proposal.
+3. Failure to acknowledge receipt of an addendum does not relieve the Offeror from complying with
+the terms, additions, deletions, clarifications, or corrections set forth in the addendum, and may cause
+the proposal to be deemed not reasonably susceptible of being selected for award.
+G. CANCELLATIONS
+The AOC reserves the right to cancel this RFP; accept or reject any and all proposals, in whole or in part,
+received in response to this RFP; or, waive or permit cure of minor irregularities and conduct discussions
+with all Offerors in any manner necessary to serve the best interests of the AOC. The AOC also reserves the
+right, in its sole discretion, to award a Contract based upon the written proposals received without prior
+discussions or negotiations.
+H. PROTESTS/DISPUTES
+Any protest or dispute related to this solicitation or the resulting Contract shall be subject to the provisions
+of the Judicial Branch Procurement Policy.
+I. MULTIPLE OR ALTERNATE PROPOSALS
+Neither multiple nor alternate proposals will be accepted.
+J. ARREARAGES
+By submitting a proposal in response to this RFP, each Offeror represents that it is not in arrears in the
+payment of any obligations due and owing the State of Maryland, including the payment of taxes and
+employee benefits, and that it shall not become so in arrears during the term of the Contract, if selected for
+Contract award.
+K. VERIFICATION OF REGISTRATION AND TAX PAYMENT
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 6
+1. Before an entity can do business in the State of Maryland, it must be registered with the Department
+of Assessments and Taxation (SDAT), 123 Market Place, Baltimore, Maryland 21202. For
+registration information, visit: https://www.egov.maryland.gov/businessexpress
+2. It is strongly recommended that any potential Offerors complete the registration prior to the closing
+date for receipt of proposals. An Offeror’s failure to complete the registration with SDAT may
+disqualify an Offeror from final consideration and recommendation for Contract award.
+L. FALSE STATEMENTS
+Offerors are advised that in connection with a procurement contract, a person may not willfully: Falsify,
+conceal, or suppress a material fact by any scheme or device; make a false or fraudulent statement or
+representation of a material fact; use a false writing or document that contains a false or fraudulent statement
+or entry of a material fact; or, aid or conspire with another person to commit any of the aforementioned acts.
+M. PRESS RELEASES
+The Successful Offeror shall issue no press release to any publication, including newspapers and social media
+outlets, regarding work being conducted under the resulting contract from this RFP, or utilize the Maryland
+Judiciary brand mark in any marketing materials, without the express written consent of the AOC.
+N. PAYMENTS TO SUCCESSFUL OFFEROR
+1. By submitting a response to this solicitation, the Offeror agrees to accept payments by electronic
+funds transfer unless the State Comptroller’s Office grants an exemption. The selected Offeror shall
+register using the COT/GAD X-10 Vendor Electronic Funds (EFT) Registration Request Form. Any
+request for exemption must be submitted to the State Comptroller’s Office for approval at the address
+specified on the COT/GAD X-10 form and must include the business identification information as
+stated on the form and include the reason for the exemption. The COT/GAC X-10 form can be
+downloaded at:
+https://www.marylandtaxes.gov/forms/state-accounting/static-files/GADX10Form.pdf
+2. Payments to the Successful Offeror shall be made not later than thirty (30) days after the acceptance

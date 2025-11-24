@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0133
+Source File: 2-RFP 2000004198.pdf
+Section Title: 47. POINT OF DESTINATION-All materials shipped to the County must be shipped F.O.B. DESTINATION unless otherwise stated
+Section Number: 47.
+Section Type: general
+Word Count: 90
+Character Count: 597
+Line Count: 5
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+47. POINT OF DESTINATION-All materials shipped to the County must be shipped F.O.B. DESTINATION unless otherwise stated
+in the contract or purchase order. The materials must be delivered to the "Ship to" address indicated on the purchase order.
+48. ADDITIONAL CHARGES-Unless bought F.O.B. "shipping point" and Contractor prepays transportation, no delivery charges
+shall be added to invoices except when express delivery is authorized and substituted on orders for the method specified in the
+contract. In such cases, difference between freight or mail and express charges may be added to invoice.

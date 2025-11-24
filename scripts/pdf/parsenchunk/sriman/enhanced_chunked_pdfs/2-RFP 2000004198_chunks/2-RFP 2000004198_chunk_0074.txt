@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0074
+Source File: 2-RFP 2000004198.pdf
+Section Title: timeline for the engagements. It is mandatory that this section identifies the key
+Section Number: None
+Section Type: deliverables_timeline
+Word Count: 40
+Character Count: 266
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+personnel who are to work on the contract, their relationship to the Offeror
+organization, This requirement includes Consultants as well as regular employees of
+the offeror, if relevant.
+a. The County will only accept Offeror personnel who have significant, relevant

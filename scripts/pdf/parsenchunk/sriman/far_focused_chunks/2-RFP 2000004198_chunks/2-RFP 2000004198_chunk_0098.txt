@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0098
+Source File: 2-RFP 2000004198.pdf
+Section Title: 1. AUTHORITY-The Purchasing Agent has the sole responsibility and authority for purchasing supplies, materials, equipment, and
+Section Number: 1.
+Section Type: general
+Word Count: 130
+Character Count: 906
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. AUTHORITY-The Purchasing Agent has the sole responsibility and authority for purchasing supplies, materials, equipment, and
+services, except as excluded in the Fairfax County Purchasing Resolution. The Purchasing Agent’s responsibility and authority
+includes, but is not limited to, issuing and modifying solicitations, negotiating and executing contracts, and placing purchase
+orders. In discharging these responsibilities, the Purchasing Agent may be assisted by contract specialists. Unless specifically
+delegated by the Purchasing Agent, no other County officer or employee is authorized to order supplies or services, enter into
+purchase negotiations or contracts, or in any way obligate the government of the County of Fairfax for an indebtedness. Any
+purchase ordered or contract made that is contrary to these provisions and authorities shall be of no effect, void, and does not
+bind the County.

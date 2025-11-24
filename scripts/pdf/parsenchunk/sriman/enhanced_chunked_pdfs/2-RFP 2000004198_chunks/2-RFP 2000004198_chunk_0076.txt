@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0076
+Source File: 2-RFP 2000004198.pdf
+Section Title: of expertise of proposed support personnel.
+Section Number: None
+Section Type: general
+Word Count: 56
+Character Count: 354
+Line Count: 7
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+12
+RFP 2000004198
+SPECIAL PROVISIONS
+c. Offeror shall describe its processes for assigning staff to specific projects, along
+with the credentials of the staff members. Offeror should include how it will
+involve the County to ensure projects are staffed to be successful.
+The Contractor will provide a staffing plan in response to the County Tasks orders,

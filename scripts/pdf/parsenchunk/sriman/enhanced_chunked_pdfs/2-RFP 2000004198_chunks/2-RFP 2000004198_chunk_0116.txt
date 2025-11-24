@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0116
+Source File: 2-RFP 2000004198.pdf
+Section Title: • Technical approach and compliance with Special Provisions, Section 6.1., Statement of
+Section Number: None
+Section Type: scope_of_work
+Word Count: 16
+Character Count: 111
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Need (ref. Special Provisions, Section 8.3. sub-section 2, Understanding of the Statement
+of Needs) (30 points)

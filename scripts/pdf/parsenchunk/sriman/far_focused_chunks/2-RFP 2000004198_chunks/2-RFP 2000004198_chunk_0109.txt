@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0109
+Source File: 2-RFP 2000004198.pdf
+Section Title: 17. PROHIBITION AGAINST UNIFORM PRICING-The Purchasing Agent encourages open and competitive bidding by all possible
+Section Number: 17.
+Section Type: budget_pricing
+Word Count: 125
+Character Count: 791
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+17. PROHIBITION AGAINST UNIFORM PRICING-The Purchasing Agent encourages open and competitive bidding by all possible
+means and endeavors to obtain the maximum degree of open competition on all purchase transactions using the methods of
+procurement authorized by the Fairfax County Purchasing Resolution. Each bidder, by virtue of submitting a bid, guarantees
+that it has not been a party with other bidders to an agreement to bid a fixed or uniform price. Violation of this implied guarantee
+shall render void the bids of participating bidders. Any disclosure to or acquisition by a competitive bidder, in advance of the
+opening of the bids, of the terms or conditions of the bid submitted by another competitor may render the entire proceedings void
+and may require re-advertising for bids.

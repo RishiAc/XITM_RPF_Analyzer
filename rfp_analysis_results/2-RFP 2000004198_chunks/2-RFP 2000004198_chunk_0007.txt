@@ -1,0 +1,84 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0007
+Source File: 2-RFP 2000004198.pdf
+Section Title: that use any of these elements are required to meet these requirements and any
+Section Number: None
+Phase: P2
+Word Count: 593
+Character Count: 4142
+Line Count: 57
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: county, system, must, hardware, contractor, shall, requirements, solutions, disaster, ensure
+
+=== CHUNK CONTENT ===
+that use any of these elements are required to meet these requirements and any
+deviation from the standard must be documented and approved by the CTO.
+5.7. Infrastructure Requirements:
+5.7.1. Contractors supporting solutions implemented and hosted at the County, must
+ensure all infrastructure needs are specified and approved. Contractors must
+maintain for County technical documentation and hardware proposals for
+consideration in their support capacity
+5.7.2. For a proposed solution the County may require up to six separate computing
+environments, with the ability to run concurrently, for sandbox, development, testing,
+training, acceptance, and production. To ensure that each environment is technically
+equivalent, duplicate servers and workstations as specified below shall be utilized
+except where virtual machine technology is preferred by the County. The County
+will work with the Contractor to duplicate or approximate other relevant
+environmental considerations such as the network and system loading to ensure
+realistic testing scenarios are facilitated.
+7
+RFP 2000004198
+SPECIAL PROVISIONS
+5.7.3. When responding to statements of work, solution hardware requirements should be
+listed in detail to include make and model required for the full implementation of the
+application. All hardware components must be sized appropriately to ensure that the
+performance requirements of the Contractor’s application will be met. Equipment
+specifications provided by the County within this RFP shall be considered as minimal
+requirements. Deviations for hardware proposed will be finalized during final design
+stages of the project.
+5.7.4. The County maintains a four-year replacement program for workstations and a four-
+year replacement program for servers and associated ancillary equipment. The
+Contractor shall prepare technology refreshment specifications and costs for
+installed hardware currently under maintenance agreement every four years or
+when requested.
+5.8. Disaster Recovery/Continuity of Operations:
+5.8.1. For solutions developed using staff augmentation from this contract, regardless of
+the architecture of the solutions or systems the Contractor supports, , the Contractor
+shall be continually ready to invoke a Business Continuity and Disaster Recovery
+(“BC-DR”) plan that at a minimum addresses the following scenarios: (i) The central
+computer installation and resident software are destroyed or damaged, (ii) System
+interruption or failure resulting from network, operating hardware, software, or
+operational errors that compromises the integrity of transactions that are active in a
+live system at the time of the outage, (iii) System interruption or failure resulting from
+network, operating hardware, software or operational errors that compromises the
+integrity of data maintained in a live or archival system, (iv) System interruption or
+failure resulting from network, operating hardware, software or operational errors
+that does not compromise the integrity of transactions or data maintained in a live
+or archival system but does prevent access to the system, i.e., causes unscheduled
+system unavailability. The BC-DR plan shall account for and be in effect during the
+entire period beginning with project kickoff and ending with the end of any turnover
+period. If Contractor is fully supporting BC-DR then BC-DR plans must be prior
+approved by the County.
+5.8.2. Fairfax County operates a contemporary near real-time co-location site for county
+applications and data off-site. Any solutions supported must be able to seamlessly
+fail-over and be active-active. If components of the supported solutions are a
+subscription service hosted by the Offeror or third-party data-center, the contractors
+must include provisions and descriptions of its DR site and procedures. Fairfax
+County must have direct access to inspect the host and co-location sites.
+5.8.3. The Contractor’s Disaster Recovery plan should document the processes necessary
+to respond to system disruption or a disaster that would affect the system.
+5.8.4. The Contractor’s Disaster Recovery plan shall identify the activities, resources, and

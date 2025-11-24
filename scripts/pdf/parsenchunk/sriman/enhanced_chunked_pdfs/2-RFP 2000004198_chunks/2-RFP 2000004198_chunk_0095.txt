@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0095
+Source File: 2-RFP 2000004198.pdf
+Section Title: 13.1. All communications and requests for information and clarifications shall be directed to the
+Section Number: 13.1.
+Section Type: general
+Word Count: 22
+Character Count: 192
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+following procurement official:
+Yong Kim, CPPB, Contract Specialist III
+Department of Procurement and Material Management
+Telephone: (703) 324-3217; TTY: 711
+E-mail: yong.kim@fairfaxcounty.gov

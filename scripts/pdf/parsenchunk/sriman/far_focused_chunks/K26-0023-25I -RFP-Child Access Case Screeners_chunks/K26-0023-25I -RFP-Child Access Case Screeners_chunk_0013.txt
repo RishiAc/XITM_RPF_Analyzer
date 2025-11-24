@@ -1,0 +1,44 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0013
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 10. Offeror – An entity that submits a proposal in response to this solicitation.
+Section Number: 10.
+Section Type: submission_requirements
+Word Count: 329
+Character Count: 2102
+Line Count: 29
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+10. Offeror – An entity that submits a proposal in response to this solicitation.
+11. Procurement Officer – The AOC representative responsible for this solicitation, for the determination
+of contract scope issues, and the only AOC representative who can authorize changes to the contract.
+12. Procurement Portals – Strategic sourcing software allowing the Judiciary to receive and evaluate bids
+and proposal electronically.
+13. RFP – Request for Proposals
+14. Successful Offeror – The awarded Offeror.
+15. VSBE - Veteran-owned Small Business Enterprise means any legal entity that meets the
+requirements set by the United States Small Business Administration, that is organized to engage in
+commercial transactions, and is at least 51 percent owned and controlled by one or more individuals
+who are Veterans, and who manage the operations of the business, and is so registered and certified
+in eMMA.
+C. PROCUREMENT OFFICER
+The sole point of contact in the AOC for purposes of this RFP is the Procurement Officer noted on the Key
+Information Summary Sheet. The AOC may change the Procurement Officer at any time by written notice
+to the Offeror. Only information communicated by the Procurement Officer shall be deemed the official
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 5
+position of the AOC. No other State of Maryland or AOC employee, official, or representative has the
+authority to change the requirements of this solicitation. Attempts by the Offeror to contact members of the
+evaluation committee, or otherwise circumvent this procedure in any manner may be grounds for
+disqualification.
+D. CONTRACT MANAGER
+The Contract Manager for post-award activities will be disclosed to the Successful Offeror. The AOC may
+change the Contract Manager at any time by written notice to the Successful Offeror.
+E. DURATION OF OFFER
+Proposals submitted in response to this RFP are irrevocable for 180 days following: (1) the closing date of
+proposals, (2) Best and Final Offers (BAFOs), if requested, or (3) the resolution date of any protest

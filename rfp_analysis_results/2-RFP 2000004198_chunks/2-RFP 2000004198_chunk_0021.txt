@@ -1,0 +1,79 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0021
+Source File: 2-RFP 2000004198.pdf
+Section Title: bodies may add terms and conditions required by statute, ordinances, and regulations, to the
+Section Number: None
+Phase: P1
+Word Count: 601
+Character Count: 3940
+Line Count: 52
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: county, required, fairfax, contract, public, contractor, health, business, title, body
+
+=== CHUNK CONTENT ===
+bodies may add terms and conditions required by statute, ordinances, and regulations, to the
+extent that they do not conflict with this contract’s terms and conditions. If, when preparing
+such a contract, the general terms and conditions of a public body are unacceptable to the
+Contractor, the Contractor may withdraw its extension of the award to that public body.
+30.5. Fairfax County shall not be held liable for any costs or damages incurred by another public
+body as a result of any award extended to that public body by the Contractor.
+31. NEWS RELEASE BY VENDORS:
+31.1. As a matter of policy, the County does not endorse the products or services of a Contractor.
+News releases concerning any resultant contract from this solicitation will not be made by a
+Contractor without the prior written approval of the County. All proposed news releases will be
+routed to the Procurement Agent for review and approval.
+32. AMERICANS WITH DISABILITIES ACT REQUIREMENTS:
+32.1. Fairfax County Government is fully committed to the Americans with Disabilities Act (ADA)
+which guarantees non-discrimination and equal access for persons with disabilities in
+employment, public accommodations, transportation, and all County programs, activities and
+services. Fairfax County government contractors, subcontractors, vendors, and/or suppliers
+are subject to this ADA policy. All individuals having any County contractual agreement must
+make the same commitment. Your acceptance of this contract acknowledges your commitment
+and compliance with ADA.
+32.2. Fairfax County is committed to a policy of nondiscrimination in all County programs, services,
+and activities and will provide reasonable accommodations upon request. Offerors requesting
+special accommodations should call the Department ADA representative at (703) 324-3201 or
+TTY 711. Please allow two (2) working days in advance of the event to make the necessary
+arrangements.
+33. HIPAA COMPLIANCE:
+33.1. Fairfax County Government has designated certain health care components as covered by the
+Health Insurance Portability and Accountability Act of 1996. The successful vendor will be
+designated a business associate pursuant to 45 CFR part 164.504(e) of those agencies
+identified as health care components of the County, including the Fairfax-Falls Church
+Community Services Board, upon award of contract. The successful vendor shall be required
+to execute a Fairfax County Business Associate Agreement and must adhere to all relevant
+federal, state, and local confidentiality and privacy laws, regulations, and contractual provisions
+of that agreement. These laws and regulations include, but are not limited to: (1) HIPAA – 42
+USC 201, et seq., and 45 CFR Parts 160 and 164; and (2) Va Code – Title 32.1, Health, § 32.1-
+1 et seq. The vendor shall have in place appropriate administrative, technical, and physical
+safeguards to ensure the privacy and confidentiality of protected health information.
+33.2. Further information regarding HIPAA Compliance is available on the County’s website at
+https://www.fairfaxcounty.gov/HIPAA/.
+22
+RFP 2000004198
+SPECIAL PROVISIONS
+34. STATE CORPORATION COMMISSION IDENTIFICATION NUMBER:
+34.1. Pursuant to Code of Virginia, §2.2-4311.2 subsection B, a bidder or offeror organized or
+authorized to transact business in the Commonwealth pursuant to Title 13.1 or Title 50 is
+required to include in its bid or proposal the identification number issued to it by the State
+Corporation Commission (SCC). Any bidder or offeror that is not required to be authorized to
+transact business in the Commonwealth as a foreign business entity under Title 13.1 or Title
+50 or as otherwise required by law is required to include in its bid or proposal a statement
+describing why the bidder or offeror is not required to be so authorized. Any bidder or offeror
+that fails to provide the required information may not receive an award. (ref. Attachment A4)
+23
+RFP 2000004198

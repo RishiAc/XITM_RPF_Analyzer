@@ -1,0 +1,101 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0004
+Source File: rfp_template.pdf
+Section Title: including the reserve account payment, will be used to determine compliance with the ESPC statutory savings
+Section Number: None
+Phase: P1
+Word Count: 946
+Character Count: 6371
+Line Count: 74
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.241-5, 52.241-5
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: energy, means, contractor, contract, agency, renewable, esco, including, site, words
+
+=== CHUNK CONTENT ===
+including the reserve account payment, will be used to determine compliance with the ESPC statutory savings
+requirement.
+<Agency> agrees to allow the Contractor access to the PV systems on its <roofs, parking lots and/or land> in
+accordance with <site access terms and conditions in Section H.11 of the RFP, using FAR 52.241-5, or site
+access agreement (license/easement/lease) attached as Exhibit 5.> [Add if there is a separate site access
+agreement.] <The site access agreement will be fully incorporated into the Contract and is aligned with the
+terms and conditions of the Contract.>
+4 The ESPC ESA financing mechanism allows an ESCO to use a reserve account (i.e., a private account
+independently held by the ESCO, not an escrow account by both parties to the contract) in which a portion of an
+agency's annual payments from energy savings are set aside for title transfer of the onsite energy generation asset by
+the conclusion of the contract. This is an accounting measure for the ESCO. The funds in the account belong to the
+ESCO, not to the Federal Government.
+Page 5 of 38
+A.1 Definitions
+[NOTE: This template includes definitions that are specific to energy projects and ESPC ESAs in particular;
+this list is not exhaustive, add other definitions as necessary.]
+In addition to other terms specifically defined elsewhere in this solicitation, the following words and phrases
+shall be defined as follows:
+“Contract” means the mutual binding legal relationship, resulting from this solicitation, including Sections
+A-K of the Request for Proposal, any Amendments, the Schedules and Exhibits attached hereto and the
+Contractor’s price proposal in response to the solicitation.
+“Contractor” means the individual or entity that is awarded the Contract resulting from the
+solicitation. The terms “ESCO” and “Contractor” are used interchangeably.
+“Construction Phase” means the period commencing upon receipt by the Contractor of a Notice to Proceed
+from the Government and ending at PV project acceptance by <agency>.
+“Energy Conservation Measure (ECM)” means a measure that is applied to an existing federal building or
+facility that improves energy efficiency, is life cycle cost effective under 10 CFR Part 436, Subpart A, and
+involves energy conservation, cogeneration facilities, renewable energy sources, improvements in
+operation and maintenance efficiencies, or retrofit activities, which result in energy, water, or related cost
+savings. For purposes of this definition, “improves energy efficiency” is not limited to a more efficient
+conversion of energy; rather when renewable energy is substituted for conventional energy fuels, resulting
+in the Government’s reduced usage of conventional energy sources; such a substitution constitutes
+“improved energy efficiency.”
+“Electric Distribution Company (EDC)” means the company providing electric distribution
+services to the <agency>.
+“Energy Sales Phase” means the period beginning after final PV project acceptance by <agency>.
+“Energy Savings Performance Contract Energy Sales Agreement (ESPC ESA)” means the contractual
+arrangement entered into pursuant to the authority under 42 U.S.C. §8287, et seq., in which the selected
+Contractor installs, maintains, and operates PV Systems on-site at <agency site name> until the end of the
+contract term, and in which the <agency name> purchases the PV System’s electric output from the
+selected Contractor for the life of the contract.
+“Energy Service Company (ESCO)” refers to the selected Contractor. The terms “ESCO” and
+“Contractor” are used interchangeably.
+“Fair Market Value” means, with respect to any tangible asset or service, the price that would be
+negotiated in an arm’s length, free market transaction, for cash, between an informed, willing seller and an
+informed, willing buyer. Fair Market Value of the PV system will be determined pursuant to Section H.3.
+“MW” means megawatt. A megawatt is a unit for measuring power that is equivalent to one million
+watts (equivalent to one joule per second).
+Page 6 of 38
+“Party” or “Parties” means either Contractor or the Government or the Contractor and the Government,
+respectively.
+“Premises” means the real property assets listed in <Section # and/or Exhibit #>.
+“PV System” means the integrated assembly of PV components, including but not limited to PV modules,
+mounting assemblies, ballast weights, inverters, metering, transformers, disconnects, combiners,
+switches, wiring devices, conduit, wiring and any other equipment or appurtenance necessary to be
+installed at the Premises to make the PV system complete and operational, owned by the Contractor, and
+interconnected with EDC, to provide electricity to the identified buildings. [This definition could be
+expanded to include required electrical upgrades and/or other infrastructure such as fences if deemed
+beneficial.]
+“PV System Acceptance” means the official letter from <agency> to the Contractor stating that an
+individual PV System has been accepted and is ready for operation.
+“Renewable Energy Certificates (RECs)” represent all of the environmental and other attributes of energy
+generated from renewable sources that are sold separately from the underlying electricity. They are also
+referred to as renewable energy credits, green certificates, green tags, or tradable renewable certificates.
+The RECs must include all of the greenhouse gas and other emissions/attributes associated with the
+renewable resource, including those emissions associated with the displacement of conventional energy
+generation (as legally applicable), with no emissions or attributes being disaggregated and sold separately.
+“Solar RECs (SRECs)” means solar renewable energy certificates.
+Interpretation. The captions or headings are strictly for convenience and shall not be considered in interpreting
+this Contract. Words that import the singular connotation shall be interpreted as plural, and words that import
+the plural connotation shall be interpreted as singular, as the identity of the parties or objects referred to may
+require. The words “include”, “includes”, and “including” mean include, includes, and including “without
+limitation” and “without limitation by specification.” The words “hereof”, “herein”, and “hereunder” and
+words of similar import refer to this document as a whole and not to any particular provision of this document.

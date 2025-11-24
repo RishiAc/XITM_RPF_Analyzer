@@ -1,0 +1,47 @@
+Section: Evaluation Criteria - Related Sections
+Type: combined_related
+Related Group: evaluation_criteria
+Complete Section: True
+Sub-sections: SPECIAL PROVISIONS, and descriptions as defined in this section and the attached Exhibit A shall be the controlling, Department of Procurement and Material Management, News releases concerning any resultant contract from this solicitation will not be made by a, i. Whether the bidder is in arrears to the County on debt or contract or is a defaulter on surety to the County or whether the, a. Unless otherwise specified in the solicitation, prompt payment discounts requiring payment in less than fifteen (15) days will, d. Allow services to be inspected or reviewed by an employee of the County at any reasonable time and place selected by the
+==================================================
+
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+5.3.3. Deviations: Deviations from the architecture and standards may become a barrier
+to the sustainability of the County’s integration and interoperability posture and may
+be subject to further review. When responding to various statements of work during
+the duration of this contract, offerors must specifically disclose all aspects of the
+
+--- and descriptions as defined in this section and the attached Exhibit A shall be the controlling ---
+and descriptions as defined in this section and the attached Exhibit A shall be the controlling
+title.
+6.4. The Offeror must describe their evaluation and quality control procedures to monitor the
+performance of the Offeror assigned staff. Offerors should speak to procedures for addressing
+any deficiencies in performance and steps for remediation and address the following: 1)
+
+--- Department of Procurement and Material Management ---
+Department of Procurement and Material Management
+Telephone: (703) 324-3217; TTY: 711
+E-mail: yong.kim@fairfaxcounty.gov
+13.2. No attempt shall be made by any offeror to contact members of the Selection Advisory
+Committee (“SAC”) about this procurement (ref. Section 18.3.).
+
+--- News releases concerning any resultant contract from this solicitation will not be made by a ---
+News releases concerning any resultant contract from this solicitation will not be made by a
+Contractor without the prior written approval of the County. All proposed news releases will be
+routed to the Procurement Agent for review and approval.
+
+--- i. Whether the bidder is in arrears to the County on debt or contract or is a defaulter on surety to the County or whether the ---
+i. Whether the bidder is in arrears to the County on debt or contract or is a defaulter on surety to the County or whether the
+bidder's County taxes or assessments are delinquent; and
+
+--- a. Unless otherwise specified in the solicitation, prompt payment discounts requiring payment in less than fifteen (15) days will ---
+a. Unless otherwise specified in the solicitation, prompt payment discounts requiring payment in less than fifteen (15) days will
+not be considered in evaluating a bid for award. However, even though not considered in the evaluation, such discounts will
+be taken if payment is to be made within the discount period.
+
+--- d. Allow services to be inspected or reviewed by an employee of the County at any reasonable time and place selected by the ---
+d. Allow services to be inspected or reviewed by an employee of the County at any reasonable time and place selected by the
+County. The County is under no obligation to compensate Contractor for any services not rendered in strict conformity with
+the contract.

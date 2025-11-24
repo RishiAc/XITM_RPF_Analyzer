@@ -1,0 +1,59 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0016
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15.5. Unnecessarily elaborate brochures of other presentations beyond that sufficient to present a
+Section Number: 15.5.
+Section Type: general
+Word Count: 478
+Character Count: 3058
+Line Count: 42
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+15.5. Unnecessarily elaborate brochures of other presentations beyond that sufficient to present a
+complete and effective proposal is not desired.
+15.6. By executing the cover sheet (DPMM32), Offeror acknowledges that they have read this
+Request for Proposal, understand it, and agree to be bound by its terms and conditions.
+16. ADDENDA:
+16.1. Offerors are reminded that changes to the proposal, in the form of addenda, are often issued
+between the issue date and within three (3) days before the due date. All addenda shall be
+signed and submitted as instructed on the addenda.
+16.2. The last day to submit questions to be addressed in the addendum will be addressed in Bonfire
+(Euna) under “Questions Due Date.” All questions pertaining to this RFP shall be submitted to
+dpmmteam1@fairfaxcounty.gov. Questions submitted in Bonfire (Euna) will not be
+considered, therefore, please make sure to send your questions to the e-mail address
+above.
+16.3. Notice of addenda will be posted on eVA and Bonfire (Euna). It is the Offeror’s responsibility to
+monitor the web page for the most current addenda at https://fairfaxcounty.bonfirehub.com.
+15
+RFP 2000004198
+SPECIAL PROVISIONS
+17. PROPOSALS ACCEPTANCE PERIOD:
+17.1. Any proposal submitted in response to this solicitation shall be valid for 365 days. At the end
+of the days the proposal may be withdrawn at the written request of the offeror. If the proposal
+is not withdrawn at that time it remains in effect until an award is made or the solicitation is
+canceled.
+18. BASIS FOR AWARD:
+18.1. This RFP is being utilized for competitive negotiation. Under the competitive negotiation
+process, a contract may be awarded to the responsible offeror whose proposal is determined
+to be the most advantageous to the County, taking into consideration price and the evaluation
+factors set forth in the RFP. The County reserves the right to make multiple awards as a result
+of this solicitation.
+18.2. Separate Selection Advisory Committees (“SACs”) have been established for each labor
+category relevant to this procurement. Each SAC will review and evaluate proposals submitted
+for its assigned labor category. If an Offeror submits proposals covering multiple labor
+categories, each corresponding SAC will evaluate the portion of the proposal related to its
+category. Each SAC will conduct a preliminary evaluation of the proposals assigned to it, based
+on the information provided and the established evaluation criteria. After this review, the cost
+proposals of the highest-rated Offeror(s) within each labor category will be evaluated.
+18.3. No Offeror, including any of their representatives, subcontractors, affiliates and interested
+parties, shall contact any member of a SAC or any person involved in the evaluation of the
+proposals. SAC members will refer any and all calls related to this procurement to the
+procurement official named in 13.1. above. Failure to comply with this directive may, at the sole
+discretion of the County, result in the disqualification of an Offeror from the procurement
+process.

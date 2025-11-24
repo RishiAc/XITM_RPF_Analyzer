@@ -1,0 +1,88 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0020
+Source File: rfp_template.pdf
+Section Title: https://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-solar-photovoltaic-use-
+Section Number: None
+Phase: P2
+Word Count: 411
+Character Count: 2602
+Line Count: 61
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.217-2, 52.217-2, 52.249-2
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: year, price, page, system, exhibit, contract, _____, cancellation, termination, site
+
+=== CHUNK CONTENT ===
+https://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-solar-photovoltaic-use-
+developing, available at https://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-
+solar-photovoltaic-use-developing.]
+Page 33 of 38
+Exhibit 1 - PV System List
+Page 34 of 38
+Exhibit 2 - Price Proposal Form
+CLIN 0001 Total Firm Fixed ESPC ESA Price $_____/kWh
+Amount allocated to ESCO Reserve Account $_____/kWh
+(taken from Section B.1)
+[Add if applicable]
+Annual Escalation Rate _____%
+This price includes all costs associated with the ESPC ESA contract except for the government’s reserve
+account payment. This price <includes /excludes> the project RECs.
+[Include this option if there are PV systems on roofs that may need to be replaced or repaired during the
+contract term.]
+CLIN 0002 First Year $ Price $_____
+To permit roof repair and/or replacement, an option to relocate the PV System may be exercised at any time
+during the contract, and may be exercised more than once. The option price shall include PV System removal,
+storage, reinstallation and three (3) months of lost revenues. The Government may specify partial removal,
+storage and installation of the PV System. In such situations; the actual price will be prorated based on the
+proposed first year price and the percentage of the PV System that is removed, stored and reinstalled; but shall
+not be less than <$x> per incident. The specified price shall apply for the first year of the contract, with the
+price adjusted in future years based on the consumer price index
+Page 35 of 38
+Exhibit 3 - Annual Cancellation Ceiling Schedule
+I MPORTANT INFORMATION:
+(1) Cancellation Ceilings for each time period specified below establish the maximum
+termination liability for that time period. Actual total termination costs will be
+negotiated.
+(2) The contractor may attach a monthly Financing Termination Liability Schedule.
+(3). In the event of contract cancellation or termination for convenience, FAR 52.217-2
+or 52.249-2 will apply.
+Time Period Cancellation Ceiling
+Installation Acceptance
+End of Year One
+End of Year Two
+End of Year Three
+End of Year Four
+End of Year Five
+End of Year Six
+End of Year Seven
+End of Year Eight
+End of Year Nine
+End of Year Ten
+End of Year Eleven
+End of Year Twelve
+End of Year Thirteen
+End of Year Fourteen
+End of Year Fifteen
+End of Year Sixteen
+End of Year Seventeen
+End of Year Eighteen
+End of Year Nineteen
+End of Year Twenty
+Exhibit 4 – PV System Production Estimates
+Page 36 of 38
+[monthly, annual or other]
+Page 37 of 38
+Exhibit 5 – Site Access Agreement
+Page 38 of 38

@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0064
+Source File: 2-RFP 2000004198.pdf
+Section Title: relevant experience in the respective category/field for at least five (5) years from the
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 41
+Character Count: 266
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+date of this RFP. Proposals will only be accepted from organizations that have directly
+provided staff augmentation services for at least three (3) years within the last five (5)
+years for federal, state, or local governments. Submissions from general staffing firms

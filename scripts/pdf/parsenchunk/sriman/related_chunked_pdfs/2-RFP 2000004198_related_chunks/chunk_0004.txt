@@ -1,0 +1,86 @@
+Section: Technical Requirements - Related Sections
+Type: combined_related
+Related Group: technical_requirements
+Complete Section: True
+Sub-sections: 1. Infrastructure Technical Support, based on its manufacture specifications and not manipulated outside its developed, County IT Security standards for data security and privacy and user access from the, proposed solution which deviate from the documented standards and desired, I. By using remote access technology with personal equipment, users shall, consideration in their support capacity, b. Offeror's proposed technical approaches and a detailed outline of the proposed, 4. Statement of Qualifications: The Statement of Qualifications must include the following:, c. Key outcomes and performance metrics, experience unless otherwise stated and are expected to have appropriate and, notation must be made of similar staff augmentation assignments relevant solutions, d. Special Provisions and Specifications, b. Enter upon the performance of services with all due diligence and dispatch, assiduously press to its complete performance,, d. The technology for nonvisual access shall have the capability of providing equivalent access by nonvisual means to
+==================================================
+
+
+--- 1. Infrastructure Technical Support ---
+1. Infrastructure Technical Support
+
+--- based on its manufacture specifications and not manipulated outside its developed ---
+based on its manufacture specifications and not manipulated outside its developed
+architecture and development standards. The solution design should recommend
+the hardware and database environment that ensures optimal performance,
+supportability and reliability.
+5.1.6. Solution support may be required on technology that is hosted outside the County’s
+IT environment, such as a subscription service. Augmented staff must adhere to
+
+--- County IT Security standards for data security and privacy and user access from the ---
+County IT Security standards for data security and privacy and user access from the
+county’s local and remote network. DIT will specify remote access specifications.
+5.2. County Network Environment:
+5.2.1. The County’s technology architecture is a tactical asset that defines technology
+
+--- proposed solution which deviate from the documented standards and desired ---
+proposed solution which deviate from the documented standards and desired
+architectures, and provide approaches for consideration about the manner in which
+non-standard components may be integrated.
+5.3.4. Graphical User Interfaces: The County has standard templates that are required for
+its websites to have maximum consistency across applications and content. Any
+
+--- I. By using remote access technology with personal equipment, users shall ---
+I. By using remote access technology with personal equipment, users shall
+understand that their machines are a de facto extension of Fairfax County’s
+network, and as such are subject to the same standards that apply to County-
+owned equipment; therefore, their machines shall be configured to comply
+with Fairfax County policies and DIT standards for anti-virus software and
+patch management.
+
+--- consideration in their support capacity ---
+consideration in their support capacity
+5.7.2. For a proposed solution the County may require up to six separate computing
+environments, with the ability to run concurrently, for sandbox, development, testing,
+training, acceptance, and production. To ensure that each environment is technically
+equivalent, duplicate servers and workstations as specified below shall be utilized
+except where virtual machine technology is preferred by the County. The County
+
+--- b. Offeror's proposed technical approaches and a detailed outline of the proposed ---
+b. Offeror's proposed technical approaches and a detailed outline of the proposed
+
+--- 4. Statement of Qualifications: The Statement of Qualifications must include the following: ---
+4. Statement of Qualifications: The Statement of Qualifications must include the following:
+
+--- c. Key outcomes and performance metrics ---
+c. Key outcomes and performance metrics
+
+--- experience unless otherwise stated and are expected to have appropriate and ---
+experience unless otherwise stated and are expected to have appropriate and
+related certification in the associated field of work, and/or equivalent experience
+relevant to the position.
+• Intermediate Level: relates to experienced and qualified individuals who are
+technically proficient and able to work with minimal to moderate supervision.
+Intermediate Level professionals should have a minimum of three (3) years’
+relevant work experience unless otherwise stated.
+
+--- notation must be made of similar staff augmentation assignments relevant solutions ---
+notation must be made of similar staff augmentation assignments relevant solutions
+created, or duties performed and must also include the following: reference
+names/Jurisdiction, summary service description, reference address, operational contact
+name, operational contact phone number, company project manager, company project
+manager phone number, technical contact name, technical contact phone number, and
+date(s) of engagement “from” and “to”. The contacts listed must have direct knowledge of
+the work and the Offeror performance (ref. Attachment II).
+
+--- d. Special Provisions and Specifications ---
+d. Special Provisions and Specifications
+
+--- b. Enter upon the performance of services with all due diligence and dispatch, assiduously press to its complete performance, ---
+b. Enter upon the performance of services with all due diligence and dispatch, assiduously press to its complete performance,
+and exercise therein the highest degree of skill and competence.
+
+--- d. The technology for nonvisual access shall have the capability of providing equivalent access by nonvisual means to ---
+d. The technology for nonvisual access shall have the capability of providing equivalent access by nonvisual means to
+telecommunications or other interconnected network services used by persons who are not blind or visually impaired. A
+covered entity may stipulate additional specifications in any procurement.

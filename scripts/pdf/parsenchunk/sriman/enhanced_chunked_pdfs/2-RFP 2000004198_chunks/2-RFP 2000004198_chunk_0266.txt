@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0266
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 117
+Character Count: 694
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+shall be authorized to transact business in the Commonwealth as a domestic or foreign business entity if so required by Title
+13.1 or Title 50 of the Code of Virginia or as otherwise required by law. Any business entity described above that enters into a
+contract with a Fairfax County pursuant to the Fairfax County Purchasing Resolution shall not allow its existence to lapse or its
+certificate of authority or registration to transact business in the Commonwealth, if so required under Title 13.1 or Title 50, to be
+revoked or cancelled at any time during the term of the contract. Fairfax County may void any contract with a business entity if

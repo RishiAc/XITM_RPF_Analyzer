@@ -1,0 +1,71 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0012
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: to have accepted the terms and conditions of this RFP and the Standard Contract Agreement Sample
+Section Number: None
+Phase: P1
+Word Count: 450
+Character Count: 3081
+Line Count: 44
+
+=== KEY DATES ===
+Due Dates: 03/25/2025
+
+=== ELIGIBILITY ===
+Eligibility Types: SMALL_BUSINESS, VETERAN
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: insurance, contract, offeror, solicitation, vsbe, proposal, business, maryland, terms, must
+
+=== CHUNK CONTENT ===
+to have accepted the terms and conditions of this RFP and the Standard Contract Agreement Sample
+attached hereto as Attachment A.
+2. Any exceptions to the terms and conditions of this RFP or the Contract must be clearly identified in
+the Technical Proposal. All exceptions will be taken into consideration when evaluating an Offeror’s
+proposal.
+3. A proposal that takes exception to these terms may be rejected and therefore determined to be not
+reasonably susceptible of being selected for award.
+4. By submitting a proposal in response to this RFP, the Offeror, if selected for award, agrees that it
+will comply with all federal, State, and local laws applicable to its activities and obligations under
+the contract.
+M. ACCEPTANCE OF SERVICES
+1. The Contract Manager or his/her designated representative has authority to determine the acceptable
+level of service.
+2. When the Contact Manager or his/her designee determines that the Successful Offeror service is
+unsatisfactory, the Successful Offeror shall return to the site at the request of the AOC, or an
+authorized designee, and resolve the issue at no additional cost to the AOC.
+N. DIVERSITY & OUTREACH PROGRAMS
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 15
+The objective of the Diversity & Outreach Programs is to encourage and increase participation in AOC
+procurements by Minority Business Enterprises (MBE) and Veteran-owned Small Business Enterprises
+(VSBE).
+1. Minority Business Enterprise
+MBEs are encouraged to respond to this solicitation notice as Prime Contractors. In order to
+participate as an MBE in AOC procurements, MBEs must be certified by the Maryland Department
+of Transportation (MDOT). Additional information regarding certification can be located on the
+MDOT Website: https://www.mdot.maryland.gov/tso/Pages/Index.aspx?PageId=90
+a. There is no MBE goal established for this solicitation.
+2. Veteran-owned Small Business Enterprise
+VSBEs are encouraged to respond to this solicitation notice as Prime Contractors. VSBEs must
+complete three (3) steps: Supplier Registration, Veteran Verification, and VSBE Certification
+through eMMA. These steps are outlined by the State of Maryland VSBE program. Additional
+information regarding certification can be located at:
+https://gomdsmallbiz.maryland.gov/Pages/VSBE-Program.aspx
+a. There is no VSBE goal established for this solicitation.
+O. INSURANCE
+1. The Successful Offeror shall maintain, at minimum, the insurance coverages outlined in this section,
+or any minimum requirements established by law, if higher, for the duration of the contract, including
+option periods, if exercised. Evidence that the required insurance coverage has been obtained may
+be provided by Certificates of Insurance duly issued and certified by the insurance company or
+companies furnishing such insurance.
+2. All insurance policies shall be endorsed to provide that the insurance carrier will be responsible for
+providing immediate notice to the AOC in the event of cancellation or restriction of the insurance

@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0274
+Source File: 2-RFP 2000004198.pdf
+Section Title: 1. Conviction for commission of a criminal offense as an incident to obtaining or attempting to obtain a public or private contract
+Section Number: 1.
+Section Type: general
+Word Count: 11
+Character Count: 70
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+or subcontract, or in the performance of such contract or subcontract;

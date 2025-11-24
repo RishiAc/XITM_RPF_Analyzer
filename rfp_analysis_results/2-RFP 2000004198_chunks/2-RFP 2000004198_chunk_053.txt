@@ -1,0 +1,111 @@
+Chunk ID: 2-RFP 2000004198_chunk_053
+Section: 1. Conviction for commission of a criminal offense as an incident to obtaining or attempting to obtain a public or private contract
+Section Number: 1
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: Cost
+Pricing Model: None
+Risk Level: Medium
+FAR References: None
+Keywords: shall, bidder, contract
+Word Count: 1695
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+1. Conviction for commission of a criminal offense as an incident to obtaining or attempting to obtain a public or private contract
+or subcontract, or in the performance of such contract or subcontract;
+2. Conviction under state or federal statutes of embezzlement, theft, forgery, bribery, falsification or destruction of records,
+receiving stolen property, or any other offense indicating a lack of business integrity or business honesty which currently,
+seriously, and directly affects responsibility as a County Contractor;
+3. Conviction under the state or federal antitrust statutes arising out of the submission of bids or proposals;
+4. Violation of contract provisions, as set forth below, of a character which is regarded by the Purchasing Agent to be so serious
+as to justify suspension or debarment action:
+a. failure without good cause to perform in accordance with the specifications or within the time limit provided in the
+contract; or
+b. a recent record of failure to perform or of unsatisfactory performance in accordance with the terms of one or more
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+contracts; provided, that failure to perform or unsatisfactory performance caused by acts beyond the control of the
+Contractor shall not be considered to be a basis for suspension or debarment;
+5. Any other cause the Purchasing Agent determines to be so serious and compelling as to affect responsibility as a Contractor,
+such as debarment by another governmental entity for any cause listed herein, or because of prior reprimands;
+6. The contractor has abandoned performance, been terminated for default on a Fairfax County project, or has taken any actions
+that inure to the detriment of Fairfax County or a Fairfax County project ;
+7. The Contractor is in default on any surety bond or written guarantee on which Fairfax County is an obligee.
+c. If, upon appeal, it is determined that the action taken by the Purchasing Agent was arbitrary or capricious, or not in accordance
+with the Constitution of Virginia, statutes or regulations, the sole relief available to the person or firm shall be restoration of
+eligibility. The person or firm may not institute legal action until all statutory requirements have been met.
+65. APPEAL OF DENIAL OF WITHDRAWAL OF BID-
+a. A decision denying withdrawal of a bid submitted by a bidder or offeror shall be final and conclusive unless the bidder appeals
+the decision within ten (10) days after receipt of the decision by instituting legal action as provided in the Code of Virginia.
+The bidder or offeror may not institute legal action until all statutory requirements have been met.
+b. If no bid bond was posted, a bidder refused withdrawal of bid under the provisions of Article 2, Section 5.A.8, of the Fairfax
+County Purchasing Resolution, prior to appealing, shall deliver to the County a certified check or cash bond in the amount of
+the difference between the bid sought to be withdrawn and the next low bid. Such security shall be released only upon a
+final determination that the bidder was entitled to withdraw the bid.
+c. If, upon appeal, it is determined that the decision refusing withdrawal of the bid was not an honest exercise of discretion, but
+rather was arbitrary or capricious or not in accordance with the Constitution of Virginia, applicable state law or regulation, or
+the terms or conditions of the Invitation to Bid, the sole relief shall be withdrawal of the bid.
+66. APPEAL OF DETERMINATION OF NONRESPONSIBILITY-
+a. Any bidder who, despite being the apparent low bidder, is determined not to be a responsible bidder for a particular County
+contract shall be notified in writing by the Purchasing Agent. Such notice shall state the basis for the determination, which
+shall be final unless the bidder appeals the decision within ten (10) days of receipt of the notice by instituting legal action as
+provided in the Code of Virginia. The bidder may not institute legal action until all statutory requirements have been met.
+b. If, upon appeal, it is determined that the decision of the Purchasing Agent was arbitrary or capricious and the award for the
+particular County contract in question has not been made, the sole relief available to the bidder shall be a finding that the
+bidder is a responsible bidder for the County contract in question. Where the award has been made and performance has
+begun, the County may declare the contract void upon a finding that this action is in the best interest of the public. Where a
+contract is declared void, the performing Contractor shall be compensated for the cost of performance up to the time of
+such declaration. In no event shall the performing Contractor be entitled to lost profits.
+67. PROTEST OF AWARD OR DECISION TO AWARD-
+a. Any bidder or offeror may protest the award or decision to award a contract by submitting a protest in writing to the Purchasing
+Agent, or an official designated by the County of Fairfax, no later than ten (10) days after the award or the announcement of
+the decision to award, whichever occurs first. Any potential bidder or offeror on a contract negotiated on a sole source or
+emergency basis who desires to protest the award or decision to award such contract shall submit such protest in the same
+manner no later than ten days after posting or publication of the notice of such contract as provided in Article 2, Section 2, of
+the Fairfax County Purchasing Resolution. However, if the protest of any actual or potential bidder or offeror depends in
+whole or in part upon information contained in public records pertaining to the procurement transaction which are subject to
+inspection under Article 2, Section 5.C of the Fairfax County Purchasing Resolution, then the time within which the protest
+must be submitted shall expire ten days after those records are available for inspection by such bidder or offeror under Article
+2, Section 5.C, or at such later time as provided herein. No protest shall lie for a claim that the selected bidder or offeror is
+not a responsible bidder or offeror. The written protest shall include the basis for the protest and the relief sought. The
+Purchasing Agent shall issue a decision in writing within ten (10) days of the receipt of the protest stating the reasons for the
+action taken. This decision shall be final unless the bidder or offeror appeals within ten (10) days of receipt of the written
+decision by instituting legal action as provided in the Code of Virginia. Nothing in this section shall be construed to permit a
+bidder to challenge the validity of the terms or conditions of the Invitation for Bid or Request for Proposal.
+b. If prior to award it is determined that the decision to award is arbitrary or capricious, then the sole relief shall be a finding to
+that effect. The Purchasing Agent shall cancel the proposed award or revise it to comply with the law. If, after an award, it
+is determined that an award of a contract was arbitrary or capricious, then the sole relief shall be as hereinafter provided.
+Where the award has been made but performance has not begun, the performance of the contract may be declared void by
+the County. Where the award has been made and performance has begun, the Purchasing Agent may declare the contract
+void upon a finding that this action is in the best interest of the County. Where a contract is declared void, the performing
+Contractor shall be compensated for the cost of performance at the rate specified in the contract up to the time of such
+declaration. In no event shall the performing Contractor be entitled to lost profits.
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+c. Pending final determination of a protest or appeal, the validity of a contract awarded and accepted in good faith in accordance
+with this article shall not be affected by the fact that a protest or appeal has been filed.
+d. An award need not be delayed for the period allowed a bidder or offeror to protest, but in the event of a timely protest, no
+further action to award the contract will be taken unless there is a written determination that proceeding without delay is
+necessary to protect the public interest or unless the bid or offer would expire.
+68. CONTRACTUAL DISPUTES-
+a. Any dispute concerning a question of fact as a result of a contract with the County which is not disposed of by agreement
+shall be decided by the Purchasing Agent, who shall reduce her decision to writing and mail or otherwise forward a copy to
+the Contractor within ninety (90) days. The decision of the Purchasing Agent shall be final and conclusive unless the
+Contractor appeals within six (6) months of the date of the final written decision by instituting legal action as provided in the
+Code of Virginia. A Contractor may not institute legal action, prior to receipt of the Purchasing Agent’s decision on the claim,
+unless the Purchasing Agent fails to render such decision within the time specified.
+b. Contractual claims, whether for money or other relief, shall be submitted in writing no later than sixty days after final payment;
+however, written notice of the Contractor's intention to file such claim shall have been given at the time of the occurrence or
+beginning of the work upon which the claim is based. Nothing herein shall preclude a contract from requiring submission of
+an invoice for final payment within a certain time after completion and acceptance of the work or acceptance of the goods.
+Pendency of claims shall not delay payment of amounts agreed due in the final payment.
+69. LEGAL ACTION-No bidder, offeror, potential bidder or offeror, or Contractor shall institute any legal action until all statutory
+requirements have been met. Statutory requirements include, but are not limited to, the requirements of the Virginia Public
+Procurement Act, as reflected in the Fairfax County Purchasing Resolution and the requirement that any contractor seeking
+monetary relief or damages from the County must submit its claim to the Board of Supervisors in compliance with Virginia Code
+§ 15.2-1243 through 1249.

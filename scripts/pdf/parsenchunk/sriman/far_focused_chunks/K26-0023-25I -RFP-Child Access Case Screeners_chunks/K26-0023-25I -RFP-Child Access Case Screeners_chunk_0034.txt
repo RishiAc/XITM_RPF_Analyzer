@@ -1,0 +1,46 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0034
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Successful Offeror shall provide a written response to the
+Section Number: 1.
+Section Type: general
+Word Count: 326
+Character Count: 2096
+Line Count: 31
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. The Successful Offeror shall provide a written response to the
+remediation requirements in a Remediation Plan within ten (10)
+days of the date of the notice and shall immediately implement the
+Remediation Plan upon written acceptance by the Contract
+Manager.
+2. If the Contract Manager rejects the Remediation Plan, the
+Successful Offeror shall revise and resubmit the plan to the Contract
+Manager within five (5) days, or in the timeframe set forth by the
+Contract Manager in writing.
+ii If performance issues persist despite an approved Remediation Plan, the
+Contract Manager may give written notice of the continuing performance
+issues and either request a new Remediation Plan within a specified time
+limit or direct the substitution of Successful Offeror personnel whose
+performance is at issue with a qualified substitute, including requiring the
+immediate removal of the Successful Offeror personnel at issue.
+(2) Replacement or substitution of Successful Offeror personnel under this section shall
+be in addition to, and not in lieu of, the AOC remedies under the Contract or which
+otherwise may be available at law or in equity.
+(3) If the Contract Manager determines the need for direct personnel replacement, at
+least fifteen (15) days advance notice shall be given to the Successful Offeror, if
+possible. However, if the Contract Manager deems it necessary and in the AOC best
+interests to remove the Successful Offeror personnel with less than fifteen (15) days’
+notice, the Contract Manager may direct the removal in a timeframe of less than
+fifteen (15) days, including immediate removal.
+(4) In circumstances of directed removal, the Successful Offeror shall, provide a
+suitable replacement for approval within fifteen (15) days of the notification of the
+need for removal, or the actual removal, whichever occurs first, in accordance with
+the provisions of this section.
+b. Key Personnel replacement by Successful Offeror
+(1) To replace any Key Personnel in a circumstance other than the substitution
+provisions and circumstances above, including transfers and promotions, the

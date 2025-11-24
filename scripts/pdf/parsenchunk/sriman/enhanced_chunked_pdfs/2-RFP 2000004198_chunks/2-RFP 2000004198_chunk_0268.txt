@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0268
+Source File: 2-RFP 2000004198.pdf
+Section Title: for the purpose of securing business. For violation of this warranty, the County shall have the right to terminate or suspend this
+Section Number: None
+Section Type: contract_clauses
+Word Count: 32
+Character Count: 213
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+contract without liability to the County or in its discretion to deduct from the contract price or consideration, or otherwise recover,
+the full amount of such commission, percentage, brokerage, or contingent fee.

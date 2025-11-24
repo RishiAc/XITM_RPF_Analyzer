@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0075
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.8. European markets including those based in London, and the domestic surplus lines markets
+Section Number: 19.8.
+Section Type: general
+Word Count: 102
+Character Count: 650
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+19.8. European markets including those based in London, and the domestic surplus lines markets
+that operate on a non-admitted basis are exempt from this requirement provided that the
+Contractor's broker can provide financial data to establish that a market is equal to or exceeds
+the financial strengths associated with the A.M. Best's rating of A: VII or better.
+19.9. The Contractor will provide an original, signed Certificate of Insurance citing the contract
+number and such endorsements as prescribed herein and The County of Fairfax, its officers,
+employees and agents shall be named as an “additional insured” for all liability policies and it

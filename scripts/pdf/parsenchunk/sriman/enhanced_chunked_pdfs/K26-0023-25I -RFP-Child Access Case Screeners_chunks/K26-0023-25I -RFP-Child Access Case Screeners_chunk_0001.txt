@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0001
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: General
+Section Number: N/A
+Section Type: general
+Word Count: 13
+Character Count: 100
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+STATE OF MARYLAND
+ADMINISTRATIVE OFFICE OF THE COURTS
+PROCUREMENT, CONTRACT AND GRANT ADMINISTRATION

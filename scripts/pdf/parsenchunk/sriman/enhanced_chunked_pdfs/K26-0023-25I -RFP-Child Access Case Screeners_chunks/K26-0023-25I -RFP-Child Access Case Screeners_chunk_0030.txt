@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0030
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: compliance with its policies.
+Section Number: None
+Section Type: security_compliance
+Word Count: 7
+Character Count: 47
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+R. ACCESS TO AOC INFORMATION TECHNOLOGY SYSTEMS

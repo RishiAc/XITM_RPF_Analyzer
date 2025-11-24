@@ -1,0 +1,36 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0118
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. Technical Proposal Contents
+Section Number: 3.
+Section Type: technical_requirements
+Word Count: 198
+Character Count: 1340
+Line Count: 19
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Transmittal Letter: Prepared on the Offeror’s business stationary and signed by an individual
+who is authorized to bind the Offeror to the requirements as stated in this RFP, including all
+addenda.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 20
+b. Claim of Confidentiality: Any information which is claimed to be confidential and/or
+proprietary shall be identified by section, subsection (if applicable), and page number. An
+explanation for each claim of confidentiality shall be included. The entire Technical Proposal
+cannot be given a blanket confidentiality designation.
+c. Executive Summary: The Offeror shall condense and highlight the contents of the Technical
+Proposal in an executive summary. In accordance with Section II of this RFP, and only as
+applicable, the executive summary shall indicate whether the Offeror is the subsidiary of
+another entity, and if so, whether all information submitted by the Offeror pertains
+exclusively to the Offeror. If not, the subsidiary Offeror shall include a guarantee of
+performance from its parent organization as part of its executive summary.
+d. Attachment L – Bidder/Offeror Profile: Offeror shall complete Attachment L –
+Bidder/Offeror Profile included on the Procurement Portal and enclose with the Technical
+Proposal.

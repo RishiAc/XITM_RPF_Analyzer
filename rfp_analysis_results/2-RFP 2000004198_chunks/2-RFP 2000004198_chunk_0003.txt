@@ -1,0 +1,95 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0003
+Source File: 2-RFP 2000004198.pdf
+Section Title: through the Institutional Network (INET). To support this enterprise FCPS has established a
+Section Number: None
+Phase: P2
+Word Count: 672
+Character Count: 5077
+Line Count: 68
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: county, fcps, information, technology, staff, circuit, https, support, fairfax, plan
+
+=== CHUNK CONTENT ===
+through the Institutional Network (INET). To support this enterprise FCPS has established a
+robust network infrastructure to support with a distribution ring of 200 Gigabytes (GB) over fiber
+(connected to a Cox circuit of 100GB, and a CenturyLink circuit of 20G for a total of 120GB.
+Each elementary school has a dedicated 1.2GB circuit. In addition, middle schools have a 2GB
+dedicated circuit, secondary schools have 4GB dedicated circuit and high schools have a 3G
+dedicated circuit. FCPS Wide-Area-Network (WAN) connects over 250 sites throughout Fairfax
+County. A centralized Network Operation Center (NOC) hosts more than 2,000 physical and
+virtual servers and hundreds of enterprise applications. FCPS also has a backup NOC for
+disaster recovery purposes. A variety of technologies are deployed to keep FCPS users safely
+connected including firewalls, switches, Wireless Access Points and controllers, Windows, Unix
+servers.
+FCPS has several helpful resources that are available online to assist Offerors in
+learning more about the FCPS:
+Resource URL
+Information Technology https://www.fcps.edu/department/department-information-technology
+2
+RFP 2000004198
+SPECIAL PROVISIONS
+Strategic Plan https://www.fcps.edu/about-fcps/strategic-plan
+Purchasing Services https://www.fcps.edu/get-involved/doing-business-fcps
+4.3. The current contracts for these services can be viewed on the Fairfax County Contract Register
+at https://www.fairfaxcounty.gov/cregister/ by entering one of the following contract numbers
+4400005604, 4400005606, 4400005607, 4400005610, 4400005623. 4400005624,
+4400005627, 4400005630, 4400005633, 4400005636, 4400005813, and 4400010820 in the
+contract number field.
+4.4. Budget is subject to annual appropriations for County needs. Please refer to the Incumbent
+vendor information (excel file) and https://www.fairfaxcounty.gov/topics/financialtransparency
+for information on spending to date.
+5. TECHNOLOGY PROFILES AND ADDITIONAL REQUIREMENTS:
+5.1. Fairfax County Information Technology Profile and Requirements:
+5.1.1. To meet the requirements of this solicitation, proposals for providing IT staff
+augmentation support should comprehensively address all aspects of the related
+labor category, including skill sets, experience, and availability of proposed
+personnel. The offeror will describe their organizational experience in delivering
+services and solutions in the particular labor category. Submissions from general
+staffing firms or vendors without demonstrable delivery experience in the IT category
+will be disqualified. The Offeror will be responsible for demonstrating that supplied
+staff fully integrate with existing County teams and projects. The County will provide
+guidance on the methodology and design required for each support area in each
+future work order. Offeror must demonstrate ability to integrate the augmented staff
+into existing County processes and workflows. Any solutions developed or
+implemented by staff augmentation support must be fully integrated into the core
+County software, database and interfaces and seamlessly integrate with county
+technologies. Proposals must detail the following; organizational skill sets and
+expertise, proposed staffing models, ensure augmented staff can seamlessly
+integrate and use existing county frameworks, methodologies, and tools. This
+includes a commitment to adhering to the County's security guidelines and best
+practices. The Offeror should ensure that the proposal includes, examples of
+relevant case studies, past work or projects in government settings, and a clear plan
+for onboarding and integrating these staff members within the County’s existing IT
+organization. Proposals must demonstrate offerors ability to provide staff that can
+meet one or more of the supported areas and show competencies in the core
+technologies used by the county. Information about Fairfax County IT Projects,
+Standards, environments and platforms can be found in the Information Technology
+Plan, https://www.fairfaxcounty.gov/informationtechnology/it-plan.
+5.1.2. Fairfax County IT Management Overview – The Department of Information
+Technology (DIT) is the County’s central IT agency that establishes standards and
+architecture for information and communication systems for all County agencies.
+DIT provides leadership, process, governance, resources, and expertise in
+deploying information technology, and provides technology infrastructure, and
+designs, develops, implements and maintains enterprise-wide and agencies’
+specific applications. The Director of DIT is also the County's Chief Information
+Officer and has authority for strategic leadership for technology investments, and
+direction in deployment of technology county-wide, and oversees implementation of
+policy and IT projects. DIT has a Project Management Office that works with all
+agencies’ Project Managers (PM) in reviewing project plans for performance and
+scope, and approving project expenditures. DIT assigns a technical PM who is
+responsible for working with project System Integrators (SI) and staff augmentation

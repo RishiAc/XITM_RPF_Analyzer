@@ -1,6 +1,7 @@
 from llama_parse import LlamaParse
 from llama_index.core.node_parser import SentenceSplitter
 import re
+import os
 
 from dotenv import load_dotenv
 
@@ -12,9 +13,9 @@ def write_to_file(nodes, file):
             f.write(f"--- Chunk #{i} ---\n")
             f.write(node.text + "\n")
 
-def parse(file, chunk_size: int = 1028, chunk_overlap: int = 50):
+def parse(file, chunk_size: int = 200, chunk_overlap: int = 50):
     parser = LlamaParse(
-        api_key="llx-y0lDjk4o2QVdB13CbRMdFdl3iEAZpBo6AbnsWFdGgBqgJb7l",  # See how to get your API key at https://docs.cloud.llamaindex.ai/api_key
+        api_key=os.getenv("LLAMA_PARSE_KEY"),  # See how to get your API key at https://docs.cloud.llamaindex.ai/api_key
         parse_mode="parse_page_with_agent",  # The parsing mode
         model="anthropic-sonnet-4.0",  # The model to use
         high_res_ocr=True,  # Whether to use high resolution OCR (slower but more precise)
@@ -51,5 +52,4 @@ def chunks_to_json(doc_id, nodes):
     return output
 
 if __name__ == "__main__":
-    print(chunks_to_json("test", parse(r"C:\Users\mcyoo\Desktop\XITM\XITM_RPF_Analyzer\docs\rfps\2-RFP 2000004198.pdf")))
-    print(chunks_to_json("test", parse(r"C:\Users\mcyoo\Desktop\XITM\XITM_RPF_Analyzer\docs\rfps\2-RFP 2000004198.pdf")))
+    print(chunks_to_json("test", parse(r"/Users/akashwudali/XITM_RPF_Analyzer/docs/rfps/main.pdf")))

@@ -1,0 +1,18 @@
+Chunk ID: 2-RFP 2000004198_chunk_019
+Section: Scope of Work (“SOW”), request, etc. describing the Contractor’s proposed staff
+Section Number: None
+Section Type: scope
+Phase: P2
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: work, scope, request, describing, contractor
+Word Count: 16
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+Scope of Work (“SOW”), request, etc. describing the Contractor’s proposed staff
+distribution to accomplish this work.

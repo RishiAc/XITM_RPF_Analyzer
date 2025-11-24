@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0195
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6. ERRORS IN BIDS-When an error is made in extending total prices, the unit bid price will govern. Erasures in bids must be
+Section Number: 6.
+Section Type: general
+Word Count: 35
+Character Count: 214
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+initialed by the bidder. Bidders are cautioned to recheck their bids for possible error. Errors discovered after public opening
+cannot be corrected and the bidder will be required to perform if its bid is accepted.

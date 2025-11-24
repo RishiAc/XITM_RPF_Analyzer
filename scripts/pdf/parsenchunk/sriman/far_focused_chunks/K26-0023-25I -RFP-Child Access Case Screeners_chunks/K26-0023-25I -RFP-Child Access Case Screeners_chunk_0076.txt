@@ -1,0 +1,29 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0076
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: performance, financial capacity, technical expertise, or other qualifications bearing
+Section Number: None
+Section Type: technical_requirements
+Word Count: 147
+Character Count: 1005
+Line Count: 14
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+performance, financial capacity, technical expertise, or other qualifications bearing
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 23
+on the performance of the contract and reserves the right to consider any information
+otherwise available, or to make such additional investigations as it deems necessary
+to confirm the Offeror is reasonably susceptible of being selected for award.
+b. The Financial Proposal of each remaining Offeror will be evaluated and ranked separately
+from the technical evaluation. After a review of the Financial Proposals of remaining
+Offerors, the Evaluation Committee and/or Procurement Officer may conduct discussions to
+further evaluate the Offeror’s entire proposal.
+c. When in the best interest of the AOC, the Procurement Officer may permit remaining
+Offerors to revise their initial proposals and submit, in writing, Best and Final Offers
+(BAFOs). The AOC may make award without issuing a request for a BAFO.

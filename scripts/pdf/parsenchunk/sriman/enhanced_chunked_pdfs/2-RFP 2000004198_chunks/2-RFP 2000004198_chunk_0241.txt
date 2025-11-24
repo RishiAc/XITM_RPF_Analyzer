@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0241
+Source File: 2-RFP 2000004198.pdf
+Section Title: 43. SHIPPING INSTRUCTIONS - CONSIGNMENT-Unless otherwise specified in the solicitation each case, container, package,
+Section Number: 43.
+Section Type: general
+Word Count: 80
+Character Count: 497
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+etc., delivered under the contract must be plainly marked, stating the Contractor's name, purchase order number, and delivery
+address as indicated in the order. Deliveries must be made within the hours of 8:00 AM - 3:00 PM. Deliveries at any other time
+will not be accepted unless specific arrangements have been previously made with the receiver at the delivery point. No
+deliveries will be accepted on Saturdays, Sundays and holidays, unless previous arrangements have been made. It shall be the

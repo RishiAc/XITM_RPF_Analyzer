@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0039
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. Any Successful Offeror personnel working at AOC locations, or on AOC systems or projects, or who
+Section Number: 3.
+Section Type: general
+Word Count: 23
+Character Count: 133
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+have access to AOC or State criminal data or systems, must be approved in writing by the
+Procurement Officer prior to beginning work.

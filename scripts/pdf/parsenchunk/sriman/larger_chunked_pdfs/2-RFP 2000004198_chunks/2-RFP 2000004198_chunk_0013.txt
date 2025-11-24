@@ -1,0 +1,66 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0013
+Source File: 2-RFP 2000004198.pdf
+Section Title: 3. Staffing Plan: The staffing plan should indicate a chart that partitions the time
+Section Number: 3.
+Section Type: general
+Word Count: 470
+Character Count: 3220
+Line Count: 49
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+3. Staffing Plan: The staffing plan should indicate a chart that partitions the time
+commitment of each professional staff member across the proposed tasks and a
+timeline for the engagements. It is mandatory that this section identifies the key
+personnel who are to work on the contract, their relationship to the Offeror
+organization, This requirement includes Consultants as well as regular employees of
+the offeror, if relevant.
+a. The County will only accept Offeror personnel who have significant, relevant
+experience with the offeror’s systems and can show a successful track record at
+locations of similar size and complexity as Fairfax County.
+b. Support personnel proposed must have the necessary level of training and
+experience with the application suite to ensure that the County is receiving
+expert-level support. The Offeror must provide the County with a listing of all
+certificates, training courses and other relevant evidence to document the level
+of expertise of proposed support personnel.
+12
+RFP 2000004198
+SPECIAL PROVISIONS
+c. Offeror shall describe its processes for assigning staff to specific projects, along
+with the credentials of the staff members. Offeror should include how it will
+involve the County to ensure projects are staffed to be successful.
+The Contractor will provide a staffing plan in response to the County Tasks orders,
+Scope of Work (“SOW”), request, etc. describing the Contractor’s proposed staff
+distribution to accomplish this work.
+4. Financial Statements: The Offeror shall provide an income statement and balance
+sheet from the most recent reporting period.
+5. References: The Offeror will provide a reference for at least three (3) clients. Special
+notation must be made of similar staff augmentation assignments relevant solutions
+created, or duties performed and must also include the following: reference
+names/Jurisdiction, summary service description, reference address, operational contact
+name, operational contact phone number, company project manager, company project
+manager phone number, technical contact name, technical contact phone number, and
+date(s) of engagement “from” and “to”. The contacts listed must have direct knowledge of
+the work and the Offeror performance (ref. Attachment II).
+6. Exceptions to the RFP: Offerors may take exceptions to the terms, however, some of the
+terms may not be negotiable (ref. Attachment B).
+8.4. Fairfax County Forms:
+• Attachment A1, Offeror Data Sheet
+• Attachment A2, Virginia State Corporation Commission Registration Information
+• Attachment A3, Request for Protection of Trade Secrets or Proprietary Information
+Pursuant to Article 2, Section 5.C.3 of the Purchasing Resolution and Va. Code Ann.
+§ 2.2-4342(F)
+• Attachment A4, Business, Professional and Occupational License
+• Attachment A5, Certification Regarding Debarment or Suspension
+• Attachment A6, Certification Regarding Ethics in Public Contracting
+• Attachment A7, Fairfax County’s Business Classification Schedule
+• Attachment B, Affirmation of Legally Required Contract Terms
+• Attachment C, Fairfax County Project Proposal Matrix for Meeting Information
+Technology Security Policy Requirements (sample)
+• All issued Addenda (as applicable).

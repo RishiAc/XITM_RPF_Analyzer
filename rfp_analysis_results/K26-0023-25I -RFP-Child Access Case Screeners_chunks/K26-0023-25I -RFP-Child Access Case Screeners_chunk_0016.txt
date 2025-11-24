@@ -1,0 +1,68 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0016
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: in the Technical Proposal. Exceptions to terms and conditions may result in having the
+Section Number: None
+Phase: P2
+Word Count: 447
+Character Count: 3088
+Line Count: 41
+
+=== KEY DATES ===
+Due Dates: 03/25/2025
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: offeror, shall, proposal, insurance, being, requirements, resource, technical, acknowledgment, attachment
+
+=== CHUNK CONTENT ===
+in the Technical Proposal. Exceptions to terms and conditions may result in having the
+proposal deemed unacceptable or classified as not reasonably susceptible of being selected
+for award.
+b. Addenda Acknowledgment: Offeror shall acknowledge receipt of any addenda on the
+Procurement Portal. Failure to acknowledge addenda may result in your proposal being
+found not reasonably susceptible of being selected for award.
+c. Insurance Acknowledgment: Offeror shall acknowledge they have reviewed the insurance
+requirements, as written in Section II of this RFP, on the Procurement Portal. Offerors are
+reminded that only the Successful Offeror is required to meet the insurance requirements,
+and the Successful Offeror is not required to provide a Certificate of Insurance (COI)
+meeting the written insurance requirements until receiving notification from the AOC that
+they are the Apparent Awardee. If the Offeror requires additional insurance coverage to meet
+the written insurance requirements in this RFP, the Offeror shall ensure that such potential
+additional insurance expenses are reflected and included in their Financial Proposal. Failure
+to acknowledge insurance requirements may result in your proposal being found not
+reasonably susceptible of being selected for award.
+d. Attachment O – Resource Acknowledgment: Offerors shall submit an Attachment O –
+Resource Acknowledgment for each proposed resource. Failure to submit a completed
+Attachment O – Resource Acknowledgment, completed by the proposed resource(s), may
+result in your proposal being found not reasonably susceptible of being selected for award.
+3. Technical Proposal Contents
+a. Transmittal Letter: Prepared on the Offeror’s business stationary and signed by an individual
+who is authorized to bind the Offeror to the requirements as stated in this RFP, including all
+addenda.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 20
+b. Claim of Confidentiality: Any information which is claimed to be confidential and/or
+proprietary shall be identified by section, subsection (if applicable), and page number. An
+explanation for each claim of confidentiality shall be included. The entire Technical Proposal
+cannot be given a blanket confidentiality designation.
+c. Executive Summary: The Offeror shall condense and highlight the contents of the Technical
+Proposal in an executive summary. In accordance with Section II of this RFP, and only as
+applicable, the executive summary shall indicate whether the Offeror is the subsidiary of
+another entity, and if so, whether all information submitted by the Offeror pertains
+exclusively to the Offeror. If not, the subsidiary Offeror shall include a guarantee of
+performance from its parent organization as part of its executive summary.
+d. Attachment L – Bidder/Offeror Profile: Offeror shall complete Attachment L –
+Bidder/Offeror Profile included on the Procurement Portal and enclose with the Technical
+Proposal.
+e. Offeror Resource(s) Skills, Experience, Capabilities & Qualifications: Offeror shall identify

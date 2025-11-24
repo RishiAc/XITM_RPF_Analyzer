@@ -1,0 +1,742 @@
+[
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0001",
+      "source_file": "rfp_template.pdf",
+      "section_title": "General",
+      "section_number": null,
+      "phase": "P1",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": "Award Basis",
+      "far_references": [
+        "FAR 23.205"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "section",
+        "should",
+        "contract",
+        "agency",
+        "part",
+        "staff",
+        "award",
+        "clauses",
+        "appropriate",
+        "contracting"
+      ],
+      "word_count": 472,
+      "character_count": 3124,
+      "line_count": 47
+    },
+    "content": "RFP Template\n[Throughout this template, fill-in-the-blank areas are indicated with the symbols <> and notes are indicated\nby [ ]. Footnotes provide additional background information.\nDisclaimer: This template is intended to be used as a resource. Agency staff should adhere to their agency\u2019s\npolicies and requirements, and should use their agency\u2019s templates and forms, as appropriate. The RFP\nshould be carefully reviewed by agency counsel, agency contracting staff and other appropriate agency staff.\nThis is not a complete RFP. It does not include Sections C, E, and M, which are a required part of a complete\nRFP. Sections C and E are covered in the \u201cProcurement Specifications Templates for Onsite Solar\nPhotovoltaic: For Use in Developing Federal Solicitations\u201d (see\nhttps://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-solar-photovoltaic-use-\ndeveloping). Section M will be added to a future version of this document.\nThis RFP assumes that FAR Part 12 Commercial Items is utilized. Agency contracting and legal staff should\ndetermine if this is appropriate. The clauses, especially the Davis Bacon Act and The Service Contract Act\nclauses, should be carefully reviewed to ensure that there is no conflict between FAR Parts . The RFP should\nbe modified accordingly if an agency decides not to use FAR Part 12.\nTo solicit and award an ESPC without a multiple award contract, a contracting officer should refer to the\nprocedures, selection method, and terms and conditions provided in 42 USC \u00a7 8287 and FAR 23.205(c) Solicit\nand Award.\nA Notice of Intent to Award (NOITA) step could be added before contract award. This would allow the\ngovernment to ensure that the energy service company (ESCO, also referred to as the Contractor in this RFP)\nhas everything in order for a successful project; including project financing, evidence of bonds/insurance, a\nsigned interconnection agreement and/or other criteria.\nThere may be some provisions in the RFP that should be moved to the site access agreement.\nContracting/legal staff should coordinate with real property staff to determine the appropriate document for\nthe relevant clauses. Clause duplication should be avoided to prevent language conflicts that may occur due to\ndocument edits]\nPage 1 of 38\nTable of Contents\nSF 1449, Solicitation/Contract/Order for Commercial Items\nPart I \u2013 The Schedule\nSection A \u2013 Solicitation/contract form\nSection B \u2013 Supplies or services and prices/costs\nSection C \u2013 Description/specifications/statement of work*\nSection D \u2013 Packaging and marking\nSection E \u2013 Inspection and acceptance*\nSection F \u2013 Deliveries or performance\nSection G \u2013 Contract administration data\nSection H \u2013 Special contract requirements\nPart II \u2013 Contract Clauses\nSection I \u2013 Contract Clauses\nPart III \u2013 List of Documents, Exhibits, and Other Amendments\nSection J \u2013 List of attachments\nPart IV \u2013 Representations and Instructions\nSection K \u2013 Representations, certifications, and other statements of offerors or\nrespondents\nSection L \u2013 Instructions, conditions, and notices to offerors or respondents\nSection M - Evaluation factors for award*"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0002",
+      "source_file": "rfp_template.pdf",
+      "section_title": "*These sections are included in \u201cProcurement Specifications Templates for Onsite Solar Photovoltaic: For",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [
+        "SMALL_BUSINESS"
+      ],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 17.1",
+        "FAR 41.102"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "energy",
+        "espc",
+        "part",
+        "contract",
+        "list",
+        "solar",
+        "section",
+        "agency",
+        "savings",
+        "system"
+      ],
+      "word_count": 557,
+      "character_count": 3741,
+      "line_count": 44
+    },
+    "content": "*These sections are included in \u201cProcurement Specifications Templates for Onsite Solar Photovoltaic: For\nUse in Developing Federal Solicitations\u201d, see https://energy.gov/eere/femp/downloads/procurement-\nspecifications-templates-site-solar-photovoltaic-use-developing. Section M will be added to a future version of\nthis document.\nPage 2 of 38\nPART I \u2013 THE SCHEDULE\nSOLICITATION/CONTRACT FORM\n[The following optional Executive Summary covers key components of the ESPC ESA contract that can be\nincluded in Section A and/or in other RFP section(s).]\nExecutive Summary\nThe intent of this acquisition, for <agency, site name, city, state>, is to enter into a firm-fixed-price\n<with/without> an annual escalation factor Energy Savings Performance Contract Energy Sales Agreement\n(ESPC ESA) with a single energy service company (ESCO, also referred to as the Contractor throughout the\nRFP) for the purchase of electricity generated from the following PV energy conservation measures (ECMs),\nfor the purpose of achieving energy savings:\n[When sizing the PV system(s), consider whether it would be beneficial to avoid net metering. Carefully review\nthe applicable net metering regulation; including how net excess generation is treated and whether the use of\nnet metering will result in utility ownership of the solar renewable energy certificate (SRECs).]\n<List PV System location, type (rooftop, carport, ground-mount) and estimated size.>\nThe Contractor will be responsible for PV System development at its own expense, without any up-front\ncapital cost to the <agency>. The <agency> will contract to purchase all electricity generated from the PV\nSystem during the ESPC ESA contract term, in accordance with the terms and conditions set forth herein. Net\nmetering <is/is not> anticipated. Section H.5 contains details regarding disposition of the solar renewable\nenergy certificates (SRECs).\nThis solicitation is issued on a <restricted with small business set-aside or other>; under FAR Parts <list the\napplicable Parts such as FAR Part 12 Commercial Items, FAR Part 15 Contracting by Negotiation, FAR Part\n17 Special Contracting Methods,1 and FAR Part 41 Acquisition of Utility Services2 and/or other FAR Parts.>\nThe North American Industry Classification System (NAICS) code for this procurement is 221114, Solar\nElectric Power Generation.\nThe ESPC ESA must meet all ESPC statutory and regulatory requirements (See 42 U.S.C. \u00a7 8287 et seq. and\n10 C.F.R. \u00a7 436.30 et seq.), including the requirement that the agency pay for the cost of the ESPC ESA from\n1 42 U.S.C. \u00a78287, (a)(2)(D)(iii) states that ESPC contracts are \u201cgoverned by FAR 17.1 of the Federal Acquisition\nRegulation promulgated under section 421 of title 41 or the applicable rules promulgated under this subchapter.\u201d\n2 FAR 41.102(b)(7) states that \u201cagencies may utilize Part 41 for any energy savings or purchased utility service\ndirectly resulting from implementation of a third party financed shared-savings project under 42 U.S.C. \u00a78287 for\nperiods not to exceed 25 years.\u201d\nPage 3 of 38\nenergy savings generated each year over the life of the contract. The current rate at <site name> is <$/kWh>\nand the rate is forecasted to increase at <x%> per year.\nThe ESCO must be on the U.S. Department of Energy\u2019s (DOE) Qualified List of Energy Service Companies\n(DOE Qualified List, available at http://energy.gov/eere/femp/doe-qualified-energy-service-companies) by the\ntime of award. To ensure sufficient time for DOE Qualified List approval, it is recommended that Offerors\napply to the DOE Qualified List prior to proposal submission. [The agency should determine if a more\nstringent requirement is desired (for example, application submitted or approved by the time a proposal is"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0003",
+      "source_file": "rfp_template.pdf",
+      "section_title": "submitted). An agency ESCO qualified list consistent with 42 U.S.C. \u00a7 8287(b)(2)(A)-(B) requirements can be",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [
+        "September"
+      ],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [],
+      "dfars_references": [],
+      "keywords": [
+        "esco",
+        "contract",
+        "espc",
+        "energy",
+        "agency",
+        "federal",
+        "requirements",
+        "must",
+        "under",
+        "renewable"
+      ],
+      "word_count": 507,
+      "character_count": 3143,
+      "line_count": 38
+    },
+    "content": "submitted). An agency ESCO qualified list consistent with 42 U.S.C. \u00a7 8287(b)(2)(A)-(B) requirements can be\nreferenced instead of the DOE Qualified List.].\nIn order for the ESPC ESA contract to be scored annually, it must be consistent with the requirements under\nthe OMB \u201cAddendum to OMB Memorandum M-98-13 on Federal Use of Energy Savings Performance\nContracts (ESPCs) and Utility Energy Service Contracts (UESCs)\u201d (M-12-21, dated September 28, 2012),\nincluding the requirement that the federal government retain title to the onsite renewable energy generation\nsystem at the conclusion of the contract.\nThe ESCO may be eligible for tax incentives such as the federal Investment Tax Credit (ITC) and the Modified\nAccelerated Cost Recovery System (MACRS). Internal Revenue Service (IRS) Revenue Procedure 2017-19\n(see https://www.irs.gov/pub/irs-irbs/irb17-07.pdf) provides a safe harbor (related to ITC eligibility) under\nwhich the IRS will not challenge the treatment of an ESPC ESA as a service contract under 26 U.S.C. \u00a7\n7701(e)(3). Section 4 specifies the following requirements that must be met to qualify for this safe harbor:\n\u201c(1) Term. The total term of the ESPC ESA cannot exceed 20 years in length. The term must be\nconsistent with and appropriate for the scope and scale of the renewable project.\n(2) Other Federal guidance. The ESPC ESA must satisfy the requirements of 42 U.S.C \u00a7 8287 and\nOMB Memorandum M-12-21.\n(3) Operation of Alternative Energy Facility. Under no circumstances will the FA3 attempt to operate\nthe renewable energy generation asset. In the event of a shut-down or mechanical issue, FA will\nimmediately notify the ESCO or its designated contractor.\n(4) Risk. The ESCO bears all financial risk for non-performance, except to the extent such non-\nperformance is attributable to a temporary shut-down of the facility for repairs, maintenance, or\ncapital improvements.\n(5) Reduced Costs. The contract price for electricity will not be reduced if operating costs should\ndiminish.\n(6) Equipment Purchase. The FA may have the option to purchase, or may be required to purchase,\nthe renewable energy generation asset at the end of the contract term, for its fair market value (FMV)\nat the time of the purchase.\u201d\n3 FA=Federal Agency\nPage 4 of 38\nTax incentive eligibility due diligence is the responsibility of the ESCO, not the government. The ESPC ESA\nprice will not be modified if the IRS determines that the ESCO is not eligible for the tax incentives and the\nESCO has no other recourse against the <agency>.\nThe ESCO will transfer a portion of the payments it receives from <agency> each year into a reserve account\nheld by the ESCO.4 The <agency> satisfies the obligation to take title to the PV System by the end of the\ncontract through its annual payments over the course of the contract (and through any adjustments to the\npayments resulting from the ESCO's periodic reappraisals of the PV System FMV to ensure that the ESCO\u2019s\nreserve account has sufficient funds by the point at which title is transferred).\nSee Sections B.1 and H.3 for reserve account and FMV determination details. The total ESPC ESA price,"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0004",
+      "source_file": "rfp_template.pdf",
+      "section_title": "including the reserve account payment, will be used to determine compliance with the ESPC statutory savings",
+      "section_number": null,
+      "phase": "P1",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 52.241-5",
+        "52.241-5"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "energy",
+        "means",
+        "contractor",
+        "contract",
+        "agency",
+        "renewable",
+        "esco",
+        "including",
+        "site",
+        "words"
+      ],
+      "word_count": 946,
+      "character_count": 6371,
+      "line_count": 74
+    },
+    "content": "including the reserve account payment, will be used to determine compliance with the ESPC statutory savings\nrequirement.\n<Agency> agrees to allow the Contractor access to the PV systems on its <roofs, parking lots and/or land> in\naccordance with <site access terms and conditions in Section H.11 of the RFP, using FAR 52.241-5, or site\naccess agreement (license/easement/lease) attached as Exhibit 5.> [Add if there is a separate site access\nagreement.] <The site access agreement will be fully incorporated into the Contract and is aligned with the\nterms and conditions of the Contract.>\n4 The ESPC ESA financing mechanism allows an ESCO to use a reserve account (i.e., a private account\nindependently held by the ESCO, not an escrow account by both parties to the contract) in which a portion of an\nagency's annual payments from energy savings are set aside for title transfer of the onsite energy generation asset by\nthe conclusion of the contract. This is an accounting measure for the ESCO. The funds in the account belong to the\nESCO, not to the Federal Government.\nPage 5 of 38\nA.1 Definitions\n[NOTE: This template includes definitions that are specific to energy projects and ESPC ESAs in particular;\nthis list is not exhaustive, add other definitions as necessary.]\nIn addition to other terms specifically defined elsewhere in this solicitation, the following words and phrases\nshall be defined as follows:\n\u201cContract\u201d means the mutual binding legal relationship, resulting from this solicitation, including Sections\nA-K of the Request for Proposal, any Amendments, the Schedules and Exhibits attached hereto and the\nContractor\u2019s price proposal in response to the solicitation.\n\u201cContractor\u201d means the individual or entity that is awarded the Contract resulting from the\nsolicitation. The terms \u201cESCO\u201d and \u201cContractor\u201d are used interchangeably.\n\u201cConstruction Phase\u201d means the period commencing upon receipt by the Contractor of a Notice to Proceed\nfrom the Government and ending at PV project acceptance by <agency>.\n\u201cEnergy Conservation Measure (ECM)\u201d means a measure that is applied to an existing federal building or\nfacility that improves energy efficiency, is life cycle cost effective under 10 CFR Part 436, Subpart A, and\ninvolves energy conservation, cogeneration facilities, renewable energy sources, improvements in\noperation and maintenance efficiencies, or retrofit activities, which result in energy, water, or related cost\nsavings. For purposes of this definition, \u201cimproves energy efficiency\u201d is not limited to a more efficient\nconversion of energy; rather when renewable energy is substituted for conventional energy fuels, resulting\nin the Government\u2019s reduced usage of conventional energy sources; such a substitution constitutes\n\u201cimproved energy efficiency.\u201d\n\u201cElectric Distribution Company (EDC)\u201d means the company providing electric distribution\nservices to the <agency>.\n\u201cEnergy Sales Phase\u201d means the period beginning after final PV project acceptance by <agency>.\n\u201cEnergy Savings Performance Contract Energy Sales Agreement (ESPC ESA)\u201d means the contractual\narrangement entered into pursuant to the authority under 42 U.S.C. \u00a78287, et seq., in which the selected\nContractor installs, maintains, and operates PV Systems on-site at <agency site name> until the end of the\ncontract term, and in which the <agency name> purchases the PV System\u2019s electric output from the\nselected Contractor for the life of the contract.\n\u201cEnergy Service Company (ESCO)\u201d refers to the selected Contractor. The terms \u201cESCO\u201d and\n\u201cContractor\u201d are used interchangeably.\n\u201cFair Market Value\u201d means, with respect to any tangible asset or service, the price that would be\nnegotiated in an arm\u2019s length, free market transaction, for cash, between an informed, willing seller and an\ninformed, willing buyer. Fair Market Value of the PV system will be determined pursuant to Section H.3.\n\u201cMW\u201d means megawatt. A megawatt is a unit for measuring power that is equivalent to one million\nwatts (equivalent to one joule per second).\nPage 6 of 38\n\u201cParty\u201d or \u201cParties\u201d means either Contractor or the Government or the Contractor and the Government,\nrespectively.\n\u201cPremises\u201d means the real property assets listed in <Section # and/or Exhibit #>.\n\u201cPV System\u201d means the integrated assembly of PV components, including but not limited to PV modules,\nmounting assemblies, ballast weights, inverters, metering, transformers, disconnects, combiners,\nswitches, wiring devices, conduit, wiring and any other equipment or appurtenance necessary to be\ninstalled at the Premises to make the PV system complete and operational, owned by the Contractor, and\ninterconnected with EDC, to provide electricity to the identified buildings. [This definition could be\nexpanded to include required electrical upgrades and/or other infrastructure such as fences if deemed\nbeneficial.]\n\u201cPV System Acceptance\u201d means the official letter from <agency> to the Contractor stating that an\nindividual PV System has been accepted and is ready for operation.\n\u201cRenewable Energy Certificates (RECs)\u201d represent all of the environmental and other attributes of energy\ngenerated from renewable sources that are sold separately from the underlying electricity. They are also\nreferred to as renewable energy credits, green certificates, green tags, or tradable renewable certificates.\nThe RECs must include all of the greenhouse gas and other emissions/attributes associated with the\nrenewable resource, including those emissions associated with the displacement of conventional energy\ngeneration (as legally applicable), with no emissions or attributes being disaggregated and sold separately.\n\u201cSolar RECs (SRECs)\u201d means solar renewable energy certificates.\nInterpretation. The captions or headings are strictly for convenience and shall not be considered in interpreting\nthis Contract. Words that import the singular connotation shall be interpreted as plural, and words that import\nthe plural connotation shall be interpreted as singular, as the identity of the parties or objects referred to may\nrequire. The words \u201cinclude\u201d, \u201cincludes\u201d, and \u201cincluding\u201d mean include, includes, and including \u201cwithout\nlimitation\u201d and \u201cwithout limitation by specification.\u201d The words \u201chereof\u201d, \u201cherein\u201d, and \u201chereunder\u201d and\nwords of similar import refer to this document as a whole and not to any particular provision of this document."
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0005",
+      "source_file": "rfp_template.pdf",
+      "section_title": "Except as the context otherwise indicates, all references to \u201cExhibits\u201d, \u201cAttachments\u201d and \u201cSections\u201d refer to",
+      "section_number": null,
+      "phase": "P1",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [],
+      "dfars_references": [],
+      "keywords": [
+        "contract",
+        "price",
+        "system",
+        "espc",
+        "electricity",
+        "term",
+        "esco",
+        "except",
+        "section",
+        "costs"
+      ],
+      "word_count": 489,
+      "character_count": 3171,
+      "line_count": 37
+    },
+    "content": "Except as the context otherwise indicates, all references to \u201cExhibits\u201d, \u201cAttachments\u201d and \u201cSections\u201d refer to\nExhibits, Attachments and Sections of this document.\nA.2 Pre-Proposal Conference and Site Visit\nSee Section L.1 for information regarding the <date> pre-proposal conference and site visit.\nPage 7 of 38\nSUPPLIES OR SERVICES AND PRICES/COSTS\nB.1 Contract Line Item Number (CLIN) Description\n[Enter desired contract term in the first sentence (see Section F.1 note). See Section H.3 for more details\nregarding the ESCO\u2019s reserve account, the FMV determination, and title transfer of the PV System. Consult\nwith FEMP for assistance and updated information.]\nThe <agency> contemplates award of a firm-fixed-price contract for a term of <x> years. The <agency> will\nonly pay for kilowatt-hours of electricity delivered \u2013 all costs associated with this contract shall be reimbursed\nthrough the $/kWh price.\nPer the ESPC statute, ESPC ESA payments must come from energy savings generated each year over the life\nof the contract; annual payments may not exceed the amount that the <agency> would have paid for utilities in\nthe absence of this ESPC ESA. The price for the electricity purchased from the PV System for the life of the\ncontract, < Select one of the following: with no escalation rate, escalated annually at a rate of x% or escalated\nat a rate to be proposed by the Offeror>, must be less than the current and forecasted electricity price,\nincluding transmission, distribution and all other electricity charges.\nThe government has estimated the PV System FMV at the end of the contract term to be $<x> based on <20%\nof estimated PV System cost or other methodology>. Using this FMV estimate and PV System production\nestimates shown in Exhibit 4, the government payment to the ESCO\u2019s reserve account will initially be set to\n<x>$/kWh. This amount will be added to the Offeror\u2019s proposed ESPC ESA price to determine the total ESPC\nESA price, and for determining whether the ESPC statutory savings requirement is met.\nThe Contractor will furnish all planning, management, supervision, labor materials; structural, electrical and\nother engineering services; equipment, materials, tools, (except as otherwise provided) necessary to design,\nfinance, construct and own the PV System in accordance with the requirements herein. The Contractor is\nresponsible for all operation & maintenance, as well as equipment repair & replacement throughout the term of\nthe contract.\nThe Contractor is also responsible for monetization of available incentives,5 <add SREC sales if applicable>,\nthe cost of meeting all utility interconnection requirements and <add permitting and other applicable\nrequirements such as National Historic Preservation Act and glare analysis>.\nThe ESCO bears all financial risk for non-performance, except to the extent such non-performance is\nattributable to a temporary shut-down of the facility for repairs, maintenance, or capital improvements. The\ncontract price for electricity will not be reduced if ESCO operating costs should diminish.\nAll proposed prices must be in the unit indicated, submitted using the Exhibit 2 form.\nB.2 Required CLIN:"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0006",
+      "source_file": "rfp_template.pdf",
+      "section_title": "0001 Firm Fixed Price ($/kWh) [add annual escalation rate if applicable]",
+      "section_number": "0001",
+      "phase": "P4",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [],
+      "dfars_references": [],
+      "keywords": [
+        "price",
+        "shall",
+        "system",
+        "required",
+        "contract",
+        "storage",
+        "rate",
+        "page",
+        "espc",
+        "section"
+      ],
+      "word_count": 479,
+      "character_count": 3139,
+      "line_count": 45
+    },
+    "content": "0001 Firm Fixed Price ($/kWh) [add annual escalation rate if applicable]\n5 Tax incentive eligibility due diligence is the responsibility of the ESCO.\nPage 8 of 38\nEnter the proposed ESPC ESA price for electricity from the specified PV System, including the <x>$/kWh\n(specified in Section B.1) that will be allocated to the ESCO\u2019s reserve account for the PV System title transfer\nat FMV. SRECs under this CLIN <Select one of the following: \u201care required and should be transferred to the\ngovernment per Section H.5 instructions\u201d or \u201care not required and should be sold by the ESCO to reduce the\nESPC ESA price\u201d>. Details regarding SREC disposition are contained in Section H.5.\n<Select one of the following: \u201cThe rate shall be fixed throughout the contract.\u201d or \u201cAn escalation rate of\n<x>% shall be applied annually to the electricity price.\u201d or \u201cOfferor shall propose the annual escalation\nrate.\u201d >\nFree On Board (FOB): Destination\nB.2 Optional CLIN:\n[This option is for roof-top PV systems, if roof repair and/or replacement may be required during the contract\nterm.]\n0002 First Year Price ($)\nTo permit roof repair and/or replacement, an option to relocate the PV System may be exercised at any\ntime during the contract, and may be exercised more than once. The option price shall include PV System\nremoval, storage, reinstallation and three (3) months of lost revenues. The Government may specify partial\nremoval, storage and installation of the PV System. In such situations; the actual price will be prorated\nbased on the proposed first year price and the percentage of the PV System that is removed, stored and\nreinstalled; but shall not be less than <$x> per incident. The specified price shall apply for the first year of\nthe contract, with the price adjusted in future years based on the consumer price index.\nFOB: Destination\nB.3 Cancellation Ceiling Schedule\n[A cancellation ceiling schedule is an ESPC requirement since it is used to determine if Congressional\nnotification is required, and should therefore be a required submittal in the RFP.]\nThe proposal shall include a cancellation ceiling schedule (see Exhibit 3).\nPage 9 of 38\nDESCRIPTION/SPECIFICATIONS/STATEMENT OF WORK\n[See \u201cProcurement Specifications Templates for Onsite Solar Photovoltaic: For Use in Developing Federal\nSolicitations\u201d, available at https://energy.gov/eere/femp/downloads/procurement-specifications-templates-\nsite-solar-photovoltaic-use-developing.\nSection C should include guaranteed savings and annual M&V requirements.]\nPage 10 of 38\nPACKAGING AND MARKING\nD.1 Payment of Postage and Fees\nAll postage and fees related to submitting information including forms, reports, etc., to the Contracting Officer\n(CO) or the Contracting Officer's Representative (COR) shall be paid by the Contractor.\nD.2 Packing, Packaging, Marking and Storage of Equipment\nAll packing, packaging, marking and storage expenses which are incidental to Contractor\u2019s shipping of the\nmaterials under this Contract shall be within the ESPC ESA firm-fixed-price. All packaging must be new and\nsuitable for shipment and short term storage.\nPage 11 of 38\nINSPECTION AND ACCEPTANCE"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0007",
+      "source_file": "rfp_template.pdf",
+      "section_title": "[See \u201cProcurement Specifications Templates for Onsite Solar Photovoltaic: For Use in Developing Federal",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [],
+      "dfars_references": [],
+      "keywords": [
+        "contract",
+        "design",
+        "construction",
+        "agency",
+        "system",
+        "performance",
+        "term",
+        "contractor",
+        "days",
+        "espc"
+      ],
+      "word_count": 469,
+      "character_count": 3055,
+      "line_count": 40
+    },
+    "content": "[See \u201cProcurement Specifications Templates for Onsite Solar Photovoltaic: For Use in Developing Federal\nSolicitations\u201d, available at https://energy.gov/eere/femp/downloads/procurement-specifications-templates-\nsite-solar-photovoltaic-use-developing.]\nPage 12 of 38\nDELIVERIES OR PERFORMANCE\nF.1 Term of Contract\n[The total ESPC ESA contract length must not exceed 20 years in order to meet the IRS Revenue Procedure\n2017-19 ESPC ESA safe harbor requirements6. An initial contract term of less than 20 years may be beneficial\nso that the contract can be extended if the estimated PV System FMV increases significantly during the\ncontract term. This will provide additional time for the required ESCO\u2019s reserve account funds to be\naccumulated. The alternative is to increase the government\u2019s payments that are to be allocated to the ESCO\u2019s\nreserve account. This will only be allowed if the statutory savings requirement is still met and may require a\nmore extensive contract modification.]\nThe ESPC ESA contract term will begin upon contract award and continue for <x> years, unless terminated\nearlier pursuant to the provisions of this contract.\nF.2 Place of Performance\nThe place of performance for this contract is the following:\n<List of PV System(s) location and type (rooftop, carport, ground-mount)>\nF.3 Notice to Proceed (NTP)\nBoth the design and construction phases of the contract will begin upon receiving a written NTP from\n<agency>. The Contractor may proceed with design after receiving an official design NTP letter from\n<agency>. The NTP will be provided no later than <x> days after contract award. The PV System design\nshall be submitted within <x> days of the design NTP letter date. The <agency> will review the design and\nprovide feedback within <x> days.\nConstruction NTP will be granted when the following conditions have been met: all final design approvals are\nreceived; the final stamped designs are received; all other construction documents including a construction\nplan and schedule (see Section 0) have been reviewed and approved by <agency>; and proof of insurance and\nbonds has been received. Limited construction NTP, in advance of the official construction NTP, may be\ngranted upon request for purposes of ordering equipment with long lead-time. Limited construction NTP will\nonly be granted by <agency> after review of the equipment specs to ensure that they meet all contract\nrequirements.\nF.4 Contract Performance Deliverables\nConstruction and acceptance of the PV System shall be completed by <date>. The Contractor will not be held\nresponsible for <agency> or other Government delays. In case of delays that are not the fault of the\nContractor, a new completion date shall be proposed by the Contractor, for approval by the <agency>.\n6 As stated in Section A, tax incentive eligibility due diligence is the responsibility of the ESCO, not the\ngovernment.\nPage 13 of 38\nF.4.1 PV System Design <and Structural Analysis>\nPV system designs are due <x> days after design NTP. [Add other details regarding design deliverable"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0008",
+      "source_file": "rfp_template.pdf",
+      "section_title": "requirements. For example, add due dates for draft designs if desired in addition to 100% design documents.]",
+      "section_number": null,
+      "phase": "P1",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [],
+      "dfars_references": [],
+      "keywords": [
+        "contract",
+        "shall",
+        "plan",
+        "requirements",
+        "contractor",
+        "construction",
+        "agency",
+        "system",
+        "training",
+        "address"
+      ],
+      "word_count": 607,
+      "character_count": 4025,
+      "line_count": 71
+    },
+    "content": "requirements. For example, add due dates for draft designs if desired in addition to 100% design documents.]\n[For rooftop PV systems only.]\nThe roof structural analysis shall be completed by <x> days after design NTP.\nF.4.2 Construction Plan and Schedule\nThe Contractor shall submit a construction plan for <agency> approval within <x> days after construction\nNTP. The construction plan shall include key milestones and should document that the PV System commercial\noperation date will meet <list incentive and/or other applicable deadlines> deadlines. The schedule shall\nminimize disruption of day-to-day activities, utilities, and services. An updated plan shall be provided every\n<x> weeks.\nF.4.3 Meeting Requirements\nMeetings and/or telecons shall occur between <agency> and Contractor <weekly/bi-weekly/monthly/other\nfrequency>.\n[Add other requirements to ensure that there is close coordination throughout the design and construction\nprocess.]\nF.4.4 Training Requirements\n[Enter all training requirements, such as emergency PV System shut-off and firefighting.]\nF.4.5 Other Deliverables and Submittals\n[Below is an example list that should be modified based on PV System type and RFP requirements]\n1. Contractor emergency points of contact\n2. Safety Plan, including Accident Prevention Plan\n3. Proof of insurance and bonding\n4. Copy of completed HSPD-12 application and approval\n5. Traffic Control Plan\n6. Construction and crane permits\n7. Crane and operator credentials\n8. Safety data sheets for proposed PV systems\n9. Waste disposal manifests\n10. Agency and firefighter personnel training plan\n11. Evidence of completed training (agenda, sign-up sheet, evaluation by participants)\n12. System Acceptance Testing report and Completion Notice\n13. Executed Interconnection Agreement\nPage 14 of 38\n14. O&M Manual including: complete \u201cas-built\u201d drawings showing the final details of the PV System(s) as\ninstalled, sequence of operation, start-stop and emergency shut-down procedures, preventative\nmaintenance procedures, troubleshooting guide, list of spare parts and sources for each main component.\n15. Monthly invoice\n16. Maintenance records upon request by the Government\n17. Calibration reports upon the calibration of any meters\n18. Annual M&V reports\n19. Annual ESCO reserve account statement\nPage 15 of 38\nCONTRACT ADMINISTRATION DATA\nG.1 Authorized Contract Changes\nThe CO is the only person authorized to approve changes in any of the requirements of this Contract. No order\nor statement of <agency> personnel during the performance of this Contract shall constitute a change under\nthis Contract. The Contractor shall not comply with any order, direction or request of <agency> personnel\nunless it is issued in writing and signed by the CO, or is pursuant to specific authority otherwise included as a\npart of this Contract. Modifications to the Contract will be issued on Standard Form 30.\nIn the event the Contractor effects any change at the direction of any person other than the CO, the change will\nbe considered to have been made without authority and no adjustment will be made in the contract price to\ncover any incurred costs as a result thereof.\nThe <agency> will not be obligated to reimburse the Contractor for work performed, items delivered or any\ncosts incurred, nor shall the Contractor be obligated to perform, deliver, or otherwise incur costs except as\nauthorized by a duly executed Contract or modification to the Contract.\nThe address and telephone number of the CO is:\nName:\nMailing Address:\nTelephone Number:\nEmail:\nG.2 Contracting Officer\u2019s Representative (COR)\nA COR will be appointed by the CO to provide coordination of all general contracting issues. The COR and\nalternative COR for the Contract is [Can note that the COR will be provided at time of award]:\nCOR Name:\nMailing Address:\nTelephone Number:\nEmail:\nAlternate COR Name:\nMailing Address:\nTelephone Number:\nEmail:\nThe COR will act as the CO\u2019s on-site representative for technical matters - providing technical clarification, as"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0009",
+      "source_file": "rfp_template.pdf",
+      "section_title": "necessary, with respect to the contract requirements, and will monitor the progress and quality of the",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 52.212-4",
+        "52.212-4"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "contractor",
+        "shall",
+        "invoice",
+        "contract",
+        "submitted",
+        "agency",
+        "correspondence",
+        "include",
+        "number",
+        "monthly"
+      ],
+      "word_count": 529,
+      "character_count": 3387,
+      "line_count": 47
+    },
+    "content": "necessary, with respect to the contract requirements, and will monitor the progress and quality of the\nContractor\u2019s performance. The COR is not an Administrative Contracting Officer and does not have authority\nto modify the Contract.\nWhen, in the opinion of the Contractor, the COR requests a change to any of the requirements of the Contract,\nthe Contractor shall promptly notify the CO in writing. No action shall be taken by the Contractor under such\ndirection until the CO has issued a modification to the Contract, or until the issue has been otherwise resolved.\nPage 16 of 38\nIn the event that the COR named above is absent due to leave, illness, or official business, all responsibilities\nand functions assigned to the COR will be the responsibility of the Alternate COR.\nG.3 Correspondence\nCorrespondence, notices and documents related to this contract shall be submitted via e-mail by the Contractor\nto both the CO and the COR. The Contractor shall provide the CO and COR with contact information (names,\ntitles, telephone numbers, email addresses, fax numbers and mailing address) for the primary and alternative\npoint of contact of those persons who have the authority to represent the Contractor and who are authorized to\nreceive official notices and correspondence from <agency>.\nAll correspondence and data submitted by the Contractor shall include the contract number. The Contractor\nshall sequentially number each question submitted, and keep a record of each question submitted. The\nContractor shall describe the nature of the question, the Contract section or other pertinent document, and if\napplicable provide a recommended solution for the <agency\u2019s> consideration.\nG.4 Payment and Billing Procedures\nThe Contractor shall provide a monthly invoice that includes delivered electrical energy in kWh and the\namount due. The Contractor\u2019s invoice will be prepared in the format proposed by the Contractor and accepted\nby the Contracting Officer and shall include the following information:\nAccount number (if any)\nEntity name for checks\nAddress for mail payment\nInvoice date\nThe beginning and end dates of the period covered\nMeter number\nElectricity consumption\nUnit price (electricity, in $/kWh)\nUnit price (ESCO\u2019s reserve account, in $/kWh)\nTotal due (electricity + ESCO\u2019s reserve account, in $)\nESCO\u2019s reserve account balance\nPoint of contact (name, address, phone and email)\nInvoices shall be submitted each month. All costs associated with billing shall be included in the offered rates.\n<Agency> will not pay any additional charges for billing services or other costs. The Contractor may only\ninvoice for charges allowed under the terms and conditions of the Contract (i.e. the fixed rates for electricity\ndelivered and any termination liability payments), as well as the requirements set forth in paragraph (g),\nInvoice, of FAR 52.212-4.\nThe Contractor shall invoice the <agency> no later than the <x> day of each month (a \u201cMonthly Invoice\nDate\u201d), commencing on the first Monthly Invoice Date to occur after the PV System acceptance. The first\ninvoice shall include any production that occurred prior to the initial Monthly Invoice Date. The last invoice\nshall be prorated, as necessary, to include annual production only through the end of this Contract.\nG.5 Contractor Performance Assessment Reporting\n[The agency can consider a CPARS requirement.]\nPage 17 of 38"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0010",
+      "source_file": "rfp_template.pdf",
+      "section_title": "SPECIAL CONTRACT REQUIREMENTS",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 42"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "agency",
+        "system",
+        "esco",
+        "contract",
+        "agreement",
+        "title",
+        "premises",
+        "requirements",
+        "section",
+        "novation"
+      ],
+      "word_count": 513,
+      "character_count": 3103,
+      "line_count": 38
+    },
+    "content": "SPECIAL CONTRACT REQUIREMENTS\n[Reference the DOE IDIQ contract Section H for other potentially relevant clauses.]\nH.1 Special Purpose Entities and Novation\n[Agency may specify that the Contractor must select financing through a competitive selection process\ninvolving a minimum of three reputable finance companies.]\nThe <agency> recognizes that securing financing may involve the establishment of a limited liability\ncompany (LLC) or other type of special purpose entity (SPE). Creation of an SPE under an ESPC ESA\nrequires the execution of a novation agreement by the agency CO and prime contractor to recognize a\nsuccessor in interest to the agency contract when contractor assets are transferred.\nThe ESPC statutory authority provides that an agency may enter into an ESPC with an ESCO that is on a\nqualified list established pursuant to the requirements under 42 U.S.C. \u00a7 8287(b)(2)(A). The initial award of\nan ESPC ESA to a qualified list ESCO satisfies this requirement, even though the newly created SPE may not\nbe on an established qualified list.\nAny subsequent agreement that is executed to novate the contract to a SPE must be approved by the\nresponsible contracting officer and must be consistent with all applicable statutory and regulatory\nrequirements. Specifically, the requirement that the transferor (ESCO) guarantees performance of the contract\nby the transferee (SPE) must be met. See FAR 42.1204(h)(3). Novation agreement approval is at the\n<agency\u2019s> sole discretion pending a determination by the CO that the SPE is capable of meeting all contract\nrequirements and obtaining financing.\nThe planned use of an LLC or other type of SPE should be identified in the proposal as part of the Preliminary\nProject Finance Plan (see Section H.16).\n[If this agreement is novated, a novation may also be required for the site access agreement.]\nH.2 Title to the PV System\nUntil such time as the <agency> accepts title to the PV System, the ESCO shall be the legal and beneficial\nowner of the PV System. During this time, the system shall be the personal property of the ESCO as defined\nunder Article 9 of the Uniform Commercial Code and shall not be deemed as part of, or fixture to, the\nPremises. The <agency> covenants that it will use reasonable commercial efforts to place all parties having an\ninterest in the ESCO\u2019s property located on the Premises on notice of the ownership of the PV System and the\nlegal status or classification of the PV System as personal property. The <agency> is the owner of the\nPremises and consents to the filing of a disclaimer of the PV System as a fixture of the Premises in the office\nwhere real estate records are customarily filed in the jurisdiction of the Premises until such time that the\n<agency> accepts title to the PV System.\nAs specified in Section H.3, <agency> shall accept title to the PV System from the ESCO by the end of the\ncontract term.\nH.3 ESCO\u2019s Reserve Account, FMV Determination and Title Transfer of the PV\nSystem\nPage 18 of 38\n[This section should be carefully reviewed by legal, contracting and management. Add details regarding"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0011",
+      "source_file": "rfp_template.pdf",
+      "section_title": "requirements associated with the ESCO\u2019s reserve account. The ESCO could be required to obtain an FMV",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": "Award Basis",
+      "far_references": [
+        "FAR 52.249-2",
+        "52.249-2"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "esco",
+        "reserve",
+        "account",
+        "shall",
+        "appraisal",
+        "contract",
+        "agency",
+        "funds",
+        "system",
+        "specified"
+      ],
+      "word_count": 661,
+      "character_count": 4104,
+      "line_count": 46
+    },
+    "content": "requirements associated with the ESCO\u2019s reserve account. The ESCO could be required to obtain an FMV\nappraisal right after contract award so that the government\u2019s estimated FMV and the resulting reserve\naccount payment can be confirmed. Consult with FEMP for assistance and updated information.]\nTitle to the PV System shall be transferred to <Agency> for FMV, determined by the methodology specified in\nSection H.3.2, by the end of the contract and funds necessary for this purchase must be generated from a\nspecified portion of the scheduled payments that are transferred to a reserve account held by the ESCO.\nH.3.1 ESCO\u2019s Reserve Account\nEach <specify frequency \u2013 monthly, each year or other> the ESCO will transfer a specified portion of the\npayments it receives from the <agency> into a reserve account held by the ESCO. The ESCO\u2019s deposit into\nthe ESCO\u2019s reserve account shall be < x> $/kWh as specified in Section B.1.\n[Modify the following paragraph based on the desired FMV re-appraisal intervals, the selection criteria for\nthe entity that will conduct the appraisals and the associated credentials, and who will be responsible for the\nappraisal costs. Hiring one company to conduct all the appraisals may reduce costs, since subsequent\nappraisals should just involve an update to the initial appraisal.]\nAn updated FMV appraisal shall be made at the following intervals <list desired intervals such as years 5, 10\nand 15>. If needed, the contract length7 and/or <agency\u2019s> payment to be allocated to the ESCO\u2019s reserve\naccount shall be increased or decreased, through a contract modification. This will ensure that the ESCO\u2019s\nreserve account has sufficient funds to reach the FMV of the PV System before title transfer to the <agency>.\nThe <agency> may require additional FMV appraisals if the differential between the prior FMV appraisal and\nthe current FMV appraisal is greater than 25%.\nThe appraiser8 shall be selected by the ESCO, with approval by the <agency>. The FMV appraisal costs shall\nbe borne by the ESCO.\nH.3.1.1 ESCO Reserve Account Fund Uses and Management\n[This section contains optional sample language regarding the management and use of the reserve account\nfunds. The CO may include a clause requiring CO approval of all reserve account fund expenditures.]\nThe ESCO\u2019s reserve account funds are intended for the following uses only: FMV purchase, applied by the\nESCO to final ESPC payments, a contract modification (i.e. additional equipment) and/or termination liability.\nIn the case of termination, disbursement from the ESCO\u2019s reserve account fund shall be negotiated through the\ntermination settlement process, in accordance with FAR 52.249-2.\n7 The contract length can only be extended up to 20 years.\n8 Add Appraiser requirements. Possible language: \u201cA nationally recognized, independent third-party Accredited\nSenior Appraiser with a specialty in machinery and equipment appraisal techniques applied to solar photovoltaic\nproperty. <Agency> shall be a named Intended User in the appraisal assignment, and shall be granted access to the\ncomplete work file supporting the appraisal.\u201d\nPage 19 of 38\nAn annual reserve account statement, including documentation of all reserve account activity during the year,\nshall be included in the annual M&V report. All costs of administering the ESCO\u2019s reserve account shall be\nborne by the ESCO, rather than being taken out of the reserve account funds.\nAny funds in the ESCO reserve account in excess of the PV System FMV may, at the ESCO\u2019s option, be\napplied by the ESCO to offset the final ESPC payment(s). The reserve account balance shall be zero by the\nend of the contract.\nH.3.2 Determination of Final FMV\nAt least six months prior to the end of the contract the final PV System FMV appraisal shall be made. This\nvalue will be determined by an appraiser9. Such appraiser shall act reasonably and in good faith to\ndetermine the PV System FMV and shall set forth such determination in a written opinion delivered to the\nParties. The valuation made by the appraiser shall be binding upon the Parties in the absence of fraud or"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0012",
+      "source_file": "rfp_template.pdf",
+      "section_title": "manifest error. The cost of the appraisal shall be borne by the ESCO.",
+      "section_number": null,
+      "phase": "P4",
+      "due_dates": [],
+      "eligibility": [
+        "SMALL_BUSINESS"
+      ],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 17.108"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "agency",
+        "srecs",
+        "purchase",
+        "contract",
+        "shall",
+        "contractor",
+        "esco",
+        "title",
+        "system",
+        "notification"
+      ],
+      "word_count": 512,
+      "character_count": 3207,
+      "line_count": 42
+    },
+    "content": "manifest error. The cost of the appraisal shall be borne by the ESCO.\nThe final FMV amount shall be compared to the ESCO\u2019s reserve account balance. If there is a shortfall; the\n<agency> shall ensure that there will be sufficient funds by the end of the contract by one or more of the\nfollowing:\n1) Increase reserve account payment.\n2) Increase the contract length.\n3) Use agency funds, subject to availability of appropriations.\nA contract modification may be required.\nH.3.3 Title Transfer of the PV System for FMV\nBy the end of the contract, the <agency> shall accept title to the PV System from the ESCO at FMV, as\ndetermined per Section H.3.2, using the funds in the ESCO\u2019s reserve account.\nUpon title transfer, the Parties will promptly execute all documents necessary to (A) cause title to the PV\nsystem to pass to the <agency>, free and clear of any encumbrances and (B) assign all warranties for the PV\npanels and other PV System equipment to the <agency>.\nH.4 Congressional Notification\n[Modify this section based on FAR 17.108 provisions that apply to your agency and any other agency-specific\npolicies. FEMP congressional notification information is available at\nhttp://energy.gov/sites/prod/files/2014/07/f17/espc_congressional_notification.pdf]\nFAR 17.108 requires agencies to notify Congress at least 30 days prior to the award of certain proposed\nmultiyear contracts. Congressional notification will be required for this contract if the cancellation ceiling\nexceeds <$135.5 million for DoD, NASA and Coast Guard; $13.5 million for other agencies, or other\namount based on current FAR/agency policies>.\n9 Add Appraiser requirements that are the same or more stringent than the initial appraisal requirements.\nPage 20 of 38\nThe contract may then be awarded only after the end of the 30-day period beginning on the date the\nnotification is received by Congress.\nH.5 Disposition of Solar Renewable Energy Certificate (SRECs)\n[Agency should decide whether they want to purchase the project SRECs based on the applicable SREC\nmarket price. The Contractor could be required to purchase replacement RECs or the agency should plan to\npurchase replacement RECs, if needed for compliance with the current RE goal. It may be beneficial for an\nagency to purchase the SRECs in the latter years of the contract when the SREC value will likely be low or\nzero. Contact FEMP for assistance in developing appropriate RFP language.]\n[If the agency would like the Contractor to sell the SRECs and reduce the ESPC ESA price:]\nThe Government\u2019s purchase of energy from the PV Systems excludes any associated SRECs. The Contractor\nis free to sell the SRECs <and shall purchase replacement RECs on behalf of the agency or agency will\npurchase replacement RECs>. The Contractor is responsible for fulfilling all requirements necessary for the\nSREC sale. It is anticipated that SREC proceeds may allow the Contractor to proposal the <agency> a lower\nESPC ESA price.\n[If the agency would like to purchase the SRECs with the electricity:]\nThe SRECs shall be <transferred to the agency or retired on the agency\u2019s behalf in one of the REC tracking\nsystems10>.\nH.6 Small Business Subcontracting Plan and Reporting Requirement"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0013",
+      "source_file": "rfp_template.pdf",
+      "section_title": "[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 52.241-5",
+        "52.241-5"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "agency",
+        "access",
+        "contract",
+        "requirements",
+        "section",
+        "contractor",
+        "system",
+        "site",
+        "incorporate",
+        "reference"
+      ],
+      "word_count": 496,
+      "character_count": 3319,
+      "line_count": 42
+    },
+    "content": "[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH.7 Payment and Performance Bond\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH.8 Representations and Warranties\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH.9 Regulatory Considerations\nContractor represents and warrants as of contract award that:\n(a) It has taken all required actions, if any, necessary to comply with the Public Utility Holding Company Act\nof 2005, as amended and\n10 See REC Tracking System information at https://www.epa.gov/greenpower/renewable-energy-tracking-systems.\nPage 21 of 38\n(b) It is not an electric utility subject to rate regulation by the Public Utility Commission or any Governmental\nAuthority.\nH.10 General Insurance Requirements\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH.11 Site Access\n[Review these clauses if there is a separate site access agreement and determine if they belong in the RFP\nand/or the site access agreement.]\nThe <agency> authorizes the Contractor to install, own, repair, operate and maintain the PV System on\n<agency> <roof/land/parking lots> and allow its agents and employees the right to enter the <agency> real\nproperty in order to access the <roof/land/parking lots> upon which the PV System(s) are located, subject to\nthe limitations specified in this Contract <add if applicable: and in accordance with FAR 52.241-5,\nContractor\u2019s Facilities, which grants the license>. Access will be granted for any proper purpose under this\nContract, including use of the Premises agreed upon by the parties hereto for the construction, installation,\noperation, repair, replacement and maintenance of the PV System. It is expressly agreed upon, acknowledged,\nand understood that the <agency> may limit or restrict the right of access herein granted in any manner\nconsidered to be necessary for national security, or in the event that this Contract is terminated.\nSite access must be arranged <x> weeks in advance, although <agency> may permit access with less notice at\ntheir sole discretion. If power outages or other disruptive activities are planned, these will require the approval\nof the <agency> building manager at least <x> weeks in advance, and be at a time acceptable to the\n<agency> (generally outside of normal working hours). Construction and O&M of the PV System shall be\nperformed in such a way as to avoid impact to <agency> activities, or cause any damage to the <land,\nbuilding/roof, parking lot>.\nH.11.1 Access to Buildings\n[Include this section if needed for roof-top systems and/or modify for ground-mount/carport systems.]\nIt shall be the Contractor's responsibility, through the COR, to obtain access to Government buildings and to\narrange for each room/area to be opened and closed as necessary in performance of contract requirements. The\nContractor shall be responsible for safeguarding all Government property and securing facilities, equipment,\nand materials at the end of each work period.\nH.11.2 Construction Phase Access\nThe Contractor's personnel, or personnel of designated subcontractors, will be given reasonable access to the\nsite for PV System installation. See Section F.4.2 for details regarding required construction plan submittals."
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0014",
+      "source_file": "rfp_template.pdf",
+      "section_title": "H.11.3 Construction Permit and Crane Work Requirements",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [],
+      "dfars_references": [],
+      "keywords": [
+        "contractor",
+        "shall",
+        "agency",
+        "requirements",
+        "applicable",
+        "section",
+        "incorporate",
+        "crane",
+        "system",
+        "reference"
+      ],
+      "word_count": 633,
+      "character_count": 4244,
+      "line_count": 52
+    },
+    "content": "H.11.3 Construction Permit and Crane Work Requirements\n[Include if applicable]\nPage 22 of 38\nThe Contractor must comply with <city> code regulations. The Contractor shall apply and pay for all relevant\npermits, including coordinating any restriction of traffic/pedestrian flow and/or any necessary road closures, as\nwell as any potential compensation for lost parking revenues. A permit is required for cranes. The Contractor\nshall employ a Professional Structural Engineer to certify that the location of the crane complies with\napplicable national and local codes. The Contractor shall provide credentials for crane <and forklifts if\napplicable>. The <agency> does not make any warranties regarding site suitability for crane work.\nH.11.4 Contractor Staging Area\nPV, electrical and other equipment shall only be stored in space approved for Contractor use by <agency>.\nParking and laydown areas for equipment and materials shall be coordinated and controlled by the <agency>,\nand used only for the indicated period of time and for the indicated purpose. The following location(s) are\navailable for storage: <list storage area(s)>. The Contractor is responsible for safeguarding all stored\nmaterials and shall take security and weatherproofing precautions. The Contractor shall hold and save the\n<agency>, its officers and agents, free and harmless from liability for the safety of any stored materials; the\n<agency> is not responsible for theft or damage. The Contractor shall submit staging/lay-down area requests\nat least two weeks in advance.\nH.11.5 Energy Sales Phase Access\nO&M shall be conducted in accordance with the requirements of Section <C.x>. During the Energy Sales\nphase, the Contractor's personnel, or personnel of designated subcontractors, will be given reasonable access\nto the site for O&M of the PV System and any equipment repair or replacement.\nH.11.6 Security Requirements\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH.11.7 Safety Requirements\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH.11.8 Fire Prevention\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH. 11.9 Contractor Employees\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH.11.10 Contractor Work Schedule\n[Incorporate agency requirements. Sample language below for your consideration.]\nThe Contractor shall schedule work to be within the normal working hours between <specify times> Monday-\nFriday, exclusive of Federal holidays, as long as it will not cause interference with the normal conduct of\n<agency> business or with the progress of other Contractors' projects. However, work may be performed at\nPage 23 of 38\nnight when the PV System is not producing if it can be scheduled without disruption to <agency> operations\nand security. Depending on the type of work to be performed and associated noise levels that would interrupt\nthe <agency> operations, the Contractor may be required to conduct operations during evenings and\nweekends. The Contractor shall communicate work conditions that may create increase noise levels or affect\nthe operations of the facility occupants to the Contracting Officer Representative 72 hours in advance of\nplanned activities. Work shall not commence without the express approval of the Contracting Officer. The\nContractor shall promptly notify the CO and the COR when it appears that <agency> activities or personnel or\nother contractor's projects are hindering the effective execution of its work efforts.\nH.11.11 Photography\nNo photography, of any nature, is allowed while at <site> without the written authorization of the CO. Submit\nphotography requests to the CO at least two (2) business days prior to anticipated photo session. After the\nphoto session the pictures must be approved by the <agency>.\nH.11.12 Applicable Laws and Standards Conformation\nThe PV System shall be installed with due care conforming to the applicable standards and practices,\napplicable laws, and easement for the Premise (if any) by qualified employees, representatives, agents or sub-\ncontractors of Contractor. If the PV System fails to meet any of the foregoing standards, Contractor shall"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0015",
+      "source_file": "rfp_template.pdf",
+      "section_title": "perform at its own cost, and without additional charge to the <agency>, the professional services necessary to",
+      "section_number": null,
+      "phase": "P4",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 52.212-4",
+        "52.212-4"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "agency",
+        "contractor",
+        "force",
+        "majeure",
+        "service",
+        "system",
+        "plan",
+        "identify",
+        "procedures",
+        "necessary"
+      ],
+      "word_count": 470,
+      "character_count": 3115,
+      "line_count": 42
+    },
+    "content": "perform at its own cost, and without additional charge to the <agency>, the professional services necessary to\ncorrect errors and omissions, to include any necessary replacement of the PV System that are caused by\nContractor\u2019s failure to comply with the above standards.\nH.12 Solar Easement\nThe <agency> will take reasonable steps as necessary within its control to prevent other buildings, structures\nor flora (outside of the PV System) from overshadowing or otherwise blocking access of sunlight to the PV\nSystems. If the <agency> takes actions that result in shading of the solar array, and the Contractor is harmed\nthereby, such event shall be governed by FAR 52.212-4 paragraph (d), Disputes.\nThe Contractor, with <agency> assistance, is responsible for obtaining solar access rights from any other\nlandowners adjacent to the Premises.\nH.13 Protection of Financier\u2019s Interest\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nH.14 Force Majeure\n[Incorporate requirements based on agency policy and terminology. Add a force majeure definition if\napplicable.]\nH.14.1 Force Majeure and Service Interruption Plan\nAll offerors shall include a force majeure and service interruption plan in their proposal. The plan will be\nincorporated into the final contract at award and shall include the following components:\nPage 24 of 38\n[Sample plan components below for your consideration. Determine whether some or all of this Force\nMajeure and Service Interruption Plan will be part of the evaluation process.]\n1) Describe how the Contractor plans to protect itself (both financially and in terms of physical assets)\nfrom a Force Majeure event that significantly affects the PV System.\n2) Identify steps that the Contractor will take to prevent damage to the PV System when there is a known\npending disaster such as a hurricane.\n3) Identify how the Contractor will bring the PV System back into service expeditiously following any\nsuch force majeure event.\n4) Identify any intent to rely on the Federal Emergency Management Agency or other government relief\nagencies for financial assistance in recovering from any Force Majeure event and identify to what\nextent, if any, the Contractor would expect reimbursement under the contract.\n5) Identify catastrophic insurance, if applicable, that will be purchased for this contract.\n6) Define procedures for responding to all service interruptions caused by the utility, system operator or\nPV System under normal daily operations and during disaster/contingency operations. These\nprocedures should cover the following items:\na) Discussion of the expected causes of service interruption and how each would be handled by the\nContractor.\nb) Procedures for handling each type of service call (e.g., emergency, urgent, and routine) from\nnotification to completion (may use diagrams, Gantt Charts, flow charts, etc.).\nc) Estimated time for re-establishment of permanent service.\nd) Discussion of <agency> notification procedures.\ne) Emergency restoration plan.\nf) [Add other agency requirements and any procedures necessary to sufficiently address those"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0016",
+      "source_file": "rfp_template.pdf",
+      "section_title": "requirements when responding to a service interruption.]",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [],
+      "dfars_references": [],
+      "keywords": [
+        "agency",
+        "plan",
+        "shall",
+        "contract",
+        "project",
+        "requirements",
+        "finance",
+        "part",
+        "clauses",
+        "information"
+      ],
+      "word_count": 509,
+      "character_count": 3333,
+      "line_count": 43
+    },
+    "content": "requirements when responding to a service interruption.]\n7) Description of the staffing and management personnel, and other resources, that will be available to\nimplement the Force Majeure and Service Interruption Plan procedures to ensure a prompt response to\nemergency situations.\nH.15 Information Disclosure Restrictions\nThe following restrictions on advertising and disclosure of information shall apply: <agency-specific\nrestrictions, including press release approval>. All data related to the PV Systems shall be the property of the\n<agency> and accessible only by authorized <agency> and Contractor personnel. No advertising or\nidentifying information shall be publicly disclosed without prior written authorization by <agency>.\nTo avoid any conflicts with Federal Trade Commission rules regarding claims of renewable energy use, the\nContractor and <agency> shall by mutual written agreement set forth specific statements to be used in any\npress releases that address the <agency>\u2019s use of renewable energy.\nPage 25 of 38\nH.16 Project Finance Plan and Financial Statement Requirements\nAll offerors shall include a preliminary project finance plan in their proposal. This plan will be incorporated\ninto the final contract at award and shall include the following components:\n[Sample plan components below for your consideration. Financial submittal requirements during the contract\nterm, such as annual pro forma financial statements, could be added. Determine whether some or all of this\nProject Finance Plan will be part of the evaluation process.]\n1) A summary of the project finance structure, including anticipated costs, a discussion of the risks and\nwhy this strategy is of value to the <agency>. Describe plans to set up an LLC or other type of SPE,\nper Section H.1\n2) A list all proposed sources of construction and other financing. Include a schedule showing the\nexpected amount, type (debt, equity, other) and timing of project funding.\n3) Identify the terms of the debt and equity financing sources, highlighting terms that are subject to\nchange prior to award. Provide information on the other types of expected borrowing, including\ntype(s) of credit instrument(s) to be issued and security to be pledged for such borrowing.\n4) A quarterly sources and uses of funds statement for the construction period, prepared in accordance\nwith the U.S. Generally Accepted Accounting Principles, showing the timing and amount of each\nfunding source.\n5) A pro forma financial statement.\nThe Contractor shall submit its final project finance plan within <x> days after contract award.\nH.17 Alternative Dispute Resolution\n[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]\nPage 26 of 38\nPART II \u2013 CONTRACT CLAUSES\nCONTRACT CLAUSES\n[Below are FAR clauses that could be included, for agency consideration. The CO should modify this section\nbased on current FAR requirements and agency policies. Dept. of Defense (DoD) should incorporate DoD\nspecific clauses as appropriate. Since this RFP assumes use of FAR Part 12 Commercial Items, ensure that\nany included FAR clauses do not conflict with FAR Part 12. If it is determined that FAR Part 12 will not be\nutilized, then FAR clause changes will be much more substantial.\nThe DOE ESPC Indefinite Delivery Indefinite Quantity (IDIQ) contract (available at"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0017",
+      "source_file": "rfp_template.pdf",
+      "section_title": "https://energy.gov/eere/femp/downloads/2017-doe-idiq-espc-generic-contract) Section I Contract Clauses",
+      "section_number": null,
+      "phase": "P1",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 52.247-34",
+        "FAR 52.228-15",
+        "FAR 52.236-9",
+        "FAR 52.213-17",
+        "FAR 52.253-1",
+        "FAR 52.236-8",
+        "FAR 52.236-5",
+        "FAR 52.232-18",
+        "FAR 52.237-2",
+        "FAR 52.217-2",
+        "FAR 52.236-13",
+        "FAR 52.236-11",
+        "FAR 52.228-5",
+        "FAR 52.204-4",
+        "FAR 52.228-16",
+        "FAR 52.227-1",
+        "FAR 52.236-7",
+        "FAR 52.229-3",
+        "FAR 52.249-2",
+        "FAR 52.242-13",
+        "FAR 52.236-3",
+        "FAR 52.236-12",
+        "FAR 52.236-10",
+        "FAR 52.252-2",
+        "FAR 52.236-1",
+        "FAR 52.249-8",
+        "FAR 52.236-6",
+        "FAR 52.242-15",
+        "FAR 52.236-14",
+        "FAR 52.236-15",
+        "FAR 52.236-2",
+        "FAR 52.212-1",
+        "FAR 52.232-11",
+        "52.236-7",
+        "52.252-2",
+        "52.249-2",
+        "52.232-11",
+        "52.236-12",
+        "52.236-9",
+        "52.228-16",
+        "52.249-8",
+        "52.236-10",
+        "52.228-15",
+        "52.227-1",
+        "52.228-5",
+        "52.242-13",
+        "52.236-14",
+        "52.204-4",
+        "52.229-3",
+        "52.213-17",
+        "52.236-2",
+        "52.253-1",
+        "52.247-34",
+        "52.236-13",
+        "52.237-2",
+        "52.212-1",
+        "52.242-15",
+        "52.217-2",
+        "52.236-11",
+        "52.236-1",
+        "52.236-6",
+        "52.236-5",
+        "52.236-8",
+        "52.236-3",
+        "52.232-18",
+        "52.236-15"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "1984",
+        "clauses",
+        "construction",
+        "contract",
+        "section",
+        "contracts",
+        "items",
+        "clause",
+        "agency",
+        "incorporated"
+      ],
+      "word_count": 437,
+      "character_count": 3134,
+      "line_count": 50
+    },
+    "content": "https://energy.gov/eere/femp/downloads/2017-doe-idiq-espc-generic-contract) Section I Contract Clauses\nshould be reviewed for possible inclusion. Keep in mind that DOE\u2019s contract is an IDIQ and does not utilize\nFAR Part 12 Commercial Items.\nThe Contracting Officer should decide what Buy American Act/Trade Agreement Compliant clause applies, if\nany (taking into account Executive Orders, agency and other applicable policies), as well as the applicable\nlabor clauses.\nClauses that apply only to the construction phase are included towards the bottom of the section.]\nI.1 FAR Clauses Incorporated by Reference (FAR 52.252-2)(FEB 1998)\nNOTICE: The following contract clauses pertinent to this section are hereby incorporated by reference, with\nthe same force and effect as if they were given in full text. Upon request, the CO will make their full text\navailable. Also, the full text of a clause may be accessed electronically at this address:\nhttp://farsite.hill.af.mil/\nhttps://www.acquisition.gov/?q=browsefar\nFAR 52.204-4 Printed or Copied Double-Sided on Recycled Paper\nFAR 52.212-1 Instructions to Offerors -- Commercial Items (Apr 2014)\nFAR 52.213-17 Affirmative procurement of EPA-designated items in service and construction contracts\nFAR 52.217-2 Cancellation under Multiyear Contracts\nFAR 52.227-1 Authorization and Consent\nFAR 52.228-5 Insurance - Work on a Government Installation\n[Agency to determine which bond clause to include. Modify bond section H.7 if needed.]\nFAR 52.228-15 Performance and Payment Bonds\u2014Construction (Oct 2010)\nFAR 52.228-16 Performance and Payment Bonds--Other Than Construction (Nov 2006)\nFAR 52.229-3 Federal, State and Local Taxes\nFAR 52.232-11 Extras\nFAR 52.232-18 Availability of Funds\nPage 27 of 38\nFAR 52.247-34 F.O.B Destination\nFAR 52.249-2 Termination for Convenience of the Government (Fixed-Price) (APR 2012)\nFAR 52.249-8 Default (Fixed-Price Supply & Service)\nFAR 52.253-1 Computer Generated Form\n[Agency to consider the following clauses, to be incorporated by reference, that may apply to the initial\nconstruction work and/or Operations and Maintenance.]\nFAR 52.236-1 Performance of Work by the Contractor. (APR 1984)\nFAR 52.236-2 Differing Site Conditions. (APR 1984)\nFAR 52.236-3 Site Investigation and Conditions Affecting the Work. (APR 1984)\nFAR 52.236-5 Material and Workmanship. (APR 1984)\nFAR 52.236-6 Superintendence by the Contractor. (APR 1984)\nFAR 52.236-7 Permits and Responsibilities. (NOV 1991)\nFAR 52.236-8 Other Contracts. (APR 1984)\nFAR 52.236-9 Protection of Existing Vegetation, Structures, Equipment, Utilities, and Improvements. (APR\n1984)\nFAR 52.236-10 Operations and Storage Areas. (APR 1984)\nFAR 52.236-11 Use and Possession Prior to Completion. (APR 1984)\nFAR 52.236-12 Cleaning Up. (APR 1984)\nFAR 52.236-13 Accident Prevention. (NOV 1991) and Alternate I (NOV 1991)\nFAR 52.236-14 Availability and Use of Utility Services. (APR 1984)\nFAR 52.236-15 Schedules for Construction Contracts. (APR 1984)\nFAR 52.237-2 Protection of Government Buildings, Equipment, and Vegetation\nFAR 52.242-13 Bankruptcy\nFAR 52.242-15 Alt I Stop-Work Order AUG 1989 - Alternate I"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0018",
+      "source_file": "rfp_template.pdf",
+      "section_title": "FAR 52.222-5 Construction Wage Requirements \u2013 Secondary Site of the Work",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 52.222-8",
+        "FAR 52.222-11",
+        "FAR 52.222-15",
+        "FAR 52.222-27",
+        "FAR 52.222-43",
+        "FAR 52.212-4",
+        "FAR 52.222-9",
+        "FAR 52.222-12",
+        "FAR 52.222-13",
+        "FAR 52.249-2",
+        "FAR 52.12-4",
+        "FAR 52.222-5",
+        "FAR 52.222-6",
+        "FAR 52.222-10",
+        "FAR 52.222-7",
+        "FAR 52.222-14",
+        "52.222-15",
+        "52.222-11",
+        "52.222-7",
+        "52.222-9",
+        "52.222-12",
+        "52.222-6",
+        "52.222-43",
+        "52.249-2",
+        "52.222-27",
+        "52.222-14",
+        "52.222-8",
+        "52.216-1",
+        "52.241-5",
+        "52.12-4",
+        "52.222-13",
+        "52.222-10",
+        "52.222-5",
+        "52.212-4"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "contractor",
+        "government",
+        "contract",
+        "facilities",
+        "such",
+        "shall",
+        "construction",
+        "service",
+        "requirements",
+        "site"
+      ],
+      "word_count": 570,
+      "character_count": 3857,
+      "line_count": 48
+    },
+    "content": "FAR 52.222-5 Construction Wage Requirements \u2013 Secondary Site of the Work\nFAR 52.222-6 Construction Wage Requirements\nFAR 52.222-7 Withholding of Funds\nFAR 52.222-8 Payrolls and Basic Records\nFAR 52.222-9 Apprentices and Trainees\nFAR 52.222-10 Compliance with Copeland Act Requirements\nFAR 52.222-11 Subcontracts (Labor Standards)\nFAR 52.222-12 Contract Termination-Debarment\nFAR 52.222-13 Compliance with Construction Wage Rate Requirements and Related Regulations\nFAR 52.222-14 Disputes Concerning Labor Standards\nFAR 52.222-15 Certification of Eligibility\nFAR 52.222-27 Affirmative Action Compliance Requirements for Construction\nFAR 52.222-43 Fair Labor Standards Act and Service Contract Labor Standards -- Price Adjustment\n(Multiple Year and Option Contracts) (May 2014)\nI.1 Clauses Incorporated By Full Text\n[FAR 52.12-4(l), Termination for the Government\u2019s Convenience could be tailored through a FAR 52.212-4\nAddenda. Contact FEMP for example language that has been used by other federal agencies for similar\nprojects. Please also refer to FAR 52.249-2.]\n52.216-1 TYPE OF CONTRACT (Apr 1984)\nThe Government contemplates award of a Firm-Fixed Price contract resulting from this solicitation.\nPage 28 of 38\n52.241-5 CONTRACTOR\u2019S FACILITES (Feb 1995)\n[Inclusion of this clause is one option to provide site access to the Contractor. Delete this clause if a separate\nsite access agreement is utilized or if site access is provided through other means.]\n(a) The Contractor, at its expense, unless otherwise provided for in this contract, shall furnish, install, operate,\nand maintain all facilities required to furnish service hereunder, and measure such service at the point of\ndelivery specified in the Service Specifications. Title to all such facilities shall remain with the Contractor and\nthe Contractor shall be responsible for loss or damage to such facilities, except that the Government shall be\nresponsible to the extent that loss or damage has been caused by the Government\u2019s negligent acts or omissions.\n(b) Notwithstanding any terms expressed in this clause, the Contractor shall obtain approval from the\nContracting Officer prior to any equipment installation, construction, or removal. The Government hereby\ngrants to the Contractor, free of any rental or similar charge, but subject to the limitations specified in this\ncontract, a revocable permit or license to enter the service location for any proper purpose under this contract.\nThis permit or license includes use of the site or sites agreed upon by the parties hereto for the installation,\noperation, maintenance, and repair of the facilities of the Contractor required to be located upon Government\npremises. All applicable taxes and other charges in connection therewith, together with all liability of the\nContractor in construction, operation, maintenance and repair of such facilities, shall be the obligation of the\nContractor.\n(c) Authorized representatives of the Contractor will be allowed access to the facilities on Government\npremises at reasonable times to perform the obligations of the Contractor regarding such facilities. It is\nexpressly understood that the Government may limit or restrict the right of access herein granted in any\nmanner considered necessary (e.g., national security, public safety).\n(d) Unless otherwise specified in this contract, the Contractor shall, at its expense, remove such facilities and\nrestore Government premises to their original condition as near as practicable within a reasonable time after\nthe Government terminates this contract. In the event such termination of this contract is due to the fault of the\nContractor, such facilities may be retained in place at the option of the Government for a reasonable time while\nthe Government attempts to obtain service elsewhere comparable to that provided for hereunder.\nPage 29 of 38"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0019",
+      "source_file": "rfp_template.pdf",
+      "section_title": "PART III \u2013 LIST OF DOCUMENTS, EXHIBITS, AND OTHER ATTACHMENTS",
+      "section_number": null,
+      "phase": "P1",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": "Award Basis",
+      "far_references": [
+        "FAR 52.212-1",
+        "52.212-3",
+        "52.212-1"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "site",
+        "offerors",
+        "visit",
+        "exhibit",
+        "agency",
+        "shall",
+        "list",
+        "details",
+        "proposal",
+        "representations"
+      ],
+      "word_count": 458,
+      "character_count": 3084,
+      "line_count": 45
+    },
+    "content": "PART III \u2013 LIST OF DOCUMENTS, EXHIBITS, AND OTHER ATTACHMENTS\nLIST OF ATTACHMENTS\n[Example list based on Exhibits referenced in this template. Add other applicable Exhibits based on the final\nRFP that includes Sections C, E & M (including technical details such as site photos/diagrams, electricity rate\ninformation, roof details, one-line diagrams, etc).]\nExhibit 1 - PV System List\nExhibit 2 - Price Proposal Form\nExhibit 3 - Annual Cancellation Ceiling Schedule\nExhibit 4 \u2013 PV System Production Estimate\nExhibit 5 \u2013 Site Access Agreement\nPage 30 of 38\nPART IV \u2013 REPRESENTATIONS AND INSTRUCTIONS\nREPRESENTATIONS, CERTIFICATIONS & OTHER STATEMENTS\n52.212-3 -- Offeror Representations and Certifications -- Commercial Items.\nOfferor Representations and Certifications -- Commercial Items (Jan 2017)\n[Insert the most recent 52.212-3 clause language.]\nPage 31 of 38\nINSTRUCTIONS, CONDITIONS, AND NOTICES TO OFFERORS\n[Agency contracting/legal staff should decide whether to include FAR 52.212-1 as is, or modified in an\nAddenda based on agency policy and goals. Reference the DOE ESPC IDIQ RFP and/or contact FEMP for\n52.212-1 Addenda suggestions, including language regarding exceptions to contract terms and conditions.]\nFAR 52.212-1 - Instructions to Offerors -- Commercial Items (Jan 2017) incorporated by reference applies\nwith the same force and effect as if they were given in full text.\nL.1 Pre-Proposal Conference and Site Visit\nA pre-proposal conference and site visit for potential Offerors will be on <date/time> at <location> for the\npurpose of answering questions regarding this solicitation. The site visit will enable Offerors to examine site\nconditions and electrical systems. Offerors shall submit the name, employer, email address, date of birth and\nsocial security number of all attendees, not to exceed <x> per Offeror, to <name and email address>,\nContracting Officer, at no later than 5:00 PM on <date>.\nInformation presented by <agency> at the pre-proposal conference and site visit shall not constitute a change\nto the terms and conditions of this solicitation. <Agency> shall only communicate changes to the terms of the\nsolicitation in writing via an amendment. If an amendment is issued by <agency>, normal procedures relating\nto the acknowledgment and receipt of solicitation amendments shall apply.\nOfferors shall wear closed-toe shoes and full-length pants during the site visit; loose fitting clothing (e.g., ties,\nscarves) is prohibited. Offerors may use cameras during the site visit to capture still photographs only after\nexpressed consent of <agency> representative administering the site visit. Other recording devices are\nprohibited.\nFollowing are parking, security screening, and other details:\n<add details>\nL.2 [Add all required submittal requirements, including a Cancellation Ceiling Schedule (reference Exhibit\n3).]\nPage 32 of 38\nEVALUATION FACTORS FOR AWARD\n[Section M will be added to the next version of the See \u201cProcurement Specifications Templates for Onsite\nSolar Photovoltaic: For Use in Developing Federal Solicitations\u201d, available at"
+  },
+  {
+    "metadata": {
+      "chunk_id": "rfp_template_chunk_0020",
+      "source_file": "rfp_template.pdf",
+      "section_title": "https://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-solar-photovoltaic-use-",
+      "section_number": null,
+      "phase": "P2",
+      "due_dates": [],
+      "eligibility": [],
+      "evaluation_type": null,
+      "far_references": [
+        "FAR 52.217-2",
+        "52.217-2",
+        "52.249-2"
+      ],
+      "dfars_references": [],
+      "keywords": [
+        "year",
+        "price",
+        "page",
+        "system",
+        "exhibit",
+        "contract",
+        "_____",
+        "cancellation",
+        "termination",
+        "site"
+      ],
+      "word_count": 411,
+      "character_count": 2602,
+      "line_count": 61
+    },
+    "content": "https://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-solar-photovoltaic-use-\ndeveloping, available at https://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-\nsolar-photovoltaic-use-developing.]\nPage 33 of 38\nExhibit 1 - PV System List\nPage 34 of 38\nExhibit 2 - Price Proposal Form\nCLIN 0001 Total Firm Fixed ESPC ESA Price $_____/kWh\nAmount allocated to ESCO Reserve Account $_____/kWh\n(taken from Section B.1)\n[Add if applicable]\nAnnual Escalation Rate _____%\nThis price includes all costs associated with the ESPC ESA contract except for the government\u2019s reserve\naccount payment. This price <includes /excludes> the project RECs.\n[Include this option if there are PV systems on roofs that may need to be replaced or repaired during the\ncontract term.]\nCLIN 0002 First Year $ Price $_____\nTo permit roof repair and/or replacement, an option to relocate the PV System may be exercised at any time\nduring the contract, and may be exercised more than once. The option price shall include PV System removal,\nstorage, reinstallation and three (3) months of lost revenues. The Government may specify partial removal,\nstorage and installation of the PV System. In such situations; the actual price will be prorated based on the\nproposed first year price and the percentage of the PV System that is removed, stored and reinstalled; but shall\nnot be less than <$x> per incident. The specified price shall apply for the first year of the contract, with the\nprice adjusted in future years based on the consumer price index\nPage 35 of 38\nExhibit 3 - Annual Cancellation Ceiling Schedule\nI MPORTANT INFORMATION:\n(1) Cancellation Ceilings for each time period specified below establish the maximum\ntermination liability for that time period. Actual total termination costs will be\nnegotiated.\n(2) The contractor may attach a monthly Financing Termination Liability Schedule.\n(3). In the event of contract cancellation or termination for convenience, FAR 52.217-2\nor 52.249-2 will apply.\nTime Period Cancellation Ceiling\nInstallation Acceptance\nEnd of Year One\nEnd of Year Two\nEnd of Year Three\nEnd of Year Four\nEnd of Year Five\nEnd of Year Six\nEnd of Year Seven\nEnd of Year Eight\nEnd of Year Nine\nEnd of Year Ten\nEnd of Year Eleven\nEnd of Year Twelve\nEnd of Year Thirteen\nEnd of Year Fourteen\nEnd of Year Fifteen\nEnd of Year Sixteen\nEnd of Year Seventeen\nEnd of Year Eighteen\nEnd of Year Nineteen\nEnd of Year Twenty\nExhibit 4 \u2013 PV System Production Estimates\nPage 36 of 38\n[monthly, annual or other]\nPage 37 of 38\nExhibit 5 \u2013 Site Access Agreement\nPage 38 of 38"
+  }
+]

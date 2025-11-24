@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0071
+Source File: 2-RFP 2000004198.pdf
+Section Title: c. Owned, non-owned, and hired Automobile Liability insurance, in the amount of $1,000,000
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 79
+Character Count: 566
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+c. Owned, non-owned, and hired Automobile Liability insurance, in the amount of $1,000,000
+per occurrence/aggregate, including property damage, covering all owned, non-owned,
+borrowed, leased, or rented vehicles operated by the Contractor. In addition, all mobile
+equipment used by the Contractor in connection with the contracted work, will be insured
+under either a standard Automobile Liability policy, or a Commercial General Liability
+policy.
+d. Professional Liability Insurance in the amount of $1,000,000 per claim to cover each
+individual professional staff.

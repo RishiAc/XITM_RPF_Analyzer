@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0012
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5. TECHNOLOGY PROFILES AND ADDITIONAL REQUIREMENTS:
+Section Number: 5.
+Section Type: technical_requirements
+Word Count: 68
+Character Count: 530
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5. TECHNOLOGY PROFILES AND ADDITIONAL REQUIREMENTS:
+5.1. Fairfax County Information Technology Profile and Requirements:
+5.1.1. To meet the requirements of this solicitation, proposals for providing IT staff
+augmentation support should comprehensively address all aspects of the related
+labor category, including skill sets, experience, and availability of proposed
+personnel. The offeror will describe their organizational experience in delivering
+services and solutions in the particular labor category. Submissions from general

@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0008
+Source File: 2-RFP 2000004198.pdf
+Section Title: 4. BACKGROUND:
+Section Number: 4.
+Section Type: general
+Word Count: 140
+Character Count: 1026
+Line Count: 13
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+4. BACKGROUND:
+4.1. Fairfax County Government (“FCG”): Fairfax County, Virginia is located in the northeast
+corner of Virginia and has an area of approximately 395 square miles with a diverse population
+of over 1,100,000 residents. FCG has over 50 departments located in over 200 facilities
+throughout the County. Currently, FCG facilities include the main government center campus,
+twenty-five (25) Public Libraries, twenty-three (23) Police locations, forty-six (46) Fire and
+Rescue locations, and in addition many more community, health, human services, and park
+locations. FCG’s Department of Information Technology (“DIT”) manages and implements all
+aspects of information technology solutions and supporting infrastructure that enable county
+agencies to deliver services and information to citizens and the community and implement
+operational efficiencies. DIT establishes standards and architecture for the information and
+communications systems that are implemented in County government agencies throughout the
+County.

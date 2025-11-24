@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0042
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 6. The security identification badge shall always be displayed while on AOC premises. To verify
+Section Number: 6.
+Section Type: security_compliance
+Word Count: 18
+Character Count: 125
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+identity, the Successful Offeror personnel shall be prepared to provide photo identification upon
+request by an AOC employee.

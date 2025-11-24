@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0014
+Source File: 2-RFP 2000004198.pdf
+Section Title: Continuation of staffing firms or vendors without demonstrable delivery experience in the IT category
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 89
+Character Count: 640
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+designs, develops, implements and maintains enterprise-wide and agencies’
+specific applications. The Director of DIT is also the County's Chief Information
+Officer and has authority for strategic leadership for technology investments, and
+direction in deployment of technology county-wide, and oversees implementation of
+policy and IT projects. DIT has a Project Management Office that works with all
+agencies’ Project Managers (PM) in reviewing project plans for performance and
+scope, and approving project expenditures. DIT assigns a technical PM who is
+responsible for working with project System Integrators (SI) and staff augmentation

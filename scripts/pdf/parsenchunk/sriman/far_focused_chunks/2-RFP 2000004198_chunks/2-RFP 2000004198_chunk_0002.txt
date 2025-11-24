@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0002
+Source File: 2-RFP 2000004198.pdf
+Section Title: 1. PURPOSE AND SCOPE:
+Section Number: 1.
+Section Type: scope_of_work
+Word Count: 101
+Character Count: 719
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. PURPOSE AND SCOPE:
+1.1. The purpose of this Request for Proposal (“RFP”) is to solicit sealed proposals from qualified
+Offerors to establish one or more Indefinite Delivery/Indefinite Quantity (IDIQ) contracts for
+Information Technology (“IT”) Staff Augmentation services for Fairfax County, Virginia, and
+Fairfax County Public Schools (“FCPS”).
+1.2. This procurement is conducted by Fairfax County Government (“FCG”) and is established as
+a cooperative procurement, allowing other public bodies to participate and utilize the resulting
+contracts. FCG and FCPS intend to award multiple contracts to provide Staff Augmentation
+services. These contracts will offer flexibility to procure services on an as-needed basis

@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0090
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Veteran-owned Small Business Enterprise
+Section Number: 2.
+Section Type: general
+Word Count: 57
+Character Count: 448
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+VSBEs are encouraged to respond to this solicitation notice as Prime Contractors. VSBEs must
+complete three (3) steps: Supplier Registration, Veteran Verification, and VSBE Certification
+through eMMA. These steps are outlined by the State of Maryland VSBE program. Additional
+information regarding certification can be located at:
+https://gomdsmallbiz.maryland.gov/Pages/VSBE-Program.aspx
+a. There is no VSBE goal established for this solicitation.

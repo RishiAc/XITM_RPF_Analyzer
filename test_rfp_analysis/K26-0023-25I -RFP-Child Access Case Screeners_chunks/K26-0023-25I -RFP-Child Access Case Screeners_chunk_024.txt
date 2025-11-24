@@ -1,0 +1,40 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_024
+Section: 2. All insurance policies shall be endorsed to provide that the insurance carrier will be responsible for
+Section Number: 2
+Section Type: general
+Phase: P1
+Due Dates: 03/25/2025
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: insurance
+Word Count: 259
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+2. All insurance policies shall be endorsed to provide that the insurance carrier will be responsible for
+providing immediate notice to the AOC in the event of cancellation or restriction of the insurance
+policy by either the insurance carrier or the Successful Offeror, at least sixty (60) days prior to any
+such cancellation or restriction. All insurance policies shall name as an additional insured the
+Maryland Administrative Office of the Courts.
+3. The requiring of any and all insurance as set forth in this RFP, or elsewhere, shall be in addition to
+and not in any way in substitution for all the other protection provided under the Contract for
+acceptance and/or approval of any insurance by the Procurement Officer, and shall not be construed
+as relieving or excusing the Successful Offeror from any liability or obligation imposed upon it by
+the provisions of the Contract.
+4. The following type(s) of insurance and minimum amount(s) of coverage are required and may be
+satisfied by either individual policies or a combination of individual policies and an umbrella policy:
+a. Commercial General Liability
+(1) $1,000,000 combined single limit per occurrence for bodily injury, property damage,
+and personal and advertising injury, and $2,000,000 annual aggregate.
+(2) A combined single limit per occurrence of $2,000,000 is acceptable.
+b. Worker’s Compensation
+(1) $500,000 each accident.
+(2) $500,000 each disease for each employee.
+(3) $500,000 each disease per policy limit.
+(4) Coverage must be valid in all states where work is performed.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 16

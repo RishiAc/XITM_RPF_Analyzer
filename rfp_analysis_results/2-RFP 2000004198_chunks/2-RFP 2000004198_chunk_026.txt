@@ -1,0 +1,25 @@
+Chunk ID: 2-RFP 2000004198_chunk_026
+Section: 13. CONTACT FOR CONTRACTUAL MATTERS:
+Section Number: 13
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: procurement, contact, shall, yong
+Word Count: 65
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+13. CONTACT FOR CONTRACTUAL MATTERS:
+13.1. All communications and requests for information and clarifications shall be directed to the
+following procurement official:
+Yong Kim, CPPB, Contract Specialist III
+Department of Procurement and Material Management
+Telephone: (703) 324-3217; TTY: 711
+E-mail: yong.kim@fairfaxcounty.gov
+13.2. No attempt shall be made by any offeror to contact members of the Selection Advisory
+Committee (“SAC”) about this procurement (ref. Section 18.3.).

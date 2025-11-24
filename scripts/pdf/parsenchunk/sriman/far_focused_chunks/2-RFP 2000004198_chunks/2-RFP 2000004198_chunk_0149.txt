@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0149
+Source File: 2-RFP 2000004198.pdf
+Section Title: 64. INELIGIBILITY-
+Section Number: 64.
+Section Type: general
+Word Count: 140
+Character Count: 803
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+64. INELIGIBILITY-
+a. Any person or firm suspended or debarred from participation in County procurement shall be notified in writing by the
+Purchasing Agent.
+1. The Notice of Suspension shall state the reasons for the actions taken and such decision shall be final unless the person or
+firm appeals within ten (10) days of receipt of the Notice by instituting legal action as provided in the Code of Virginia.
+2. The Notice of Debarment shall state the reasons for the actions taken and the decision shall be final unless the person or
+firm appeals within ten (10) days of receipt of the Notice by instituting legal action as provided in the Code of Virginia.
+b. The Purchasing Agent shall have the authority to suspend or debar a person or firm from bidding on any contract for the
+causes stated below:

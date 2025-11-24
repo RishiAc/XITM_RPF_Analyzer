@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0262
+Source File: 2-RFP 2000004198.pdf
+Section Title: attachments, or other documents incorporated by reference therein, includes an indemnification or obligation to
+Section Number: None
+Section Type: general
+Word Count: 17
+Character Count: 91
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+defend by the County, that promise or term is stricken from this Contract and of no effect.

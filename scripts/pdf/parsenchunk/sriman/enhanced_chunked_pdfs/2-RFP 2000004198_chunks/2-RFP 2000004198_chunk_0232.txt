@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0232
+Source File: 2-RFP 2000004198.pdf
+Section Title: 35. DELIVERY/SERVICE FAILURES-If a Contractor (i) fails to deliver goods or services within the time specified or within a
+Section Number: 35.
+Section Type: general
+Word Count: 139
+Character Count: 888
+Line Count: 7
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+reasonable time as interpreted by the Purchasing Agent; or (ii) fails to make replacements or corrections of rejected articles or
+services when so requested, immediately or as directed by the Purchasing Agent, then the Purchasing Agent shall have the
+authority to purchase in the open market goods or services of comparable grade or quality to replace goods or services not
+delivered or rejected. On all such purchases, the Contractor shall reimburse the County, within a reasonable time specified by
+the Purchasing Agent, for any expense incurred in excess of contract prices. Such purchases shall be deducted from the contract
+quantities if applicable. Should public necessity demand it, the County reserves the right to use or consume articles delivered or
+services performed which are substandard in quality, subject to an adjustment in price to be determined by the Purchasing Agent.

@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0102
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15.3. Technical Information: Uploading large documents may take time, depending on the size of the
+Section Number: 15.3.
+Section Type: technical_requirements
+Word Count: 48
+Character Count: 331
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+file(s) and your Internet connection speed. You will receive an email confirmation receipt with
+a unique confirmation number once you finalize your submission. Minimum system
+requirements for the Bonfire (Euna) portal - Microsoft Edge, Google Chrome, or Mozilla Firefox.
+JavaScript must be enabled. Browser cookies must be enabled.

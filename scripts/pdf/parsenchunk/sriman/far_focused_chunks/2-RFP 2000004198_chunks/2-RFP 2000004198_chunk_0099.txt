@@ -1,0 +1,31 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0099
+Source File: 2-RFP 2000004198.pdf
+Section Title: 2. DEFINITIONS- Unless otherwise defined in the GCIB, capitalized terms shall have the meanings defined by the Fairfax County
+Section Number: 2.
+Section Type: contract_clauses
+Word Count: 227
+Character Count: 1515
+Line Count: 16
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2. DEFINITIONS- Unless otherwise defined in the GCIB, capitalized terms shall have the meanings defined by the Fairfax County
+Purchasing Resolution.
+AGENCY: Any Department, Agency, Authority, Commission, Board or other unit in the Administrative Service of the County.
+BID: The offer of a bidder to provide specific goods or services at specified prices and/or other conditions specified in the
+solicitation.
+BIDDER/OFFEROR: Any individual, company, firm, corporation, partnership or other organization bidding on solicitations issued
+by the Purchasing Agent and offering to enter into contracts with the County. The term "bidder" will be used throughout this
+document and shall be construed to mean "offeror" where appropriate.
+CONTRACTOR: Any individual, company, firm, corporation, partnership or other organization to whom an award is made by the
+County.
+INVITATION FOR BID (IFB): A request which is made to prospective suppliers (bidders) for their quotation on goods or services
+desired by the County. The issuance of an IFB will contain or incorporate by reference the specifications and contractual terms
+and conditions applicable to the procurement.
+PURCHASING AGENT: The Purchasing Agent employed by the Board of Supervisors of Fairfax County, Virginia.
+REQUEST FOR PROPOSAL (RFP): A request for an offer from prospective offerors which will indicate the general terms which
+are sought to be procured from the offeror. The RFP will specify the evaluation factors to be used and will contain or incorporate

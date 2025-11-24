@@ -1,0 +1,30 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0138
+Source File: 2-RFP 2000004198.pdf
+Section Title: 56. GENERAL GUARANTY-Contractor agrees to:
+Section Number: 56.
+Section Type: general
+Word Count: 235
+Character Count: 1421
+Line Count: 15
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+56. GENERAL GUARANTY-Contractor agrees to:
+a. Save the County, its agents and employees harmless from liability of any nature or kind for the use of any copyrighted or
+uncopyrighted composition; secret process, patented or unpatented; invention; article or appliance furnished or used in the
+performance of a contract for which the Contractor is not the patentee, assignee, licensee or owner.
+b. Warrant that when the contract includes a software license, or use of licensed software, the Contractor is the owner of the
+Software or otherwise has the right to grant to the County the license to use the Software granted through the Contract
+without violating or infringing any law, rule, regulation, copyright, patent, trade secret or other proprietary right of any third
+party.
+c. Protect the County against latent defective material or workmanship and to repair or replace any damages or marring
+occasioned in transit or delivery.
+d. Furnish adequate protection against damage to all work and to repair damages of any kind to the building or equipment, to
+his or her own work or to the work of other contractors, for which his or her workers are responsible.
+e. Pay for all permits, licenses and fees and give all notices and comply with all laws, ordinances, rules, regulations, and
+policies of the County.
+f. Protect the County from loss or damage to County owned property while it is in the custody of the Contractor.

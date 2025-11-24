@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0040
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. All Successful Offeror personnel working on AOC premises, property, systems or projects, contracts,
+Section Number: 4.
+Section Type: general
+Word Count: 53
+Character Count: 322
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+or who have access to AOC or State criminal data or systems, may be required to obtain a Criminal
+Justice Information System (CJIS) State and Federal criminal background check prior to beginning
+work. The AOC reserves the right to refuse to allow any Successful Offeror personnel to begin work
+based upon criminal records.

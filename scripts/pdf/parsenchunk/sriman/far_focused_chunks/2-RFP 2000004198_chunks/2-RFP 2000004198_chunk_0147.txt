@@ -1,0 +1,34 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0147
+Source File: 2-RFP 2000004198.pdf
+Section Title: 63. VIRGINIA FREEDOM OF INFORMATION ACT-All proceedings, records, contracts and other public records relating to
+Section Number: 63.
+Section Type: general
+Word Count: 322
+Character Count: 2063
+Line Count: 19
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+63. VIRGINIA FREEDOM OF INFORMATION ACT-All proceedings, records, contracts and other public records relating to
+procurement transactions shall be open to the inspection of any citizen, or any interested person, firm or corporation, in
+accordance with the Virginia Freedom of Information Act except as provided below:
+a. Cost estimates relating to a proposed procurement transaction prepared by or for a public body shall not be open to public
+inspection.
+b. Any competitive sealed bidding bidder, upon request, shall be afforded the opportunity to inspect bid records within a
+reasonable time after the opening of all bids but prior to award, except in the event that the County decides not to accept any
+of the bids and to reopen the contract. Otherwise, bid records shall be open to public inspection only after award of the
+contract. Any competitive negotiation offeror, upon request, shall be afforded the opportunity to inspect proposal records
+within a reasonable time after the evaluation and negotiations of proposals are completed but prior to award except in the
+event that the County decides not to accept any of the proposals and to reopen the contract. Otherwise, proposal records
+shall be open to the public inspection only after award of the contract except as provided in paragraph "c" below. Any
+inspection of procurement transaction records under this section shall be subject to reasonable restrictions to ensure the
+security and integrity of the records.
+c. Trade secrets or proprietary information submitted by a bidder, offeror or Contractor in connection with a procurement
+transaction or prequalification application submitted pursuant to the prequalification process identified in the Special
+Provisions, shall not be subject to the Virginia Freedom of Information Act; however, the bidder, offeror or Contractor shall (i)
+invoke the protections of this section prior to or upon submission of the data or other materials, (ii) identify the data or other
+materials to be protected, and (iii) state the reasons why protection is necessary.

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0251
+Source File: 2-RFP 2000004198.pdf
+Section Title: 53. PAYMENT-Payment shall be made after satisfactory performance that is in accordance with all provisions of the contract, and
+Section Number: 53.
+Section Type: general
+Word Count: 38
+Character Count: 245
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+upon receipt of a properly completed invoice. The County reserves the right to withhold any or all payments or portions thereof
+for Contractor's failure to perform in accordance with the provision of the contract or any subsequent modifications.

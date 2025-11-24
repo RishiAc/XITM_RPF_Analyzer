@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0011
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. Contract Manager – The AOC representative that serves as the technical manager for the resulting
+Section Number: 3.
+Section Type: technical_requirements
+Word Count: 19
+Character Count: 135
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+contract. The Contract Manager monitors the daily activities of the contract and provides technical
+guidance to the Successful Offeror.

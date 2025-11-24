@@ -1,8 +1,8 @@
-from fastapi import APIRouter, File, Form, UploadFile, HTTPException
-from vector_api import OrchestrateBody, orchestrate_queries
+from fastapi import APIRouter
+from api.vector_api import OrchestrateBody, orchestrate_queries
 from pydantic import BaseModel
 import numpy as np
-from clients.supabase import _sb
+from api.clients.supabase import _sb
 
 router = APIRouter(prefix="/score", tags=["score"])
 

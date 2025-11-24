@@ -1,0 +1,87 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0034
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Phase: P1
+Word Count: 972
+Character Count: 6164
+Line Count: 60
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: shall, contract, county, records, information, business, virginia, proposal, contractor, person
+
+=== CHUNK CONTENT ===
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+shall be authorized to transact business in the Commonwealth as a domestic or foreign business entity if so required by Title
+13.1 or Title 50 of the Code of Virginia or as otherwise required by law. Any business entity described above that enters into a
+contract with a Fairfax County pursuant to the Fairfax County Purchasing Resolution shall not allow its existence to lapse or its
+certificate of authority or registration to transact business in the Commonwealth, if so required under Title 13.1 or Title 50, to be
+revoked or cancelled at any time during the term of the contract. Fairfax County may void any contract with a business entity if
+the business entity fails to remain in compliance with the provisions of this section.
+62. COVENANT AGAINST CONTINGENT FEES-The Contractor warrants that no person or selling agency has been employed or
+retained to solicit or secure this contract upon an agreement or understanding for a commission, percentage, brokerage, or
+contingent fee, except bona fide employees or bona fide established commercial or selling agencies maintained by the Contractor
+for the purpose of securing business. For violation of this warranty, the County shall have the right to terminate or suspend this
+contract without liability to the County or in its discretion to deduct from the contract price or consideration, or otherwise recover,
+the full amount of such commission, percentage, brokerage, or contingent fee.
+63. VIRGINIA FREEDOM OF INFORMATION ACT-All proceedings, records, contracts and other public records relating to
+procurement transactions shall be open to the inspection of any citizen, or any interested person, firm or corporation, in
+accordance with the Virginia Freedom of Information Act except as provided below:
+a. Cost estimates relating to a proposed procurement transaction prepared by or for a public body shall not be open to public
+inspection.
+b. Any competitive sealed bidding bidder, upon request, shall be afforded the opportunity to inspect bid records within a
+reasonable time after the opening of all bids but prior to award, except in the event that the County decides not to accept any
+of the bids and to reopen the contract. Otherwise, bid records shall be open to public inspection only after award of the
+contract. Any competitive negotiation offeror, upon request, shall be afforded the opportunity to inspect proposal records
+within a reasonable time after the evaluation and negotiations of proposals are completed but prior to award except in the
+event that the County decides not to accept any of the proposals and to reopen the contract. Otherwise, proposal records
+shall be open to the public inspection only after award of the contract except as provided in paragraph "c" below. Any
+inspection of procurement transaction records under this section shall be subject to reasonable restrictions to ensure the
+security and integrity of the records.
+c. Trade secrets or proprietary information submitted by a bidder, offeror or Contractor in connection with a procurement
+transaction or prequalification application submitted pursuant to the prequalification process identified in the Special
+Provisions, shall not be subject to the Virginia Freedom of Information Act; however, the bidder, offeror or Contractor shall (i)
+invoke the protections of this section prior to or upon submission of the data or other materials, (ii) identify the data or other
+materials to be protected, and (iii) state the reasons why protection is necessary.
+d. Nothing contained in this section shall be construed to require the County, when procuring by "competitive negotiation"
+(Request for Proposal), to furnish a statement of the reasons why a particular proposal was not deemed to be the most
+advantageous to the County.
+e. The County cannot maintain as confidential any information, data, or records obtainable through the Virginia Freedom of
+Information or similar law. This includes records or information that have not been properly designated as trade secret or
+proprietary information pursuant to Va. Code Ann. § 2.2-4342(F).
+f. A bidder or offeror shall not designate as trade secrets or proprietary information (a) an entire bid, proposal, or prequalification
+application; (b) any portion of a bid, proposal, or prequalification application that does not contain trade secrets or proprietary
+information; or (c) line item prices or total bid, proposal, or prequalification application prices.
+BIDDER/CONTRACTOR REMEDIES
+64. INELIGIBILITY-
+a. Any person or firm suspended or debarred from participation in County procurement shall be notified in writing by the
+Purchasing Agent.
+1. The Notice of Suspension shall state the reasons for the actions taken and such decision shall be final unless the person or
+firm appeals within ten (10) days of receipt of the Notice by instituting legal action as provided in the Code of Virginia.
+2. The Notice of Debarment shall state the reasons for the actions taken and the decision shall be final unless the person or
+firm appeals within ten (10) days of receipt of the Notice by instituting legal action as provided in the Code of Virginia.
+b. The Purchasing Agent shall have the authority to suspend or debar a person or firm from bidding on any contract for the
+causes stated below:
+1. Conviction for commission of a criminal offense as an incident to obtaining or attempting to obtain a public or private contract
+or subcontract, or in the performance of such contract or subcontract;
+2. Conviction under state or federal statutes of embezzlement, theft, forgery, bribery, falsification or destruction of records,
+receiving stolen property, or any other offense indicating a lack of business integrity or business honesty which currently,
+seriously, and directly affects responsibility as a County Contractor;
+3. Conviction under the state or federal antitrust statutes arising out of the submission of bids or proposals;
+4. Violation of contract provisions, as set forth below, of a character which is regarded by the Purchasing Agent to be so serious
+as to justify suspension or debarment action:

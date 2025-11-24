@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0135
+Source File: 2-RFP 2000004198.pdf
+Section Title: period endorsement by means of a certificate of insurance or a copy of the
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 2
+Character Count: 19
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+endorsement itself.

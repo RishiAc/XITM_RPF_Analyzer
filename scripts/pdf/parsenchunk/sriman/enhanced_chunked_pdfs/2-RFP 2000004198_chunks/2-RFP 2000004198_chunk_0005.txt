@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0005
+Source File: 2-RFP 2000004198.pdf
+Section Title: throughout the contract term; an award does not guarantee work. Tasks orders, Scope of Work
+Section Number: None
+Section Type: scope_of_work
+Word Count: 49
+Character Count: 326
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+(“SOW”), request, etc. should be issued intermittently based on evolving requirements. The
+County and participating public bodies reserve the right to complete services among the
+awarded Contractors at their discretion; however, they are not required to do so and may
+engage directly with a Contractor on a case-by-case basis.

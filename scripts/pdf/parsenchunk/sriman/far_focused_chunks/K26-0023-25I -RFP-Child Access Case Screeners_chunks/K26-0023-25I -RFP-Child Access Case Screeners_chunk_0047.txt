@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0047
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 5. The Successful Offeror will be required to follow all current Judiciary protocols referencing
+Section Number: 5.
+Section Type: general
+Word Count: 86
+Character Count: 629
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5. The Successful Offeror will be required to follow all current Judiciary protocols referencing
+pandemic flu or other infectious diseases including, but not limited to, proof of vaccination,
+producing negative COVID tests, completing/passing an initial screening questionnaire, non-contact
+temperature taking, the wearing of personal protective equipment (e.g., face mask), and practicing
+appropriate social distancing. Failure to comply with any of the Judiciary’s protocol could result in
+being denied entry into Judiciary workspace, and mitigation up to and including contract termination.
+L. ACCEPTANCE OF TERMS & CONDITIONS

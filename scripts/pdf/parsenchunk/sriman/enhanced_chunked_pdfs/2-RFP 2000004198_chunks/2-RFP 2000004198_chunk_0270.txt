@@ -1,0 +1,42 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0270
+Source File: 2-RFP 2000004198.pdf
+Section Title: a. Cost estimates relating to a proposed procurement transaction prepared by or for a public body shall not be open to public
+Section Number: None
+Section Type: budget_pricing
+Word Count: 399
+Character Count: 2595
+Line Count: 25
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+inspection.
+b. Any competitive sealed bidding bidder, upon request, shall be afforded the opportunity to inspect bid records within a
+reasonable time after the opening of all bids but prior to award, except in the event that the County decides not to accept any
+of the bids and to reopen the contract. Otherwise, bid records shall be open to public inspection only after award of the
+contract. Any competitive negotiation offeror, upon request, shall be afforded the opportunity to inspect proposal records
+within a reasonable time after the evaluation and negotiations of proposals are completed but prior to award except in the
+event that the County decides not to accept any of the proposals and to reopen the contract. Otherwise, proposal records
+shall be open to the public inspection only after award of the contract except as provided in paragraph "c" below. Any
+inspection of procurement transaction records under this section shall be subject to reasonable restrictions to ensure the
+security and integrity of the records.
+c. Trade secrets or proprietary information submitted by a bidder, offeror or Contractor in connection with a procurement
+transaction or prequalification application submitted pursuant to the prequalification process identified in the Special
+Provisions, shall not be subject to the Virginia Freedom of Information Act; however, the bidder, offeror or Contractor shall (i)
+invoke the protections of this section prior to or upon submission of the data or other materials, (ii) identify the data or other
+materials to be protected, and (iii) state the reasons why protection is necessary.
+d. Nothing contained in this section shall be construed to require the County, when procuring by "competitive negotiation"
+(Request for Proposal), to furnish a statement of the reasons why a particular proposal was not deemed to be the most
+advantageous to the County.
+e. The County cannot maintain as confidential any information, data, or records obtainable through the Virginia Freedom of
+Information or similar law. This includes records or information that have not been properly designated as trade secret or
+proprietary information pursuant to Va. Code Ann. § 2.2-4342(F).
+f. A bidder or offeror shall not designate as trade secrets or proprietary information (a) an entire bid, proposal, or prequalification
+application; (b) any portion of a bid, proposal, or prequalification application that does not contain trade secrets or proprietary
+information; or (c) line item prices or total bid, proposal, or prequalification application prices.
+BIDDER/CONTRACTOR REMEDIES

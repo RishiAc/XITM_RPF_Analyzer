@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0235
+Source File: 2-RFP 2000004198.pdf
+Section Title: 38. SMALL, WOMEN-OWNED, AND MINORITY-OWNED BUSINESS USE-
+Section Number: 38.
+Section Type: general
+Word Count: 103
+Character Count: 649
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. It is the declared policy of the County of Fairfax, through its Small and Minority Business Enterprise Program, that Fairfax
+County and its employees undertake every effort to increase opportunity for use of small or minority businesses in all aspects
+of procurement to the maximum extent feasible.
+b. Where it is practicable for any portion of the awarded contract to be subcontracted to other suppliers, the contractor is
+encouraged to offer such subcontracting opportunities to small, women and minority businesses.
+c. Where Federal grants or monies are involved, it is the policy of Fairfax County, through its agents and employees, to comply

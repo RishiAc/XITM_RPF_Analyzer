@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0109
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.1. This RFP is being utilized for competitive negotiation. Under the competitive negotiation
+Section Number: 18.1.
+Section Type: general
+Word Count: 50
+Character Count: 302
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+process, a contract may be awarded to the responsible offeror whose proposal is determined
+to be the most advantageous to the County, taking into consideration price and the evaluation
+factors set forth in the RFP. The County reserves the right to make multiple awards as a result
+of this solicitation.

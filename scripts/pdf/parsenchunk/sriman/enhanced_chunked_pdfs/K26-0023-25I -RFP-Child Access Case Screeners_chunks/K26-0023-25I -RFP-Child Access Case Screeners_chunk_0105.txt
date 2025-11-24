@@ -1,0 +1,35 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0105
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offeror shall propose resource(s) possessing the following preferred skills, experience, and
+Section Number: 1.
+Section Type: vendor_qualifications
+Word Count: 107
+Character Count: 788
+Line Count: 18
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+capabilities:
+a. Skill in:
+(1) Conducting interviews with clients;
+(2) Working with sensitive issues and commitment to respecting the confidential nature
+of the program; and,
+(3) Identifying intimate partner violence (IPV), domestic violence, and/or child abuse.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 18
+b. Knowledge of IPV/domestic violence/child abuse issues.
+c. Ability to:
+(1) Interact sensitively with traumatized populations and to be empathetic to those who
+have been victims of IPV/domestic violence/child abuse;
+(2) Work with diverse populations;
+(3) Work independently; and,
+(4) Maintain confidential information.
+d. Excellent organizational skills with the ability to meet deadlines.
+F. PLACE OF PERFORMANCE

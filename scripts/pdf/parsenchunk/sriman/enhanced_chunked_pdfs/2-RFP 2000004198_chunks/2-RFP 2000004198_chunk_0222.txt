@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0222
+Source File: 2-RFP 2000004198.pdf
+Section Title: 26. INSPECTION-ACCEPTANCE- Acceptance shall occur only after receipt and inspection provided such inspection, as
+Section Number: 26.
+Section Type: general
+Word Count: 29
+Character Count: 197
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+appropriate, is accomplished within a reasonable time. The County reserves the right to conduct any test/inspection it may deem
+advisable to assure goods and services conform to the specifications.

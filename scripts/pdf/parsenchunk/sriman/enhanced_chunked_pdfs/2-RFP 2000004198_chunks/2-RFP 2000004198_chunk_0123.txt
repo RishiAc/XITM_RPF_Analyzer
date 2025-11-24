@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0123
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.9. Should the County determine in writing and in its sole discretion that only one Offeror is fully
+Section Number: 18.9.
+Section Type: contract_clauses
+Word Count: 45
+Character Count: 292
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+qualified, or that one Offeror is clearly more highly qualified than the others under consideration,
+a contract may be negotiated and awarded to that offeror. Each SAC will make appropriate
+recommendations to the County Purchasing Agent, if appropriate, prior to the actual award of
+contract.

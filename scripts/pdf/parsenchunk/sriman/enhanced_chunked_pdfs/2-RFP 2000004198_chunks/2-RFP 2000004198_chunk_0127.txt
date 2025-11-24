@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0127
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.2. The Contractor shall, during the continuance of all work under the contract provide the
+Section Number: 19.2.
+Section Type: general
+Word Count: 1
+Character Count: 10
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+following:

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0173
+Source File: 2-RFP 2000004198.pdf
+Section Title: 26.1. The County will provide the Contractor all available data possessed by the County that relates
+Section Number: 26.1.
+Section Type: general
+Word Count: 22
+Character Count: 148
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+to this contract. However, the Contractor is responsible for all costs for acquiring other data or
+processing, analyzing, or evaluating County data.

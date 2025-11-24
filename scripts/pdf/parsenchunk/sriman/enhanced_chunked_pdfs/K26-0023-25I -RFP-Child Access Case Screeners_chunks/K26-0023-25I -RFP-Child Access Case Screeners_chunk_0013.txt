@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0013
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 6. Extraordinary Personal Event – Leave under the Family Medical Leave Act; an incapacitating injury
+Section Number: 6.
+Section Type: general
+Word Count: 41
+Character Count: 267
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+or incapacitating illness; or, other circumstances that in the sole discretion of the AOC warrant an
+extended leave of absence such as extended jury duty, or extended military services that precludes
+the individual from performing their job duties under the contract.

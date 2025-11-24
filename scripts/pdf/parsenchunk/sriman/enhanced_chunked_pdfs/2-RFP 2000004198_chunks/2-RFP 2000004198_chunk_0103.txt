@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0103
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15.4. It is the Offeror's responsibility to clearly identify and to describe the services being offered in
+Section Number: 15.4.
+Section Type: general
+Word Count: 55
+Character Count: 364
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+response to the Request for Proposal. Offerors are cautioned that organization of their
+response, as well as thoroughness is critical to the County's evaluation process. The RFP
+forms must be completed legibly and in their entirety; and all required supplemental information
+must be furnished and presented in an organized, comprehensive and easy to follow manner.

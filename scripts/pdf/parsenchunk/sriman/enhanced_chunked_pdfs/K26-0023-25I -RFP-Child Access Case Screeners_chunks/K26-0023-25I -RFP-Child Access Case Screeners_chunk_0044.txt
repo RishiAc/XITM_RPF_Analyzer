@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0044
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 8. The Successful Offeror personnel must notify the Contract Manager, the Administrative Official of
+Section Number: 8.
+Section Type: general
+Word Count: 59
+Character Count: 366
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+the respective department or office, within one (1) business day if any personnel have been arrested,
+indicted, served with a criminal summons, named in a peace or protective order, or named as a
+defendant in any civil case. The Successful Offeror personnel are also required to provide regular
+updated information regarding the status of any of these court actions.

@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0034
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. Any software used to meet the requirements of this solicitation, on any AOC system, must be
+Section Number: 4.
+Section Type: technical_requirements
+Word Count: 77
+Character Count: 507
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+included in the Offeror’s technical proposal. Software must be assessed by JIS and approved by the
+JIS Chief Information Officer. At the discretion of JIS, proposed software may be determined to be
+a risk to system and information integrity security controls and therefore rejected. If software is to
+be used remotely, the Judiciary shall control the method of access to our network via Virtual Private
+Network (VPN), firewall configurations, and/or segregating remote machine access within our
+environment.

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0099
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Offeror shall have one (1) year of experience in providing recruitment, staffing, and/or otherwise
+Section Number: 1.
+Section Type: vendor_qualifications
+Word Count: 25
+Character Count: 181
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+providing professional consulting services. If the Offeror is the proposed resource and is not
+represented by a recruitment/staffing agency, this minimum requirement will not apply.

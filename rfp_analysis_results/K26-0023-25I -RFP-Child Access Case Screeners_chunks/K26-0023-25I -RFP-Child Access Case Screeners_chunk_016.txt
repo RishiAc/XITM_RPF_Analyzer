@@ -1,0 +1,22 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_016
+Section: 2. The inspection of Judiciary procurement documents shall be governed exclusively by the Judicial
+Section Number: 2
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: procurement, inspection, documents, shall, judicial
+Word Count: 67
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+2. The inspection of Judiciary procurement documents shall be governed exclusively by the Judicial
+Branch Procurement Policy. Procurement documents are presumed to be open to the public for
+inspection, except as otherwise provided by the Judicial Branch Procurement Policy.
+K. OFFEROR RESPONSIBILITIES
+1. Offerors shall be responsible for all goods and/or services and requirements set forth in this RFP
+including the contract performance of any subcontractor participation.

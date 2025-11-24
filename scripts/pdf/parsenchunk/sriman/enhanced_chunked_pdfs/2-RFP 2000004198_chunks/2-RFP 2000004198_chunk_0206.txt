@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0206
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18. UNBALANCED BIDS—A Bid shall be mathematically unbalanced if the Bid contains unit pricing that does not reflect reasonable
+Section Number: 18.
+Section Type: budget_pricing
+Word Count: 3
+Character Count: 17
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+25
+RFP 2000004198

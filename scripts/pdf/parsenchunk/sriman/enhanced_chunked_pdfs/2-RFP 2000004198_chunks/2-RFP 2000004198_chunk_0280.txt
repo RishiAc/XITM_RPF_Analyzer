@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0280
+Source File: 2-RFP 2000004198.pdf
+Section Title: 7. The Contractor is in default on any surety bond or written guarantee on which Fairfax County is an obligee.
+Section Number: 7.
+Section Type: general
+Word Count: 61
+Character Count: 375
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+c. If, upon appeal, it is determined that the action taken by the Purchasing Agent was arbitrary or capricious, or not in accordance
+with the Constitution of Virginia, statutes or regulations, the sole relief available to the person or firm shall be restoration of
+eligibility. The person or firm may not institute legal action until all statutory requirements have been met.

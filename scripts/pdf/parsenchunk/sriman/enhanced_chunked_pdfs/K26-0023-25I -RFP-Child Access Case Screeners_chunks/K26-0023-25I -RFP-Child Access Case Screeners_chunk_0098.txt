@@ -1,0 +1,33 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0098
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: SECTION III. SCOPE OF WORK
+Section Number: None
+Section Type: scope_of_work
+Word Count: 208
+Character Count: 1424
+Line Count: 16
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+A. SUMMARY
+The AOC is seeking proposals from prospective Offerors to provide resources to screen child access cases
+for intimate partner violence, domestic violence, and/or child abuse to assist courts in determining whether
+cases are appropriate for mediation pursuant to Md. Rule 9-205. There is no guaranteed minimum usage.
+Offeror may propose no more than three (3) resource(s). Offeror shall propose resource(s) for which they
+have the right to represent. If multiple Offerors propose the same resource(s), the AOC reserves the right to
+make such investigations, as it deems necessary, to confirm the representation of any proposed resource(s)
+and reject any Offeror’s proposed resource(s). After any investigations, if the AOC is unable to confirm the
+representation of any proposed resource(s), including a proposed resource who signed multiple right-to-
+represent letters, the AOC reserves the right to reject the proposed resource(s) from all applicable Offerors.
+B. BACKGROUND INFORMATION
+The Department of Juvenile and Family Services (JFS) is a program of the AOC. JFS collaborates with the
+Maryland courts, legal organizations, and other stakeholders to advance initiatives that benefit Maryland’s
+children, youth, and families. JFS staffs the Juvenile and Domestic Law Committees that review and
+recommend policies, rules, and legislation that improve the effective administration of juvenile and domestic
+law.

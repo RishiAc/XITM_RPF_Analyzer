@@ -1,0 +1,65 @@
+=== RFP PROCESSING SUMMARY ===
+Source File: 2-RFP 2000004198.pdf
+Total Sections: 42
+Total Chunks: 42
+Total Characters: 147704
+
+=== SECTION BREAKDOWN ===
+Section Types Found:
+  - budget_pricing: 3 chunks
+  - contract_clauses: 2 chunks
+  - deliverables_timeline: 1 chunks
+  - general: 23 chunks
+  - insurance_warranty: 1 chunks
+  - scope_of_work: 1 chunks
+  - security_compliance: 2 chunks
+  - submission_requirements: 4 chunks
+  - technical_requirements: 2 chunks
+  - vendor_qualifications: 3 chunks
+
+=== GOVERNMENT POLICY REFERENCES ===
+  No government policy references found
+
+=== CHUNK LIST ===
+2-RFP 2000004198_chunk_0001: General (general)
+2-RFP 2000004198_chunk_0002: 2.2. All firms are required to have been in business for a minimum of five (5) years as of the date (general)
+2-RFP 2000004198_chunk_0003: 4.2. Fairfax County Public Schools (“FCPS”): FCPS is the largest school system in the (general)
+2-RFP 2000004198_chunk_0004: staffing firms or vendors without demonstrable delivery experience in the IT category (vendor_qualifications)
+2-RFP 2000004198_chunk_0005: 5.1.5. If support is for a commercial licensed software product, it is expected that work is (general)
+2-RFP 2000004198_chunk_0006: 5.4. IT/Cyber Security: (security_compliance)
+2-RFP 2000004198_chunk_0007: 5.5. Ownership of and Access to Data, Source Code: (general)
+2-RFP 2000004198_chunk_0008: consideration in their support capacity (general)
+2-RFP 2000004198_chunk_0009: 6. STATEMENT OF NEEDS: (scope_of_work)
+2-RFP 2000004198_chunk_0010: 6.6. Working hours for IT Staff Augmentation: The Offerors’ staff are expected to perform their (general)
+2-RFP 2000004198_chunk_0011: Category: Infrastructure Technical Support, need to provide 20 resumes or bios (technical_requirements)
+2-RFP 2000004198_chunk_0012: date of this RFP a minimum of five (5) years of experience in work of a similar nature (vendor_qualifications)
+2-RFP 2000004198_chunk_0013: 3. Staffing Plan: The staffing plan should indicate a chart that partitions the time (general)
+2-RFP 2000004198_chunk_0014: 9. COST PROPOSAL INSTRUCTIONS: (submission_requirements)
+2-RFP 2000004198_chunk_0015: 12.4. The classification of an entire proposal document, line-item prices, and/or total proposal prices (submission_requirements)
+2-RFP 2000004198_chunk_0016: 15.5. Unnecessarily elaborate brochures of other presentations beyond that sufficient to present a (general)
+2-RFP 2000004198_chunk_0017: 18.4. The County Purchasing Agent may arrange for discussions with firms submitting proposals, if (submission_requirements)
+2-RFP 2000004198_chunk_0018: 18.10. Proposals which, after discussion and submission of additional clarification and/or (submission_requirements)
+2-RFP 2000004198_chunk_0019: 2. Purchase the extended reporting period endorsement for the policy or policies in force (general)
+2-RFP 2000004198_chunk_0020: to the County from the Contractor's insurance agent or representative. (insurance_warranty)
+2-RFP 2000004198_chunk_0021: f. The itemized cost for each item/service. (budget_pricing)
+2-RFP 2000004198_chunk_0022: 24. ACCESS TO AND INSPECTION OF WORK: (general)
+2-RFP 2000004198_chunk_0023: 30.2. It is the Contractors responsibility to notify the public body(s) of the availability of the contract(s). (general)
+2-RFP 2000004198_chunk_0024: 33.2. Further information regarding HIPAA Compliance is available on the County’s website at (security_compliance)
+2-RFP 2000004198_chunk_0025: by reference other contractual terms and conditions applicable to the procurement. (contract_clauses)
+2-RFP 2000004198_chunk_0026: 11. AREA BIDS-For the purchase and delivery of certain goods and services the County may be divided into Areas (e.g., Areas I, (general)
+2-RFP 2000004198_chunk_0027: 18. UNBALANCED BIDS—A Bid shall be mathematically unbalanced if the Bid contains unit pricing that does not reflect reasonable (budget_pricing)
+2-RFP 2000004198_chunk_0028: c. The character, integrity, reputation, judgment, experience and efficiency of the bidder; (vendor_qualifications)
+2-RFP 2000004198_chunk_0029: 26. INSPECTION-ACCEPTANCE- Acceptance shall occur only after receipt and inspection provided such inspection, as (general)
+2-RFP 2000004198_chunk_0030: 32. CONTRACT ALTERATIONS-No alterations in the terms of a contract shall be valid or binding upon the County unless made in (contract_clauses)
+2-RFP 2000004198_chunk_0031: 37. NON-DISCRIMINATION-During the performance of this contract, the Contractor agrees as follows: (general)
+2-RFP 2000004198_chunk_0032: Appendix A (general)
+2-RFP 2000004198_chunk_0033: 45. INSPECTIONS-Inspection and acceptance of materials or supplies will be made after delivery at the designated destinations (general)
+2-RFP 2000004198_chunk_0034: Appendix A (general)
+2-RFP 2000004198_chunk_0035: 57. SERVICE CONTRACT GUARANTY-Contractor agrees to: (general)
+2-RFP 2000004198_chunk_0036: by the Contractor’s products, software, services, or deliverables. Contractor must indemnify the County for any loss, (deliverables_timeline)
+2-RFP 2000004198_chunk_0037: 60. LICENSE REQUIREMENT-All firms doing business in Fairfax County, shall obtain a license as required by Chapter 4, Article 7, (technical_requirements)
+2-RFP 2000004198_chunk_0038: 64. INELIGIBILITY- (general)
+2-RFP 2000004198_chunk_0039: 65. APPEAL OF DENIAL OF WITHDRAWAL OF BID- (general)
+2-RFP 2000004198_chunk_0040: Contractor shall be compensated for the cost of performance at the rate specified in the contract up to the time of such (budget_pricing)
+2-RFP 2000004198_chunk_0041: 71. COOPERATIVE PURCHASING-The County or any entity identified in the Fairfax County Purchasing Resolution, Article 1, (general)
+2-RFP 2000004198_chunk_0042: Appendix A (general)

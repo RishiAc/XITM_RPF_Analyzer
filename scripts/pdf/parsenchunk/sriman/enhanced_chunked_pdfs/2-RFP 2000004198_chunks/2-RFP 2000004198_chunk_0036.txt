@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0036
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.5. Ownership of and Access to Data, Source Code:
+Section Number: 5.5.
+Section Type: general
+Word Count: 43
+Character Count: 255
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+5.5.1. All County data is and must remain the sole property of the County. Therefore, all
+tools and capabilities native to the Offeror’s solution should be available to the
+County to allow for full access to that data. All tables, layouts, queries, stored

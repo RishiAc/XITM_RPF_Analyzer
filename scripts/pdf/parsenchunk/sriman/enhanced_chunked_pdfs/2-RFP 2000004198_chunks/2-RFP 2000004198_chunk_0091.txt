@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0091
+Source File: 2-RFP 2000004198.pdf
+Section Title: 12.1. Trade secrets or proprietary information submitted by an offeror in connection with a
+Section Number: 12.1.
+Section Type: general
+Word Count: 36
+Character Count: 234
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+procurement transaction shall not be subject to public disclosure under the Virginia Freedom
+of Information Act; however, offerors must invoke the protections of this section prior to or upon
+submission of the data or other materials.

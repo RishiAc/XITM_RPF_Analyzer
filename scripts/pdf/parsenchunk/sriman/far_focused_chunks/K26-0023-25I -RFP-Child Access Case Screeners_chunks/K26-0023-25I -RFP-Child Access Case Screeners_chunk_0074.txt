@@ -1,0 +1,29 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0074
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Extent to which the proposed resource(s) resume, education, and narrative demonstrates the
+Section Number: 2.
+Section Type: general
+Word Count: 160
+Character Count: 1098
+Line Count: 14
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2. Extent to which the proposed resource(s) resume, education, and narrative demonstrates the
+Qualifications, skills, experience, and capabilities outlined in Section III;
+3. Extent to which the proposed resource(s) references demonstrate their ability to provide the requested
+services outlined in Section III;
+The AOC prefers the Offeror’s Technical Proposal to illustrate a comprehensive understanding of work
+requirements and mastery of the subject matter, including an explanation of how the work will be performed.
+Technical Proposals which include limited responses to work requirements such as “concur” or “will comply”
+sample will receive a lower ranking than Technical Proposals that demonstrate an understanding of the work
+requirements and include plans to meet or exceed requirements.
+C. FINANCIAL PROPOSAL CRITERIA
+All Offerors will be ranked from the lowest (most advantageous) to the highest (least advantageous) price
+based on their total proposed price set forth in this RFP and as submitted on the Bid/Price Proposal Form
+and/or the requested total price.
+D. SELECTION PROCEDURES

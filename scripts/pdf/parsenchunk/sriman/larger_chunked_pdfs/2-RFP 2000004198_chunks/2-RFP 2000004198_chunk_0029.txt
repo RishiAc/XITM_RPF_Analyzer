@@ -1,0 +1,54 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0029
+Source File: 2-RFP 2000004198.pdf
+Section Title: 26. INSPECTION-ACCEPTANCE- Acceptance shall occur only after receipt and inspection provided such inspection, as
+Section Number: 26.
+Section Type: general
+Word Count: 589
+Character Count: 3827
+Line Count: 37
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+26. INSPECTION-ACCEPTANCE- Acceptance shall occur only after receipt and inspection provided such inspection, as
+appropriate, is accomplished within a reasonable time. The County reserves the right to conduct any test/inspection it may deem
+advisable to assure goods and services conform to the specifications.
+27. DEFINITE BID QUANTITIES-Where definite quantities are specifically stated, acceptance will bind the County to order quantities
+specified and to pay for, at contract prices, all such supplies or services delivered that meet specifications and conditions of the
+contract. However, the County will not be required to accept delivery of any balances unordered, as of the contract expiration
+date, unless the Contractor furnished the Purchasing Agent with a statement of unordered balances not later than ten (10) days
+after the termination date of the contract.
+28. REQUIREMENT BID QUANTITIES-On "Requirement" bids, acceptance will bind the County to pay for, at unit bid prices, only
+quantities ordered and delivered. Where the County specifies estimated quantities, the Contractor shall not be required to deliver
+more than ten (10) percent in excess of the estimated quantity of each item, unless otherwise agreed upon.
+CONTRACT PROVISIONS
+29. TERMINATION OF CONTRACTS-Contracts will remain in force for (i) the full period specified or (ii) until all articles ordered
+before date of termination, but arriving after the termination date, are satisfactorily delivered, accepted, and any further
+requirements and conditions are met, unless the Contract is:
+a. Terminated prior to expiration date by satisfactory deliveries of entire contract requirements, or upon termination by the
+County for Convenience or Cause.
+b. Extended upon written authorization of the Purchasing Agent and accepted by Contractor, to permit ordering of unordered
+balances or additional quantities at contract prices and in accordance with contract terms.
+30. TERMINATION FOR CONVENIENCE-
+a. A contract may be terminated in whole or in part by the County in accordance with this clause whenever the Purchasing
+Agent determines that such a termination is in the best interest of the County. Any such termination will be effected by
+delivery to the Contractor of a Notice of Termination specifying the extent to which performance is terminated and the date
+upon which termination becomes effective.
+b. An equitable adjustment in the contract price shall be made by the Purchasing Agent for completed service, but no amount
+shall be allowed for anticipated profit on unperformed services. Paragraph 30.b shall survive termination of the contract.
+31. TERMINATION OF CONTRACT FOR CAUSE-
+a. If, through any cause, the Contractor fails to fulfill in a timely and proper manner its obligations under this contract, or if the
+Contractor violates any of the covenants, agreements, or stipulations of this contract, the County has the right to terminate
+the contract. Any such termination will be effected by delivery to the Contractor of a Notice of Termination specifying the
+extent to which performance is terminated and the date upon which termination becomes effective. In such event, all finished
+or unfinished documents, data, studies, surveys, drawings, maps, models, and reports prepared by the Contractor under the
+contract shall, at the option of the County, become the County’s property and the Contractor shall be entitled to receive just
+and equitable compensation for any satisfactory work completed on such documents.
+b. Termination of the Contract for Cause does not relieve the Contractor of liability to the County for damages sustained by the
+County by virtue of any breach of contract by the Contractor for the purpose of set off until such time as the exact amount of
+damages due to the County from the Contractor is determined.

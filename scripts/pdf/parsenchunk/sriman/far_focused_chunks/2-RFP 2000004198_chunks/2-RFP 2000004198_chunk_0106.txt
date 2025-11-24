@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0106
+Source File: 2-RFP 2000004198.pdf
+Section Title: 13. BID OPENING-All bids received in response to an Invitation for Bid (IFB) will be opened at the date, time and place specified,
+Section Number: 13.
+Section Type: general
+Word Count: 98
+Character Count: 667
+Line Count: 6
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+13. BID OPENING-All bids received in response to an Invitation for Bid (IFB) will be opened at the date, time and place specified,
+read publicly, and made available for inspection as provided in paragraph 64, General Conditions and Instructions to Bidders.
+The Purchasing Agent’s representative assigned to open the bids will decide when the specified time for bid opening has arrived.
+Tabulations of bids received are posted on the County’s website at: https://www.fairfaxcounty.gov/procurement/bid-tab.
+Proposals received in response to a Request for Proposal (RFP) will be made available as provided in Paragraph 63, General
+Conditions and Instructions to Bidders.

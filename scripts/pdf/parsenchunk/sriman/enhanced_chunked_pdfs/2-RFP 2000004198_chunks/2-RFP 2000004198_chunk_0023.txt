@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0023
+Source File: 2-RFP 2000004198.pdf
+Section Title: staffing firms or vendors without demonstrable delivery experience in the IT category
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 25
+Character Count: 172
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+will be disqualified. The Offeror will be responsible for demonstrating that supplied
+staff fully integrate with existing County teams and projects. The County will provide

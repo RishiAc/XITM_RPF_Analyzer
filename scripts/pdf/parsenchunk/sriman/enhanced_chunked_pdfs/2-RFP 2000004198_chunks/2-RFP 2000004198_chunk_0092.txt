@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0092
+Source File: 2-RFP 2000004198.pdf
+Section Title: 12.2. The offeror must identify the data or other materials to be protected and state the
+Section Number: 12.2.
+Section Type: general
+Word Count: 16
+Character Count: 108
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+reasons why protection is necessary. Disposition of material after award(s) should be stated
+by the offeror.

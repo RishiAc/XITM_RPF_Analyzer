@@ -1,0 +1,70 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0016
+Source File: rfp_template.pdf
+Section Title: requirements when responding to a service interruption.]
+Section Number: None
+Phase: P2
+Word Count: 509
+Character Count: 3333
+Line Count: 43
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: agency, plan, shall, contract, project, requirements, finance, part, clauses, information
+
+=== CHUNK CONTENT ===
+requirements when responding to a service interruption.]
+7) Description of the staffing and management personnel, and other resources, that will be available to
+implement the Force Majeure and Service Interruption Plan procedures to ensure a prompt response to
+emergency situations.
+H.15 Information Disclosure Restrictions
+The following restrictions on advertising and disclosure of information shall apply: <agency-specific
+restrictions, including press release approval>. All data related to the PV Systems shall be the property of the
+<agency> and accessible only by authorized <agency> and Contractor personnel. No advertising or
+identifying information shall be publicly disclosed without prior written authorization by <agency>.
+To avoid any conflicts with Federal Trade Commission rules regarding claims of renewable energy use, the
+Contractor and <agency> shall by mutual written agreement set forth specific statements to be used in any
+press releases that address the <agency>’s use of renewable energy.
+Page 25 of 38
+H.16 Project Finance Plan and Financial Statement Requirements
+All offerors shall include a preliminary project finance plan in their proposal. This plan will be incorporated
+into the final contract at award and shall include the following components:
+[Sample plan components below for your consideration. Financial submittal requirements during the contract
+term, such as annual pro forma financial statements, could be added. Determine whether some or all of this
+Project Finance Plan will be part of the evaluation process.]
+1) A summary of the project finance structure, including anticipated costs, a discussion of the risks and
+why this strategy is of value to the <agency>. Describe plans to set up an LLC or other type of SPE,
+per Section H.1
+2) A list all proposed sources of construction and other financing. Include a schedule showing the
+expected amount, type (debt, equity, other) and timing of project funding.
+3) Identify the terms of the debt and equity financing sources, highlighting terms that are subject to
+change prior to award. Provide information on the other types of expected borrowing, including
+type(s) of credit instrument(s) to be issued and security to be pledged for such borrowing.
+4) A quarterly sources and uses of funds statement for the construction period, prepared in accordance
+with the U.S. Generally Accepted Accounting Principles, showing the timing and amount of each
+funding source.
+5) A pro forma financial statement.
+The Contractor shall submit its final project finance plan within <x> days after contract award.
+H.17 Alternative Dispute Resolution
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+Page 26 of 38
+PART II – CONTRACT CLAUSES
+CONTRACT CLAUSES
+[Below are FAR clauses that could be included, for agency consideration. The CO should modify this section
+based on current FAR requirements and agency policies. Dept. of Defense (DoD) should incorporate DoD
+specific clauses as appropriate. Since this RFP assumes use of FAR Part 12 Commercial Items, ensure that
+any included FAR clauses do not conflict with FAR Part 12. If it is determined that FAR Part 12 will not be
+utilized, then FAR clause changes will be much more substantial.
+The DOE ESPC Indefinite Delivery Indefinite Quantity (IDIQ) contract (available at

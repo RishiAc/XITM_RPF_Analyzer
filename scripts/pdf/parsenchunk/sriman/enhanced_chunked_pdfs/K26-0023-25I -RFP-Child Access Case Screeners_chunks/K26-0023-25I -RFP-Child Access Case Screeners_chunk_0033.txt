@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0033
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. To ensure compliance with the JIS Information Security Policy, the approval, configuration, and
+Section Number: 3.
+Section Type: security_compliance
+Word Count: 31
+Character Count: 213
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+monitoring of secured remote access into AOC systems will be processed by JIS staff. All remote
+connections that utilize a shared infrastructure must utilize encryption for transmission of data and
+authentication.

@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0069
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: experience, capabilities, and qualifications clearly demonstrates that the
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 112
+Character Count: 739
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+experience, capabilities, and qualifications clearly demonstrates that the
+proposed resource(s) meets the minimum qualifications as written in
+Section III.C of this RFP. Failure to adhere to any of these instructions may
+result in the proposal(s) being determined to be not reasonably susceptible
+of being selected for award.
+(2) Provide individual resume(s) for Offeror resource(s). Resume(s) shall include
+education (e.g., degrees, certificates, etc.), and the amount of experience the
+individual has had relative to the scope of work set forth in this RFP.
+i Offeror shall submit a copy of any degree and/or certificate for each
+proposed resource.
+(3) The Key Personnel for this contract are defined as:
+i Child Access Case Screener(s).

@@ -1,0 +1,29 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0036
+Source File: 2-RFP 2000004198.pdf
+Section Title: 7.3. The County reserves the right to approve and dismiss Contractor Staff.
+Section Number: 7.3.
+Section Type: general
+Word Count: 136
+Character Count: 897
+Line Count: 14
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+7.3. The County reserves the right to approve and dismiss Contractor Staff.
+8. TECHNICAL PROPOSAL INSTRUCTIONS:
+The offeror must submit the Technical Proposal for IT Staff Augmentation services as instructed in
+Bonfire (Euna) containing the following information, in searchable, PDF format. This information will be
+considered the minimum content of the proposal. Proposal contents shall be arranged in the same
+order and identified with headings as presented herein.
+8.1. Minimum Pre-Qualifications:
+• Attachment I (signed and completed)
+• Documentation reflects firm having been in business for a minimum of 5 years
+• Attachment D (signed and completed)
+• Attachment E (signed and completed)
+• Attachment F, G, H (signed and completed)
+• Resumes or Bios verification of employees in working titles for a Labor Category
+listed in Exhibit A (ref. Special Provisions, paragraph 2.5.) (example Labor

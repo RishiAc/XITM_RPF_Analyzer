@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0147
+Source File: 2-RFP 2000004198.pdf
+Section Title: applicable to the required or any other insurance maintained by the Contractor or its
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 11
+Character Count: 87
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+subcontractors. Where permitted by law, Contractor must require similar written express

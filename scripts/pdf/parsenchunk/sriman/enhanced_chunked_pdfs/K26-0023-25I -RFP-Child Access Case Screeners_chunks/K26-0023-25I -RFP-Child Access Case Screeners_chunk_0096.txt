@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0096
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 5. The insurance required above shall provide adequate protection for the Successful Offeror against
+Section Number: 5.
+Section Type: insurance_warranty
+Word Count: 59
+Character Count: 383
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+claims which may arise from the Contract, whether such claims arise from operations performed by
+the Successful Offeror or by anyone directly or indirectly employed by the Successful Offeror, and
+against any special hazards which may be encountered in the performance of the Contract. In
+addition, all policies required must not exclude coverage for equipment while rented to others.

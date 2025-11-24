@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0142
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.9. The Contractor will provide an original, signed Certificate of Insurance citing the contract
+Section Number: 19.9.
+Section Type: insurance_warranty
+Word Count: 30
+Character Count: 187
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+number and such endorsements as prescribed herein and The County of Fairfax, its officers,
+employees and agents shall be named as an “additional insured” for all liability policies and it

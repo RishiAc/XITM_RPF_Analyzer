@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0037
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: training candidates:
+Section Number: None
+Section Type: general
+Word Count: 18
+Character Count: 122
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Full Name.
+b. Phone Number.
+c. Personal/Private email with no connection to employer.
+d. Emergency contact information.

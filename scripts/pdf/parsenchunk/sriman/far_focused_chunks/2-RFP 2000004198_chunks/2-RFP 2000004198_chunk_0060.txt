@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0060
+Source File: 2-RFP 2000004198.pdf
+Section Title: 17. PROPOSALS ACCEPTANCE PERIOD:
+Section Number: 17.
+Section Type: submission_requirements
+Word Count: 127
+Character Count: 758
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+17. PROPOSALS ACCEPTANCE PERIOD:
+17.1. Any proposal submitted in response to this solicitation shall be valid for 365 days. At the end
+of the days the proposal may be withdrawn at the written request of the offeror. If the proposal
+is not withdrawn at that time it remains in effect until an award is made or the solicitation is
+canceled.
+18. BASIS FOR AWARD:
+18.1. This RFP is being utilized for competitive negotiation. Under the competitive negotiation
+process, a contract may be awarded to the responsible offeror whose proposal is determined
+to be the most advantageous to the County, taking into consideration price and the evaluation
+factors set forth in the RFP. The County reserves the right to make multiple awards as a result
+of this solicitation.

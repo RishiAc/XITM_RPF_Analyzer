@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0157
+Source File: 2-RFP 2000004198.pdf
+Section Title: Contractor shall be compensated for the cost of performance at the rate specified in the contract up to the time of such
+Section Number: None
+Section Type: budget_pricing
+Word Count: 146
+Character Count: 840
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+Contractor shall be compensated for the cost of performance at the rate specified in the contract up to the time of such
+declaration. In no event shall the performing Contractor be entitled to lost profits.
+33
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+c. Pending final determination of a protest or appeal, the validity of a contract awarded and accepted in good faith in accordance
+with this article shall not be affected by the fact that a protest or appeal has been filed.
+d. An award need not be delayed for the period allowed a bidder or offeror to protest, but in the event of a timely protest, no
+further action to award the contract will be taken unless there is a written determination that proceeding without delay is
+necessary to protect the public interest or unless the bid or offer would expire.

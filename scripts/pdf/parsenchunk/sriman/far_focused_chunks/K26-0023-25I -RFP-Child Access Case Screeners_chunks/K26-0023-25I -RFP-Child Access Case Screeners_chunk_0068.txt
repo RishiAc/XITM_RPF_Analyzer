@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0068
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: e. Offeror Resource(s) Skills, Experience, Capabilities & Qualifications: Offeror shall identify
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 74
+Character Count: 575
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+e. Offeror Resource(s) Skills, Experience, Capabilities & Qualifications: Offeror shall identify
+the skills, experience, capabilities, and qualifications to be utilized under the contract.
+Specifically, the Offeror shall:
+(1) Describe in detail how the proposed resource(s) skills, experience, capabilities, and
+qualifications relate to their specific responsibilities. Offeror’s description shall
+establish the proposed resource(s) is/are capable to perform the services requested
+in this RFP.
+i Offerors shall ensure that the description of the proposed resource(s) skills,

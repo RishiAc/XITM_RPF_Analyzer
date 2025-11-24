@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0096
+Source File: 2-RFP 2000004198.pdf
+Section Title: 13.2. No attempt shall be made by any offeror to contact members of the Selection Advisory
+Section Number: 13.2.
+Section Type: general
+Word Count: 8
+Character Count: 62
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Committee (“SAC”) about this procurement (ref. Section 18.3.).

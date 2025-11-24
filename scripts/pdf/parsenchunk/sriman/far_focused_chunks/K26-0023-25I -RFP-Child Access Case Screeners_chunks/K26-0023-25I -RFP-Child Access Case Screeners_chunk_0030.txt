@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0030
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: peripherals, etc.), that have been provided to the Successful Offeror at the AOC’s cost. All
+Section Number: None
+Section Type: budget_pricing
+Word Count: 153
+Character Count: 986
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+peripherals, etc.), that have been provided to the Successful Offeror at the AOC’s cost. All
+AOC issued assets are required to be surrendered to the AOC within five (5) business days
+of the termination of services. Assets will be subject to evaluation and can include normal
+and expected wear and tear but must be functional and operable. Assets that do not meet this
+condition may be subject to additional charge to the Successful Offeror. Successful Offeror
+shall be liable to the AOC for all assets not surrendered.
+T. REQUIRED POLICIES, GUIDELINES, AND METHODOLOGIES
+The Offeror shall be required to comply with all applicable laws, regulations, policies, standards and
+guidelines affecting information technology projects, which may be created or changed periodically by the
+AOC. The Offeror shall adhere to and remain abreast of current, new, and revised laws, regulations, policies,
+standards and guidelines affecting project execution. These may include, but are not limited to:

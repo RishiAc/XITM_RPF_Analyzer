@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0146
+Source File: 2-RFP 2000004198.pdf
+Section Title: the business entity fails to remain in compliance with the provisions of this section.
+Section Number: None
+Section Type: security_compliance
+Word Count: 121
+Character Count: 797
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+the business entity fails to remain in compliance with the provisions of this section.
+62. COVENANT AGAINST CONTINGENT FEES-The Contractor warrants that no person or selling agency has been employed or
+retained to solicit or secure this contract upon an agreement or understanding for a commission, percentage, brokerage, or
+contingent fee, except bona fide employees or bona fide established commercial or selling agencies maintained by the Contractor
+for the purpose of securing business. For violation of this warranty, the County shall have the right to terminate or suspend this
+contract without liability to the County or in its discretion to deduct from the contract price or consideration, or otherwise recover,
+the full amount of such commission, percentage, brokerage, or contingent fee.

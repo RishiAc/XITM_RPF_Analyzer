@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0115
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.6. Proposal Evaluation Criteria:
+Section Number: 18.6.
+Section Type: evaluation_criteria
+Word Count: 30
+Character Count: 205
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+The following factors will be considered in the award of this contract(s):
+IT Staff Augmentation (out of 100 points):
+• Qualification of firm with appropriately qualified and experienced personnel (Special

@@ -1,0 +1,41 @@
+=== RFP PROCESSING SUMMARY ===
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Total Sections: 21
+Total Chunks: 21
+Total Characters: 74546
+
+=== SECTION BREAKDOWN ===
+Section Types Found:
+  - evaluation_criteria: 1 chunks
+  - general: 9 chunks
+  - insurance_warranty: 2 chunks
+  - scope_of_work: 1 chunks
+  - submission_requirements: 3 chunks
+  - technical_requirements: 2 chunks
+  - vendor_qualifications: 3 chunks
+
+=== GOVERNMENT POLICY REFERENCES ===
+  No government policy references found
+
+=== CHUNK LIST ===
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0001: General (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0002: Q. OFFEROR SECURITY REQUIREMENTS ..................................................................................................... 7 (technical_requirements)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0003: SECTION III. SCOPE OF WORK ..................................................................................................................... 18 (scope_of_work)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0004: Attachment N – Bidder/Offeror Resource Experience (vendor_qualifications)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0005: 12. Procurement Portals – Strategic sourcing software allowing the Judiciary to receive and evaluate bids (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0006: 1. Before an entity can do business in the State of Maryland, it must be registered with the Department (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0007: 2. The Offeror, their employees, subcontractors, and agents shall be held directly responsible for any (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0008: 1. Successful Offeror may be required to submit the following information for AOC engagements for (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0009: 12. During the contract, if necessary, for the delivery of goods and services, the Successful Offeror may (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0010: 2. General substitution provisions (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0011: 4. Substitution within thirty (30) days after Contract execution (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0012: 3. MBE & VSBE subcontractors are encouraged to attend the Pre-proposal Conference to solicit their (submission_requirements)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0013: 1. An Offeror shall specifically identify those portions of its proposal that it considers confidential, (submission_requirements)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0014: 1. By submitting a proposal in response to this RFP, the Offeror, if selected for award, shall be deemed (submission_requirements)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0015: providing immediate notice to the AOC in the event of cancellation or restriction of the insurance (insurance_warranty)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0016: C. OFFEROR & RESOURCE QUALIFICATIONS (vendor_qualifications)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0017: 1. Offeror proposed resource(s) shall perform with flexible working hours, including evenings and (general)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0018: c. Insurance Acknowledgment: Offeror shall acknowledge they have reviewed the insurance (insurance_warranty)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0019: experience, capabilities, and qualifications clearly demonstrates that the (vendor_qualifications)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0020: 1. Evaluation of the proposals will be performed by a committee established for the purpose of (evaluation_criteria)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0021: performance, financial capacity, technical expertise, or other qualifications bearing (technical_requirements)

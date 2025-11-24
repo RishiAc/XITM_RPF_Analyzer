@@ -1,0 +1,64 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0005
+Source File: rfp_template.pdf
+Section Title: Except as the context otherwise indicates, all references to “Exhibits”, “Attachments” and “Sections” refer to
+Section Number: None
+Phase: P1
+Word Count: 489
+Character Count: 3171
+Line Count: 37
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contract, price, system, espc, electricity, term, esco, except, section, costs
+
+=== CHUNK CONTENT ===
+Except as the context otherwise indicates, all references to “Exhibits”, “Attachments” and “Sections” refer to
+Exhibits, Attachments and Sections of this document.
+A.2 Pre-Proposal Conference and Site Visit
+See Section L.1 for information regarding the <date> pre-proposal conference and site visit.
+Page 7 of 38
+SUPPLIES OR SERVICES AND PRICES/COSTS
+B.1 Contract Line Item Number (CLIN) Description
+[Enter desired contract term in the first sentence (see Section F.1 note). See Section H.3 for more details
+regarding the ESCO’s reserve account, the FMV determination, and title transfer of the PV System. Consult
+with FEMP for assistance and updated information.]
+The <agency> contemplates award of a firm-fixed-price contract for a term of <x> years. The <agency> will
+only pay for kilowatt-hours of electricity delivered – all costs associated with this contract shall be reimbursed
+through the $/kWh price.
+Per the ESPC statute, ESPC ESA payments must come from energy savings generated each year over the life
+of the contract; annual payments may not exceed the amount that the <agency> would have paid for utilities in
+the absence of this ESPC ESA. The price for the electricity purchased from the PV System for the life of the
+contract, < Select one of the following: with no escalation rate, escalated annually at a rate of x% or escalated
+at a rate to be proposed by the Offeror>, must be less than the current and forecasted electricity price,
+including transmission, distribution and all other electricity charges.
+The government has estimated the PV System FMV at the end of the contract term to be $<x> based on <20%
+of estimated PV System cost or other methodology>. Using this FMV estimate and PV System production
+estimates shown in Exhibit 4, the government payment to the ESCO’s reserve account will initially be set to
+<x>$/kWh. This amount will be added to the Offeror’s proposed ESPC ESA price to determine the total ESPC
+ESA price, and for determining whether the ESPC statutory savings requirement is met.
+The Contractor will furnish all planning, management, supervision, labor materials; structural, electrical and
+other engineering services; equipment, materials, tools, (except as otherwise provided) necessary to design,
+finance, construct and own the PV System in accordance with the requirements herein. The Contractor is
+responsible for all operation & maintenance, as well as equipment repair & replacement throughout the term of
+the contract.
+The Contractor is also responsible for monetization of available incentives,5 <add SREC sales if applicable>,
+the cost of meeting all utility interconnection requirements and <add permitting and other applicable
+requirements such as National Historic Preservation Act and glare analysis>.
+The ESCO bears all financial risk for non-performance, except to the extent such non-performance is
+attributable to a temporary shut-down of the facility for repairs, maintenance, or capital improvements. The
+contract price for electricity will not be reduced if ESCO operating costs should diminish.
+All proposed prices must be in the unit indicated, submitted using the Exhibit 2 form.
+B.2 Required CLIN:

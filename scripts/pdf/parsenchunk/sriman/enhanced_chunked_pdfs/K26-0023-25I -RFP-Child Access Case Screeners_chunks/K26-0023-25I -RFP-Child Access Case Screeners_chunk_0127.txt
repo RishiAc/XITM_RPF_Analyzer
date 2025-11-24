@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0127
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. The AOC reserves the right to utilize the services of individuals outside of the established Evaluation
+Section Number: 2.
+Section Type: evaluation_criteria
+Word Count: 43
+Character Count: 300
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Committee for advice and assistance, as deemed appropriate by the Procurement Officer.
+B. TECHNICAL PROPOSAL CRITERIA
+The criteria to be applied to each Technical Proposal are listed in descending order of importance. Unless
+stated otherwise, any sub-criteria within each criterion have equal weight.

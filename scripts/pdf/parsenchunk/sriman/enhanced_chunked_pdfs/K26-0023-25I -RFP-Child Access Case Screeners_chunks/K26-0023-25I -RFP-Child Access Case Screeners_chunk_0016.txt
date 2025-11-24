@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0016
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 11. Procurement Officer – The AOC representative responsible for this solicitation, for the determination
+Section Number: 11.
+Section Type: contract_clauses
+Word Count: 16
+Character Count: 100
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+of contract scope issues, and the only AOC representative who can authorize changes to the contract.

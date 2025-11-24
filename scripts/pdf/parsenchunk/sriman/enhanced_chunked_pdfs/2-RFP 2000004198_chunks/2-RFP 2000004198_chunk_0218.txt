@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0218
+Source File: 2-RFP 2000004198.pdf
+Section Title: e. Pricing Schedule
+Section Number: None
+Section Type: deliverables_timeline
+Word Count: 8
+Character Count: 69
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+f. Any Addenda/Amendments/Memoranda of Negotiations
+26
+RFP 2000004198

@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0041
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 5. All Successful Offeror personnel assigned to work at AOC locations may be required to obtain an
+Section Number: 5.
+Section Type: general
+Word Count: 33
+Character Count: 214
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+AOC security identification badge prior to beginning work, and annually thereafter. The Successful
+Offeror is responsible for any fees that may be incurred for initial issuance of the badge and for any
+replacement.

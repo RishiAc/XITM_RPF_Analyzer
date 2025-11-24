@@ -1,0 +1,21 @@
+Chunk ID: 2-RFP 2000004198_chunk_024
+Section: 10. CONSULTATION SERVICES:
+Section Number: 10
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: consultation, staff, services, contractor
+Word Count: 34
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+10. CONSULTATION SERVICES:
+10.1. The Contractor’s staff must be available for consultation with County staff on an as-needed
+basis between 8:00 A.M. and 4:30 P.M., Eastern Time, Monday through Friday.
+RFP 2000004198
+SPECIAL PROVISIONS

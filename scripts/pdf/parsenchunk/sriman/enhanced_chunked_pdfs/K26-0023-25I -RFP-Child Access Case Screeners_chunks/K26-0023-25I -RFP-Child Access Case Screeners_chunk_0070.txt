@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0070
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Proposals must be received through the Procurement Portal not later than the date and time indicated
+Section Number: 1.
+Section Type: submission_requirements
+Word Count: 23
+Character Count: 162
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+on the solicitation. Offerors shall allow sufficient time to complete the submission process on the
+Procurement Portal. Untimely proposals will not be considered.

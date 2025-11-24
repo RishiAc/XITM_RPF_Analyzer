@@ -1,0 +1,61 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0011
+Source File: 2-RFP 2000004198.pdf
+Section Title: Category: Infrastructure Technical Support, need to provide 20 resumes or bios
+Section Number: None
+Section Type: technical_requirements
+Word Count: 449
+Character Count: 3097
+Line Count: 44
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Category: Infrastructure Technical Support, need to provide 20 resumes or bios
+for employees in each working title listed.)
+8.2. DPMM Cover Sheet (DPMM32) signed
+8.3. Technical Proposal:
+1. Cover Letter: The letter will indicate the principal or officer of the Offeror organization who
+will be the County's primary point of contact during negotiations. This individual must have
+the authority to negotiate all aspects of the scope of services and provisions on behalf of
+the Offeror.
+10
+RFP 2000004198
+SPECIAL PROVISIONS
+2. Understanding of the Statement of Needs: The Offeror must present a description of
+their understanding of the needs of this solicitation. The technical narrative should address
+separately each of the “Statement of Needs” described in the Request for Proposal and
+responses should be keyed to appropriate paragraph numbers providing the following
+information below:
+a. Statement and discussion of the requirements as they are analyzed by the offeror.
+b. Offeror's proposed technical approaches and a detailed outline of the proposed
+program for executing the requirements of the Statement of Needs and achieving
+project objectives.
+c. Preliminary layouts, sketches, diagrams, other graphic representations,
+calculations, and other data as may be necessary for presentation, substantiation,
+justification, or understanding of the Statement of Needs as applicable.
+d. Offeror should demonstrate an awareness of potential difficulties in the completion
+of this undertaking, and a plan for surmounting them. Special attention should be
+given to methodological issues that will be encountered in such a project.
+e. The offeror should include detailed descriptions of activities that are to occur,
+significant milestones, and anticipated deliverables as applicable.
+3. Treatment of the Issues: In this section, the offeror may also comment if deemed
+appropriate, on any aspect of the Request for Proposal, including suggestions on possible
+alternative approaches to the coverage, definition, development, and organization of the
+issues presented in the “Statement of Need” section, and may propose alternative
+approaches.
+4. Statement of Qualifications: The Statement of Qualifications must include the following:
+1. Organizational Experience: Offeror must describe their qualifications and experience
+to perform the work described in this RFP. Responding firms should have direct
+relevant experience in the respective category/field for at least five (5) years from the
+date of this RFP. Proposals will only be accepted from organizations that have directly
+provided staff augmentation services for at least three (3) years within the last five (5)
+years for federal, state, or local governments. Submissions from general staffing firms
+or vendors without demonstrable delivery experience will be disqualified. Responding
+firms must have existing staff in the respective labor category who would be available
+to fulfill Fairfax County needs. Information about experience should include direct
+experience with specific subject matters. The Offeror’s record should reflect from the

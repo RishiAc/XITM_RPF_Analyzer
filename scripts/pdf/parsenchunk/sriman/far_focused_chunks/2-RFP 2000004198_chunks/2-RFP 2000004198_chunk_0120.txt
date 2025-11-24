@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0120
+Source File: 2-RFP 2000004198.pdf
+Section Title: 30. TERMINATION FOR CONVENIENCE-
+Section Number: 30.
+Section Type: contract_clauses
+Word Count: 110
+Character Count: 687
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+30. TERMINATION FOR CONVENIENCE-
+a. A contract may be terminated in whole or in part by the County in accordance with this clause whenever the Purchasing
+Agent determines that such a termination is in the best interest of the County. Any such termination will be effected by
+delivery to the Contractor of a Notice of Termination specifying the extent to which performance is terminated and the date
+upon which termination becomes effective.
+b. An equitable adjustment in the contract price shall be made by the Purchasing Agent for completed service, but no amount
+shall be allowed for anticipated profit on unperformed services. Paragraph 30.b shall survive termination of the contract.

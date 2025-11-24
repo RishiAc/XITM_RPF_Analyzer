@@ -1,0 +1,51 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0038
+Source File: 2-RFP 2000004198.pdf
+Section Title: 64. INELIGIBILITY-
+Section Number: 64.
+Section Type: general
+Word Count: 502
+Character Count: 3069
+Line Count: 34
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+64. INELIGIBILITY-
+a. Any person or firm suspended or debarred from participation in County procurement shall be notified in writing by the
+Purchasing Agent.
+1. The Notice of Suspension shall state the reasons for the actions taken and such decision shall be final unless the person or
+firm appeals within ten (10) days of receipt of the Notice by instituting legal action as provided in the Code of Virginia.
+2. The Notice of Debarment shall state the reasons for the actions taken and the decision shall be final unless the person or
+firm appeals within ten (10) days of receipt of the Notice by instituting legal action as provided in the Code of Virginia.
+b. The Purchasing Agent shall have the authority to suspend or debar a person or firm from bidding on any contract for the
+causes stated below:
+1. Conviction for commission of a criminal offense as an incident to obtaining or attempting to obtain a public or private contract
+or subcontract, or in the performance of such contract or subcontract;
+2. Conviction under state or federal statutes of embezzlement, theft, forgery, bribery, falsification or destruction of records,
+receiving stolen property, or any other offense indicating a lack of business integrity or business honesty which currently,
+seriously, and directly affects responsibility as a County Contractor;
+3. Conviction under the state or federal antitrust statutes arising out of the submission of bids or proposals;
+4. Violation of contract provisions, as set forth below, of a character which is regarded by the Purchasing Agent to be so serious
+as to justify suspension or debarment action:
+a. failure without good cause to perform in accordance with the specifications or within the time limit provided in the
+contract; or
+b. a recent record of failure to perform or of unsatisfactory performance in accordance with the terms of one or more
+32
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+contracts; provided, that failure to perform or unsatisfactory performance caused by acts beyond the control of the
+Contractor shall not be considered to be a basis for suspension or debarment;
+5. Any other cause the Purchasing Agent determines to be so serious and compelling as to affect responsibility as a Contractor,
+such as debarment by another governmental entity for any cause listed herein, or because of prior reprimands;
+6. The contractor has abandoned performance, been terminated for default on a Fairfax County project, or has taken any actions
+that inure to the detriment of Fairfax County or a Fairfax County project ;
+7. The Contractor is in default on any surety bond or written guarantee on which Fairfax County is an obligee.
+c. If, upon appeal, it is determined that the action taken by the Purchasing Agent was arbitrary or capricious, or not in accordance
+with the Constitution of Virginia, statutes or regulations, the sole relief available to the person or firm shall be restoration of
+eligibility. The person or firm may not institute legal action until all statutory requirements have been met.
