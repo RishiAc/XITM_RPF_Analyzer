@@ -1,4 +1,4 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 from api.vector_api import search, SearchBody
 from pprint import pprint
@@ -91,21 +91,33 @@ def _generate_summary(query: str, chunks: list[ChunkResponse]) -> SummaryRespons
     print(response.sources)
 
     return response
-def _process_chunks(res: list[ScoredPoint]) -> list[ChunkResponse]:
-    chunks : list[ChunkResponse] = []
+def _process_chunks(res) -> list[ChunkResponse]:
+    """
+    Convert search() results into ChunkResponse list.
 
-    for chunk in res:
-        chunk = chunk[0]
-        chunk_text = chunk.payload["text"]
-        confidence = chunk.score
+    Handles:
+    - list of dicts from rerank(): [{"text","score",...}, ...]
+    - dict with "results": {"results": [...]} (future-proof)
+    """
+    chunks: list[ChunkResponse] = []
+
+    # If the search result is a dict with "results", unwrap it
+    if isinstance(res, dict):
+        items = res.get("results", [])
+    else:
+        items = res
+
+    for item in items:
+        # item is expected to be a dict like: {"text","score",...}
+        text = item.get("text", "") if isinstance(item, dict) else ""
+        score = float(item.get("score", 0.0)) if isinstance(item, dict) else 0.0
 
         new_chunk = ChunkResponse(
-            chunk_text=chunk_text, 
-            confidence=confidence
+            chunk_text=text,
+            confidence=score
         )
-
         chunks.append(new_chunk)
-    
+
     return chunks
 
 @router.post("/query-rfp")
@@ -122,13 +134,15 @@ def query_rfp(body: QueryBody):
         )
 
         res = search(payload)
+        print("RAW SEARCH RESPONSE:", res)
         chunks = _process_chunks(res)
+        # Defensive: if no chunks returned, return 400 with helpful message
+        if not chunks:
+            raise HTTPException(status_code=400, detail=f"No chunks found for doc_id={body.rfp_doc_id}. Verify the doc_id and that chunks were ingested.")
         response : SummaryResponse = _generate_summary(body.query, chunks)
 
         return response
     
     except Exception as e:
-        print("Error")
-        return {
-            "error": e
-        }, 400
+        print("Error in query_rfp:", type(e).__name__, e)
+        raise HTTPException(status_code=400, detail=str(e))

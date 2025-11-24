@@ -1,4 +1,3 @@
-import React from "react";
 import "./Navbar.css";
 import XITM_logo from "../assets/XITM_logo.png";
 import { useAuth } from "../context/AuthContext";
@@ -21,6 +20,7 @@ const Navbar = () => {
       <div className="nav-links">
         <Link to="/">Home</Link>
         <Link to="/rfps">RFPs</Link>
+        <Link to="/knowledgebase">Knowledge Base</Link>
         {!isLoading && user ? (
           <button className="logout-button" onClick={handleLogout}>
             Log out

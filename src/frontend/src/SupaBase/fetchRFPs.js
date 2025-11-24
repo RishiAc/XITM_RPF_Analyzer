@@ -19,6 +19,6 @@ export async function fetchRFPs() {
     id: row.id,
     title: `RFP ${row.name}`,
   }));
-  console.log(formatted)
+  // console.log(formatted)
   return formatted;
 }

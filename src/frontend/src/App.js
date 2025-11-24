@@ -1,4 +1,3 @@
-import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import RFPsPage from "./pages/RFPsPage";
@@ -7,6 +6,7 @@ import Dashboard from "./pages/Dashboard";
 import LoginPage from "./pages/LoginPage";
 import SignupPage from "./pages/SignupPage";
 import RequireAuth from "./components/RequireAuth";
+import KnowledgeBasePage from "./pages/KnowledgeBasePage";
 
 
 function App() {
@@ -25,6 +25,7 @@ function App() {
           <Route path="/rfps" element={<RFPsPage />} />
           <Route path="/chat/:id" element={<ChatPage />} />
           <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/knowledgebase" element={<KnowledgeBasePage />} />
         </Route>
       </Routes>
     </Router>

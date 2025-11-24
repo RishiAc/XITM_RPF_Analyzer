@@ -1,0 +1,976 @@
+{
+  "pdf_information": [
+    {
+      "source_url": "https://xprotege.com/XITM_capability_statement.pdf",
+      "extracted_information": {
+        "summary": "XITM is a rapidly growing Minority Woman-Owned Small Business IT Firm in Maryland. We deliver strategic IT services and innovative solutions to Federal, State and Commercial customers, specializing in software engineering, integrations, and enterprise-scale implementations. Our expertise combines user-centered design and agile methods to provide secure, impactful solutions for public and private organizations.",
+        "identity_info": {
+          "uei": "WUH2J7JMTEQ3",
+          "cage_code": "10RC0",
+          "legal_business_name": "XITM",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "5052 Dorsey Hall Dr, Ste 203, Ellicott City, MD 21042"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "IT Modernization and Cloud Implementations: Transition to secure cloud environments and improve performance and cost efficiency.",
+            "evidence": "Transition to secure cloud environments and improve performance and cost efficiency."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Data Management and Analytics: Ensuring data quality, security, and compliance; Transforming raw data into usable insights; and Improving data collection and utilization.",
+            "evidence": "Ensuring data quality, security, and compliance; Transforming raw data into usable insights; and Improving data collection and utilization."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Enterprise-Scale ERP Solutions \u2013 SAP and MS Dynamics: Experience with large-scale deployments, secure data integration, and robust performance.",
+            "evidence": "Experience with large-scale deployments, secure data integration, and robust performance."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Artificial Intelligence and Machine Learning: Enhancing decision-making and improving operations using predictive analytics.",
+            "evidence": "Enhancing decision-making and improving operations using predictive analytics."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "User-Centric Design, Agile Project Management & DevOps: UI/UX services, CI/CD pipelines, and cloud-native delivery using AWS and containerized microservices.",
+            "evidence": "UI/UX services, CI/CD pipelines, and cloud-native delivery using AWS and containerized microservices."
+          }
+        ],
+        "compliances": {
+          "has_facility_clearance": null,
+          "has_cmmc": null,
+          "has_nist_800_171": null,
+          "has_iso_9001": null,
+          "has_iso_27001": null,
+          "has_hipaa_relevance": null,
+          "has_fedramp_relevance": null,
+          "has_itar_registration": null
+        },
+        "business_size_information": {
+          "naics": [
+            "541511",
+            "541512",
+            "541519",
+            "541611",
+            "541690",
+            "561990"
+          ],
+          "sba_certs": null,
+          "non_profit": null,
+          "research_institution": null
+        },
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": [
+          {
+            "name": "Pushyami Duvvuri",
+            "role": "",
+            "expertise": ""
+          }
+        ],
+        "specific_technologies": [
+          "AWS",
+          "SAP S/4HANA",
+          "Dynamics 365"
+        ],
+        "specific_industries": [
+          "Federal Government",
+          "State Government"
+        ],
+        "specific_differentiators": [
+          "Hybrid Global Team Structure: Blended onshore/offshore model offering cost-effective solutions while maintaining real-time collaboration.",
+          "Public Sector Experience: Delivered solutions for Federal and state agencies, focusing on citizen-facing usability and secure access.",
+          "Security & Compliance Expertise: Applications developed in line with NIST standards for data security and risk management.",
+          "Cloud-Native & Scalable Architecture: Microservices-based deployments tailored for future-ready expansion and high availability."
+        ]
+      }
+    }
+  ],
+  "webpage_information": [
+    {
+      "source_url": "https://xprotege.com/",
+      "extracted_information": {
+        "summary": "XITM (XProt\u00e9g\u00e9 Institute of Technology and Management) is a technology solutions provider offering AI, ERP, cloud, cybersecurity, data analytics & engineering, digital modernization, and enterprise IT services, with a focus on agile methodologies and customer-centric capabilities.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": "XProt\u00e9g\u00e9 Institute of Technology and Management (XITM)",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "XITM leverages AI to drive smart automation, enhance decision-making, and optimize business processes with advanced machine learning solutions.",
+            "evidence": "XITM leverages AI to drive smart automation, enhance decision-making, and optimize business processes with advanced machine learning solutions."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Our robust IT services streamline infrastructure, improve scalability, and ensure seamless operations for businesses of all sizes.",
+            "evidence": "Our robust IT services streamline infrastructure, improve scalability, and ensure seamless operations for businesses of all sizes."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "We transform legacy systems into agile, future-ready digital solutions, ensuring seamless integration and enhanced efficiency.",
+            "evidence": "We transform legacy systems into agile, future-ready digital solutions, ensuring seamless integration and enhanced efficiency."
+          },
+          {
+            "capability_type": "security_and_protection",
+            "description": "XITM provides cutting-edge security solutions to protect businesses from cyber threats, ensuring data integrity and compliance.",
+            "evidence": "XITM provides cutting-edge security solutions to protect businesses from cyber threats, ensuring data integrity and compliance."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Data analytics and engineering to improve transparency and operational efficiency; interactive KPIs, dashboards, and dynamic reporting.",
+            "evidence": "Data Analytics & Engineering transparency, and operational efficiency. Dive into a world of rich, interactive Key Performance Indicators (KPIs), executive dashboards, and dynamic reporting"
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Experience a seamless transition to the cloud with XITM\u2019s proficient cloud services, including Authority to Operate (ATO).",
+            "evidence": "Cloud Services Experience a seamless transition to the cloud with XITM\u2019s proficient cloud services. Our expertise encompasses offering Authority to Operate (ATO)"
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "ERP implementations tailored to deliver robust ERP solutions for global missions, as described by XITM.",
+            "evidence": "ERP Implementations At XProt\u00e9g\u00e9 Institute of Technology and Management (XITM), we specialize in delivering robust ERP implementation services tailored to the global"
+          }
+        ],
+        "compliances": null,
+        "business_size_information": {
+          "naics": null,
+          "sba_certs": null,
+          "non_profit": null,
+          "research_institution": null
+        },
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": [
+          "Cloud Solutions",
+          "Big Data",
+          "Data Science",
+          "Automation"
+        ],
+        "specific_industries": null,
+        "specific_differentiators": [
+          "Superior Agile Methodology",
+          "Extraordinary Customer Service",
+          "Modern Innovative Solutions",
+          "Specialized Technical Expertise",
+          "Cost-effective Approach"
+        ]
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/about-us/",
+      "extracted_information": {
+        "summary": "XITM is an IT services provider focused on IT staffing and end-to-end product development, aiming to win contracts with the State of Maryland, federal agencies, and the commercial sector. Led by Pushyami Duvvuri, XITM emphasizes excellence, integrity, customer focus, teamwork, and growth, with a mission to deliver staffing solutions and complex projects as a prime contractor.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": "XITM",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": null,
+        "compliances": null,
+        "business_size_information": {
+          "naics": null,
+          "sba_certs": null,
+          "non_profit": null,
+          "research_institution": null
+        },
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": [
+          {
+            "name": "Pushyami Duvvuri",
+            "role": "President, XITM",
+            "expertise": "Founder and president of XITM; President of ITServe Alliance Maryland Chapter; founder of Janayitri Foundation"
+          }
+        ],
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/about-us/corportate-social-responsibility/",
+      "extracted_information": {
+        "summary": "CSR and capabilities overview for Xprotege (XITM) highlighting services in Artificial Intelligence, Cloud Services, Cybersecurity, Data Analytics & Engineering, Digital Modernization, ERP Implementations, Enterprise IT, and Training, along with extensive CSR initiatives with Janayitri Foundation across education, healthcare, environment, women/children empowerment, disaster relief, and community development.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": "Xprotege",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": true,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Artificial Intelligence",
+            "evidence": "The page lists 'Artificial Intelligence' under 'Our Capabilities'."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud Services",
+            "evidence": "The page lists 'Cloud Services' under 'Our Capabilities'."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cybersecurity",
+            "evidence": "The page lists 'Cybersecurity' under 'Our Capabilities'."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Data Analytics & Engineering",
+            "evidence": "The page lists 'Data Analytics & Engineering' under 'Our Capabilities'."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Digital Modernization",
+            "evidence": "The page lists 'Digital Modernization' under 'Our Capabilities'."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "ERP Implementations",
+            "evidence": "The page lists 'ERP Implementations' under 'Our Capabilities'."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Enterprise IT",
+            "evidence": "The page lists 'Enterprise IT' under 'Our Capabilities'."
+          },
+          {
+            "capability_type": "training_and_education",
+            "description": "Training",
+            "evidence": "The page lists 'Training' under 'Our Capabilities'."
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/service/artificial-intelligence/",
+      "extracted_information": {
+        "summary": "Capability statement for XITM emphasizing Artificial Intelligence capabilities, including Generative AI (LLMs), MLOps, NLP, BI, IoT, and RPA, with AWS Bedrock deployments and secure LLM applications. Located in Ellicott City, MD; contact information provided.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": "XITM",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Artificial Intelligence capabilities including Generative AI (LLMs), MLOps, NLP, BI, IoT, and RPA; secure LLM applications; deployment in AWS Bedrock.",
+            "evidence": "Generative AI (LLMs); Machine Learning Operations (MLOps); Natural Language Processing; Business Intelligence; Internet of Things (IoT); Robotic Process Automation (RPA). Secure LLM applications in AWS Bedrock environments."
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": [
+          "Generative AI (LLMs)",
+          "Machine Learning Operations (MLOps)",
+          "Natural Language Processing",
+          "Business Intelligence",
+          "Internet of Things (IoT)",
+          "Robotic Process Automation (RPA)",
+          "Amazon Bedrock"
+        ],
+        "specific_industries": null,
+        "specific_differentiators": [
+          "Secure LLM applications",
+          "AWS Bedrock-based deployments"
+        ]
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/service/cloud-services/",
+      "extracted_information": {
+        "summary": "Cloud services provider offering GovCloud IL6 readiness (ATO support), cloud migration, security, enterprise architecture, and governance, with DoD experience. Located in Ellicott City, MD.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": "XITM",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud Migration: Seamless cloud migration journey with a three-phase approach, analyzing migration goals, designing architecture, tailoring a transition sequence, establishing SLAs, and planning for backup, failover, cut-over, release management, and service transition.",
+            "evidence": "Embark on a seamless cloud migration journey with XITM\u2019s three-phase approach. We meticulously analyze our client \u2018s migration goals, design state-of-the-art architecture, and tailor a transition sequence for our customer applications. Our team establishes clear Service Level Agreements (SLAs), determine Recovery Point Objective (RPO) and Recovery Time Objective (RTO) requirements, and strategizes for backup, failover, cut-over, release management, and service transition."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud Security: Proactive security management to safeguard cloud infrastructure against evolving cybersecurity threats, delivering scalable resilience in the cloud.",
+            "evidence": "Cloud Security In a cloud-driven landscape, security is non-negotiable. XITM is dedicated to safeguarding our client\u2019s cloud infrastructure against evolving cybersecurity threats. Our holistic security management solutions provide proactive and scalable resilience in the cloud."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud Enterprise Architecture: Designing cloud-native architectures to elevate availability and performance, with real-time visibility and cost optimization; IL6 GovCloud environment established for secure federal use.",
+            "evidence": "Cloud Enterprise Architecture Elevate application availability and performance with XITM\u2019s Cloud Enterprise Architecture. Our seasoned cloud architects possess extensive experience in designing cloud-native architectures, ensuring real-time visibility into application performance while optimizing costs. Just as we\u2019ve established a secure cloud environment up to IL6 within GovCloud infrastructure, we empower federal agencies to deliver applications and websites more reliably and securely over the public internet, ensuring an exceptional user experience."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud Governance: Automated visibility and governance of cloud infrastructure, with focus on value delivery, resource optimization, and cloud security.",
+            "evidence": "Cloud Governance At XITM, we recognize that cloud migration is an ongoing journey that demands diligent monitoring and maintenance. Our solution provides automated visibility, enabling comprehensive monitoring and governance of our client\u2019s cloud infrastructure. We prioritize value delivery, resource optimization, and cloud security, enabling you to focus on your core business objectives while we ensure your cloud ecosystem operates at its peak efficiency."
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/service/cybersecurity/",
+      "extracted_information": {
+        "summary": "",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": null,
+          "year_founded": null,
+          "years_of_experience": "With over a decade of experience",
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": true,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cybersecurity solutions including STIG-based hardening and automation on AWS and Azure using Chef to understand and boost security thresholds and cyber preparedness.",
+            "evidence": "Our cybersecurity solutions offer a clear and strategic way to understand and boost our customer\u2019s security thresholds and cyber preparedness; STIG automation solution using Chef on AWS and Azure environments."
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": [
+          "Chef",
+          "DISA STIG",
+          "STIG",
+          "AWS",
+          "Azure"
+        ],
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/service/data-analytics-engineering/",
+      "extracted_information": {
+        "summary": "XITM offers Data Analytics & Engineering capabilities, delivering interactive dashboards, data governance, secure data management, and cloud-native analytics for federal and commercial clients.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": null,
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Data Analytics & Engineering services including interactive KPIs, dashboards, and dynamic reporting; data governance and security protocols; end-to-end cloud-native data management and analytics; and a microservices architecture to support ML/AI initiatives.",
+            "evidence": "\"Dive into a world of rich, interactive Key Performance Indicators (KPIs), executive dashboards, and dynamic reporting tools designed to give our clients a competitive edge.\"; \"Our skilled data scientists leverage Python, PySpark, R, PowerBI, and cloud computing ETL tools to craft and implement tailored analytic solutions, ensuring they align precisely with our customer\u2019s unique business requirements.\"; \"Additionally, XITM excels in deploying end-to-end cloud-native data management and analytic environments, leveraging a microservices architecture.\""
+          }
+        ],
+        "compliances": null,
+        "business_size_information": {
+          "naics": null,
+          "sba_certs": null,
+          "non_profit": null,
+          "research_institution": null
+        },
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": [
+          "Python",
+          "PySpark",
+          "R",
+          "PowerBI",
+          "Azure",
+          "AWS",
+          "GCP",
+          "ETL tools"
+        ],
+        "specific_industries": [
+          "Federal government",
+          "Commercial"
+        ],
+        "specific_differentiators": [
+          "Robust data governance and security protocols",
+          "Cutting-edge data science frameworks",
+          "End-to-end cloud-native data management and analytic environments leveraging a microservices architecture"
+        ]
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/service/digital-modernization/",
+      "extracted_information": {
+        "summary": "Capability statement for XITM highlighting digital modernization and hosting in Azure and AWS GovCloud (PaaS), with services in Artificial Intelligence, Cloud Services, Cybersecurity, Data Analytics & Engineering, Digital Modernization, ERP Implementations, and Enterprise IT Training.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": null,
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Artificial Intelligence capabilities described as a core capability.",
+            "evidence": "\"Artificial Intelligence\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud services including modernization and hosting on Azure and AWS GovCloud in a PaaS environment.",
+            "evidence": "\"Cloud Services\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cybersecurity capability listed as a core service.",
+            "evidence": "\"Cybersecurity\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Data analytics and engineering capabilities.",
+            "evidence": "\"Data Analytics & Engineering\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Digital modernization strategy and services leveraging GovCloud and enterprise cloud.",
+            "evidence": "\"Digital Modernization\""
+          },
+          {
+            "capability_type": "professional",
+            "description": "ERP implementations.",
+            "evidence": "\"ERP Implementations\""
+          },
+          {
+            "capability_type": "training_and_education",
+            "description": "Enterprise IT training.",
+            "evidence": "\"Enterprise IT Training\""
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/service/erp-implementations/",
+      "extracted_information": {
+        "summary": "XProt\u00e9g\u00e9 Institute of Technology and Management (XITM) specializes in end-to-end ERP implementations, including SAP and Microsoft Dynamics 365 & Power Platform. The company offers global SAP implementations, consulting services, license procurement, and managed services, as well as Dynamics 365 & Power Platform consulting, licensing, implementations, and managed services to enable digital transformation and scalable cloud ERP/CRM solutions.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": "XProt\u00e9g\u00e9 Institute of Technology and Management (XITM)",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Global SAP Implementations: Deployment and integration of SAP solutions across complex, multi-country environments; Consulting Services: Expert guidance to align SAP capabilities with business objectives, optimize processes, and drive digital; License Procurement: Support in selecting and acquiring the right SAP licenses for your organization\u2019s current and future needs; Managed Services: Ongoing system monitoring, maintenance, and optimization to ensure long-term performance, scalability, and compliance.",
+            "evidence": "Global SAP Implementations: Deployment and integration of SAP solutions across complex, multi-country environments. Consulting Services: Expert guidance to align SAP capabilities with business objectives, optimize processes, and drive digital. License Procurement: Support in selecting and acquiring the right SAP licenses for your organization\u2019s current and future needs. Managed Services: Ongoing system monitoring, maintenance, and optimization to ensure long-term performance, scalability, and compliance."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Microsoft Dynamics 365 & Power Platform \u2013 Global Consulting Services, Licenses, Implementations & Managed Services. Services include Global Consulting & Strategy; Implementation Services; License Management; Managed Services.",
+            "evidence": "Microsoft Dynamics 365 & Power Platform \u2013 Global Consulting Services, Licenses, Implementations & Managed Services XITM enables organizations to thrive in a digital-first economy through Microsoft Dynamics 365 and Power Platform solutions. Our services include: Global Consulting & Strategy: Tailored advisory to define and implement business processes using Dynamics 365 for Finance, Sales, Customer Service, and more. Implementation Services: End-to-end setup and customization of Dynamics 365 and Power Platform to meet unique operational goals. License Management: Assistance in identifying, procuring, and managing Microsoft licensing for optimal value and compliance. Managed Services: Continuous support, enhancements, and platform management to keep your Dynamics 365 environment agile and secure."
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/service/enterprise-it/",
+      "extracted_information": {
+        "summary": "Capability statement for XITM detailing IT sustainment, cybersecurity, RMF support, accreditation assistance, enhancement, and modernization services for federal agencies, including ITSM, round-the-clock help desk, agile change management, and configuration management.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": null,
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "professional",
+            "description": "IT sustainment, cybersecurity, RMF support, accreditation assistance, enhancement, and modernization services provided to federal agencies.",
+            "evidence": "XITM has a proven track record of providing IT sustainment, cybersecurity, RMF support, accreditation assistance, enhancement, and modernization services to federal agencies. Our help desk is a round-the-clock IT support buddy, operating 24/7 to keep client systems running seamlessly. Following the IT Service Management (ITSM) principles and the ITIL framework, we ensure each query is met with a swift and expert response. With DISA STIGs, we maintain compliance across environments."
+          }
+        ],
+        "compliances": {
+          "has_facility_clearance": null,
+          "has_cmmc": null,
+          "has_nist_800_171": null,
+          "has_iso_9001": null,
+          "has_iso_27001": null,
+          "has_hipaa_relevance": null,
+          "has_fedramp_relevance": null,
+          "has_itar_registration": null
+        },
+        "business_size_information": {
+          "naics": null,
+          "sba_certs": null,
+          "non_profit": null,
+          "research_institution": null
+        },
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/service/training/",
+      "extracted_information": {
+        "summary": "",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": null,
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "training_and_education",
+            "description": "Training services including classroom or instructor-led training, hands-on/interactive methods, computer-based training (CBT), and online/e-learning; coverage includes Project Management, Information Technology, and Business Development.",
+            "evidence": "Training offerings include classroom or instructor-led sessions, hands-on interactive methods, CBT, and online/e-learning. The scope covers key areas such as Project Management, Information Technology, and Business Development, with Project Management training focusing on methodologies like PMP, Agile, and Scrum."
+          },
+          {
+            "capability_type": "professional",
+            "description": "XITM excels in business management services, focusing on requirement development, use case modeling, and business process modeling.",
+            "evidence": "XITM excels in business management services, focusing on requirement development, use case modeling, and business process modeling."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Note: This entry is intentionally left blank as the primary explicit capabilities on the page are Training & Professional services; engineering/science capabilities are not explicitly described.",
+            "evidence": ""
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/about-us",
+      "extracted_information": {
+        "summary": "Capability statement for XITM highlighting capabilities in Artificial Intelligence, Cloud Services, Cybersecurity, Data Analytics & Engineering, Digital Modernization, ERP Implementations, Enterprise IT, and Training; leadership includes Pushyami Duvvuri.",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": null,
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Artificial Intelligence",
+            "evidence": "\"Artificial Intelligence\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud Services",
+            "evidence": "\"Cloud Services\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cybersecurity",
+            "evidence": "\"Cybersecurity\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Data Analytics & Engineering",
+            "evidence": "\"Data Analytics & Engineering\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Digital Modernization",
+            "evidence": "\"Digital Modernization\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "ERP Implementations",
+            "evidence": "\"ERP Implementations\""
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Enterprise IT",
+            "evidence": "\"Enterprise IT\""
+          },
+          {
+            "capability_type": "training_and_education",
+            "description": "Training",
+            "evidence": "\"Training\""
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": [
+          {
+            "name": "Pushyami Duvvuri",
+            "role": "President, XITM; President \u2013 ITServe Alliance, Maryland Chapter; Founder \u2013 Janayitri Foundation",
+            "expertise": "IT leadership, business innovation, community impact"
+          }
+        ],
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/services",
+      "extracted_information": {
+        "summary": ":",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": "XProt\u00e9g\u00e9 Institute of Technology and Management (XITM)",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Artificial Intelligence capabilities with transformative power and seamless integration of Artificial Intelligence (AI) as described on the page.",
+            "evidence": "Artificial Intelligence Discover the transformative power of Artificial Intelligence (AI) at XITM, revolutionizing the technology landscape. Our expertise lies in seamlessly integrating..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud services enabling seamless transition to the cloud, including Authority to Operate (ATO) support.",
+            "evidence": "Cloud Services Experience a seamless transition to the cloud with XITM\u2019s proficient cloud services. Our expertise encompasses offering Authority to Operate (ATO)..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cybersecurity solutions to enhance security and trust for organizations.",
+            "evidence": "Cybersecurity At XITM, we\u2019re all about enhancing security and trust for organizations and the communities they serve. Our cybersecurity solutions offer..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Data analytics, KPI dashboards, executive dashboards, and dynamic reporting.",
+            "evidence": "Data Analytics & Engineering transparency, and operational efficiency. Dive into a world of rich, interactive Key Performance Indicators (KPIs), executive dashboards, and dynamic reporting..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Digital modernization leveraging GovCloud and Enterprise to improve efficiency, reduce costs, and heighten security.",
+            "evidence": "Digital Modernization is our pathway to improved efficiency, reduced costs, heightened security, and empowered mission-critical endeavors. Leveraging GovCloud and Enterprise..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Enterprise IT sustainment, cybersecurity, RMF support, accreditation assistance, enhancement, and modernization services.",
+            "evidence": "Enterprise IT XITM has a proven track record of providing IT sustainment, cybersecurity, RMF support, accreditation assistance, enhancement, and modernization services to..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "ERP implementation services tailored for the global market.",
+            "evidence": "ERP Implementations At XProt\u00e9g\u00e9 Institute of Technology and Management (XITM), we specialize in delivering robust ERP implementation services tailored to the global..."
+          },
+          {
+            "capability_type": "training_and_education",
+            "description": "Training services including classroom or instructor-led sessions, interactive methods, and hands-on training.",
+            "evidence": "Training Classroom or Instructor-Led Training: Engaging, live sessions with experienced instructors. Interactive Methods: Hands-on learning that fosters active participation and skill-building. Hands-On Training: Real-world..."
+          }
+        ],
+        "compliances": null,
+        "business_size_information": null,
+        "case_studies": null,
+        "past_performance": null,
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    },
+    {
+      "source_url": "https://xprotege.com/services/",
+      "extracted_information": {
+        "summary": "",
+        "identity_info": {
+          "uei": null,
+          "cage_code": null,
+          "legal_business_name": "XProt\u00e9g\u00e9 Institute of Technology and Management (XITM)",
+          "year_founded": null,
+          "years_of_experience": null,
+          "number_of_employees": null,
+          "locations": [
+            {
+              "is_headquarters": null,
+              "state": "MD",
+              "city": "Ellicott City",
+              "zipcode": "21042",
+              "full_address": "Ellicott City, MD 21042 USA"
+            }
+          ]
+        },
+        "capabilities": [
+          {
+            "capability_type": "engineering_and_science",
+            "description": "AI integration and related advanced analytics capabilities.",
+            "evidence": "Discover the transformative power of Artificial Intelligence (AI) at XITM, revolutionizing the technology landscape. Our expertise lies in seamlessly integrating..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cloud services with Authority to Operate (ATO) support.",
+            "evidence": "Cloud Services Experience a seamless transition to the cloud with XITM\u2019s proficient cloud services. Our expertise encompasses offering Authority to Operate (ATO)..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Cybersecurity solutions for organizations and communities served by XITM.",
+            "evidence": "Cybersecurity At XITM, we\u2019re all about enhancing security and trust for organizations and the communities they serve. Our cybersecurity solutions offer..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Data analytics, KPIs, dashboards, and dynamic reporting for transparency and efficiency.",
+            "evidence": "Data Analytics & Engineering transparency, and operational efficiency. Dive into a world of rich, interactive Key Performance Indicators (KPIs), executive dashboards, and dynamic reporting..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Digital modernization leveraging GovCloud and enterprise IT modernization.",
+            "evidence": "Digital Modernization is our pathway to improved efficiency, reduced costs, heightened security, and empowered mission-critical endeavors. Leveraging GovCloud and Enterprise..."
+          },
+          {
+            "capability_type": "engineering_and_science",
+            "description": "Enterprise IT sustainment, cybersecurity, RMF support, accreditation assistance, enhancement, and modernization services.",
+            "evidence": "XITM has a proven track record of providing IT sustainment, cybersecurity, RMF support, accreditation assistance, enhancement, and modernization services to..."
+          },
+          {
+            "capability_type": "professional",
+            "description": "ERP implementation services tailored to global needs.",
+            "evidence": "ERP Implementations At XProt\u00e9g\u00e9 Institute of Technology and Management (XITM), we specialize in delivering robust ERP implementation services tailored to the global..."
+          },
+          {
+            "capability_type": "training_and_education",
+            "description": "Classroom or Instructor-Led Training with interactive methods and hands-on training.",
+            "evidence": "Training Classroom or Instructor-Led Training: Engaging, live sessions with experienced instructors. Interactive Methods: Hands-on learning that fosters active participation and skill-building. Hands-On Training: Real-world..."
+          }
+        ],
+        "compliances": {
+          "has_facility_clearance": null,
+          "has_cmmc": null,
+          "has_nist_800_171": null,
+          "has_iso_9001": null,
+          "has_iso_27001": null,
+          "has_hipaa_relevance": null,
+          "has_fedramp_relevance": null,
+          "has_itar_registration": null
+        },
+        "business_size_information": {
+          "naics": null,
+          "sba_certs": null,
+          "non_profit": null,
+          "research_institution": null
+        },
+        "case_studies": null,
+        "past_performance": {
+          "agency_customers": null,
+          "contract_vehicles": null
+        },
+        "patents": null,
+        "personnel_information": null,
+        "specific_technologies": null,
+        "specific_industries": null,
+        "specific_differentiators": null
+      }
+    }
+  ]
+}
