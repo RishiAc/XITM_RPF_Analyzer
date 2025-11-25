@@ -1,5 +1,6 @@
 // src/api/uploadPDF.js
 import { createClient } from "@supabase/supabase-js";
+import { client } from "./client.js";
 
 // Initialize Supabase client (still fine to have for future use)
 const supabaseUrl = process.env.REACT_APP_SUPABASE_URL;
@@ -18,7 +19,7 @@ if (supabaseUrl && supabaseKey) {
  * Upload a PDF and send it to FastAPI for Supabase + Qdrant processing
  * @param {File} file - PDF file
  */
-import { client } from "./client.js";
+
 
 export async function uploadPDF(file) {
   if (!file) throw new Error("No file provided");
