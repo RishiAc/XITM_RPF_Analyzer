@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0094
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: acceptance and/or approval of any insurance by the Procurement Officer, and shall not be construed
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 21
+Character Count: 131
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+as relieving or excusing the Successful Offeror from any liability or obligation imposed upon it by
+the provisions of the Contract.

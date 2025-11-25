@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0238
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 66
+Character Count: 417
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+The Contractor shall submit its invoice at such reduced prices indicating on the invoice that the reduction is pursuant to the "Price
+Reduction" provision of the contract documents. The Contractor will also within ten days of any general price reduction notify
+the Purchasing Agent of such reduction by letter. FAILURE TO DO SO MAY RESULT IN TERMINATION OF THE CONTRACT.

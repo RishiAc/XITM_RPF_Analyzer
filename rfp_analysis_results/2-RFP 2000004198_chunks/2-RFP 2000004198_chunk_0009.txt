@@ -1,0 +1,77 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0009
+Source File: 2-RFP 2000004198.pdf
+Section Title: (i.e. scope of work (SOW), quote, proposal, etc.).
+Section Number: None
+Phase: P2
+Word Count: 476
+Character Count: 3134
+Line Count: 50
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: county, proposal, offeror, staff, should, access, technical, signed, provisions, needs
+
+=== CHUNK CONTENT ===
+(i.e. scope of work (SOW), quote, proposal, etc.).
+9
+RFP 2000004198
+SPECIAL PROVISIONS
+6.8. The Offeror shall describe how their company ensures staff stays up to date with technology
+and their program to maintain IT certification, demonstrating continued involvement in the
+industry and commitment to developing skills and knowledge, and participating in activities to
+keep the offeror up to date on changes in the profession, such as policy, technology, and
+tradecraft.
+7. COUNTY’S RESPONSIBILITIES:
+7.1. For IT Staff Augmentation the County will either specify in its request or give the firm fifteen
+(15) calendar days’ notice when a specific engagement under this contract(s) is to be
+terminated and the professional(s) are no longer needed.
+7.2. IT Staff Augmentation: The County should provide the equipment required for tasks to be
+performed; unless otherwise specified when a task is issued, typically a Windows device and
+printer access via a shared network, network access, and a Contractor e-mail account. The
+County should provide necessary work supplies, workspace, and access to a communication
+device for Fairfax County and FCPS purposes. Consultants should use their company or
+personal equipment for access to his/her company access needs. Any communications and
+data done on the County network is the property of Fairfax County.
+7.3. The County reserves the right to approve and dismiss Contractor Staff.
+8. TECHNICAL PROPOSAL INSTRUCTIONS:
+The offeror must submit the Technical Proposal for IT Staff Augmentation services as instructed in
+Bonfire (Euna) containing the following information, in searchable, PDF format. This information will be
+considered the minimum content of the proposal. Proposal contents shall be arranged in the same
+order and identified with headings as presented herein.
+8.1. Minimum Pre-Qualifications:
+• Attachment I (signed and completed)
+• Documentation reflects firm having been in business for a minimum of 5 years
+• Attachment D (signed and completed)
+• Attachment E (signed and completed)
+• Attachment F, G, H (signed and completed)
+• Resumes or Bios verification of employees in working titles for a Labor Category
+listed in Exhibit A (ref. Special Provisions, paragraph 2.5.) (example Labor
+Category: Infrastructure Technical Support, need to provide 20 resumes or bios
+for employees in each working title listed.)
+8.2. DPMM Cover Sheet (DPMM32) signed
+8.3. Technical Proposal:
+1. Cover Letter: The letter will indicate the principal or officer of the Offeror organization who
+will be the County's primary point of contact during negotiations. This individual must have
+the authority to negotiate all aspects of the scope of services and provisions on behalf of
+the Offeror.
+10
+RFP 2000004198
+SPECIAL PROVISIONS
+2. Understanding of the Statement of Needs: The Offeror must present a description of
+their understanding of the needs of this solicitation. The technical narrative should address
+separately each of the “Statement of Needs” described in the Request for Proposal and
+responses should be keyed to appropriate paragraph numbers providing the following
+information below:

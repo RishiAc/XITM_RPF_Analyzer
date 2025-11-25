@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0038
+Source File: 2-RFP 2000004198.pdf
+Section Title: right to access its data without undue interference or additional cost.
+Section Number: None
+Section Type: budget_pricing
+Word Count: 92
+Character Count: 599
+Line Count: 8
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+5.5.6. Data owned by Fairfax County may not be used by the Contractor for any purposes
+without the express written consent of the appropriate County representative. Data
+covered under specific federal, state and local privacy laws are confidential. Any
+breach of privacy is cause for termination of contract.
+5.5.7. Data Access (Off-Premise): If the solution is hosted outside the County’s network
+the County requires 24/7 access to all data and all communications, transactions,
+and all other records of business concerning the software in relation to the agencies
+that utilize and/or access HCSIS.

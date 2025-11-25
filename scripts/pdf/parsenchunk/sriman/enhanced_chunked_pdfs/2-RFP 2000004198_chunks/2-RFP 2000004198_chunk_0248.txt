@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0248
+Source File: 2-RFP 2000004198.pdf
+Section Title: 51. PACKING SLIPS OR DELIVERY TICKETS-All shipments must be accompanied by Packing Slips or Delivery Tickets and must
+Section Number: 51.
+Section Type: general
+Word Count: 26
+Character Count: 164
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+contain the following information for each item delivered:
+a. The Purchase Order Number,
+b. The Name of the Article and Stock Number (Supplier's),
+29
+RFP 2000004198

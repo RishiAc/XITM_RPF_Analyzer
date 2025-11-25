@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0053
+Source File: 2-RFP 2000004198.pdf
+Section Title: 12.2. The offeror must identify the data or other materials to be protected and state the
+Section Number: 12.2.
+Section Type: general
+Word Count: 99
+Character Count: 655
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+12.2. The offeror must identify the data or other materials to be protected and state the
+reasons why protection is necessary. Disposition of material after award(s) should be stated
+by the offeror.
+12.3. Request for Protection of Trade Secrets or Proprietary Information (Attachment A3) is
+provided as a courtesy to assist offerors desiring to protect trade secrets or proprietary
+information from disclosure under the Virginia Freedom of Information Act.
+12.4. The classification of an entire proposal document, line-item prices, and/or total proposal prices
+as proprietary or trade secrets is not acceptable and may result in rejection of the proposal.

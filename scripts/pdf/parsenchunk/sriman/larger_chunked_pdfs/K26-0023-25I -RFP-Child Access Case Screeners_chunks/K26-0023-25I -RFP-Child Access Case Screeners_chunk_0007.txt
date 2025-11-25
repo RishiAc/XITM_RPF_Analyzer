@@ -1,0 +1,60 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0007
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. The Offeror, their employees, subcontractors, and agents shall be held directly responsible for any
+Section Number: 2.
+Section Type: general
+Word Count: 486
+Character Count: 3343
+Line Count: 43
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+2. The Offeror, their employees, subcontractors, and agents shall be held directly responsible for any
+damage caused by their action or inaction to privately-owned property and shall hold the State of
+Maryland harmless for such damages.
+Q. OFFEROR SECURITY REQUIREMENTS
+1. The Successful Offeror, and all Successful Offeror personnel and subcontractor personnel assigned
+to the Contract, must comply with all applicable federal and state laws, regulations, policies, and
+AOC policies and procedures for the duration of the contract.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 7
+2. The Successful Offeror must comply with the Judicial Information Systems (JIS) Information
+Security Policy. The Information Security Policy closely aligns with guidelines published by the
+National Institute of Standards and Technology. The Information Security Policy is available online
+at: http://www.mdcourts.gov/procurement/index.html.
+3. The AOC reserves the right to monitor all applicable computer and electronic equipment usage for
+compliance with its policies.
+R. ACCESS TO AOC INFORMATION TECHNOLOGY SYSTEMS
+1. The Successful Offeror’s personnel shall complete all required paperwork as directed for access to
+any AOC information systems.
+2. The Successful Offeror shall ensure the list of authorized Offeror personnel is always maintained
+and accurate. The system access rights of Successful Offeror personnel must be updated no later than
+twenty-four (24) hours after notification of the change in status; therefore, the Successful Offeror
+shall immediately notify the Contract Manager and JIS Information Security of any termination of
+Successful Offeror personnel or if any approved Successful Offeror personnel no longer require
+access to an AOC system. The AOC security identification badge and all issued AOC assets must be
+immediately returned to the Contract Manager.
+3. To ensure compliance with the JIS Information Security Policy, the approval, configuration, and
+monitoring of secured remote access into AOC systems will be processed by JIS staff. All remote
+connections that utilize a shared infrastructure must utilize encryption for transmission of data and
+authentication.
+4. Any software used to meet the requirements of this solicitation, on any AOC system, must be
+included in the Offeror’s technical proposal. Software must be assessed by JIS and approved by the
+JIS Chief Information Officer. At the discretion of JIS, proposed software may be determined to be
+a risk to system and information integrity security controls and therefore rejected. If software is to
+be used remotely, the Judiciary shall control the method of access to our network via Virtual Private
+Network (VPN), firewall configurations, and/or segregating remote machine access within our
+environment.
+5. Offerors using an As-a-Service (e.g., infrastructure, software, platform, hardware) subservice hosting
+provider (e.g., Microsoft Azure, Amazon Web Services, Google Cloud Platform) must submit a
+current Service Organization Control (SOC) 2 Type II report, or equivalent (as determined by the
+AOC), for the subservice and for the As-a-Service service provider. A SOC 2 Type II report for the
+subservice alone does not meet the requirements of this solicitation.
+S. ACCESS AND BACKGROUND CHECKS

@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0049
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. By submitting a proposal in response to this RFP, the Offeror, if selected for award, agrees that it
+Section Number: 4.
+Section Type: submission_requirements
+Word Count: 90
+Character Count: 562
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+4. By submitting a proposal in response to this RFP, the Offeror, if selected for award, agrees that it
+will comply with all federal, State, and local laws applicable to its activities and obligations under
+the contract.
+M. ACCEPTANCE OF SERVICES
+1. The Contract Manager or his/her designated representative has authority to determine the acceptable
+level of service.
+2. When the Contact Manager or his/her designee determines that the Successful Offeror service is
+unsatisfactory, the Successful Offeror shall return to the site at the request of the AOC, or an

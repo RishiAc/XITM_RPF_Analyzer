@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0132
+Source File: 2-RFP 2000004198.pdf
+Section Title: a. If the liability insurance purchased by the Contractor has been issued on a "claims made"
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 34
+Character Count: 225
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+basis, the Contractor must comply with the following additional conditions. The limit of
+liability and the extensions to be included as described previously in these provisions,
+remain the same.
+b. The Contractor must either:

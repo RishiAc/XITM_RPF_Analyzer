@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0022
+Source File: 2-RFP 2000004198.pdf
+Section Title: personnel. The offeror will describe their organizational experience in delivering
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 11
+Character Count: 81
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+services and solutions in the particular labor category. Submissions from general

@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0221
+Source File: 2-RFP 2000004198.pdf
+Section Title: 25. PROMPT PAYMENT DISCOUNT-
+Section Number: 25.
+Section Type: general
+Word Count: 165
+Character Count: 1033
+Line Count: 10
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Unless otherwise specified in the solicitation, prompt payment discounts requiring payment in less than fifteen (15) days will
+not be considered in evaluating a bid for award. However, even though not considered in the evaluation, such discounts will
+be taken if payment is to be made within the discount period.
+b. If a discount for prompt payment is allowed, the discount period will begin on the date of receipt of a properly completed
+invoice or acceptance of materials or services, whichever is later.
+c. For determining acceptance of supplies in accordance with the provisions of the prompt payment discount paragraph,
+inspection and acceptance shall be accomplished only after examination (including testing) of supplies and services to
+determine whether the supplies and services conform to the contract requirements.
+For the purpose of earning the discount, payment is deemed to be made as of the date of mailing of the County check or issuance
+of an Electronic Funds Transfer, or completion of a credit card transaction.

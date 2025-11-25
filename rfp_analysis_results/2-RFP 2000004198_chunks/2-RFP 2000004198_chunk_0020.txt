@@ -1,0 +1,87 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0020
+Source File: 2-RFP 2000004198.pdf
+Section Title: County may further amend the contract by mutual agreement for any increase in the cost of
+Section Number: None
+Phase: P4
+Word Count: 644
+Character Count: 4262
+Line Count: 60
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: SMALL_BUSINESS
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contract, county, public, contractor, body, shall, agent, quality, control, final
+
+=== CHUNK CONTENT ===
+County may further amend the contract by mutual agreement for any increase in the cost of
+performance of the contract (excluding profit) resulting solely from the delay or suspension of
+the contract. No adjustment shall be made under this clause for any delay or interruption
+resulting from any other cause, including the fault or negligence of the Contractor.
+23.3. The Contractor shall continue its work on other phases of the project or contract, if in the sole
+discretion of the County Purchasing Agent such work is not impacted by the County’s delay,
+suspension, or interruption. All changes to the work plan or project milestones shall be reflected
+in writing as a contract amendment.
+20
+RFP 2000004198
+SPECIAL PROVISIONS
+24. ACCESS TO AND INSPECTION OF WORK:
+24.1. The Fairfax County Procurement Agent, Chief Technical Officer, departments, or their
+respective authorized designees will, at all times, have access to the work being performed
+under this contract wherever it may be in progress or preparation.
+25. OTHER SERVICES:
+25.1. The Contractor must establish formal evaluation and quality control procedures to monitor each
+facet of the final contract. The evaluation and quality control procedures must provide sufficient
+information to allow the County's administrators to monitor the program's progress and
+effectiveness. The County's administrators will use the quality control report to evaluate the
+effectiveness of the program on an annual basis. The Contractor will submit the quality control
+report to the Contract Administrator identified in the final contract not later than January 1 of
+each contract year.
+26. DATA SOURCES:
+26.1. The County will provide the Contractor all available data possessed by the County that relates
+to this contract. However, the Contractor is responsible for all costs for acquiring other data or
+processing, analyzing, or evaluating County data.
+27. SAFEGUARDS OF INFORMATION:
+27.1. Unless approved in writing by the County Procurement Agent, the Contractor may not sell or
+give to any individual or organization any information, reports, or other materials given to,
+prepared, or assembled by the Contractor under the final contract.
+28. ORDER OF PRECEDENCE:
+28.1. In the event of conflict, the Acceptance Agreement (provided at contract award) and the Special
+Provisions shall take precedence over the General Conditions and Instructions to Bidders,
+(Appendix A).
+29. SUBCONTRACTING:
+29.1. If one or more subcontractors are required, the contractor is encouraged to utilize small,
+minority-owned, and women-owned business enterprises. For assistance in finding
+subcontractors, contact the Virginia Department of Small Business and Supplier Diversity
+https://www.sbsd.virginia.gov; local chambers of commerce and other business organizations.
+by Fairfax County, as a small, minority-owned, and/or woman-owned business, and the type
+and dollar value of the subcontracted goods/services provided.
+30. USE OF CONTRACT BY OTHER PUBLIC BODIES:
+30.1. Reference Paragraph 71, General Conditions and Instructions to Bidders, Cooperative
+Procurement. Offerors are advised that the resultant contract(s) may be extended, with the
+authorization of the Offeror, to other public bodies, or public agencies or institutions of the
+United States to permit their use of the contract at the same prices and/or discounts and terms
+of the resulting contract. If any other public body decides to use the final contract, the
+Contractor(s) must deal directly with that public body concerning the placement of orders,
+issuance of purchase orders, contractual disputes, invoicing, and payment. The County of
+Fairfax acts only as the "Contracting Agent" for these public bodies. Failure to extend a contract
+to any public body will have no effect on consideration of your offer.
+30.2. It is the Contractors responsibility to notify the public body(s) of the availability of the contract(s).
+21
+RFP 2000004198
+SPECIAL PROVISIONS
+30.3. Other public bodies desiring to use this contract will need to make their own legal
+determinations as to whether the use of this contract is consistent with their laws, regulations,
+and other policies.
+30.4. Each public body has the option of executing a separate contract with the Vendor(s). Public

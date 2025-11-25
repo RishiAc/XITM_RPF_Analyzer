@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0066
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: the written insurance requirements in this RFP, the Offeror shall ensure that such potential
+Section Number: None
+Section Type: technical_requirements
+Word Count: 94
+Character Count: 660
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+the written insurance requirements in this RFP, the Offeror shall ensure that such potential
+additional insurance expenses are reflected and included in their Financial Proposal. Failure
+to acknowledge insurance requirements may result in your proposal being found not
+reasonably susceptible of being selected for award.
+d. Attachment O – Resource Acknowledgment: Offerors shall submit an Attachment O –
+Resource Acknowledgment for each proposed resource. Failure to submit a completed
+Attachment O – Resource Acknowledgment, completed by the proposed resource(s), may
+result in your proposal being found not reasonably susceptible of being selected for award.

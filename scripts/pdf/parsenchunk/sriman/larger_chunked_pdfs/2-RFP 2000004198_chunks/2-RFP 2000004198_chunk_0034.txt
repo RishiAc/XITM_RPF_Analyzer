@@ -1,0 +1,59 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0034
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 587
+Character Count: 3605
+Line Count: 42
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+c. The Quantity Ordered,
+d. The Quantity Shipped,
+e. The Quantity Back Ordered,
+f. The Name of the Contractor.
+Contractors are cautioned that failure to comply with these conditions is sufficient reason for the County’s refusal to accept the
+goods.
+BILLING
+52. BILLING-Billing for the Fairfax County Public Schools and for County agencies: Unless otherwise specified on the contract or
+purchase order (PO), invoices are to be submitted for each purchase order immediately upon completion of the shipment or
+services. Invoices should be mailed to the "BILL TO" address on the PO or to the appropriate address specified in the contract.
+PAYMENTS
+53. PAYMENT-Payment shall be made after satisfactory performance that is in accordance with all provisions of the contract, and
+upon receipt of a properly completed invoice. The County reserves the right to withhold any or all payments or portions thereof
+for Contractor's failure to perform in accordance with the provision of the contract or any subsequent modifications.
+54. PARTIAL PAYMENTS-Unless otherwise specified, partial payments will be made upon acceptance of materials or services so
+invoiced if in accordance with completion date. However, up to 5 percent (5%) of the value of the entire order may be retained
+until completion of contract.
+55. PAYMENT FOR EQUIPMENT, INSTALLATION, AND TESTING-When equipment requires installation (which includes erection,
+setting up or placing in position, service, or use) and testing, and the installation or testing is delayed, payment may be made on
+the basis of 50% of the contract price when such equipment is delivered on the site. A further allowance of 25% may be made
+when the equipment is installed and ready for test. The balance shall be paid after the equipment is tested and found to be
+satisfactory. If the equipment must be tested, but installation is not required to be made by the Contractor or if the equipment
+must be installed but testing is not required, payment may be made on the basis of 75% at the time of delivery and the balance
+shall be paid after satisfactory test or installation is completed.
+GENERAL
+56. GENERAL GUARANTY-Contractor agrees to:
+a. Save the County, its agents and employees harmless from liability of any nature or kind for the use of any copyrighted or
+uncopyrighted composition; secret process, patented or unpatented; invention; article or appliance furnished or used in the
+performance of a contract for which the Contractor is not the patentee, assignee, licensee or owner.
+b. Warrant that when the contract includes a software license, or use of licensed software, the Contractor is the owner of the
+Software or otherwise has the right to grant to the County the license to use the Software granted through the Contract
+without violating or infringing any law, rule, regulation, copyright, patent, trade secret or other proprietary right of any third
+party.
+c. Protect the County against latent defective material or workmanship and to repair or replace any damages or marring
+occasioned in transit or delivery.
+d. Furnish adequate protection against damage to all work and to repair damages of any kind to the building or equipment, to
+his or her own work or to the work of other contractors, for which his or her workers are responsible.
+e. Pay for all permits, licenses and fees and give all notices and comply with all laws, ordinances, rules, regulations, and
+policies of the County.
+f. Protect the County from loss or damage to County owned property while it is in the custody of the Contractor.

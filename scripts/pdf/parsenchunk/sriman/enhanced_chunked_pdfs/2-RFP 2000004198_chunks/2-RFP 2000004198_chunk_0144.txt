@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0144
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.10. The Contractor will secure and maintain all insurance certificates of its subcontractors, which
+Section Number: 19.10.
+Section Type: insurance_warranty
+Word Count: 14
+Character Count: 85
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+shall be made available to the County on demand.
+18
+RFP 2000004198
+SPECIAL PROVISIONS

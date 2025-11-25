@@ -1,0 +1,46 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0060
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. Substitution within thirty (30) days after Contract execution
+Section Number: 4.
+Section Type: general
+Word Count: 268
+Character Count: 1756
+Line Count: 29
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Within thirty (30) days after Contract execution, the Successful Offeror may not substitute
+proposed Key Personnel except under the following circumstances:
+(1) Full-time personnel employed directly by the Successful Offeror.
+i Vacancy occurs due to the sudden termination, resignation, or approved
+leave of absence due to an Extraordinary Personal Event, or the death of
+such personnel.
+(2) Temporary staff, subcontractors or 1099 contractors.
+i Vacancy occurs due to an Incapacitating event or the death of such
+personnel.
+b. To qualify for such substitution, the Successful Offeror must demonstrate to the AOC
+satisfaction the event necessitating substitution.
+c. Proposed substitutions shall be of equal caliber or higher, in the AOC sole discretion.
+d. Proposed substitutes deemed by the AOC to be less qualified than the originally proposed
+individual may be grounds for post-award termination.
+END OF SECTION I.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 12
+SECTION II. INSTRUCTIONS TO OFFERORS
+A. CONTRACT TYPE
+The Contract that results from this RFP shall be based on Labor Hour, Not-to-Exceed (NTE).
+B. PROCUREMENT METHOD
+The Contract resulting from this RFP shall be awarded in accordance with the Request for Proposals (RFP)
+process under the Judicial Branch Procurement Policy.
+C. AWARD BASIS
+A contract shall be awarded to the responsible Offeror(s) submitting the proposal that has been determined
+to be the most advantageous to the AOC, considering price and evaluation factors set forth in this RFP, for
+providing the goods and/or services as specified in this RFP.
+The AOC reserves the right to make additional awards of like resources as awarded within the Offeror pool

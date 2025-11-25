@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0203
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15. BIDDER INTERESTED IN MORE THAN ONE BID-If more than one bid is offered by a bidder, directly or indirectly, all such bids
+Section Number: 15.
+Section Type: general
+Word Count: 38
+Character Count: 220
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+may be rejected. A bidder who has quoted prices on work, materials, or supplies to a bidder is not disqualified from quoting
+prices to other bidders or firms submitting a bid directly for the work, materials or supplies.

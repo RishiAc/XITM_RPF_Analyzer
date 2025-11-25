@@ -1,0 +1,40 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_005
+Section: 2. The Successful Offeror shall ensure the list of authorized Offeror personnel is always maintained
+Section Number: 2
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: Technical
+Pricing Model: None
+Risk Level: Medium
+FAR References: None
+Keywords: offeror, access
+Word Count: 307
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+2. The Successful Offeror shall ensure the list of authorized Offeror personnel is always maintained
+and accurate. The system access rights of Successful Offeror personnel must be updated no later than
+twenty-four (24) hours after notification of the change in status; therefore, the Successful Offeror
+shall immediately notify the Contract Manager and JIS Information Security of any termination of
+Successful Offeror personnel or if any approved Successful Offeror personnel no longer require
+access to an AOC system. The AOC security identification badge and all issued AOC assets must be
+immediately returned to the Contract Manager.
+3. To ensure compliance with the JIS Information Security Policy, the approval, configuration, and
+monitoring of secured remote access into AOC systems will be processed by JIS staff. All remote
+connections that utilize a shared infrastructure must utilize encryption for transmission of data and
+authentication.
+4. Any software used to meet the requirements of this solicitation, on any AOC system, must be
+included in the Offeror’s technical proposal. Software must be assessed by JIS and approved by the
+JIS Chief Information Officer. At the discretion of JIS, proposed software may be determined to be
+a risk to system and information integrity security controls and therefore rejected. If software is to
+be used remotely, the Judiciary shall control the method of access to our network via Virtual Private
+Network (VPN), firewall configurations, and/or segregating remote machine access within our
+environment.
+5. Offerors using an As-a-Service (e.g., infrastructure, software, platform, hardware) subservice hosting
+provider (e.g., Microsoft Azure, Amazon Web Services, Google Cloud Platform) must submit a
+current Service Organization Control (SOC) 2 Type II report, or equivalent (as determined by the
+AOC), for the subservice and for the As-a-Service service provider. A SOC 2 Type II report for the
+subservice alone does not meet the requirements of this solicitation.
+S. ACCESS AND BACKGROUND CHECKS

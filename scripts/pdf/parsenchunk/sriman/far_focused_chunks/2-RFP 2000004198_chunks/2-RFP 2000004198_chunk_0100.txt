@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0100
+Source File: 2-RFP 2000004198.pdf
+Section Title: by reference other contractual terms and conditions applicable to the procurement.
+Section Number: None
+Section Type: contract_clauses
+Word Count: 88
+Character Count: 610
+Line Count: 6
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+by reference other contractual terms and conditions applicable to the procurement.
+SOLICITATION: The process of notifying prospective bidders that the County wishes to receive bids on a set of requirements
+to provide goods or services. The notification of County requirements may consist of public advertising (newspaper, County Web
+Site, or other electronic notification), the mailing of Notices of Solicitation, Invitation for Bid (IFB) or Request for Proposal (RFP),
+the public posting of notices, issuance of an informal solicitation to include telephone calls to prospective bidders.
+CONDITIONS OF BIDDING

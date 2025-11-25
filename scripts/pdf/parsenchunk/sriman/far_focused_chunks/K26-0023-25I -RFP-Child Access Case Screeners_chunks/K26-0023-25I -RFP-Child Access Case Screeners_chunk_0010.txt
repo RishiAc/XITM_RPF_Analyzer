@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0010
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. AOC – Administrative Office of the Courts
+Section Number: 1.
+Section Type: general
+Word Count: 136
+Character Count: 964
+Line Count: 13
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. AOC – Administrative Office of the Courts
+2. Contract – A formal, written agreement entered into by the Judiciary for the provision of materials,
+supplies, and/or services. A Contract sample is attached to this solicitation as Attachment A.
+3. Contract Manager – The AOC representative that serves as the technical manager for the resulting
+contract. The Contract Manager monitors the daily activities of the contract and provides technical
+guidance to the Successful Offeror.
+4. Diversity & Outreach Programs – Judiciary Program established to encourage and increase
+participation in Judiciary procurement by underrepresented or disadvantaged groups. The Program
+includes Minority Business Enterprises (MBE) and Veteran-owned Small Business Enterprises
+(VSBE).
+5. eMMA – eMaryland Marketplace Advantage online procurement platform used to connect the
+supplier community with contracting opportunities from with the state, county, and local government
+entities.

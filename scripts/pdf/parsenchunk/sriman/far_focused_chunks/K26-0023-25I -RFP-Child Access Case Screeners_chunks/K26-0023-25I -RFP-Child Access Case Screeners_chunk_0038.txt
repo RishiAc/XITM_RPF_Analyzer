@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0038
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Offeror’s attendance at the Pre-proposal Conference is mandatory, in order to facilitate better
+Section Number: 2.
+Section Type: submission_requirements
+Word Count: 122
+Character Count: 782
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2. Offeror’s attendance at the Pre-proposal Conference is mandatory, in order to facilitate better
+preparation of proposals. If the solicitation includes an MBE or VSBE goal, failure to attend the Pre-
+proposal Conference will be taken into consideration as part of the evaluation of an Offeror’s good
+faith effort if there is a waiver request.
+3. MBE & VSBE subcontractors are encouraged to attend the Pre-proposal Conference to solicit their
+services to potential Offerors.
+4. If there is a need for sign language interpretation or other special accommodations due to a disability,
+please notify the Procurement Officer at least five (5) business days prior to the Pre-proposal
+Conference. The AOC will make a reasonable effort to provide such special accommodations.
+E. QUESTIONS

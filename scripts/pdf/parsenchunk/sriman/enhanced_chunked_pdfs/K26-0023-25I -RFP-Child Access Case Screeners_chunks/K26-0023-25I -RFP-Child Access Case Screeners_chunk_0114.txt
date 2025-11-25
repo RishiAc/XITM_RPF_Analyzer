@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0114
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: requirements of this RFP, the Contract (Attachment A), or any other attachments on the
+Section Number: None
+Section Type: technical_requirements
+Word Count: 12
+Character Count: 88
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Procurement Portal. Offerors answering “Yes” shall provide any exceptions as a submittal

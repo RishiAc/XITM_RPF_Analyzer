@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0199
+Source File: 2-RFP 2000004198.pdf
+Section Title: II, III, and IV). When such goods and services are included in the Pricing Schedule, bidders may bid on all areas or an individual
+Section Number: None
+Section Type: deliverables_timeline
+Word Count: 17
+Character Count: 98
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+area. A map showing the areas of the County will be furnished with the solicitation when required.

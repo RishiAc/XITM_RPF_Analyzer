@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0171
+Source File: 2-RFP 2000004198.pdf
+Section Title: 24.1. The Fairfax County Procurement Agent, Chief Technical Officer, departments, or their
+Section Number: 24.1.
+Section Type: technical_requirements
+Word Count: 25
+Character Count: 158
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+respective authorized designees will, at all times, have access to the work being performed
+under this contract wherever it may be in progress or preparation.

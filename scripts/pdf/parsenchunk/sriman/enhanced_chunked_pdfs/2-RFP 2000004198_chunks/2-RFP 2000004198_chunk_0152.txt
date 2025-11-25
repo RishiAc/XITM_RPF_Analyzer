@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0152
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.16. Precaution shall be exercised at all times for the protection of persons (including employees)
+Section Number: 19.16.
+Section Type: general
+Word Count: 2
+Character Count: 13
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+and property.

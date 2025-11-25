@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0122
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: individual has had relative to the scope of work set forth in this RFP.
+Section Number: None
+Section Type: scope_of_work
+Word Count: 30
+Character Count: 179
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+i Offeror shall submit a copy of any degree and/or certificate for each
+proposed resource.
+(3) The Key Personnel for this contract are defined as:
+i Child Access Case Screener(s).

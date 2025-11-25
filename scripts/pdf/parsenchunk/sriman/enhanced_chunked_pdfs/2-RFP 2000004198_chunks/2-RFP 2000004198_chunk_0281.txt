@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0281
+Source File: 2-RFP 2000004198.pdf
+Section Title: 65. APPEAL OF DENIAL OF WITHDRAWAL OF BID-
+Section Number: 65.
+Section Type: general
+Word Count: 200
+Character Count: 1166
+Line Count: 10
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. A decision denying withdrawal of a bid submitted by a bidder or offeror shall be final and conclusive unless the bidder appeals
+the decision within ten (10) days after receipt of the decision by instituting legal action as provided in the Code of Virginia.
+The bidder or offeror may not institute legal action until all statutory requirements have been met.
+b. If no bid bond was posted, a bidder refused withdrawal of bid under the provisions of Article 2, Section 5.A.8, of the Fairfax
+County Purchasing Resolution, prior to appealing, shall deliver to the County a certified check or cash bond in the amount of
+the difference between the bid sought to be withdrawn and the next low bid. Such security shall be released only upon a
+final determination that the bidder was entitled to withdraw the bid.
+c. If, upon appeal, it is determined that the decision refusing withdrawal of the bid was not an honest exercise of discretion, but
+rather was arbitrary or capricious or not in accordance with the Constitution of Virginia, applicable state law or regulation, or
+the terms or conditions of the Invitation to Bid, the sole relief shall be withdrawal of the bid.

@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0109
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The anticipated duration of the interview is one (1) hour.
+Section Number: 1.
+Section Type: general
+Word Count: 52
+Character Count: 343
+Line Count: 9
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. The AOC will conduct the interview(s) via a Microsoft Teams meeting.
+(1) The proposed resource(s) must have their camera on for the duration of the
+interview.
+END OF SECTION III.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 19
+SECTION IV. PROPOSAL FORMAT
+A. PROPOSAL SUBMISSION

@@ -1,0 +1,78 @@
+Section: Special Provisions - Related Sections
+Type: combined_related
+Related Group: special_provisions
+Complete Section: True
+Sub-sections: SPECIAL PROVISIONS, SPECIAL PROVISIONS, guidance on the methodology and design required for each support area in each, SPECIAL PROVISIONS, A. The Offeror is required to follow the FCG and/or FCPS Holiday calendar and inclement, B. The County may need the offeror to be on call where the Offeror’s staff may be required, SPECIAL PROVISIONS, d. Offeror should demonstrate an awareness of potential difficulties in the completion, SPECIAL PROVISIONS, personnel may also be subject to a criminal history check depending on the sensitivity, SPECIAL PROVISIONS, 5. References: The Offeror will provide a reference for at least three (3) clients. Special, SPECIAL PROVISIONS, SPECIAL PROVISIONS, SPECIAL PROVISIONS, SPECIAL PROVISIONS, SPECIAL PROVISIONS, g. The quality, availability and adaptability of the goods or services to the particular use required;, shall be authorized to transact business in the Commonwealth as a domestic or foreign business entity if so required by Title
+==================================================
+
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- guidance on the methodology and design required for each support area in each ---
+guidance on the methodology and design required for each support area in each
+future work order. Offeror must demonstrate ability to integrate the augmented staff
+into existing County processes and workflows. Any solutions developed or
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+5.4.8. Remote Access: Authorized users accessing the County’s network remotely shall
+abide by security policies and procedures to protect the County's equipment, data,
+and network access as if they were working on premises.
+
+--- A. The Offeror is required to follow the FCG and/or FCPS Holiday calendar and inclement ---
+A. The Offeror is required to follow the FCG and/or FCPS Holiday calendar and inclement
+weather policies as applicable or directed by authorized FCG or FCPS personnel.
+
+--- B. The County may need the offeror to be on call where the Offeror’s staff may be required ---
+B. The County may need the offeror to be on call where the Offeror’s staff may be required
+to participate in the on-call rotation. The rotation intervals vary per assignment.
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- d. Offeror should demonstrate an awareness of potential difficulties in the completion ---
+d. Offeror should demonstrate an awareness of potential difficulties in the completion
+of this undertaking, and a plan for surmounting them. Special attention should be
+given to methodological issues that will be encountered in such a project.
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- personnel may also be subject to a criminal history check depending on the sensitivity ---
+personnel may also be subject to a criminal history check depending on the sensitivity
+of the data involved. Note that arrangements for required criminal history checks must
+be made in advance with appropriate County personnel. The County reserves the
+right to reject any personnel proposed by the offeror for any reason.
+The Offeror(s) must provide IT staff at Senior and Intermediate levels of competency.
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- 5. References: The Offeror will provide a reference for at least three (3) clients. Special ---
+5. References: The Offeror will provide a reference for at least three (3) clients. Special
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- SPECIAL PROVISIONS ---
+SPECIAL PROVISIONS
+
+--- g. The quality, availability and adaptability of the goods or services to the particular use required; ---
+g. The quality, availability and adaptability of the goods or services to the particular use required;
+
+--- shall be authorized to transact business in the Commonwealth as a domestic or foreign business entity if so required by Title ---
+shall be authorized to transact business in the Commonwealth as a domestic or foreign business entity if so required by Title
+13.1 or Title 50 of the Code of Virginia or as otherwise required by law. Any business entity described above that enters into a

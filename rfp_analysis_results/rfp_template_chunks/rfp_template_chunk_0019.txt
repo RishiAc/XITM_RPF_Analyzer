@@ -1,0 +1,72 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0019
+Source File: rfp_template.pdf
+Section Title: PART III – LIST OF DOCUMENTS, EXHIBITS, AND OTHER ATTACHMENTS
+Section Number: None
+Phase: P1
+Word Count: 458
+Character Count: 3084
+Line Count: 45
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Award Basis
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.212-1, 52.212-3, 52.212-1
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: site, offerors, visit, exhibit, agency, shall, list, details, proposal, representations
+
+=== CHUNK CONTENT ===
+PART III – LIST OF DOCUMENTS, EXHIBITS, AND OTHER ATTACHMENTS
+LIST OF ATTACHMENTS
+[Example list based on Exhibits referenced in this template. Add other applicable Exhibits based on the final
+RFP that includes Sections C, E & M (including technical details such as site photos/diagrams, electricity rate
+information, roof details, one-line diagrams, etc).]
+Exhibit 1 - PV System List
+Exhibit 2 - Price Proposal Form
+Exhibit 3 - Annual Cancellation Ceiling Schedule
+Exhibit 4 – PV System Production Estimate
+Exhibit 5 – Site Access Agreement
+Page 30 of 38
+PART IV – REPRESENTATIONS AND INSTRUCTIONS
+REPRESENTATIONS, CERTIFICATIONS & OTHER STATEMENTS
+52.212-3 -- Offeror Representations and Certifications -- Commercial Items.
+Offeror Representations and Certifications -- Commercial Items (Jan 2017)
+[Insert the most recent 52.212-3 clause language.]
+Page 31 of 38
+INSTRUCTIONS, CONDITIONS, AND NOTICES TO OFFERORS
+[Agency contracting/legal staff should decide whether to include FAR 52.212-1 as is, or modified in an
+Addenda based on agency policy and goals. Reference the DOE ESPC IDIQ RFP and/or contact FEMP for
+52.212-1 Addenda suggestions, including language regarding exceptions to contract terms and conditions.]
+FAR 52.212-1 - Instructions to Offerors -- Commercial Items (Jan 2017) incorporated by reference applies
+with the same force and effect as if they were given in full text.
+L.1 Pre-Proposal Conference and Site Visit
+A pre-proposal conference and site visit for potential Offerors will be on <date/time> at <location> for the
+purpose of answering questions regarding this solicitation. The site visit will enable Offerors to examine site
+conditions and electrical systems. Offerors shall submit the name, employer, email address, date of birth and
+social security number of all attendees, not to exceed <x> per Offeror, to <name and email address>,
+Contracting Officer, at no later than 5:00 PM on <date>.
+Information presented by <agency> at the pre-proposal conference and site visit shall not constitute a change
+to the terms and conditions of this solicitation. <Agency> shall only communicate changes to the terms of the
+solicitation in writing via an amendment. If an amendment is issued by <agency>, normal procedures relating
+to the acknowledgment and receipt of solicitation amendments shall apply.
+Offerors shall wear closed-toe shoes and full-length pants during the site visit; loose fitting clothing (e.g., ties,
+scarves) is prohibited. Offerors may use cameras during the site visit to capture still photographs only after
+expressed consent of <agency> representative administering the site visit. Other recording devices are
+prohibited.
+Following are parking, security screening, and other details:
+<add details>
+L.2 [Add all required submittal requirements, including a Cancellation Ceiling Schedule (reference Exhibit
+3).]
+Page 32 of 38
+EVALUATION FACTORS FOR AWARD
+[Section M will be added to the next version of the See “Procurement Specifications Templates for Onsite
+Solar Photovoltaic: For Use in Developing Federal Solicitations”, available at

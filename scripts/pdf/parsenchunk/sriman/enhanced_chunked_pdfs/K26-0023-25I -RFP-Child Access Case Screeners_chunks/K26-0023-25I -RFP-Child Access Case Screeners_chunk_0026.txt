@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0026
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Offeror, their employees, subcontractors, and agents shall be held directly responsible to repair,
+Section Number: 1.
+Section Type: general
+Word Count: 43
+Character Count: 292
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+replace, or restore to its original condition, to the satisfaction of the AOC, curbs, roadway surfaces,
+wheel stops, shrubbery, trees, buildings, bollards, gates, light pole, sign poles or any other State-
+owned property which is damaged by the actions of the above-mentioned representatives.

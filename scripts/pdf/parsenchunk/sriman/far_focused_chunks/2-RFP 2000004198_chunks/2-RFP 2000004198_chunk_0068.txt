@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0068
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.9. Should the County determine in writing and in its sole discretion that only one Offeror is fully
+Section Number: 18.9.
+Section Type: contract_clauses
+Word Count: 110
+Character Count: 738
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+18.9. Should the County determine in writing and in its sole discretion that only one Offeror is fully
+qualified, or that one Offeror is clearly more highly qualified than the others under consideration,
+a contract may be negotiated and awarded to that offeror. Each SAC will make appropriate
+recommendations to the County Purchasing Agent, if appropriate, prior to the actual award of
+contract.
+18.10. Proposals which, after discussion and submission of additional clarification and/or
+supplementary information, are determined to meet the specifications of this RFP will be
+classified as "acceptable". Proposals found not to be acceptable will be classified as
+"unacceptable" and no further discussion concerning same will be conducted.

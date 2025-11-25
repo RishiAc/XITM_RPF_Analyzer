@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0102
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 104
+Character Count: 647
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+so that bids cannot be received at the County office designated for receipt of bids by the exact time specified in
+the solicitation, then bids will be due at the same time of day specified in the solicitation on the first work day that normal
+County business operations resume.
+c. The official time used for receipt of bids/modifications is the time and date stamp clock located in the Department of
+Procurement & Material Management. No other clocks, calendars or timepieces are recognized. All bidders must ensure
+all bids/modifications are received prior to the scheduled due date/time.

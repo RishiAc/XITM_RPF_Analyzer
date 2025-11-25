@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0028
+Source File: 2-RFP 2000004198.pdf
+Section Title: Continuation of installed hardware currently under maintenance agreement every four years or
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 76
+Character Count: 510
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5.8.3. The Contractor’s Disaster Recovery plan should document the processes necessary
+to respond to system disruption or a disaster that would affect the system.
+5.8.4. The Contractor’s Disaster Recovery plan shall identify the activities, resources, and
+procedures needed to carry out processing requirements for a prolonged period of
+time.
+6. STATEMENT OF NEEDS:
+Qualified offerors are encouraged to submit a proposal to provide IT Staff Augmentation services to
+FCG and FCPS agencies on an as-needed basis.

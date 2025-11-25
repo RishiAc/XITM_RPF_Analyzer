@@ -1,0 +1,23 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_018
+Section: 3. If an Offeror that seeks to perform or provide the services required by this RFP is the subsidiary of
+Section Number: 3
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: offeror, subsidiary, parent, organization
+Word Count: 94
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+3. If an Offeror that seeks to perform or provide the services required by this RFP is the subsidiary of
+another entity, all information submitted by the Offeror such as, but not limited to, references and
+financial reports, shall pertain exclusively to the Offeror, unless the parent organization will
+guarantee the performance of the subsidiary. If applicable, the Offeror’s proposal must contain an
+explicit statement, signed by an authorized representative of the parent organization, stating that the
+parent organization consents to the terms of the RFP and will guarantee the performance of the
+subsidiary.

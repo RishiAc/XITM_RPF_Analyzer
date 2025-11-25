@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0107
+Source File: 2-RFP 2000004198.pdf
+Section Title: 16.3. Notice of addenda will be posted on eVA and Bonfire (Euna). It is the Offeror’s responsibility to
+Section Number: 16.3.
+Section Type: general
+Word Count: 16
+Character Count: 127
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+monitor the web page for the most current addenda at https://fairfaxcounty.bonfirehub.com.
+15
+RFP 2000004198
+SPECIAL PROVISIONS

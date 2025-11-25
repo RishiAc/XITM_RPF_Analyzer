@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0057
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15.3. Technical Information: Uploading large documents may take time, depending on the size of the
+Section Number: 15.3.
+Section Type: technical_requirements
+Word Count: 135
+Character Count: 902
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+15.3. Technical Information: Uploading large documents may take time, depending on the size of the
+file(s) and your Internet connection speed. You will receive an email confirmation receipt with
+a unique confirmation number once you finalize your submission. Minimum system
+requirements for the Bonfire (Euna) portal - Microsoft Edge, Google Chrome, or Mozilla Firefox.
+JavaScript must be enabled. Browser cookies must be enabled.
+15.4. It is the Offeror's responsibility to clearly identify and to describe the services being offered in
+response to the Request for Proposal. Offerors are cautioned that organization of their
+response, as well as thoroughness is critical to the County's evaluation process. The RFP
+forms must be completed legibly and in their entirety; and all required supplemental information
+must be furnished and presented in an organized, comprehensive and easy to follow manner.

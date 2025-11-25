@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0055
+Source File: 2-RFP 2000004198.pdf
+Section Title: 7.1. For IT Staff Augmentation the County will either specify in its request or give the firm fifteen
+Section Number: 7.1.
+Section Type: general
+Word Count: 22
+Character Count: 142
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+(15) calendar days’ notice when a specific engagement under this contract(s) is to be
+terminated and the professional(s) are no longer needed.

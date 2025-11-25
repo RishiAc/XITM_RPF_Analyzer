@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0066
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offerors shall direct all communication regarding this RFP to the Procurement Officer. Submit
+Section Number: 1.
+Section Type: general
+Word Count: 23
+Character Count: 152
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+questions to the Procurement Officer through the opportunity Q&A section on the Procurement
+Portal no later than the date indicated on the solicitation.

@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0259
+Source File: 2-RFP 2000004198.pdf
+Section Title: by the Contractor’s products, software, services, or deliverables. Contractor must indemnify the County for any loss,
+Section Number: None
+Section Type: deliverables_timeline
+Word Count: 80
+Character Count: 495
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+damage, expense or liability, including costs and reasonable attorney’s fees that may result by reason of any such claim.
+In the event of a claim covered by this subparagraph, and in addition to all other obligations of Contractor in this Paragraph
+58, Contractor must at its expense and within a reasonable time: (a) obtain a right for the County to continue using such
+products and software, or allow Contractor to continue performing the Services; (b) modify such products, software, services

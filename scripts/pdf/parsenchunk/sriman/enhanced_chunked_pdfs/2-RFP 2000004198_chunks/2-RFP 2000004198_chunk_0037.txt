@@ -1,0 +1,39 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0037
+Source File: 2-RFP 2000004198.pdf
+Section Title: procedures, XML schema and other content developed to support the operation of
+Section Number: None
+Section Type: general
+Word Count: 233
+Character Count: 1474
+Line Count: 22
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a database and/or County applications in the Fairfax environment become the
+property of the County, and shall be available to the appropriate County personnel
+as needed and upon request.
+6
+RFP 2000004198
+SPECIAL PROVISIONS
+5.5.2. Source code shall revert to the County if the Contractor files for bankruptcy or
+protection from creditors in a court of law. The County shall have full rights to use
+source code for any purposes other than resale. The same applies if the Contractor
+is merged or acquired and the software is no longer supported. Software source
+code will be updated to reflect the most current version of the software source code
+materials including all adjustments and configuration made for Fairfax County.
+5.5.3. Once contract is awarded, Contractor must provide documentation about schemas
+or database table organization at a level of detail that enables report writers to
+navigate and extract all information necessary to produce ad hoc reports.
+5.5.4. All source code developed under a given task order must remain the sole property
+of the County. Contractor may request permission to re-use portions of the code
+written by their staff, however, this request must be made in writing to the Fairfax
+County Department of Procurement and Material Management for review and
+approval.
+5.5.5. The above is not meant to include proprietary programs, tools or other intellectual
+property. However, such claim to proprietary content cannot intrude on the County’s

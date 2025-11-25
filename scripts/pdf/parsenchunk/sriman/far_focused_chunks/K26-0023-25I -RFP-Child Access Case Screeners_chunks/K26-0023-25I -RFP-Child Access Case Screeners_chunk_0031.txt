@@ -1,0 +1,30 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0031
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. A System Development Life Cycle (SDLC) methodology and framework based on best practices and
+Section Number: 1.
+Section Type: general
+Word Count: 156
+Character Count: 1023
+Line Count: 15
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. A System Development Life Cycle (SDLC) methodology and framework based on best practices and
+industry standards, such as the incremental waterfall methodology, and the agile software
+development framework.
+2. The Administrative Office of the Courts Judicial Information Systems Security Policy.
+U. SUBSTITUTION OF KEY PERSONNEL
+1. Continuous performance of Key Personnel
+a. Key Personnel shall be available to perform Contract requirements as of the Notice to
+Proceed Date. Unless explicitly authorized by the Contract Manager or specified in the
+Contract, Key Personnel shall be assigned to the AOC as a dedicated resource.
+b. Key Personnel shall perform continuously for the duration of the Contract, or such lesser
+duration as specified in the Technical Proposal. Key Personnel may not be removed by the
+Successful Offeror from working under the Contract without the prior written approval of
+the Contract Manager.
+c. The provisions of this section apply to Key Personnel identified in any proposal, bid, or
+contract.

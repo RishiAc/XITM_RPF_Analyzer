@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0086
+Source File: 2-RFP 2000004198.pdf
+Section Title: County may further amend the contract by mutual agreement for any increase in the cost of
+Section Number: None
+Section Type: budget_pricing
+Word Count: 118
+Character Count: 727
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+County may further amend the contract by mutual agreement for any increase in the cost of
+performance of the contract (excluding profit) resulting solely from the delay or suspension of
+the contract. No adjustment shall be made under this clause for any delay or interruption
+resulting from any other cause, including the fault or negligence of the Contractor.
+23.3. The Contractor shall continue its work on other phases of the project or contract, if in the sole
+discretion of the County Purchasing Agent such work is not impacted by the County’s delay,
+suspension, or interruption. All changes to the work plan or project milestones shall be reflected
+in writing as a contract amendment.
+20
+RFP 2000004198
+SPECIAL PROVISIONS

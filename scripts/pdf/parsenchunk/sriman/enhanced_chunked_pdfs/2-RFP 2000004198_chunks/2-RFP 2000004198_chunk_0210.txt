@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0210
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19. CLARIFICATION OF TERMS—If any prospective bidder has questions about the specifications or other solicitation documents,
+Section Number: 19.
+Section Type: technical_requirements
+Word Count: 43
+Character Count: 265
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+the prospective bidder should contact the contract specialist whose name appears on the face of the solicitation no later than
+five working dates before the due date. Any revisions to the solicitation will be made only be addendum issued by the contract
+specialist.

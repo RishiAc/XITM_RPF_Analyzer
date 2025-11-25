@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0103
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5. WITHDRAWAL OF BIDS- Bids shall be withdrawn only as set forth in the Fairfax County Purchasing Resolution.
+Section Number: 5.
+Section Type: general
+Word Count: 122
+Character Count: 726
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5. WITHDRAWAL OF BIDS- Bids shall be withdrawn only as set forth in the Fairfax County Purchasing Resolution.
+6. ERRORS IN BIDS-When an error is made in extending total prices, the unit bid price will govern. Erasures in bids must be
+initialed by the bidder. Bidders are cautioned to recheck their bids for possible error. Errors discovered after public opening
+cannot be corrected and the bidder will be required to perform if its bid is accepted.
+7. LABELING OF BIDS – All bids and proposals submitted in response to a County solicitation must be submitted in a sealed
+envelope or package identified with the solicitation number, title, and bidder’s name and address clearly marked on the outside
+of the envelope or package.

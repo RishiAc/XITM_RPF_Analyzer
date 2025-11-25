@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0198
+Source File: 2-RFP 2000004198.pdf
+Section Title: 10. BIDS FOR ALL OR PART-The Purchasing Agent reserves the right to make award on all items in the aggregate or on any of
+Section Number: 10.
+Section Type: general
+Word Count: 72
+Character Count: 383
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+the items on an individual basis, whichever is in the best interest of the County. A bidder may restrict its bid to consideration in
+the group aggregate by so stating, but must name a single unit price on each item bid. Any bid in which the bidder names a total
+price for all the articles without quoting a unit price for each and every separate item may not be considered for award.

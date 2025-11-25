@@ -1,0 +1,66 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0012
+Source File: 2-RFP 2000004198.pdf
+Section Title: date of this RFP a minimum of five (5) years of experience in work of a similar nature
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 498
+Character Count: 3340
+Line Count: 49
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+date of this RFP a minimum of five (5) years of experience in work of a similar nature
+and magnitude to that being proposed. Relevant experience must be associated with
+contracts or services not more than five years prior to the date of this RFP. Offeror
+must have performed staff augmentation engagements in the submitted category with
+at least three distinct clients within the past five years. Each contract must have lasted
+a minimum of three years and involved mid-to-senior level professionals like those
+described in the working titles. Offeror must submit three (3) case studies
+demonstrating past staff augmentation engagements. Each case study should
+include:
+a. Federal, State, Local Government client name
+b. Project scope, roles provided, and duration
+c. Key outcomes and performance metrics
+d. Contact information for client references
+11
+RFP 2000004198
+SPECIAL PROVISIONS
+2. Personnel: Full-time and part-time staff, proposed consultants and subcontractors
+who may be assigned direct work on this contract should be identified. Information is
+required which will show the specific persons who at this time would compose
+personnel for a task or work group, their specific qualifications, and recent relevant
+experience. Offerors must have direct employment with proposed staff. Brokers or
+third-party staffing agencies submitting on behalf of subcontractors without direct
+delivery oversight will not be considered.
+The Offeror should indicate a corporate head count of current personnel who could
+perform each working title role. For instance, in the case of application development,
+3 Senior Programmers, 4 intermediate programmers, etc.
+All Offeror personnel assigned to work on-site at Fairfax County may be required to
+undergo a criminal history check and sign a non-disclosure agreement. Off-site
+personnel may also be subject to a criminal history check depending on the sensitivity
+of the data involved. Note that arrangements for required criminal history checks must
+be made in advance with appropriate County personnel. The County reserves the
+right to reject any personnel proposed by the offeror for any reason.
+The Offeror(s) must provide IT staff at Senior and Intermediate levels of competency.
+The following qualifications and work experience requirements listed below shall
+apply unless otherwise specified in Exhibit A:
+• Senior Level: relates to very experienced and highly qualified individuals who
+are technically proficient and able to work with minimum supervision. Senior
+Level professionals should have as a minimum five (5) years relevant work
+experience unless otherwise stated and are expected to have appropriate and
+related certification in the associated field of work, and/or equivalent experience
+relevant to the position.
+• Intermediate Level: relates to experienced and qualified individuals who are
+technically proficient and able to work with minimal to moderate supervision.
+Intermediate Level professionals should have a minimum of three (3) years’
+relevant work experience unless otherwise stated.
+The personnel named in the technical proposal will remain assigned to the project
+throughout the period of this contract. No diversion or replacement may be made
+without submission of a resume of the proposed replacement with final approval being
+granted by the County Procurement Agent.

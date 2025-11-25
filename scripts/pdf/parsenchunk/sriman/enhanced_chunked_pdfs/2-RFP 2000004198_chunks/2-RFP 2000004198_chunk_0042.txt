@@ -1,0 +1,35 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0042
+Source File: 2-RFP 2000004198.pdf
+Section Title: training, acceptance, and production. To ensure that each environment is technically
+Section Number: None
+Section Type: technical_requirements
+Word Count: 164
+Character Count: 1168
+Line Count: 18
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+equivalent, duplicate servers and workstations as specified below shall be utilized
+except where virtual machine technology is preferred by the County. The County
+will work with the Contractor to duplicate or approximate other relevant
+environmental considerations such as the network and system loading to ensure
+realistic testing scenarios are facilitated.
+7
+RFP 2000004198
+SPECIAL PROVISIONS
+5.7.3. When responding to statements of work, solution hardware requirements should be
+listed in detail to include make and model required for the full implementation of the
+application. All hardware components must be sized appropriately to ensure that the
+performance requirements of the Contractor’s application will be met. Equipment
+specifications provided by the County within this RFP shall be considered as minimal
+requirements. Deviations for hardware proposed will be finalized during final design
+stages of the project.
+5.7.4. The County maintains a four-year replacement program for workstations and a four-
+year replacement program for servers and associated ancillary equipment. The
+Contractor shall prepare technology refreshment specifications and costs for

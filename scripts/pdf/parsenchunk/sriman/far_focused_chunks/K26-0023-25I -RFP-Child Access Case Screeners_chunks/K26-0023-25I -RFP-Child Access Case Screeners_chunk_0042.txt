@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0042
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. The AOC may hold discussions with all Offerors judged reasonably susceptible of being selected for
+Section Number: 2.
+Section Type: general
+Word Count: 148
+Character Count: 937
+Line Count: 13
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2. The AOC may hold discussions with all Offerors judged reasonably susceptible of being selected for
+award, or potentially so. However, the AOC also reserves the right to make an award without holding
+discussions. With or without discussions, the AOC may determine an Offeror to be not responsible
+and/or not reasonably susceptible of being selected for award, at any time after the initial closing
+date for receipt of proposals and prior to contract award.
+H. INCURRED EXPENSES
+The AOC will not be responsible for any costs incurred by an Offeror in preparing and submitting a proposal,
+in making an oral presentation, in providing a demonstration, or in performing any other activities relative to
+this RFP.
+I. ECONOMY OF PREPARATION
+Proposals shall be prepared simply and economically providing a straightforward, concise description of the
+Offeror’s ability to meet the requirements of this RFP.
+J. PUBLIC ACCESS TO JUDICIAL RECORDS

@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0071
+Source File: 2-RFP 2000004198.pdf
+Section Title: related certification in the associated field of work, and/or equivalent experience
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 37
+Character Count: 257
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+relevant to the position.
+• Intermediate Level: relates to experienced and qualified individuals who are
+technically proficient and able to work with minimal to moderate supervision.
+Intermediate Level professionals should have a minimum of three (3) years’

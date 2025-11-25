@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0012
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 8. Local Time – Time in the Eastern Standard Time Zone.
+Section Number: 8.
+Section Type: general
+Word Count: 98
+Character Count: 616
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+8. Local Time – Time in the Eastern Standard Time Zone.
+9. MBE – Minority Business Enterprise means any legal entity, other than a joint venture, organized to
+engage in commercial transactions, that is at least 51 percent owned and controlled by one or more
+individuals who are in a minority group (African American, Native American, Hispanic, women, or
+the physically or mentally disabled) that is socially and economically disadvantaged, and managed
+and operated by one or more of the socially and economically disadvantaged individuals who own
+it, and is so certified by the Maryland Department of Transportation.

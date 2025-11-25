@@ -1,0 +1,61 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0014
+Source File: 2-RFP 2000004198.pdf
+Section Title: 9. COST PROPOSAL INSTRUCTIONS:
+Section Number: 9.
+Section Type: submission_requirements
+Word Count: 503
+Character Count: 3234
+Line Count: 44
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+9. COST PROPOSAL INSTRUCTIONS:
+9.1. The offeror must submit a cost proposal in fully indexed, searchable, supported by cost and
+pricing data adequate to establish the reasonableness of the proposed fee. The following
+information should be submitted as part of the cost proposal:
+The cost of each task or segment of the task shall be itemized.
+a. IT Staff Augmentation: The Offerors are required to provide rates that are fully loaded. Fully
+loaded rates shall include but are not limited to overhead cost, administrative fees, travel, meal
+expenses, hotel, etc. The County will not pay any additional cost of any kind. Breakdown of
+other expenses such as clerical support, other overhead costs, supplies, etc. (ref. Pricing
+Schedule – IT Staff Augmentation).
+10. CONSULTATION SERVICES:
+10.1. The Contractor’s staff must be available for consultation with County staff on an as-needed
+basis between 8:00 A.M. and 4:30 P.M., Eastern Time, Monday through Friday.
+13
+RFP 2000004198
+SPECIAL PROVISIONS
+11. PRICING:
+11.1. The subsequent contract will be a firm-fixed price agreement. The fee(s) will remain firm and
+will include all charges that may be incurred in fulfilling the requirements of the contract during
+the first 365 days. Changes in cost for any subsequent contract years may be based on the
+Consumer Price Index (CPI-U), Consumer Price Index Summary, All items or other relevant
+indices as determined solely by the Procurement Agent. Changes in cost shall not exceed a
+five percent (5%) increase for the given year.
+11.2. The request for a change in the unit price shall include as a minimum, (1) the cause for the
+adjustment; (2) proposed effective date; and, (3) the amount of the change requested with
+documentation to support the requested adjustment (i.e., appropriate Bureau of Labor
+Statistics, Consumer Price Index All items (CPI-U), etc.). Increases are not guaranteed, but will
+be granted at the discretion of the Purchasing Agent.
+11.3. Offeror will dynamically from month to month provide the County the lowest available price for
+any/all collective or individual solutions implemented to meet or exceed that of any contract the
+offeror has. The price will never increase for any reason without prior approval from an
+authorized Fairfax County Government representative. Price decreases shall be made in
+accordance with paragraph 40 of the General Conditions & Instructions to Offerors.
+12. TRADE SECRETS/PROPRIETARY INFORMATION:
+12.1. Trade secrets or proprietary information submitted by an offeror in connection with a
+procurement transaction shall not be subject to public disclosure under the Virginia Freedom
+of Information Act; however, offerors must invoke the protections of this section prior to or upon
+submission of the data or other materials.
+12.2. The offeror must identify the data or other materials to be protected and state the
+reasons why protection is necessary. Disposition of material after award(s) should be stated
+by the offeror.
+12.3. Request for Protection of Trade Secrets or Proprietary Information (Attachment A3) is
+provided as a courtesy to assist offerors desiring to protect trade secrets or proprietary
+information from disclosure under the Virginia Freedom of Information Act.

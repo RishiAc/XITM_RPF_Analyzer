@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0052
+Source File: 2-RFP 2000004198.pdf
+Section Title: 11.3. Offeror will dynamically from month to month provide the County the lowest available price for
+Section Number: 11.3.
+Section Type: general
+Word Count: 123
+Character Count: 826
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+11.3. Offeror will dynamically from month to month provide the County the lowest available price for
+any/all collective or individual solutions implemented to meet or exceed that of any contract the
+offeror has. The price will never increase for any reason without prior approval from an
+authorized Fairfax County Government representative. Price decreases shall be made in
+accordance with paragraph 40 of the General Conditions & Instructions to Offerors.
+12. TRADE SECRETS/PROPRIETARY INFORMATION:
+12.1. Trade secrets or proprietary information submitted by an offeror in connection with a
+procurement transaction shall not be subject to public disclosure under the Virginia Freedom
+of Information Act; however, offerors must invoke the protections of this section prior to or upon
+submission of the data or other materials.

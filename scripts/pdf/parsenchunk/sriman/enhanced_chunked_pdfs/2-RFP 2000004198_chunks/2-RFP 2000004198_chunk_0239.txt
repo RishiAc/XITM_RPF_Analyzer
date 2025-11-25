@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0239
+Source File: 2-RFP 2000004198.pdf
+Section Title: 41. CHANGES-If in the Purchasing Agent’s opinion, it becomes proper or necessary in the execution of this contract to make any
+Section Number: 41.
+Section Type: general
+Word Count: 87
+Character Count: 550
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+change in design, or to make any alterations that will increase the expense, the Purchasing Agent shall determine an equitable
+adjustment to the Contractor’s compensation.
+No payment shall be made to the Contractor for any extra material or services, or of any greater amount of money than stipulated
+to be paid in the contract, unless some changes in or additions to the contract requiring additional outlay by the Contractor are
+first expressly authorized and ordered in writing by contract amendment or otherwise furnished by the Purchasing Agent.

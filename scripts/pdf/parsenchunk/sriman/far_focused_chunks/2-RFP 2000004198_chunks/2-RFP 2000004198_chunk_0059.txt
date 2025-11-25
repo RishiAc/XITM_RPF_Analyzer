@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0059
+Source File: 2-RFP 2000004198.pdf
+Section Title: 16.2. The last day to submit questions to be addressed in the addendum will be addressed in Bonfire
+Section Number: 16.2.
+Section Type: general
+Word Count: 90
+Character Count: 596
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+16.2. The last day to submit questions to be addressed in the addendum will be addressed in Bonfire
+(Euna) under “Questions Due Date.” All questions pertaining to this RFP shall be submitted to
+dpmmteam1@fairfaxcounty.gov. Questions submitted in Bonfire (Euna) will not be
+considered, therefore, please make sure to send your questions to the e-mail address
+above.
+16.3. Notice of addenda will be posted on eVA and Bonfire (Euna). It is the Offeror’s responsibility to
+monitor the web page for the most current addenda at https://fairfaxcounty.bonfirehub.com.
+15
+RFP 2000004198
+SPECIAL PROVISIONS

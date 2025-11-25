@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0276
+Source File: 2-RFP 2000004198.pdf
+Section Title: 4. Violation of contract provisions, as set forth below, of a character which is regarded by the Purchasing Agent to be so serious
+Section Number: 4.
+Section Type: general
+Word Count: 53
+Character Count: 314
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+as to justify suspension or debarment action:
+a. failure without good cause to perform in accordance with the specifications or within the time limit provided in the
+contract; or
+b. a recent record of failure to perform or of unsatisfactory performance in accordance with the terms of one or more
+32
+RFP 2000004198

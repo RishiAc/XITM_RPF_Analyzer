@@ -1,0 +1,48 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0033
+Source File: 2-RFP 2000004198.pdf
+Section Title: 45. INSPECTIONS-Inspection and acceptance of materials or supplies will be made after delivery at the designated destinations
+Section Number: 45.
+Section Type: general
+Word Count: 496
+Character Count: 3178
+Line Count: 31
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+45. INSPECTIONS-Inspection and acceptance of materials or supplies will be made after delivery at the designated destinations
+unless otherwise stated. If inspection is made after delivery at the designated destination, the County will bear the expense of
+inspection except for the value of samples used in case of rejection. Final inspection is conclusive except in regard to latent
+defects, fraud or such gross mistakes as to amount to fraud. Final inspection and acceptance or rejection of the materials or
+supplies will be made as promptly as practicable, but failure to inspect and accept or reject materials or supplies shall not impose
+liability on the County for such materials or supplies as are not in accordance with the specifications.
+46. COMPLIANCE-Delivery must be made as ordered and in accordance with the contract or as directed by the Purchasing Agent
+when not in conflict with the contract. The decision of the Purchasing Agent as to reasonable compliance with delivery terms
+shall be final. If the Contractor claims the delay in receipt of goods was caused by the County, the Contractor must provide
+evidence satisfactory to the Purchasing Agent supporting the Contractor’s claim. Any request for extension of delivery time from
+that specified in the contract must be approved by the Purchasing Agent, such extension applying only to the particular item or
+shipment affected. If the Contractor is delayed by the County, there shall be added to the time of completion a time equal to the
+period of such delay caused by the County. However, the Contractor shall not be entitled to claim damages or extra
+compensation for such delay or suspension. These conditions may vary for construction contracts. See contract for the individual
+instructions.
+47. POINT OF DESTINATION-All materials shipped to the County must be shipped F.O.B. DESTINATION unless otherwise stated
+in the contract or purchase order. The materials must be delivered to the "Ship to" address indicated on the purchase order.
+48. ADDITIONAL CHARGES-Unless bought F.O.B. "shipping point" and Contractor prepays transportation, no delivery charges
+shall be added to invoices except when express delivery is authorized and substituted on orders for the method specified in the
+contract. In such cases, difference between freight or mail and express charges may be added to invoice.
+49. METHOD AND CONTAINERS-Unless otherwise specified, goods shall be delivered in commercial packages in standard
+commercial containers that are constructed to ensure acceptance by common or other carrier for safe transportation to the point
+of delivery. Containers become the property of the County unless otherwise specified by bidder.
+50. REPLACEMENT-Materials or components that have been rejected by the Purchasing Agent, in accordance with the terms of a
+contract, shall be replaced by the Contractor at no cost to the County.
+51. PACKING SLIPS OR DELIVERY TICKETS-All shipments must be accompanied by Packing Slips or Delivery Tickets and must
+contain the following information for each item delivered:
+a. The Purchase Order Number,
+b. The Name of the Article and Stock Number (Supplier's),
+29
+RFP 2000004198

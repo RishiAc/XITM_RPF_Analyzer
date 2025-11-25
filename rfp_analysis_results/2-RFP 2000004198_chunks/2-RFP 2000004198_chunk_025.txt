@@ -1,0 +1,46 @@
+Chunk ID: 2-RFP 2000004198_chunk_025
+Section: 11. PRICING:
+Section Number: 11
+Section Type: pricing
+Phase: P4
+Due Dates: None
+Eligibility: None
+Evaluation Type: Cost
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: price
+Word Count: 377
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+11. PRICING:
+11.1. The subsequent contract will be a firm-fixed price agreement. The fee(s) will remain firm and
+will include all charges that may be incurred in fulfilling the requirements of the contract during
+the first 365 days. Changes in cost for any subsequent contract years may be based on the
+Consumer Price Index (CPI-U), Consumer Price Index Summary, All items or other relevant
+indices as determined solely by the Procurement Agent. Changes in cost shall not exceed a
+five percent (5%) increase for the given year.
+11.2. The request for a change in the unit price shall include as a minimum, (1) the cause for the
+adjustment; (2) proposed effective date; and, (3) the amount of the change requested with
+documentation to support the requested adjustment (i.e., appropriate Bureau of Labor
+Statistics, Consumer Price Index All items (CPI-U), etc.). Increases are not guaranteed, but will
+be granted at the discretion of the Purchasing Agent.
+11.3. Offeror will dynamically from month to month provide the County the lowest available price for
+any/all collective or individual solutions implemented to meet or exceed that of any contract the
+offeror has. The price will never increase for any reason without prior approval from an
+authorized Fairfax County Government representative. Price decreases shall be made in
+accordance with paragraph 40 of the General Conditions & Instructions to Offerors.
+12. TRADE SECRETS/PROPRIETARY INFORMATION:
+12.1. Trade secrets or proprietary information submitted by an offeror in connection with a
+procurement transaction shall not be subject to public disclosure under the Virginia Freedom
+of Information Act; however, offerors must invoke the protections of this section prior to or upon
+submission of the data or other materials.
+12.2. The offeror must identify the data or other materials to be protected and state the
+reasons why protection is necessary. Disposition of material after award(s) should be stated
+by the offeror.
+12.3. Request for Protection of Trade Secrets or Proprietary Information (Attachment A3) is
+provided as a courtesy to assist offerors desiring to protect trade secrets or proprietary
+information from disclosure under the Virginia Freedom of Information Act.
+12.4. The classification of an entire proposal document, line-item prices, and/or total proposal prices
+as proprietary or trade secrets is not acceptable and may result in rejection of the proposal.

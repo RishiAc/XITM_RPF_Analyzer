@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0163
+Source File: 2-RFP 2000004198.pdf
+Section Title: 22.1. Fairfax County may, at any time, by written order, require changes in the services to be
+Section Number: 22.1.
+Section Type: general
+Word Count: 15
+Character Count: 93
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+performed by the Contractor. If such changes cause an increase or decrease in the Contractors

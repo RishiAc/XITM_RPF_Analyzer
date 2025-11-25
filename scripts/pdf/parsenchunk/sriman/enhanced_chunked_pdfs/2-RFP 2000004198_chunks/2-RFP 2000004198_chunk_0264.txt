@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0264
+Source File: 2-RFP 2000004198.pdf
+Section Title: 60. LICENSE REQUIREMENT-All firms doing business in Fairfax County, shall obtain a license as required by Chapter 4, Article 7,
+Section Number: 60.
+Section Type: technical_requirements
+Word Count: 60
+Character Count: 455
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+of The Code of the County of Fairfax, Virginia, as amended, entitled "Business, Professional and Occupational Licensing (BPOL)
+Tax." Questions concerning the BPOL Tax should be directed to the Department of Tax Administration, telephone (703)
+222-8234 or visit: https://www.fairfaxcounty.gov/taxes/business/understanding-bpol-tax.. The BPOL Tax number must be
+indicated in the space provided on the Cover Sheet, "Fairfax License Tax No." when appropriate.

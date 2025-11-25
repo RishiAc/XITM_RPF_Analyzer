@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0083
+Source File: 2-RFP 2000004198.pdf
+Section Title: other expenses such as clerical support, other overhead costs, supplies, etc. (ref. Pricing
+Section Number: None
+Section Type: budget_pricing
+Word Count: 5
+Character Count: 34
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Schedule – IT Staff Augmentation).

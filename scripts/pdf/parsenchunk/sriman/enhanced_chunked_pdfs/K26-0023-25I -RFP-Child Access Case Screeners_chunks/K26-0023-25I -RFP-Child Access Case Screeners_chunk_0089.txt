@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0089
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Minority Business Enterprise
+Section Number: 1.
+Section Type: general
+Word Count: 55
+Character Count: 414
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+MBEs are encouraged to respond to this solicitation notice as Prime Contractors. In order to
+participate as an MBE in AOC procurements, MBEs must be certified by the Maryland Department
+of Transportation (MDOT). Additional information regarding certification can be located on the
+MDOT Website: https://www.mdot.maryland.gov/tso/Pages/Index.aspx?PageId=90
+a. There is no MBE goal established for this solicitation.

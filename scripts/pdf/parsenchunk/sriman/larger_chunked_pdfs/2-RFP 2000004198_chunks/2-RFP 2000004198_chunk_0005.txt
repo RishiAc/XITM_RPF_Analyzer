@@ -1,0 +1,72 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0005
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.1.5. If support is for a commercial licensed software product, it is expected that work is
+Section Number: None
+Section Type: general
+Word Count: 472
+Character Count: 3500
+Line Count: 55
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+5.1.5. If support is for a commercial licensed software product, it is expected that work is
+based on its manufacture specifications and not manipulated outside its developed
+architecture and development standards. The solution design should recommend
+the hardware and database environment that ensures optimal performance,
+supportability and reliability.
+5.1.6. Solution support may be required on technology that is hosted outside the County’s
+IT environment, such as a subscription service. Augmented staff must adhere to
+County IT Security standards for data security and privacy and user access from the
+county’s local and remote network. DIT will specify remote access specifications.
+5.2. County Network Environment:
+5.2.1. The County’s technology architecture is a tactical asset that defines technology
+components necessary to support business operations and the infrastructure
+required for implementation of technologies in response to the changing needs of
+government business and industry evolution. It is a multi-layered architecture that
+includes:
+• Application and Data Architectures,
+• Platform Architecture,
+• Network Architecture,
+• Internet Architecture, and
+• Security Architecture.
+5.2.2. More information about the County’s enterprise architecture is available in the
+Information Technology Plan, published by the County DIT, at
+https://www.fairfaxcounty.gov/informationtechnology/it-plan
+5.3. Requirements for Solutions Supported by Staff Augmentation:
+5.3.1. All information systems delivery and management is governed by the Architecture
+Review Board (ARB) and other program specific committees that are chartered to
+manage scope and functionality delivery issues, and advise and/or direct
+development efforts and promote conformance to a variety of standards, including
+but not limited, to those in the Information Technology Plan,
+https://www.fairfaxcounty.gov/informationtechnology/it-plan. Offerors with staff
+augmentation support in the various domains may be required to review solution
+architecture with the DIT ARB while supporting the county. The DIT ARB provides
+technical review and sign-off of Solution designs.
+5.3.2. In general, solutions that are installed on premises at Fairfax County use industry
+standards and must meet the following requirements, which are described in the
+Information Technology Plan,
+https://www.fairfaxcounty.gov/informationtechnology/it-plan:
+• Enterprise Architecture and Standards,
+• Application Platforms and Architecture, and
+• Database and Operating Systems.
+4
+RFP 2000004198
+SPECIAL PROVISIONS
+5.3.3. Deviations: Deviations from the architecture and standards may become a barrier
+to the sustainability of the County’s integration and interoperability posture and may
+be subject to further review. When responding to various statements of work during
+the duration of this contract, offerors must specifically disclose all aspects of the
+proposed solution which deviate from the documented standards and desired
+architectures, and provide approaches for consideration about the manner in which
+non-standard components may be integrated.
+5.3.4. Graphical User Interfaces: The County has standard templates that are required for
+its websites to have maximum consistency across applications and content. Any
+hosted applications and most COTS applications should be able to present through
+the County template or simulation for County brand and identity. Alternatives to
+using these templates must be arranged through the County DIT.

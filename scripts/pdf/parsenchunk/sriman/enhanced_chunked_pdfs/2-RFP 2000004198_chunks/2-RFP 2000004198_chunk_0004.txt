@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0004
+Source File: 2-RFP 2000004198.pdf
+Section Title: 1.2. This procurement is conducted by Fairfax County Government (“FCG”) and is established as
+Section Number: 1.2.
+Section Type: general
+Word Count: 39
+Character Count: 276
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a cooperative procurement, allowing other public bodies to participate and utilize the resulting
+contracts. FCG and FCPS intend to award multiple contracts to provide Staff Augmentation
+services. These contracts will offer flexibility to procure services on an as-needed basis

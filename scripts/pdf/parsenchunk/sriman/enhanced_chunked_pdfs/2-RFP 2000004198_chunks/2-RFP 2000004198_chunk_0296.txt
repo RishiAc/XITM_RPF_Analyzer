@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0296
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 45
+Character Count: 317
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+If Contractor experiences a breach of protected health information governed under HIPAA, or substance use disorder information
+governed under 42 CFR Part 2, the terms of any Business Associate or Qualified Service Organization Agreement between the
+parties will control.

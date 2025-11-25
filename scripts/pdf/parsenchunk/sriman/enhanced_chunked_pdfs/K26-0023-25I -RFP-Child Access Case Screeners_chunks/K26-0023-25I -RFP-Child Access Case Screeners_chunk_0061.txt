@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0061
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: during the life of the contract at the proposed labor rates. The AOC reserves the right to roll-off support
+Section Number: None
+Section Type: general
+Word Count: 16
+Character Count: 126
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+resources with thirty (30) days’ notice (e.g., assignments completed prior to contract expiration).
+D. PRE-PROPOSAL CONFERENCE

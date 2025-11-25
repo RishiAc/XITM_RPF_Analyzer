@@ -1,0 +1,20 @@
+Chunk ID: 2-RFP 2000004198_chunk_042
+Section: 27. SAFEGUARDS OF INFORMATION:
+Section Number: 27
+Section Type: submission_requirements
+Phase: P2
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: information, contractor, safeguards
+Word Count: 44
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+27. SAFEGUARDS OF INFORMATION:
+27.1. Unless approved in writing by the County Procurement Agent, the Contractor may not sell or
+give to any individual or organization any information, reports, or other materials given to,
+prepared, or assembled by the Contractor under the final contract.

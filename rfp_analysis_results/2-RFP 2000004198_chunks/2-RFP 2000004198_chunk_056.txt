@@ -1,0 +1,21 @@
+Chunk ID: 2-RFP 2000004198_chunk_056
+Section: 74. AUDIT OF RECORDS The parties agree that the County or its agent must have reasonable access to and the right to examine
+Section Number: 74
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: records, form, contractor, related
+Word Count: 87
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+74. AUDIT OF RECORDS The parties agree that the County or its agent must have reasonable access to and the right to examine
+any records of the contractor involving transactions related to the contract or compliance with any clauses thereunder, for a
+period of three (3) years after final payment. The contractor shall include these same provisions in all related subcontracts. For
+purposes of this clause, the term “records” includes documents, and papers regardless of whether they are in written form,
+electronic form, or any other form.

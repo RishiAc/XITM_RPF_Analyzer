@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0072
+Source File: 2-RFP 2000004198.pdf
+Section Title: relevant work experience unless otherwise stated.
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 45
+Character Count: 287
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+The personnel named in the technical proposal will remain assigned to the project
+throughout the period of this contract. No diversion or replacement may be made
+without submission of a resume of the proposed replacement with final approval being
+granted by the County Procurement Agent.

@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0027
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 9. The Contract Manager, in conjunction with the Chief of the Office of Security Administration and
+Section Number: 9.
+Section Type: security_compliance
+Word Count: 86
+Character Count: 604
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+9. The Contract Manager, in conjunction with the Chief of the Office of Security Administration and
+the Procurement Officer, may impose restrictive conditions in response to prior criminal convictions,
+pending criminal charges, or a violation of AOC procedures, including removal from the contract,
+and/or restricted access to AOC locations or systems.
+10. In the event of a security incident or suspected security incident, the Successful Offeror personnel
+shall immediately notify the Contract Manager.
+11. The Successful Offeror personnel shall cooperate fully in all security incident investigations.

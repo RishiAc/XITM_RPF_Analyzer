@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0193
+Source File: 2-RFP 2000004198.pdf
+Section Title: 4. LATE BIDS & MODIFICATIONS OF BIDS-
+Section Number: 4.
+Section Type: general
+Word Count: 41
+Character Count: 264
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Bids or proposals received after the date and time specified for receipt in the solicitation will not be considered.
+b. If an emergency, unanticipated event, or closing of County offices interrupts or suspends normal County business operations
+24
+RFP 2000004198

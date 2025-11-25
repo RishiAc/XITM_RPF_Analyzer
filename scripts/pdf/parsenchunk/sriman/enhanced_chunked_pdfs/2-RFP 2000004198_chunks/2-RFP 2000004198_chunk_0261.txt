@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0261
+Source File: 2-RFP 2000004198.pdf
+Section Title: and accept the return of the products, software, services, or deliverables, along with any other components rendered
+Section Number: None
+Section Type: deliverables_timeline
+Word Count: 184
+Character Count: 1148
+Line Count: 10
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+unusable as a result of the infringement or claimed infringement, and refund to the County the price paid to Contractor for
+such components as well as any pre-paid fees for the allegedly infringing services, including license, subscription fees, or
+both. Nothing in Paragraph 59, however, relieves the Contractor of liability to the County for damages sustained by the
+County by virtue of any breach of contract related to a third-party infringement claim.
+c. Right to Participate in Defense. The County may, at its sole expense, participate in the defense or resolution of a
+Claim. Contractor will have primary control of the defense and resolution of the Claim, except when such defense or
+resolution requires the County to (i) admit liability or wrongdoing; or (ii) to pay money. In either of these cases Contractor
+must obtain the County’s prior written consent before raising such defense or entering into such resolution.
+d. No Indemnification by the County. The parties agree that under applicable law the County cannot indemnify or
+defend the Contractor. To the extent any promise or term contained in this Contract, including any exhibits,

@@ -97,6 +97,7 @@ def _process_chunks(res) -> list[ChunkResponse]:
 
     Handles:
     - list of dicts from rerank(): [{"text","score",...}, ...]
+    - list of tuples from vector_api.rerank(): [(hit, score), ...]
     - dict with "results": {"results": [...]} (future-proof)
     """
     chunks: list[ChunkResponse] = []
@@ -108,14 +109,21 @@ def _process_chunks(res) -> list[ChunkResponse]:
         items = res
 
     for item in items:
-        # item is expected to be a dict like: {"text","score",...}
-        text = item.get("text", "") if isinstance(item, dict) else ""
-        score = float(item.get("score", 0.0)) if isinstance(item, dict) else 0.0
+        # Case 1: tuple returned by vector_api.rerank() -> (hit, score)
+        if isinstance(item, tuple) and len(item) == 2:
+            hit, score = item
+            payload = getattr(hit, "payload", {}) or {}
+            text = str(payload.get("text", "")).strip()
+            conf = float(score) if score is not None else 0.0
+        # Case 2: dict already shaped
+        elif isinstance(item, dict):
+            text = str(item.get("text", "")).strip()
+            conf = float(item.get("score", 0.0))
+        else:
+            text = ""
+            conf = 0.0
 
-        new_chunk = ChunkResponse(
-            chunk_text=text,
-            confidence=score
-        )
+        new_chunk = ChunkResponse(chunk_text=text, confidence=conf)
         chunks.append(new_chunk)
 
     return chunks

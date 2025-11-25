@@ -1,0 +1,20 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_030
+Section: 1. Evaluation of the proposals will be performed by a committee established for the purpose of
+Section Number: 1
+Section Type: evaluation
+Phase: P3
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: evaluation, proposals, committee
+Word Count: 54
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+1. Evaluation of the proposals will be performed by a committee established for the purpose of
+analyzing the proposals based on the evaluation criteria set forth below. The Evaluation Committee
+will provide input to the Procurement Officer after reviewing proposals, participating in oral
+presentations and discussions, and any other activities relative to this RFP.
