@@ -1,8 +1,6 @@
 from fastapi import APIRouter
 from api.vector_api import OrchestrateBody, orchestrate_queries
 from pydantic import BaseModel
-import numpy as np
-from api.clients.supabase import _sb
 from api.clients.openai import get_chat_completion
 
 router = APIRouter(prefix="/score", tags=["score"])
@@ -36,11 +34,11 @@ def _get_scoring_prompt(rfp_chunks, question, expected_answer) -> str:
         3. Assign a single integer score from 1 to 10 indicating how well this RFP fits the company with respect to the given question.
         4. Return a JSON object that matches the following schema:
 
-        ScoreResponse = {
+        ScoreResponse = {{
             "score": int,      // 1–10
             "phase": int,      // echo back the phase provided to you
             "reasoning": str   // concise explanation of *why* you chose that score
-        }
+        }}
 
         SCORING RUBRIC (1–10)
         - 10: Perfect or near-perfect fit
@@ -90,11 +88,11 @@ def _get_scoring_prompt(rfp_chunks, question, expected_answer) -> str:
         OUTPUT FORMAT
         Return **only** a single JSON object, with no extra text, exactly like this:
 
-        {
+        {{
         "score": <integer 1-10>,
         "phase": <integer>,
         "reasoning": "<concise explanation>"
-        }
+        }}
     """
 
     return prompt
@@ -157,7 +155,7 @@ def score_rfp(body: OrchestrateBody):
         ans = test["knowledge_base_answer"]
         weight = test["weight"]
 
-        rfp_chunks = test["rfp_topk"]
+        rfp_chunks = [topk["text"] for topk in test["rfp_topk"]]
 
         print(f"Calculating score for query {query_number}")
         res : ScoreResponse = _calculate_score(rfp_chunks, question, ans)
