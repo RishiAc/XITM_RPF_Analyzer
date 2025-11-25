@@ -6,6 +6,9 @@
  * @param {number} [topK=5] - Number of top results to consider
  * @returns {Promise<{score: number, explanation: string}>}
  */
+
+import { client } from "./client";
+
 export async function evaluateLLM(docId, query, qaAnswer, topK = 5) {
   try {
     const body = {
@@ -15,7 +18,7 @@ export async function evaluateLLM(docId, query, qaAnswer, topK = 5) {
       top_k: topK,
     };
 
-    const response = await fetch("http://localhost:8080/eval/llm-eval", {
+    const response = await fetch(`${client.stagingBackendUrl}/eval/llm-eval`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(body),

@@ -1,5 +1,4 @@
 import { supabase } from "./supabaseClient.js";
-
 /**
  * Fetches all RFP entries from the "RFPs" table in Supabase
  * and returns a list of dictionaries formatted like cardsData.
