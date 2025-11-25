@@ -1,3 +1,4 @@
+import { client } from "./client";
 const BASE_URL = "http://localhost:8080";  // backend origin
 
 /**
@@ -100,15 +101,9 @@ export async function evaluateLLM(docId, query, qaAnswer, topK = 5) {
  * @param {string} rfp_doc_id
  */
 
-import { client } from "./client";
-
 export async function queryRFP(query, rfp_doc_id) {
 
-<<<<<<< HEAD
     const URL = `${client.stagingBackendUrl}/query/query-rfp`
-=======
-    const URL = "http://localhost:8080/query/query-rfp"
->>>>>>> 7eef9fe9320946e31e7c569b68eb48cee06258b9
 
     if (!query) throw new Error("No Query Provided");
 
