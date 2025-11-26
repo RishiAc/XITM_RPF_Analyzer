@@ -119,3 +119,16 @@ async def select_query_row(query_number: int):
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@router.get("/get_all_query_rows")
+async def get_all_query_rows():
+    """
+    Returns all rows in Query_Table.
+
+    Returns:
+        The response from the Supabase API containing all rows.
+    """
+    try:
+        return query_table.select("*").execute()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

@@ -125,7 +125,22 @@ export async function queryRFP(query, rfp_doc_id) {
             body: JSON.stringify(payload)
         })
 
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        if (!res.ok) {
+            // Try to surface backend error detail instead of a generic HTTP code
+            let errorDetail = `HTTP ${res.status}`;
+            try {
+                const data = await res.json();
+                if (data?.detail) {
+                    errorDetail = data.detail;
+                } else if (data?.error) {
+                    errorDetail = data.error;
+                }
+            } catch {
+                const text = await res.text();
+                if (text) errorDetail = text;
+            }
+            return { error: errorDetail };
+        }
 
         return res.json()
     }
