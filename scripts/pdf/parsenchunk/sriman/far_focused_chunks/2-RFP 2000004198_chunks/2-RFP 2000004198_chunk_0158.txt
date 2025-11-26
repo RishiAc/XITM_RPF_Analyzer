@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0158
+Source File: 2-RFP 2000004198.pdf
+Section Title: 68. CONTRACTUAL DISPUTES-
+Section Number: 68.
+Section Type: general
+Word Count: 224
+Character Count: 1330
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+68. CONTRACTUAL DISPUTES-
+a. Any dispute concerning a question of fact as a result of a contract with the County which is not disposed of by agreement
+shall be decided by the Purchasing Agent, who shall reduce her decision to writing and mail or otherwise forward a copy to
+the Contractor within ninety (90) days. The decision of the Purchasing Agent shall be final and conclusive unless the
+Contractor appeals within six (6) months of the date of the final written decision by instituting legal action as provided in the
+Code of Virginia. A Contractor may not institute legal action, prior to receipt of the Purchasing Agent’s decision on the claim,
+unless the Purchasing Agent fails to render such decision within the time specified.
+b. Contractual claims, whether for money or other relief, shall be submitted in writing no later than sixty days after final payment;
+however, written notice of the Contractor's intention to file such claim shall have been given at the time of the occurrence or
+beginning of the work upon which the claim is based. Nothing herein shall preclude a contract from requiring submission of
+an invoice for final payment within a certain time after completion and acceptance of the work or acceptance of the goods.
+Pendency of claims shall not delay payment of amounts agreed due in the final payment.

@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0159
+Source File: 2-RFP 2000004198.pdf
+Section Title: 21.1. The Contractor must maintain all records in compliance with federal and state regulations. The
+Section Number: 21.1.
+Section Type: security_compliance
+Word Count: 20
+Character Count: 146
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Contractor(s) must submit to the Project Manager, monthly statistical reports and an annual
+tabulated report.
+19
+RFP 2000004198
+SPECIAL PROVISIONS

@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0092
+Source File: 2-RFP 2000004198.pdf
+Section Title: extent that they do not conflict with this contract’s terms and conditions. If, when preparing
+Section Number: None
+Section Type: contract_clauses
+Word Count: 139
+Character Count: 823
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+extent that they do not conflict with this contract’s terms and conditions. If, when preparing
+such a contract, the general terms and conditions of a public body are unacceptable to the
+Contractor, the Contractor may withdraw its extension of the award to that public body.
+30.5. Fairfax County shall not be held liable for any costs or damages incurred by another public
+body as a result of any award extended to that public body by the Contractor.
+31. NEWS RELEASE BY VENDORS:
+31.1. As a matter of policy, the County does not endorse the products or services of a Contractor.
+News releases concerning any resultant contract from this solicitation will not be made by a
+Contractor without the prior written approval of the County. All proposed news releases will be
+routed to the Procurement Agent for review and approval.

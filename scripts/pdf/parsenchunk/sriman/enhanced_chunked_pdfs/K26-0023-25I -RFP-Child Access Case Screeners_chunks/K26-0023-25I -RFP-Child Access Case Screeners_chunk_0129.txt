@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0129
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Procurement Officer shall initially review for compliance with the RFP requirements. Failure to
+Section Number: 1.
+Section Type: technical_requirements
+Word Count: 47
+Character Count: 294
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+comply with RFP requirements may result in a proposal being classified as not reasonably susceptible
+of being selected for award. Minor irregularities in proposals that are immaterial or inconsequential
+in nature may be cured or waived whenever it is determined to be in the AOCs best interest.

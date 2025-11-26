@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0108
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15. BIDDER INTERESTED IN MORE THAN ONE BID-If more than one bid is offered by a bidder, directly or indirectly, all such bids
+Section Number: 15.
+Section Type: general
+Word Count: 88
+Character Count: 520
+Line Count: 5
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+15. BIDDER INTERESTED IN MORE THAN ONE BID-If more than one bid is offered by a bidder, directly or indirectly, all such bids
+may be rejected. A bidder who has quoted prices on work, materials, or supplies to a bidder is not disqualified from quoting
+prices to other bidders or firms submitting a bid directly for the work, materials or supplies.
+16. TAX EXEMPTION-The County is exempt from the payment of any federal excise or any Virginia sales tax. Fairfax County's
+Federal Excise Tax Exemption Number is 54-74-0127K.

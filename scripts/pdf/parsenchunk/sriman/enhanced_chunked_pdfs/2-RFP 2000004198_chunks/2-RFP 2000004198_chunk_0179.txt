@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0179
+Source File: 2-RFP 2000004198.pdf
+Section Title: 30.3. Other public bodies desiring to use this contract will need to make their own legal
+Section Number: 30.3.
+Section Type: general
+Word Count: 18
+Character Count: 117
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+determinations as to whether the use of this contract is consistent with their laws, regulations,
+and other policies.

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0158
+Source File: 2-RFP 2000004198.pdf
+Section Title: 20.5. Performance under this contract is not to begin until receipt of the purchase order, Procurement
+Section Number: 20.5.
+Section Type: general
+Word Count: 26
+Character Count: 168
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Card order, or other notification to proceed by the County Purchasing Agent and/or County
+agency to proceed. Purchase requisitions shall not be used for placing orders.

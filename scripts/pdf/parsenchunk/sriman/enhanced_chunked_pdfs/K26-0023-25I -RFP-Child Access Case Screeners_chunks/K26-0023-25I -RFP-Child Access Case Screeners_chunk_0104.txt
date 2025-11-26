@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0104
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Offeror proposed resource(s) will be provided access to MDEC to report time for each screening, as
+Section Number: 2.
+Section Type: general
+Word Count: 7
+Character Count: 42
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+well as administrative time for each case.

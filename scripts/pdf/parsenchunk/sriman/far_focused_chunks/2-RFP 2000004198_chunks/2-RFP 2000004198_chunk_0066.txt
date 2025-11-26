@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0066
+Source File: 2-RFP 2000004198.pdf
+Section Title: post implementation support, and may include inquiries concerning the product, such as
+Section Number: None
+Section Type: general
+Word Count: 99
+Character Count: 610
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+post implementation support, and may include inquiries concerning the product, such as
+stability, flexibility, and usability.
+Note: The County may contact any other site that may have experience with the Offeror’s
+products.
+18.8. Each SAC will then conduct a final evaluation of the proposals. Selection shall be made of two
+or more Offerors deemed to be fully qualified and best suited among those submitting proposals
+to the labor categories, on the basis of the factors involved in the RFP, including price if so
+stated in the RFP. Negotiations shall then be conducted with each of the Offerors so selected.

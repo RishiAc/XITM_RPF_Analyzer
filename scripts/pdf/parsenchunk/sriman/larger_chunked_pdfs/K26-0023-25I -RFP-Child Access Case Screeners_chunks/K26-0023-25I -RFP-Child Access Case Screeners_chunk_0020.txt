@@ -1,0 +1,60 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0020
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Evaluation of the proposals will be performed by a committee established for the purpose of
+Section Number: 1.
+Section Type: evaluation_criteria
+Word Count: 507
+Character Count: 3464
+Line Count: 43
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+1. Evaluation of the proposals will be performed by a committee established for the purpose of
+analyzing the proposals based on the evaluation criteria set forth below. The Evaluation Committee
+will provide input to the Procurement Officer after reviewing proposals, participating in oral
+presentations and discussions, and any other activities relative to this RFP.
+2. The AOC reserves the right to utilize the services of individuals outside of the established Evaluation
+Committee for advice and assistance, as deemed appropriate by the Procurement Officer.
+B. TECHNICAL PROPOSAL CRITERIA
+The criteria to be applied to each Technical Proposal are listed in descending order of importance. Unless
+stated otherwise, any sub-criteria within each criterion have equal weight.
+1. Interview (shortlisted Offeror resources only). Degree to which the proposed resource(s)
+demonstrates the skills, experience, and capabilities outlined in Section III.E.;
+2. Extent to which the proposed resource(s) resume, education, and narrative demonstrates the
+Qualifications, skills, experience, and capabilities outlined in Section III;
+3. Extent to which the proposed resource(s) references demonstrate their ability to provide the requested
+services outlined in Section III;
+The AOC prefers the Offeror’s Technical Proposal to illustrate a comprehensive understanding of work
+requirements and mastery of the subject matter, including an explanation of how the work will be performed.
+Technical Proposals which include limited responses to work requirements such as “concur” or “will comply”
+sample will receive a lower ranking than Technical Proposals that demonstrate an understanding of the work
+requirements and include plans to meet or exceed requirements.
+C. FINANCIAL PROPOSAL CRITERIA
+All Offerors will be ranked from the lowest (most advantageous) to the highest (least advantageous) price
+based on their total proposed price set forth in this RFP and as submitted on the Bid/Price Proposal Form
+and/or the requested total price.
+D. SELECTION PROCEDURES
+1. The Procurement Officer shall initially review for compliance with the RFP requirements. Failure to
+comply with RFP requirements may result in a proposal being classified as not reasonably susceptible
+of being selected for award. Minor irregularities in proposals that are immaterial or inconsequential
+in nature may be cured or waived whenever it is determined to be in the AOCs best interest.
+2. Selection Procedures:
+a. Technical Proposals are evaluated for technical merit and ranked. During this review, oral
+presentations, interviews, and discussions may be held. The purpose of such discussions
+shall be to assure a full understanding of the AOCs requirements and the Offeror’s ability to
+perform, and to facilitate understanding of the Contract that shall be most advantageous to
+the AOC.
+(1) At the discretion of the Procurement Officer, following the recommendation of the
+Evaluation Committee, a shortlist of Offerors may be established during the
+technical evaluation. Only shortlisted Offerors would continue in the evaluation
+process; Offerors not shortlisted shall be so advised.
+(2) Offerors must confirm in writing any substantive oral clarifications of, or changes
+in, their Technical Proposal made during discussions. Any such written clarifications
+or changes become part of the Offeror’s Technical Proposal.
+(3) The AOC may require any Offeror to furnish additional information regarding past

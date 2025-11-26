@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0128
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 176
+Character Count: 1106
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+The Contractor shall submit its invoice at such reduced prices indicating on the invoice that the reduction is pursuant to the "Price
+Reduction" provision of the contract documents. The Contractor will also within ten days of any general price reduction notify
+the Purchasing Agent of such reduction by letter. FAILURE TO DO SO MAY RESULT IN TERMINATION OF THE CONTRACT.
+41. CHANGES-If in the Purchasing Agent’s opinion, it becomes proper or necessary in the execution of this contract to make any
+change in design, or to make any alterations that will increase the expense, the Purchasing Agent shall determine an equitable
+adjustment to the Contractor’s compensation.
+No payment shall be made to the Contractor for any extra material or services, or of any greater amount of money than stipulated
+to be paid in the contract, unless some changes in or additions to the contract requiring additional outlay by the Contractor are
+first expressly authorized and ordered in writing by contract amendment or otherwise furnished by the Purchasing Agent.

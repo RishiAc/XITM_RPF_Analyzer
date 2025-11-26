@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0181
+Source File: 2-RFP 2000004198.pdf
+Section Title: 30.5. Fairfax County shall not be held liable for any costs or damages incurred by another public
+Section Number: 30.5.
+Section Type: budget_pricing
+Word Count: 15
+Character Count: 77
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+body as a result of any award extended to that public body by the Contractor.

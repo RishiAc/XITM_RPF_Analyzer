@@ -1,0 +1,40 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0019
+Source File: 2-RFP 2000004198.pdf
+Section Title: augmentation support in the various domains may be required to review solution
+Section Number: None
+Section Type: general
+Word Count: 217
+Character Count: 1561
+Line Count: 25
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+augmentation support in the various domains may be required to review solution
+architecture with the DIT ARB while supporting the county. The DIT ARB provides
+technical review and sign-off of Solution designs.
+5.3.2. In general, solutions that are installed on premises at Fairfax County use industry
+standards and must meet the following requirements, which are described in the
+Information Technology Plan,
+https://www.fairfaxcounty.gov/informationtechnology/it-plan:
+• Enterprise Architecture and Standards,
+• Application Platforms and Architecture, and
+• Database and Operating Systems.
+4
+RFP 2000004198
+SPECIAL PROVISIONS
+5.3.3. Deviations: Deviations from the architecture and standards may become a barrier
+to the sustainability of the County’s integration and interoperability posture and may
+be subject to further review. When responding to various statements of work during
+the duration of this contract, offerors must specifically disclose all aspects of the
+proposed solution which deviate from the documented standards and desired
+architectures, and provide approaches for consideration about the manner in which
+non-standard components may be integrated.
+5.3.4. Graphical User Interfaces: The County has standard templates that are required for
+its websites to have maximum consistency across applications and content. Any
+hosted applications and most COTS applications should be able to present through
+the County template or simulation for County brand and identity. Alternatives to
+using these templates must be arranged through the County DIT.

@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0148
+Source File: 2-RFP 2000004198.pdf
+Section Title: Continuation of 63. VIRGINIA FREEDOM OF INFORMATION ACT-All proceedings, records, contracts and other public records relating to
+Section Number: 63.
+Section Type: general
+Word Count: 158
+Character Count: 1059
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+materials to be protected, and (iii) state the reasons why protection is necessary.
+d. Nothing contained in this section shall be construed to require the County, when procuring by "competitive negotiation"
+(Request for Proposal), to furnish a statement of the reasons why a particular proposal was not deemed to be the most
+advantageous to the County.
+e. The County cannot maintain as confidential any information, data, or records obtainable through the Virginia Freedom of
+Information or similar law. This includes records or information that have not been properly designated as trade secret or
+proprietary information pursuant to Va. Code Ann. § 2.2-4342(F).
+f. A bidder or offeror shall not designate as trade secrets or proprietary information (a) an entire bid, proposal, or prequalification
+application; (b) any portion of a bid, proposal, or prequalification application that does not contain trade secrets or proprietary
+information; or (c) line item prices or total bid, proposal, or prequalification application prices.
+BIDDER/CONTRACTOR REMEDIES

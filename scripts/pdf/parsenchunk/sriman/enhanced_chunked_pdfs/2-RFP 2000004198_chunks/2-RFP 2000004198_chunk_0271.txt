@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0271
+Source File: 2-RFP 2000004198.pdf
+Section Title: 64. INELIGIBILITY-
+Section Number: 64.
+Section Type: general
+Word Count: 22
+Character Count: 138
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Any person or firm suspended or debarred from participation in County procurement shall be notified in writing by the
+Purchasing Agent.

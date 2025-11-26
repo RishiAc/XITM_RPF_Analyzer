@@ -1,0 +1,71 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0024
+Source File: 2-RFP 2000004198.pdf
+Section Title: 33.2. Further information regarding HIPAA Compliance is available on the County’s website at
+Section Number: 33.2.
+Section Type: security_compliance
+Word Count: 618
+Character Count: 4118
+Line Count: 54
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+33.2. Further information regarding HIPAA Compliance is available on the County’s website at
+https://www.fairfaxcounty.gov/HIPAA/.
+22
+RFP 2000004198
+SPECIAL PROVISIONS
+34. STATE CORPORATION COMMISSION IDENTIFICATION NUMBER:
+34.1. Pursuant to Code of Virginia, §2.2-4311.2 subsection B, a bidder or offeror organized or
+authorized to transact business in the Commonwealth pursuant to Title 13.1 or Title 50 is
+required to include in its bid or proposal the identification number issued to it by the State
+Corporation Commission (SCC). Any bidder or offeror that is not required to be authorized to
+transact business in the Commonwealth as a foreign business entity under Title 13.1 or Title
+50 or as otherwise required by law is required to include in its bid or proposal a statement
+describing why the bidder or offeror is not required to be so authorized. Any bidder or offeror
+that fails to provide the required information may not receive an award. (ref. Attachment A4)
+23
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+C F
+OUNTY OF AIRFAX
+COMMONWEALTH OF VIRGINIA
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+BIDS ON SOLICITATIONS ISSUED BY THE COUNTY WILL BIND BIDDERS TO THE APPLICABLE
+CONDITIONS AND REQUIREMENTS IN THE GENERAL CONDITIONS AND INSTRUCTIONS TO
+BIDDERS (GCIB) UNLESS OTHERWISE SPECIFIED IN THE SOLICITATION AND SUBJECT TO
+APPLICABLE STATE, LOCAL, AND FEDERAL LAWS.
+BIDDERS OR THEIR AUTHORIZED REPRESENTATIVES SHOULD INFORM THEMSELVES FULLY AS
+TO THE CONDITIONS, REQUIREMENTS, AND SPECIFICATIONS OF EACH COUNTY
+PROCUREMENT BEFORE SUBMITTING BIDS. FAILURE TO DO SO WILL BE AT THE BIDDER'S OWN
+RISK AND RELIEF CANNOT BE SECURED ON THE PLEA OF ERROR.
+1. AUTHORITY-The Purchasing Agent has the sole responsibility and authority for purchasing supplies, materials, equipment, and
+services, except as excluded in the Fairfax County Purchasing Resolution. The Purchasing Agent’s responsibility and authority
+includes, but is not limited to, issuing and modifying solicitations, negotiating and executing contracts, and placing purchase
+orders. In discharging these responsibilities, the Purchasing Agent may be assisted by contract specialists. Unless specifically
+delegated by the Purchasing Agent, no other County officer or employee is authorized to order supplies or services, enter into
+purchase negotiations or contracts, or in any way obligate the government of the County of Fairfax for an indebtedness. Any
+purchase ordered or contract made that is contrary to these provisions and authorities shall be of no effect, void, and does not
+bind the County.
+2. DEFINITIONS- Unless otherwise defined in the GCIB, capitalized terms shall have the meanings defined by the Fairfax County
+Purchasing Resolution.
+AGENCY: Any Department, Agency, Authority, Commission, Board or other unit in the Administrative Service of the County.
+BID: The offer of a bidder to provide specific goods or services at specified prices and/or other conditions specified in the
+solicitation.
+BIDDER/OFFEROR: Any individual, company, firm, corporation, partnership or other organization bidding on solicitations issued
+by the Purchasing Agent and offering to enter into contracts with the County. The term "bidder" will be used throughout this
+document and shall be construed to mean "offeror" where appropriate.
+CONTRACTOR: Any individual, company, firm, corporation, partnership or other organization to whom an award is made by the
+County.
+INVITATION FOR BID (IFB): A request which is made to prospective suppliers (bidders) for their quotation on goods or services
+desired by the County. The issuance of an IFB will contain or incorporate by reference the specifications and contractual terms
+and conditions applicable to the procurement.
+PURCHASING AGENT: The Purchasing Agent employed by the Board of Supervisors of Fairfax County, Virginia.
+REQUEST FOR PROPOSAL (RFP): A request for an offer from prospective offerors which will indicate the general terms which
+are sought to be procured from the offeror. The RFP will specify the evaluation factors to be used and will contain or incorporate

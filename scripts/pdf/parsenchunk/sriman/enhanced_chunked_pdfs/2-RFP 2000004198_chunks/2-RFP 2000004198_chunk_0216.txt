@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0216
+Source File: 2-RFP 2000004198.pdf
+Section Title: h. The ability of the bidder to provide future maintenance and service for the use of the subject of the contract;
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 88
+Character Count: 501
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+i. Whether the bidder is in arrears to the County on debt or contract or is a defaulter on surety to the County or whether the
+bidder's County taxes or assessments are delinquent; and
+j. Such other information as may be secured by the Purchasing Agent having a bearing on the decision to award the contract.
+If an apparent low bidder is not awarded a contract for reasons of non-responsibility, the Purchasing Agent shall so notify that
+bidder and shall have recorded the reasons in the contract file.

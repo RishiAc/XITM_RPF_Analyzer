@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0024
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: training candidates:
+Section Number: None
+Section Type: general
+Word Count: 97
+Character Count: 615
+Line Count: 13
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+training candidates:
+a. Full Name.
+b. Phone Number.
+c. Personal/Private email with no connection to employer.
+d. Emergency contact information.
+2. Site visits to any AOC location must be coordinated by AOC staff with the designated site personnel
+in advance of any visit.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 8
+3. Any Successful Offeror personnel working at AOC locations, or on AOC systems or projects, or who
+have access to AOC or State criminal data or systems, must be approved in writing by the
+Procurement Officer prior to beginning work.

@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0047
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6.2. The County may request that the individual offered by the offeror(s) be made available for an
+Section Number: 6.2.
+Section Type: general
+Word Count: 73
+Character Count: 445
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+interview. The Contractor(s) will be allowed ten (10) business days to present resumes of
+proposed individuals for a specific work order from the time of the request by the County. The
+individuals selected must be fully qualified and available to begin work within fifteen (15)
+business days from the date they are selected by the County. All personnel issues will be
+addressed by the Contractor(s) within 24 hours of notification by the County.

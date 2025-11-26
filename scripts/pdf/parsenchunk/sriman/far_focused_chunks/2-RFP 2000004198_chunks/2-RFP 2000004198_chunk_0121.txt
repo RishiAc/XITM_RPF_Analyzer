@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0121
+Source File: 2-RFP 2000004198.pdf
+Section Title: 31. TERMINATION OF CONTRACT FOR CAUSE-
+Section Number: 31.
+Section Type: contract_clauses
+Word Count: 194
+Character Count: 1196
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+31. TERMINATION OF CONTRACT FOR CAUSE-
+a. If, through any cause, the Contractor fails to fulfill in a timely and proper manner its obligations under this contract, or if the
+Contractor violates any of the covenants, agreements, or stipulations of this contract, the County has the right to terminate
+the contract. Any such termination will be effected by delivery to the Contractor of a Notice of Termination specifying the
+extent to which performance is terminated and the date upon which termination becomes effective. In such event, all finished
+or unfinished documents, data, studies, surveys, drawings, maps, models, and reports prepared by the Contractor under the
+contract shall, at the option of the County, become the County’s property and the Contractor shall be entitled to receive just
+and equitable compensation for any satisfactory work completed on such documents.
+b. Termination of the Contract for Cause does not relieve the Contractor of liability to the County for damages sustained by the
+County by virtue of any breach of contract by the Contractor for the purpose of set off until such time as the exact amount of
+damages due to the County from the Contractor is determined.

@@ -1,5 +1,4 @@
 import { supabase } from "./supabaseClient.js";
-
 /**
  * Fetches all RFP entries from the "RFPs" table in Supabase
  * and returns a list of dictionaries formatted like cardsData.
@@ -20,6 +19,6 @@ export async function fetchRFPs() {
     id: row.id,
     title: `RFP ${row.name}`,
   }));
-  // console.log(formatted)
+  console.log(formatted)
   return formatted;
 }

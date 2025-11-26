@@ -1,0 +1,38 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0284
+Source File: 2-RFP 2000004198.pdf
+Section Title: 67. PROTEST OF AWARD OR DECISION TO AWARD-
+Section Number: 67.
+Section Type: general
+Word Count: 456
+Character Count: 2630
+Line Count: 21
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Any bidder or offeror may protest the award or decision to award a contract by submitting a protest in writing to the Purchasing
+Agent, or an official designated by the County of Fairfax, no later than ten (10) days after the award or the announcement of
+the decision to award, whichever occurs first. Any potential bidder or offeror on a contract negotiated on a sole source or
+emergency basis who desires to protest the award or decision to award such contract shall submit such protest in the same
+manner no later than ten days after posting or publication of the notice of such contract as provided in Article 2, Section 2, of
+the Fairfax County Purchasing Resolution. However, if the protest of any actual or potential bidder or offeror depends in
+whole or in part upon information contained in public records pertaining to the procurement transaction which are subject to
+inspection under Article 2, Section 5.C of the Fairfax County Purchasing Resolution, then the time within which the protest
+must be submitted shall expire ten days after those records are available for inspection by such bidder or offeror under Article
+2, Section 5.C, or at such later time as provided herein. No protest shall lie for a claim that the selected bidder or offeror is
+not a responsible bidder or offeror. The written protest shall include the basis for the protest and the relief sought. The
+Purchasing Agent shall issue a decision in writing within ten (10) days of the receipt of the protest stating the reasons for the
+action taken. This decision shall be final unless the bidder or offeror appeals within ten (10) days of receipt of the written
+decision by instituting legal action as provided in the Code of Virginia. Nothing in this section shall be construed to permit a
+bidder to challenge the validity of the terms or conditions of the Invitation for Bid or Request for Proposal.
+b. If prior to award it is determined that the decision to award is arbitrary or capricious, then the sole relief shall be a finding to
+that effect. The Purchasing Agent shall cancel the proposed award or revise it to comply with the law. If, after an award, it
+is determined that an award of a contract was arbitrary or capricious, then the sole relief shall be as hereinafter provided.
+Where the award has been made but performance has not begun, the performance of the contract may be declared void by
+the County. Where the award has been made and performance has begun, the Purchasing Agent may declare the contract
+void upon a finding that this action is in the best interest of the County. Where a contract is declared void, the performing

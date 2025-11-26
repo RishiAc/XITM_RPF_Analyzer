@@ -1,0 +1,21 @@
+Chunk ID: 2-RFP 2000004198_chunk_046
+Section: 31. NEWS RELEASE BY VENDORS:
+Section Number: 31
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: news, county, contractor, releases
+Word Count: 62
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+31. NEWS RELEASE BY VENDORS:
+31.1. As a matter of policy, the County does not endorse the products or services of a Contractor.
+News releases concerning any resultant contract from this solicitation will not be made by a
+Contractor without the prior written approval of the County. All proposed news releases will be
+routed to the Procurement Agent for review and approval.

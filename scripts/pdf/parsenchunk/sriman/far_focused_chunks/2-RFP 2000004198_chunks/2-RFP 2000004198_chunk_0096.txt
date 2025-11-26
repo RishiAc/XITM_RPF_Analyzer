@@ -1,0 +1,31 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0096
+Source File: 2-RFP 2000004198.pdf
+Section Title: 33.2. Further information regarding HIPAA Compliance is available on the County’s website at
+Section Number: 33.2.
+Section Type: security_compliance
+Word Count: 155
+Character Count: 990
+Line Count: 16
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+33.2. Further information regarding HIPAA Compliance is available on the County’s website at
+https://www.fairfaxcounty.gov/HIPAA/.
+22
+RFP 2000004198
+SPECIAL PROVISIONS
+34. STATE CORPORATION COMMISSION IDENTIFICATION NUMBER:
+34.1. Pursuant to Code of Virginia, §2.2-4311.2 subsection B, a bidder or offeror organized or
+authorized to transact business in the Commonwealth pursuant to Title 13.1 or Title 50 is
+required to include in its bid or proposal the identification number issued to it by the State
+Corporation Commission (SCC). Any bidder or offeror that is not required to be authorized to
+transact business in the Commonwealth as a foreign business entity under Title 13.1 or Title
+50 or as otherwise required by law is required to include in its bid or proposal a statement
+describing why the bidder or offeror is not required to be so authorized. Any bidder or offeror
+that fails to provide the required information may not receive an award. (ref. Attachment A4)
+23
+RFP 2000004198

@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0145
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.11. Contractor waives and must require (by endorsement or otherwise) all its insurers to waive
+Section Number: 19.11.
+Section Type: general
+Word Count: 14
+Character Count: 93
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+subrogation rights against the County and other additional insureds for losses paid under the

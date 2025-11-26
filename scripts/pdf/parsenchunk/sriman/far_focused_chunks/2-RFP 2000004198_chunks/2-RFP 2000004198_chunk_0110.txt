@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0110
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18. UNBALANCED BIDS—A Bid shall be mathematically unbalanced if the Bid contains unit pricing that does not reflect reasonable
+Section Number: 18.
+Section Type: budget_pricing
+Word Count: 102
+Character Count: 662
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+18. UNBALANCED BIDS—A Bid shall be mathematically unbalanced if the Bid contains unit pricing that does not reflect reasonable
+25
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+costs (including actual labor and material cost, overhead and profit) for the performance of the bid item(s) in question. A Bid shall
+be materially unbalanced if there is a reasonable doubt that award of the mathematically unbalanced Bid will result in the lowest
+ultimate cost to the County. A Bid that is, in the sole discretion of the County Purchasing Agent, both mathematically and
+materially unbalanced, may be rejected as non-responsive.
+SPECIFICATIONS

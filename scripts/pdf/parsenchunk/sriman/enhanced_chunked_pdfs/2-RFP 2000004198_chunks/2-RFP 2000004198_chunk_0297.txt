@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0297
+Source File: 2-RFP 2000004198.pdf
+Section Title: 76. NONVISUAL ACCESS-All information technology, which is purchased or upgraded by the County under this contract, must
+Section Number: 76.
+Section Type: general
+Word Count: 138
+Character Count: 965
+Line Count: 10
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+comply with the following access standards from the date of purchase or upgrade until the expiration of the Contract:
+a. Effective, interactive control and use of the technology (including the operating system), applications programs, and format
+of the data presented, shall be readily achievable by nonvisual means;
+b. the technology equipped for nonvisual access shall be compatible with information technology used by other individuals
+with whom the blind or visually impaired individual interacts;
+c. Nonvisual access technology shall be integrated into networks used to share communications among employees, program
+participants, and the public; and
+d. The technology for nonvisual access shall have the capability of providing equivalent access by nonvisual means to
+telecommunications or other interconnected network services used by persons who are not blind or visually impaired. A
+covered entity may stipulate additional specifications in any procurement.

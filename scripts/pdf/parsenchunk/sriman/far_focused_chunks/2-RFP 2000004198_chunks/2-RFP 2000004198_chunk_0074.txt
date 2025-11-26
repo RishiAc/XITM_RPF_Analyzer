@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0074
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.6. After a period of five-years from Agreement Date, the County may reasonably require higher
+Section Number: 19.6.
+Section Type: general
+Word Count: 95
+Character Count: 641
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+19.6. After a period of five-years from Agreement Date, the County may reasonably require higher
+limits of insurance or additional insurance coverage against other hazards for which insurance
+is reasonably obtainable and which, at the time, are commonly insured against in the case of
+similar properties conducting similar activities within the geographic area of the Property,
+whether or not such additional insurance requirements are otherwise described or
+contemplated herein.
+19.7. The Contractor agrees to provide insurance issued by companies admitted within the
+Commonwealth of Virginia, with the Best's Key Rating of at least A: VII.

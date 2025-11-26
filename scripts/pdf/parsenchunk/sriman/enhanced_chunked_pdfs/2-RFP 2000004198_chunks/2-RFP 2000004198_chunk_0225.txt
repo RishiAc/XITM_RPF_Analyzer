@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0225
+Source File: 2-RFP 2000004198.pdf
+Section Title: 29. TERMINATION OF CONTRACTS-Contracts will remain in force for (i) the full period specified or (ii) until all articles ordered
+Section Number: 29.
+Section Type: contract_clauses
+Word Count: 80
+Character Count: 559
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+before date of termination, but arriving after the termination date, are satisfactorily delivered, accepted, and any further
+requirements and conditions are met, unless the Contract is:
+a. Terminated prior to expiration date by satisfactory deliveries of entire contract requirements, or upon termination by the
+County for Convenience or Cause.
+b. Extended upon written authorization of the Purchasing Agent and accepted by Contractor, to permit ordering of unordered
+balances or additional quantities at contract prices and in accordance with contract terms.

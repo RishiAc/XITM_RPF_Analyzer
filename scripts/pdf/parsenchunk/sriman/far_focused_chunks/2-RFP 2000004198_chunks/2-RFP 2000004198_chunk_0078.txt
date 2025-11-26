@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0078
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.13. No change, cancellation, or non-renewal shall be made in any insurance coverage without a
+Section Number: 19.13.
+Section Type: insurance_warranty
+Word Count: 91
+Character Count: 594
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+19.13. No change, cancellation, or non-renewal shall be made in any insurance coverage without a
+30-day written notice to the County. The Contractor shall furnish a new certificate prior to any
+change or cancellation date. The failure of the Contractor to deliver a new and valid certificate
+will result in suspension of all payments until the new certificate is furnished.
+19.14. Compliance by the Contractor and all subcontractors with the foregoing requirements as to
+carrying insurance shall not relieve the Contractor and all subcontractors of their liabilities
+provisions of the contract.

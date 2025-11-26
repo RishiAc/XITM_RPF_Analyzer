@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0164
+Source File: 2-RFP 2000004198.pdf
+Section Title: cost of, or time required for, performance of any services under this contract, an equitable
+Section Number: None
+Section Type: budget_pricing
+Word Count: 29
+Character Count: 173
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+adjustment shall be made, and the contract shall be modified in writing accordingly. The County
+Procurement Agent must approve all work that is beyond the scope of this RFP.

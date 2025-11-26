@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0021
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. The AOC reserves the right to monitor all applicable computer and electronic equipment usage for
+Section Number: 3.
+Section Type: general
+Word Count: 141
+Character Count: 946
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+3. The AOC reserves the right to monitor all applicable computer and electronic equipment usage for
+compliance with its policies.
+R. ACCESS TO AOC INFORMATION TECHNOLOGY SYSTEMS
+1. The Successful Offeror’s personnel shall complete all required paperwork as directed for access to
+any AOC information systems.
+2. The Successful Offeror shall ensure the list of authorized Offeror personnel is always maintained
+and accurate. The system access rights of Successful Offeror personnel must be updated no later than
+twenty-four (24) hours after notification of the change in status; therefore, the Successful Offeror
+shall immediately notify the Contract Manager and JIS Information Security of any termination of
+Successful Offeror personnel or if any approved Successful Offeror personnel no longer require
+access to an AOC system. The AOC security identification badge and all issued AOC assets must be
+immediately returned to the Contract Manager.

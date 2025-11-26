@@ -1,0 +1,26 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_009
+Section: 1. Continuous performance of Key Personnel
+Section Number: 1
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: Technical
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: contract, personnel, shall
+Word Count: 110
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+1. Continuous performance of Key Personnel
+a. Key Personnel shall be available to perform Contract requirements as of the Notice to
+Proceed Date. Unless explicitly authorized by the Contract Manager or specified in the
+Contract, Key Personnel shall be assigned to the AOC as a dedicated resource.
+b. Key Personnel shall perform continuously for the duration of the Contract, or such lesser
+duration as specified in the Technical Proposal. Key Personnel may not be removed by the
+Successful Offeror from working under the Contract without the prior written approval of
+the Contract Manager.
+c. The provisions of this section apply to Key Personnel identified in any proposal, bid, or
+contract.

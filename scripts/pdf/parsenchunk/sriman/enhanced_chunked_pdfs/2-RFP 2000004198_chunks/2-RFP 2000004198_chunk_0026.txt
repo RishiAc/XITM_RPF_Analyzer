@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0026
+Source File: 2-RFP 2000004198.pdf
+Section Title: support on the technical implementation processes.
+Section Number: None
+Section Type: technical_requirements
+Word Count: 35
+Character Count: 281
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+3
+RFP 2000004198
+SPECIAL PROVISIONS
+5.1.3. The County prefers solutions use industry standards out-of-the-box, including
+contemporary best practices for solution architecture, configurability, integration,
+user access and data security; be available 24x7x365; are scalable and meet

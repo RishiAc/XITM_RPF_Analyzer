@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0008
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: Continuation of C. OFFEROR & RESOURCE QUALIFICATIONS ........................................................................................... 18
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 51
+Character Count: 715
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+C. FINANCIAL PROPOSAL CRITERIA ........................................................................................................... 23
+D. SELECTION PROCEDURES ......................................................................................................................... 23
+E. DEBRIEFING .................................................................................................................................................. 24
+ATTACHMENTS
+Attachment A – Standard Contract Agreement Sample
+Attachment B – Proposal Affidavit
+Attachment C – Contract Affidavit Sample
+Attachment E – Bid/Price Proposal Form
+Attachment F – Non-Disclosure Agreement Sample
+Attachment L – Bidder/Offeror Profile

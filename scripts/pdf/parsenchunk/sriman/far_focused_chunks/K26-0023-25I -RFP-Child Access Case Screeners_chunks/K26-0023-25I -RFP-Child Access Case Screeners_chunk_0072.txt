@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0072
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Any information which is claimed to be confidential and/or proprietary shall be clearly identified in
+Section Number: 2.
+Section Type: general
+Word Count: 112
+Character Count: 775
+Line Count: 13
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2. Any information which is claimed to be confidential and/or proprietary shall be clearly identified in
+the Financial Proposal. An explanation for each claim of confidentiality shall be included in the
+Financial Proposal.
+END OF SECTION IV.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 22
+SECTION V. EVALUATION PROCEDURE
+A. EVALUATION COMMITTEE
+1. Evaluation of the proposals will be performed by a committee established for the purpose of
+analyzing the proposals based on the evaluation criteria set forth below. The Evaluation Committee
+will provide input to the Procurement Officer after reviewing proposals, participating in oral
+presentations and discussions, and any other activities relative to this RFP.

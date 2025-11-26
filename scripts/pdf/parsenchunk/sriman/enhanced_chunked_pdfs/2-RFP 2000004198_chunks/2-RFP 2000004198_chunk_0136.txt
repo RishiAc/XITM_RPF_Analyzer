@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0136
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.4. Liability insurance may be arranged by a combination of primary and excess or umbrella
+Section Number: 19.4.
+Section Type: insurance_warranty
+Word Count: 1
+Character Count: 8
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+policies

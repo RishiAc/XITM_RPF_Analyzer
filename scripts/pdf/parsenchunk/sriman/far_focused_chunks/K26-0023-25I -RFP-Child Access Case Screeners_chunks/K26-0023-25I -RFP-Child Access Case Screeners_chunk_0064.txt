@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0064
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offerors must omit all pricing information from the Technical Proposal, and only include pricing
+Section Number: 1.
+Section Type: technical_requirements
+Word Count: 122
+Character Count: 837
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. Offerors must omit all pricing information from the Technical Proposal, and only include pricing
+information in the Financial Proposal.
+2. Acknowledgments
+a. Exceptions to Terms & Conditions: Offeror shall acknowledge any exceptions to the
+requirements of this RFP, the Contract (Attachment A), or any other attachments on the
+Procurement Portal. Offerors answering “Yes” shall provide any exceptions as a submittal
+in the Technical Proposal. Exceptions to terms and conditions may result in having the
+proposal deemed unacceptable or classified as not reasonably susceptible of being selected
+for award.
+b. Addenda Acknowledgment: Offeror shall acknowledge receipt of any addenda on the
+Procurement Portal. Failure to acknowledge addenda may result in your proposal being
+found not reasonably susceptible of being selected for award.

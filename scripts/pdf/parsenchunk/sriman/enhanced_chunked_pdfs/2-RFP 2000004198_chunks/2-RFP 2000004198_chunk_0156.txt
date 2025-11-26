@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0156
+Source File: 2-RFP 2000004198.pdf
+Section Title: 20.3. Procurement Card orders and payments may also be made by the use of a Fairfax County or
+Section Number: 20.3.
+Section Type: general
+Word Count: 24
+Character Count: 168
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Fairfax County Public Schools “Procurement” Card. The Procurement Card is currently a
+Master Card. Contractors are encouraged to accept this method of receiving orders.

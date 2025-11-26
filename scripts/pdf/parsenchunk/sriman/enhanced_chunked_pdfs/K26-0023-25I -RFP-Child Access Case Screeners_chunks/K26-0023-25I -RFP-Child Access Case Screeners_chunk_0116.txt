@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0116
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: c. Insurance Acknowledgment: Offeror shall acknowledge they have reviewed the insurance
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 15
+Character Count: 91
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+requirements, as written in Section II of this RFP, on the Procurement Portal. Offerors are

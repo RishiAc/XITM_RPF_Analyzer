@@ -1,0 +1,50 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0041
+Source File: 2-RFP 2000004198.pdf
+Section Title: 71. COOPERATIVE PURCHASING-The County or any entity identified in the Fairfax County Purchasing Resolution, Article 1,
+Section Number: 71.
+Section Type: general
+Word Count: 534
+Character Count: 3528
+Line Count: 33
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+71. COOPERATIVE PURCHASING-The County or any entity identified in the Fairfax County Purchasing Resolution, Article 1,
+Section 3 may participate in, sponsor, conduct or administer a cooperative procurement agreement as set forth in the Fairfax
+County Purchasing Resolution.
+72. DRUG FREE WORKPLACE-During the performance of a contract, the Contractor agrees to (i) provide a drug-free workplace
+for the Contractor's employees; (ii) post in conspicuous places, available to employees and applicants for employment, a
+statement notifying employees that the unlawful manufacture, sale, distribution, dispensation, possession, or use of a controlled
+substance or marijuana is prohibited in the Contractor's workplace and specifying the actions that will be taken against employees
+for violations of such prohibition; (iii) state in all solicitations or advertisements for employees placed by or on behalf of the
+Contractor that the Contractor maintains a drug-free workplace; and (iv) include the provisions of the foregoing clauses in every
+subcontract of over $10,000, so that the provisions will be binding upon each subcontractor or vendor. For the purposes of this
+section, "drug-free workplace" means a site for the performance of work done in conjunction with a specific contract awarded to
+a Contractor in accordance with this section, the employees of whom are prohibited from engaging in the unlawful manufacture,
+sale, distribution, dispensation, possession or use of any controlled substance or marijuana during the performance of the
+contract.
+73. IMMIGRATION REFORM AND CONTROL ACT-Contractor agrees that it does not, and shall not during the performance of the
+contract for goods and services in the Commonwealth, knowingly employ an unauthorized alien as defined in the Federal
+Immigration Reform and Control Act of 1986.
+74. AUDIT OF RECORDS The parties agree that the County or its agent must have reasonable access to and the right to examine
+any records of the contractor involving transactions related to the contract or compliance with any clauses thereunder, for a
+period of three (3) years after final payment. The contractor shall include these same provisions in all related subcontracts. For
+purposes of this clause, the term “records” includes documents, and papers regardless of whether they are in written form,
+electronic form, or any other form.
+75. PERSONALLY IDENTIFIABLE INFORMATION: Contractor will comply with all applicable laws regarding safeguarding and
+protection of personally identifiable information made available through this Contract. Contractor must report to the County all
+breaches that result in exposure of the County’s data or other incidents compromising the security of the County’s data. For
+purposes of this section “County data” means data that the Contractor accesses, stores, or hosts pursuant to this Contract and
+includes “personal information” defined by Virginia Code § 18.2-186.6 or “medical information” defined by Virginia Code § 32.1-
+127.1:05. Such reports must be made to the County immediately upon discovery of the breach and no later than three days from
+when Contractor discovered the breach. The requirements of this paragraph are in addition to and do not relieve Contractor of
+its obligation to comply with any requirements imposed by law regarding data breaches. If any notices to individuals or third
+parties are required by applicable law due to a data breach, the parties will cooperate to ensure that such notice is timely provided.
+34
+RFP 2000004198

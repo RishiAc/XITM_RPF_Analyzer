@@ -1,0 +1,33 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0075
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Procurement Officer shall initially review for compliance with the RFP requirements. Failure to
+Section Number: 1.
+Section Type: technical_requirements
+Word Count: 211
+Character Count: 1416
+Line Count: 18
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. The Procurement Officer shall initially review for compliance with the RFP requirements. Failure to
+comply with RFP requirements may result in a proposal being classified as not reasonably susceptible
+of being selected for award. Minor irregularities in proposals that are immaterial or inconsequential
+in nature may be cured or waived whenever it is determined to be in the AOCs best interest.
+2. Selection Procedures:
+a. Technical Proposals are evaluated for technical merit and ranked. During this review, oral
+presentations, interviews, and discussions may be held. The purpose of such discussions
+shall be to assure a full understanding of the AOCs requirements and the Offeror’s ability to
+perform, and to facilitate understanding of the Contract that shall be most advantageous to
+the AOC.
+(1) At the discretion of the Procurement Officer, following the recommendation of the
+Evaluation Committee, a shortlist of Offerors may be established during the
+technical evaluation. Only shortlisted Offerors would continue in the evaluation
+process; Offerors not shortlisted shall be so advised.
+(2) Offerors must confirm in writing any substantive oral clarifications of, or changes
+in, their Technical Proposal made during discussions. Any such written clarifications
+or changes become part of the Offeror’s Technical Proposal.
+(3) The AOC may require any Offeror to furnish additional information regarding past

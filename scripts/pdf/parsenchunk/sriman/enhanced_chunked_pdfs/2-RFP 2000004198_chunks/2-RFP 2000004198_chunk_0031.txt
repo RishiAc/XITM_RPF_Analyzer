@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0031
+Source File: 2-RFP 2000004198.pdf
+Section Title: components necessary to support business operations and the infrastructure
+Section Number: None
+Section Type: general
+Word Count: 64
+Character Count: 523
+Line Count: 11
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+required for implementation of technologies in response to the changing needs of
+government business and industry evolution. It is a multi-layered architecture that
+includes:
+• Application and Data Architectures,
+• Platform Architecture,
+• Network Architecture,
+• Internet Architecture, and
+• Security Architecture.
+5.2.2. More information about the County’s enterprise architecture is available in the
+Information Technology Plan, published by the County DIT, at
+https://www.fairfaxcounty.gov/informationtechnology/it-plan

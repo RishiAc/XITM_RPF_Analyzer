@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0093
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. The requiring of any and all insurance as set forth in this RFP, or elsewhere, shall be in addition to
+Section Number: 3.
+Section Type: insurance_warranty
+Word Count: 17
+Character Count: 95
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+and not in any way in substitution for all the other protection provided under the Contract for

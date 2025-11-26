@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0060
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Work shall be performed 100% remote at a suitable off-site location selected by the Offeror/Offeror
+Section Number: 1.
+Section Type: general
+Word Count: 96
+Character Count: 633
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. Work shall be performed 100% remote at a suitable off-site location selected by the Offeror/Offeror
+Resource(s).
+a. The AOC reserves the right to determine an off-site location is not suitable (e.g., crowded
+public space with distracting background noise during meetings).
+b. The Offeror proposed resource may not perform remote work from a country other than the
+United States of America without prior approval from the Contract Manager. Unless there
+are extenuating circumstances, Offerors shall not anticipate receiving approval for remote
+work from a country other than the United States of America.
+G. SCHEDULE & COORDINATION

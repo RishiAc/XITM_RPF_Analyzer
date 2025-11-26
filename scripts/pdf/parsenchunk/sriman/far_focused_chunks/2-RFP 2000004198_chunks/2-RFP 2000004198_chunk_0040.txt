@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0040
+Source File: 2-RFP 2000004198.pdf
+Section Title: 1. Organizational Experience: Offeror must describe their qualifications and experience
+Section Number: 1.
+Section Type: vendor_qualifications
+Word Count: 78
+Character Count: 523
+Line Count: 6
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. Organizational Experience: Offeror must describe their qualifications and experience
+to perform the work described in this RFP. Responding firms should have direct
+relevant experience in the respective category/field for at least five (5) years from the
+date of this RFP. Proposals will only be accepted from organizations that have directly
+provided staff augmentation services for at least three (3) years within the last five (5)
+years for federal, state, or local governments. Submissions from general staffing firms

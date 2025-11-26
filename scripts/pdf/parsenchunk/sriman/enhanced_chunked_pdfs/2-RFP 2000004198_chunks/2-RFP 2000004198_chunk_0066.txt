@@ -1,0 +1,31 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0066
+Source File: 2-RFP 2000004198.pdf
+Section Title: and magnitude to that being proposed. Relevant experience must be associated with
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 107
+Character Count: 717
+Line Count: 14
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+contracts or services not more than five years prior to the date of this RFP. Offeror
+must have performed staff augmentation engagements in the submitted category with
+at least three distinct clients within the past five years. Each contract must have lasted
+a minimum of three years and involved mid-to-senior level professionals like those
+described in the working titles. Offeror must submit three (3) case studies
+demonstrating past staff augmentation engagements. Each case study should
+include:
+a. Federal, State, Local Government client name
+b. Project scope, roles provided, and duration
+c. Key outcomes and performance metrics
+d. Contact information for client references
+11
+RFP 2000004198
+SPECIAL PROVISIONS

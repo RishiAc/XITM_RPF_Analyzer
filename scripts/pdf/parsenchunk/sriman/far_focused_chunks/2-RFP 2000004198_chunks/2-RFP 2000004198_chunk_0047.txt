@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0047
+Source File: 2-RFP 2000004198.pdf
+Section Title: Scope of Work (“SOW”), request, etc. describing the Contractor’s proposed staff
+Section Number: None
+Section Type: scope_of_work
+Word Count: 124
+Character Count: 895
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+Scope of Work (“SOW”), request, etc. describing the Contractor’s proposed staff
+distribution to accomplish this work.
+4. Financial Statements: The Offeror shall provide an income statement and balance
+sheet from the most recent reporting period.
+5. References: The Offeror will provide a reference for at least three (3) clients. Special
+notation must be made of similar staff augmentation assignments relevant solutions
+created, or duties performed and must also include the following: reference
+names/Jurisdiction, summary service description, reference address, operational contact
+name, operational contact phone number, company project manager, company project
+manager phone number, technical contact name, technical contact phone number, and
+date(s) of engagement “from” and “to”. The contacts listed must have direct knowledge of
+the work and the Offeror performance (ref. Attachment II).

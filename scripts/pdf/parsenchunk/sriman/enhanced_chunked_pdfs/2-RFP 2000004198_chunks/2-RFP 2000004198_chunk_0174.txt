@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0174
+Source File: 2-RFP 2000004198.pdf
+Section Title: 27.1. Unless approved in writing by the County Procurement Agent, the Contractor may not sell or
+Section Number: 27.1.
+Section Type: general
+Word Count: 24
+Character Count: 160
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+give to any individual or organization any information, reports, or other materials given to,
+prepared, or assembled by the Contractor under the final contract.

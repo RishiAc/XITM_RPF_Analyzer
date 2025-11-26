@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0110
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.2. Separate Selection Advisory Committees (“SACs”) have been established for each labor
+Section Number: 18.2.
+Section Type: general
+Word Count: 55
+Character Count: 369
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+category relevant to this procurement. Each SAC will review and evaluate proposals submitted
+for its assigned labor category. If an Offeror submits proposals covering multiple labor
+categories, each corresponding SAC will evaluate the portion of the proposal related to its
+category. Each SAC will conduct a preliminary evaluation of the proposals assigned to it, based

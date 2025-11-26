@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0085
+Source File: 2-RFP 2000004198.pdf
+Section Title: The County may further amend the contract by mutual agreement for any increase in the cost
+Section Number: None
+Section Type: budget_pricing
+Word Count: 136
+Character Count: 836
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+The County may further amend the contract by mutual agreement for any increase in the cost
+of performance of the contract (excluding profit) resulting solely from the delay or suspension
+of the contract. No adjustment shall be made under this clause for any delay or interruption
+resulting from any other cause, including the fault or negligence of the Contractor.
+23.2. If the County does not direct the Contractor, in writing, to suspend, delay, or interrupt the
+contract, the Contractor must give the County Purchasing Agent written notice if Fairfax County
+fails to provide data or services that are required for contract completion by the Contractor.
+The County may extend the Contractor's time of completion by a period of time that in the
+discretion of the County Purchasing Agent is reasonably suited for completion of work. The

@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0033
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. Substitution circumstances
+Section Number: 3.
+Section Type: general
+Word Count: 112
+Character Count: 784
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+3. Substitution circumstances
+a. Directed Key Personnel Replacement
+(1) The Contract Manager may direct the Successful Offeror to replace any Successful
+Offeror personnel who, in the sole discretion of the Contract Manager, are perceived
+as being unqualified, non-productive, unable to fully perform the job duties,
+disruptive, or known, or reasonably believed, to have committed a major
+infraction(s) of law, AOC policies, or Contract requirements. In most cases, a
+directed personnel replacement will occur only after the following:
+i If deemed appropriate, at the discretion of the Contract Manager, written
+notice may be given to the Successful Offeror for any Successful Offeror
+personnel performance issues, describing the problem and delineating the
+remediation requirement(s).

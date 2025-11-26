@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0168
+Source File: 2-RFP 2000004198.pdf
+Section Title: 23.2. If the County does not direct the Contractor, in writing, to suspend, delay, or interrupt the
+Section Number: 23.2.
+Section Type: general
+Word Count: 60
+Character Count: 371
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+contract, the Contractor must give the County Purchasing Agent written notice if Fairfax County
+fails to provide data or services that are required for contract completion by the Contractor.
+The County may extend the Contractor's time of completion by a period of time that in the
+discretion of the County Purchasing Agent is reasonably suited for completion of work. The

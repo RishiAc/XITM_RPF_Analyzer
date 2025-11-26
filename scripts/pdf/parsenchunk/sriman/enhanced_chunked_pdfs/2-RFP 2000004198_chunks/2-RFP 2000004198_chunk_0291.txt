@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0291
+Source File: 2-RFP 2000004198.pdf
+Section Title: 71. COOPERATIVE PURCHASING-The County or any entity identified in the Fairfax County Purchasing Resolution, Article 1,
+Section Number: 71.
+Section Type: general
+Word Count: 22
+Character Count: 154
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Section 3 may participate in, sponsor, conduct or administer a cooperative procurement agreement as set forth in the Fairfax
+County Purchasing Resolution.

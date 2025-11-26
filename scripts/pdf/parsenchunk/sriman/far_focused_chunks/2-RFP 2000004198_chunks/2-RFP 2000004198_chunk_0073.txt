@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0073
+Source File: 2-RFP 2000004198.pdf
+Section Title: 2. Purchase the extended reporting period endorsement for the policy or policies in force
+Section Number: 2.
+Section Type: general
+Word Count: 104
+Character Count: 673
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2. Purchase the extended reporting period endorsement for the policy or policies in force
+during the term of this contract and evidence the purchase of this extended reporting
+period endorsement by means of a certificate of insurance or a copy of the
+endorsement itself.
+19.4. Liability insurance may be arranged by a combination of primary and excess or umbrella
+policies
+19.5. Any deductibles and/or self-insured retentions greater than $50,000 must be disclosed to and
+approved by the County’s Risk manager prior to the commencement of services. Use of large
+deductibles and/or self-insured retentions will require proof of financial ability as determined by
+the County.

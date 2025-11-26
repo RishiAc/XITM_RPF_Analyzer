@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0125
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.11. The County may cancel this RFP or reject proposals at any time prior to an award and is not
+Section Number: 18.11.
+Section Type: submission_requirements
+Word Count: 20
+Character Count: 116
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+required to furnish a statement of the reasons why a particular proposal was not deemed to be
+the most advantageous.

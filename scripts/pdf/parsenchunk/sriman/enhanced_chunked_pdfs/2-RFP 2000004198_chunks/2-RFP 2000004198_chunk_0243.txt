@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0243
+Source File: 2-RFP 2000004198.pdf
+Section Title: 45. INSPECTIONS-Inspection and acceptance of materials or supplies will be made after delivery at the designated destinations
+Section Number: 45.
+Section Type: general
+Word Count: 101
+Character Count: 620
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+unless otherwise stated. If inspection is made after delivery at the designated destination, the County will bear the expense of
+inspection except for the value of samples used in case of rejection. Final inspection is conclusive except in regard to latent
+defects, fraud or such gross mistakes as to amount to fraud. Final inspection and acceptance or rejection of the materials or
+supplies will be made as promptly as practicable, but failure to inspect and accept or reject materials or supplies shall not impose
+liability on the County for such materials or supplies as are not in accordance with the specifications.

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0049
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 13. If the AOC determines that there is cause for the Successful Offeror’s work to be suspended, the
+Section Number: 13.
+Section Type: contract_clauses
+Word Count: 19
+Character Count: 125
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Successful Offeror shall take the following steps:
+a. Immediately cease to represent itself as providing services to the AOC.

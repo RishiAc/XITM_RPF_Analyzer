@@ -1,0 +1,29 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0046
+Source File: 2-RFP 2000004198.pdf
+Section Title: experience with the offeror’s systems and can show a successful track record at
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 132
+Character Count: 852
+Line Count: 14
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+experience with the offeror’s systems and can show a successful track record at
+locations of similar size and complexity as Fairfax County.
+b. Support personnel proposed must have the necessary level of training and
+experience with the application suite to ensure that the County is receiving
+expert-level support. The Offeror must provide the County with a listing of all
+certificates, training courses and other relevant evidence to document the level
+of expertise of proposed support personnel.
+12
+RFP 2000004198
+SPECIAL PROVISIONS
+c. Offeror shall describe its processes for assigning staff to specific projects, along
+with the credentials of the staff members. Offeror should include how it will
+involve the County to ensure projects are staffed to be successful.
+The Contractor will provide a staffing plan in response to the County Tasks orders,

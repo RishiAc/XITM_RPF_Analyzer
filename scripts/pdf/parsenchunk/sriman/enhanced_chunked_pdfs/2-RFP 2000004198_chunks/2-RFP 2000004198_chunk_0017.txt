@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0017
+Source File: 2-RFP 2000004198.pdf
+Section Title: 4.2. Fairfax County Public Schools (“FCPS”): FCPS is the largest school system in the
+Section Number: 4.2.
+Section Type: general
+Word Count: 81
+Character Count: 616
+Line Count: 7
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Commonwealth of Virginia and the 10th largest in the United States. The school system
+consists of approximately 250 schools and work sites serving almost 181,000 students in
+grades Kindergarten through 12th grade and approximately 24,000 full-time staff/employees
+across Fairfax County Virginia. For information about FCPS, visit the website at:
+http://www.fcps.edu/. FCPS' current technical environment includes client server systems
+serving both instructional and administrative applications. Most applications will be accessed
+through school-wide LANs and a large distributed wireless network which connects sites

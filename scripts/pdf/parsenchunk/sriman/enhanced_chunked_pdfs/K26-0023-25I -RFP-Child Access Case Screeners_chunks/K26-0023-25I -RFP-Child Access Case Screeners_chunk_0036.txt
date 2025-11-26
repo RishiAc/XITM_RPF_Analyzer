@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0036
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Successful Offeror may be required to submit the following information for AOC engagements for
+Section Number: 1.
+Section Type: general
+Word Count: 9
+Character Count: 93
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Successful Offeror personnel, subcontractors, third-party resources, temporary employees, and

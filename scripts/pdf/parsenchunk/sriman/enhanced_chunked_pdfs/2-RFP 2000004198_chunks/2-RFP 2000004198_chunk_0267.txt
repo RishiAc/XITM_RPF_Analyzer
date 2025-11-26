@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0267
+Source File: 2-RFP 2000004198.pdf
+Section Title: 62. COVENANT AGAINST CONTINGENT FEES-The Contractor warrants that no person or selling agency has been employed or
+Section Number: 62.
+Section Type: general
+Word Count: 36
+Character Count: 250
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+retained to solicit or secure this contract upon an agreement or understanding for a commission, percentage, brokerage, or
+contingent fee, except bona fide employees or bona fide established commercial or selling agencies maintained by the Contractor

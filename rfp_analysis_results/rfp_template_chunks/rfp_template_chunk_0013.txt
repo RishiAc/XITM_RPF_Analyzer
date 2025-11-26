@@ -1,0 +1,69 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0013
+Source File: rfp_template.pdf
+Section Title: [Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+Section Number: None
+Phase: P2
+Word Count: 496
+Character Count: 3319
+Line Count: 42
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.241-5, 52.241-5
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: agency, access, contract, requirements, section, contractor, system, site, incorporate, reference
+
+=== CHUNK CONTENT ===
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H.7 Payment and Performance Bond
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H.8 Representations and Warranties
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H.9 Regulatory Considerations
+Contractor represents and warrants as of contract award that:
+(a) It has taken all required actions, if any, necessary to comply with the Public Utility Holding Company Act
+of 2005, as amended and
+10 See REC Tracking System information at https://www.epa.gov/greenpower/renewable-energy-tracking-systems.
+Page 21 of 38
+(b) It is not an electric utility subject to rate regulation by the Public Utility Commission or any Governmental
+Authority.
+H.10 General Insurance Requirements
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H.11 Site Access
+[Review these clauses if there is a separate site access agreement and determine if they belong in the RFP
+and/or the site access agreement.]
+The <agency> authorizes the Contractor to install, own, repair, operate and maintain the PV System on
+<agency> <roof/land/parking lots> and allow its agents and employees the right to enter the <agency> real
+property in order to access the <roof/land/parking lots> upon which the PV System(s) are located, subject to
+the limitations specified in this Contract <add if applicable: and in accordance with FAR 52.241-5,
+Contractor’s Facilities, which grants the license>. Access will be granted for any proper purpose under this
+Contract, including use of the Premises agreed upon by the parties hereto for the construction, installation,
+operation, repair, replacement and maintenance of the PV System. It is expressly agreed upon, acknowledged,
+and understood that the <agency> may limit or restrict the right of access herein granted in any manner
+considered to be necessary for national security, or in the event that this Contract is terminated.
+Site access must be arranged <x> weeks in advance, although <agency> may permit access with less notice at
+their sole discretion. If power outages or other disruptive activities are planned, these will require the approval
+of the <agency> building manager at least <x> weeks in advance, and be at a time acceptable to the
+<agency> (generally outside of normal working hours). Construction and O&M of the PV System shall be
+performed in such a way as to avoid impact to <agency> activities, or cause any damage to the <land,
+building/roof, parking lot>.
+H.11.1 Access to Buildings
+[Include this section if needed for roof-top systems and/or modify for ground-mount/carport systems.]
+It shall be the Contractor's responsibility, through the COR, to obtain access to Government buildings and to
+arrange for each room/area to be opened and closed as necessary in performance of contract requirements. The
+Contractor shall be responsible for safeguarding all Government property and securing facilities, equipment,
+and materials at the end of each work period.
+H.11.2 Construction Phase Access
+The Contractor's personnel, or personnel of designated subcontractors, will be given reasonable access to the
+site for PV System installation. See Section F.4.2 for details regarding required construction plan submittals.

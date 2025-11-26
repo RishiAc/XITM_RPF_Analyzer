@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0115
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: in the Technical Proposal. Exceptions to terms and conditions may result in having the
+Section Number: None
+Section Type: technical_requirements
+Word Count: 47
+Character Count: 331
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+proposal deemed unacceptable or classified as not reasonably susceptible of being selected
+for award.
+b. Addenda Acknowledgment: Offeror shall acknowledge receipt of any addenda on the
+Procurement Portal. Failure to acknowledge addenda may result in your proposal being
+found not reasonably susceptible of being selected for award.

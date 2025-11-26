@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0090
+Source File: 2-RFP 2000004198.pdf
+Section Title: 11.3. Offeror will dynamically from month to month provide the County the lowest available price for
+Section Number: 11.3.
+Section Type: general
+Word Count: 53
+Character Count: 355
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+any/all collective or individual solutions implemented to meet or exceed that of any contract the
+offeror has. The price will never increase for any reason without prior approval from an
+authorized Fairfax County Government representative. Price decreases shall be made in
+accordance with paragraph 40 of the General Conditions & Instructions to Offerors.

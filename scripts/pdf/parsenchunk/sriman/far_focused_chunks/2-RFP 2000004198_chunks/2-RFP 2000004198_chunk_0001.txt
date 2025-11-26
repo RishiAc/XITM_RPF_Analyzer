@@ -1,0 +1,38 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0001
+Source File: 2-RFP 2000004198.pdf
+Section Title: General
+Section Number: None
+Section Type: general
+Word Count: 169
+Character Count: 1254
+Line Count: 23
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+IMPORTANT NOTICE
+THIS IS AN ELECTRONIC PROCUREMENT (eBID) SUBMISSIONS
+WILL ONLY BE ACCEPTED ELECTRONICALLY VIA THE BONFIRE
+(EUNA) PORTAL (https://fairfaxcounty.bonfirehub.com)
+Fairfax County Government uses a procurement portal powered by
+Bonfire Interactive for accepting and evaluating proposals. To register,
+visit https://fairfaxcounty.bonfirehub.com. Additional assistance is also
+available at Support@GoBonfire.com. Offerors must register in the
+Bonfire portal in order to download the RFP documents and submit
+a response to this RFP.
+Submitting proposals via the Bonfire (Euna) portal is mandatory. Fairfax
+County will not accept proposals submitted by paper, telephone, facsimile
+(“FAX”) transmission, or electronic mail (e-mail) in response to this RFP.
+Reference Special Provisions, SUBMISSION OF PROPOSAL for
+additional information.
+Fairfax County strongly encourages offerors to submit proposals well in
+advance of the proposal submission deadline. A proposal submission is
+not considered successful unless all necessary files have been uploaded
+and the ‘Submit & Finalize’ step has been completed. Offerors are
+responsible for the consequences of any failure to plan ahead in the
+submission of its Proposal.
+RFP 2000004198
+SPECIAL PROVISIONS

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0192
+Source File: 2-RFP 2000004198.pdf
+Section Title: including the bid Cover Sheet and Pricing Schedule(s); (ii) properly signed in ink in the identified spaces; and (iii) submitted in a
+Section Number: None
+Section Type: deliverables_timeline
+Word Count: 25
+Character Count: 144
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+sealed envelope or package.
+If the bid prices or any other submissions differ on the copy of the submitted bid, the ORIGINAL copy shall prevail.

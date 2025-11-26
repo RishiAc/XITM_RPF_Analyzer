@@ -1,0 +1,80 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0012
+Source File: 2-RFP 2000004198.pdf
+Section Title: certificates, training courses and other relevant evidence to document the level
+Section Number: None
+Phase: P1
+Word Count: 488
+Character Count: 3332
+Line Count: 53
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: attachment, staff, offeror, county, cost, must, shall, provide, contact, information
+
+=== CHUNK CONTENT ===
+certificates, training courses and other relevant evidence to document the level
+of expertise of proposed support personnel.
+12
+RFP 2000004198
+SPECIAL PROVISIONS
+c. Offeror shall describe its processes for assigning staff to specific projects, along
+with the credentials of the staff members. Offeror should include how it will
+involve the County to ensure projects are staffed to be successful.
+The Contractor will provide a staffing plan in response to the County Tasks orders,
+Scope of Work (“SOW”), request, etc. describing the Contractor’s proposed staff
+distribution to accomplish this work.
+4. Financial Statements: The Offeror shall provide an income statement and balance
+sheet from the most recent reporting period.
+5. References: The Offeror will provide a reference for at least three (3) clients. Special
+notation must be made of similar staff augmentation assignments relevant solutions
+created, or duties performed and must also include the following: reference
+names/Jurisdiction, summary service description, reference address, operational contact
+name, operational contact phone number, company project manager, company project
+manager phone number, technical contact name, technical contact phone number, and
+date(s) of engagement “from” and “to”. The contacts listed must have direct knowledge of
+the work and the Offeror performance (ref. Attachment II).
+6. Exceptions to the RFP: Offerors may take exceptions to the terms, however, some of the
+terms may not be negotiable (ref. Attachment B).
+8.4. Fairfax County Forms:
+• Attachment A1, Offeror Data Sheet
+• Attachment A2, Virginia State Corporation Commission Registration Information
+• Attachment A3, Request for Protection of Trade Secrets or Proprietary Information
+Pursuant to Article 2, Section 5.C.3 of the Purchasing Resolution and Va. Code Ann.
+§ 2.2-4342(F)
+• Attachment A4, Business, Professional and Occupational License
+• Attachment A5, Certification Regarding Debarment or Suspension
+• Attachment A6, Certification Regarding Ethics in Public Contracting
+• Attachment A7, Fairfax County’s Business Classification Schedule
+• Attachment B, Affirmation of Legally Required Contract Terms
+• Attachment C, Fairfax County Project Proposal Matrix for Meeting Information
+Technology Security Policy Requirements (sample)
+• All issued Addenda (as applicable).
+9. COST PROPOSAL INSTRUCTIONS:
+9.1. The offeror must submit a cost proposal in fully indexed, searchable, supported by cost and
+pricing data adequate to establish the reasonableness of the proposed fee. The following
+information should be submitted as part of the cost proposal:
+The cost of each task or segment of the task shall be itemized.
+a. IT Staff Augmentation: The Offerors are required to provide rates that are fully loaded. Fully
+loaded rates shall include but are not limited to overhead cost, administrative fees, travel, meal
+expenses, hotel, etc. The County will not pay any additional cost of any kind. Breakdown of
+other expenses such as clerical support, other overhead costs, supplies, etc. (ref. Pricing
+Schedule – IT Staff Augmentation).
+10. CONSULTATION SERVICES:
+10.1. The Contractor’s staff must be available for consultation with County staff on an as-needed
+basis between 8:00 A.M. and 4:30 P.M., Eastern Time, Monday through Friday.
+13
+RFP 2000004198
+SPECIAL PROVISIONS

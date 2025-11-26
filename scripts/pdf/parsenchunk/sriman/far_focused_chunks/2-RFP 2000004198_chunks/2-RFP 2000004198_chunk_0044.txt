@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0044
+Source File: 2-RFP 2000004198.pdf
+Section Title: The following qualifications and work experience requirements listed below shall
+Section Number: None
+Section Type: technical_requirements
+Word Count: 111
+Character Count: 777
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+The following qualifications and work experience requirements listed below shall
+apply unless otherwise specified in Exhibit A:
+• Senior Level: relates to very experienced and highly qualified individuals who
+are technically proficient and able to work with minimum supervision. Senior
+Level professionals should have as a minimum five (5) years relevant work
+experience unless otherwise stated and are expected to have appropriate and
+related certification in the associated field of work, and/or equivalent experience
+relevant to the position.
+• Intermediate Level: relates to experienced and qualified individuals who are
+technically proficient and able to work with minimal to moderate supervision.
+Intermediate Level professionals should have a minimum of three (3) years’

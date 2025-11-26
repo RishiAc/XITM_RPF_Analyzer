@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0278
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5. Any other cause the Purchasing Agent determines to be so serious and compelling as to affect responsibility as a Contractor,
+Section Number: 5.
+Section Type: contract_clauses
+Word Count: 17
+Character Count: 109
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+such as debarment by another governmental entity for any cause listed herein, or because of prior reprimands;

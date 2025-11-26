@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0120
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: qualifications relate to their specific responsibilities. Offeror’s description shall
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 26
+Character Count: 177
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+establish the proposed resource(s) is/are capable to perform the services requested
+in this RFP.
+i Offerors shall ensure that the description of the proposed resource(s) skills,

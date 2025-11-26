@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0061
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offeror proposed resource(s) shall perform with flexible working hours, including evenings and
+Section Number: 1.
+Section Type: general
+Word Count: 111
+Character Count: 778
+Line Count: 13
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. Offeror proposed resource(s) shall perform with flexible working hours, including evenings and
+weekends, to accommodate the availability of the parties.
+a. The AOC anticipates approximately twenty (20) to forty (40) hours of
+screening/administrative work per week.
+b. The Offeror proposed resource shall perform Monday through Saturday between the hours
+of 8:00AM to 8:00PM EDT.
+2. Offeror proposed resource(s) shall be compensated at the proposed hourly rate(s) including
+scheduling, interviewing, and reporting services for each case.
+a. For billing purposes, hourly rates shall be prorated and rounded up in fifteen (15) minute
+intervals.
+H. INTERVIEW PROCESS
+Shortlisted Offeror proposed resource(s) will be required to complete a panel interview including the
+following:

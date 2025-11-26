@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0019
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Offeror, their employees, subcontractors, and agents shall be held directly responsible to repair,
+Section Number: 1.
+Section Type: general
+Word Count: 94
+Character Count: 635
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. The Offeror, their employees, subcontractors, and agents shall be held directly responsible to repair,
+replace, or restore to its original condition, to the satisfaction of the AOC, curbs, roadway surfaces,
+wheel stops, shrubbery, trees, buildings, bollards, gates, light pole, sign poles or any other State-
+owned property which is damaged by the actions of the above-mentioned representatives.
+2. The Offeror, their employees, subcontractors, and agents shall be held directly responsible for any
+damage caused by their action or inaction to privately-owned property and shall hold the State of
+Maryland harmless for such damages.

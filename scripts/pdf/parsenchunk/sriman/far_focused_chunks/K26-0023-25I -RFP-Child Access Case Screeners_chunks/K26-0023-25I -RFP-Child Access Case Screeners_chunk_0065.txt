@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0065
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: c. Insurance Acknowledgment: Offeror shall acknowledge they have reviewed the insurance
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 79
+Character Count: 539
+Line Count: 6
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+c. Insurance Acknowledgment: Offeror shall acknowledge they have reviewed the insurance
+requirements, as written in Section II of this RFP, on the Procurement Portal. Offerors are
+reminded that only the Successful Offeror is required to meet the insurance requirements,
+and the Successful Offeror is not required to provide a Certificate of Insurance (COI)
+meeting the written insurance requirements until receiving notification from the AOC that
+they are the Apparent Awardee. If the Offeror requires additional insurance coverage to meet

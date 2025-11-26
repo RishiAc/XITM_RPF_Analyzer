@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0208
+Source File: 2-RFP 2000004198.pdf
+Section Title: costs (including actual labor and material cost, overhead and profit) for the performance of the bid item(s) in question. A Bid shall
+Section Number: None
+Section Type: budget_pricing
+Word Count: 21
+Character Count: 129
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+be materially unbalanced if there is a reasonable doubt that award of the mathematically unbalanced Bid will result in the lowest

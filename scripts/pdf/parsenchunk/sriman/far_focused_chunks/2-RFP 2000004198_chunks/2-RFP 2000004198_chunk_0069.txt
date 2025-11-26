@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0069
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.11. The County may cancel this RFP or reject proposals at any time prior to an award and is not
+Section Number: 18.11.
+Section Type: submission_requirements
+Word Count: 125
+Character Count: 745
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+18.11. The County may cancel this RFP or reject proposals at any time prior to an award and is not
+required to furnish a statement of the reasons why a particular proposal was not deemed to be
+the most advantageous.
+19. INSURANCE:
+19.1. The Contractor is responsible for its work and every part thereof, and for all materials, tools,
+equipment, appliances, and property of any and all description used in connection therewith.
+The Contractor assumes all risk of direct and indirect damage or injury to the property or
+persons used or employed on or in connection with the work contracted for, and of all damage
+or injury to any person or property wherever located, resulting from any action, omission,
+commission or operation under the contract.

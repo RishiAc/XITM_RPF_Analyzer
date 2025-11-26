@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0008
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: ATTACHMENTS
+Section Number: None
+Section Type: general
+Word Count: 35
+Character Count: 248
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Attachment A – Standard Contract Agreement Sample
+Attachment B – Proposal Affidavit
+Attachment C – Contract Affidavit Sample
+Attachment E – Bid/Price Proposal Form
+Attachment F – Non-Disclosure Agreement Sample
+Attachment L – Bidder/Offeror Profile

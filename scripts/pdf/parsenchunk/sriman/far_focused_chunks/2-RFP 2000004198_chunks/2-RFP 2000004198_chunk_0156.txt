@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0156
+Source File: 2-RFP 2000004198.pdf
+Section Title: Continuation of contract is declared void, the performing Contractor shall be compensated for the cost of performance up to the time of
+Section Number: None
+Section Type: budget_pricing
+Word Count: 174
+Character Count: 985
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+decision by instituting legal action as provided in the Code of Virginia. Nothing in this section shall be construed to permit a
+bidder to challenge the validity of the terms or conditions of the Invitation for Bid or Request for Proposal.
+b. If prior to award it is determined that the decision to award is arbitrary or capricious, then the sole relief shall be a finding to
+that effect. The Purchasing Agent shall cancel the proposed award or revise it to comply with the law. If, after an award, it
+is determined that an award of a contract was arbitrary or capricious, then the sole relief shall be as hereinafter provided.
+Where the award has been made but performance has not begun, the performance of the contract may be declared void by
+the County. Where the award has been made and performance has begun, the Purchasing Agent may declare the contract
+void upon a finding that this action is in the best interest of the County. Where a contract is declared void, the performing

@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0084
+Source File: 2-RFP 2000004198.pdf
+Section Title: 10.1. The Contractor’s staff must be available for consultation with County staff on an as-needed
+Section Number: 10.1.
+Section Type: general
+Word Count: 17
+Character Count: 112
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+basis between 8:00 A.M. and 4:30 P.M., Eastern Time, Monday through Friday.
+13
+RFP 2000004198
+SPECIAL PROVISIONS

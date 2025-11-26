@@ -1,0 +1,21 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_004
+Section: 3. The AOC reserves the right to monitor all applicable computer and electronic equipment usage for
+Section Number: 3
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: access, information, systems, reserves
+Word Count: 46
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+3. The AOC reserves the right to monitor all applicable computer and electronic equipment usage for
+compliance with its policies.
+R. ACCESS TO AOC INFORMATION TECHNOLOGY SYSTEMS
+1. The Successful Offeror’s personnel shall complete all required paperwork as directed for access to
+any AOC information systems.

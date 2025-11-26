@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0161
+Source File: 2-RFP 2000004198.pdf
+Section Title: f. The itemized cost for each item/service.
+Section Number: None
+Section Type: budget_pricing
+Word Count: 12
+Character Count: 99
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Describe ability to customize invoices/billing based on Fairfax County requirements; give
+examples.

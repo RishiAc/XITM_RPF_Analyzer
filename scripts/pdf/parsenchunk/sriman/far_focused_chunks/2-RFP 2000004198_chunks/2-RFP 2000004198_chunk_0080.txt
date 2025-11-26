@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0080
+Source File: 2-RFP 2000004198.pdf
+Section Title: 20. METHOD OF ORDERING:
+Section Number: 20.
+Section Type: general
+Word Count: 117
+Character Count: 737
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+20. METHOD OF ORDERING:
+20.1. The County may use two (2) different methods of placing orders from the final contract:
+Purchase Orders (PO’s) and approved County procurement cards.
+20.2. A Purchase Order (PO) may be issued to the contractor on behalf of the County agency
+ordering the items/services covered under this contract. The purchase order indicates that
+sufficient funds have been obligated as required by Title 15.2-1238 of the Code of the
+Commonwealth of Virginia.
+20.3. Procurement Card orders and payments may also be made by the use of a Fairfax County or
+Fairfax County Public Schools “Procurement” Card. The Procurement Card is currently a
+Master Card. Contractors are encouraged to accept this method of receiving orders.

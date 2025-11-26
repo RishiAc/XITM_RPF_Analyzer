@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0046
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. A parental guarantee of the performance of the Offeror under this section will not automatically
+Section Number: 4.
+Section Type: general
+Word Count: 98
+Character Count: 612
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+4. A parental guarantee of the performance of the Offeror under this section will not automatically
+result in crediting the Offeror with the experience or qualification of the parent under any evaluation
+criteria pertaining to the actual Offeror’s experience and qualifications. The Offeror will be evaluated
+on the extent to which the AOC determines that the experience and qualifications of the parent are
+applicable to and shared with the Offeror, any stated intent by the parent to be directly involved in
+the performance of the contract, and the value of the parent’s participation as determined by the
+AOC.

@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0028
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Successful Offeror, and all Successful Offeror personnel and subcontractor personnel assigned
+Section Number: 1.
+Section Type: general
+Word Count: 39
+Character Count: 271
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+to the Contract, must comply with all applicable federal and state laws, regulations, policies, and
+AOC policies and procedures for the duration of the contract.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 7

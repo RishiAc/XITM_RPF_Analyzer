@@ -1,0 +1,58 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0024
+Source File: 2-RFP 2000004198.pdf
+Section Title: II, III, and IV). When such goods and services are included in the Pricing Schedule, bidders may bid on all areas or an individual
+Section Number: None
+Phase: P4
+Word Count: 563
+Character Count: 3542
+Line Count: 31
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: bids, county, opening, bidders, bidder, purchasing, such, received, agent, solicitation
+
+=== CHUNK CONTENT ===
+II, III, and IV). When such goods and services are included in the Pricing Schedule, bidders may bid on all areas or an individual
+area. A map showing the areas of the County will be furnished with the solicitation when required.
+12. RECEIPT OF BIDS-Bids received prior to the time of opening will be securely kept, unopened by the County. No responsibility
+will attach to the Purchasing Agent or her representative for the premature opening of a bid not properly addressed and identified.
+Unless specifically authorized in the solicitation, telegraphic, electronic, or facsimile bids/modifications will not be considered by
+the County.
+13. BID OPENING-All bids received in response to an Invitation for Bid (IFB) will be opened at the date, time and place specified,
+read publicly, and made available for inspection as provided in paragraph 64, General Conditions and Instructions to Bidders.
+The Purchasing Agent’s representative assigned to open the bids will decide when the specified time for bid opening has arrived.
+Tabulations of bids received are posted on the County’s website at: https://www.fairfaxcounty.gov/procurement/bid-tab.
+Proposals received in response to a Request for Proposal (RFP) will be made available as provided in Paragraph 63, General
+Conditions and Instructions to Bidders.
+14. OMISSIONS & DISCREPANCIES-Any items or parts of any equipment listed in this solicitation that clearly necessary for the
+operation and completion of such equipment, but are: (i) not fully described by the County; or (ii) are omitted by the County from
+such specification, shall be considered a part of such equipment even if not directly specified or called for in the specifications.
+If a bidder finds discrepancies or ambiguities in, or omissions from, the solicitation, including the drawings and/or specifications,
+it shall notify the Purchasing Agent at least five (5) days prior to the date set for the opening of bids. If necessary, the Purchasing
+Agent will send a written addendum for clarification to all bidders no later than three (3) days before the date set for opening of
+bids. Notifications regarding specifications will not be considered if received within five days of the date set for opening of bids.
+15. BIDDER INTERESTED IN MORE THAN ONE BID-If more than one bid is offered by a bidder, directly or indirectly, all such bids
+may be rejected. A bidder who has quoted prices on work, materials, or supplies to a bidder is not disqualified from quoting
+prices to other bidders or firms submitting a bid directly for the work, materials or supplies.
+16. TAX EXEMPTION-The County is exempt from the payment of any federal excise or any Virginia sales tax. Fairfax County's
+Federal Excise Tax Exemption Number is 54-74-0127K.
+17. PROHIBITION AGAINST UNIFORM PRICING-The Purchasing Agent encourages open and competitive bidding by all possible
+means and endeavors to obtain the maximum degree of open competition on all purchase transactions using the methods of
+procurement authorized by the Fairfax County Purchasing Resolution. Each bidder, by virtue of submitting a bid, guarantees
+that it has not been a party with other bidders to an agreement to bid a fixed or uniform price. Violation of this implied guarantee
+shall render void the bids of participating bidders. Any disclosure to or acquisition by a competitive bidder, in advance of the
+opening of the bids, of the terms or conditions of the bid submitted by another competitor may render the entire proceedings void
+and may require re-advertising for bids.

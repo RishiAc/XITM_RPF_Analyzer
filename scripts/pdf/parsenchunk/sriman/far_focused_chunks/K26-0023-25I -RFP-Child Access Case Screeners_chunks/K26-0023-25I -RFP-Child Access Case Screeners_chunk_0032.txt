@@ -1,0 +1,36 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0032
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. General substitution provisions
+Section Number: 2.
+Section Type: general
+Word Count: 185
+Character Count: 1308
+Line Count: 21
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2. General substitution provisions
+a. The Successful Offeror shall demonstrate to the Contract Manager’s satisfaction that the
+proposed substitute has qualifications at least equal to those of the Successful Offeror
+personnel proposed to be replaced.
+b. The Successful Offeror shall provide the Contract Manager with a substitution request that
+shall include:
+(1) A detailed explanation of the reason(s) for the substitution request;
+(2) The resume of the proposed substitute, signed by the substituting individual and
+his/her formal supervisor;
+(3) The official resume of the current personnel for comparison purposes; and
+(4) Evidence of any required credentials.
+c. The Contract Manager may request additional information concerning the proposed
+substitution and may interview the proposed substitute personnel prior to deciding whether
+to approve the substitution request.
+d. The Contract Manager will notify the Successful Offeror in writing of: (i) the acceptance or
+denial, or (ii) contingent or temporary approval for a specified time limit, of the requested
+substitution. The Contract Manager will not unreasonably withhold approval of a proposed
+Successful Offeror personnel replacement.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 10

@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0200
+Source File: 2-RFP 2000004198.pdf
+Section Title: 12. RECEIPT OF BIDS-Bids received prior to the time of opening will be securely kept, unopened by the County. No responsibility
+Section Number: 12.
+Section Type: general
+Word Count: 39
+Character Count: 278
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+will attach to the Purchasing Agent or her representative for the premature opening of a bid not properly addressed and identified.
+Unless specifically authorized in the solicitation, telegraphic, electronic, or facsimile bids/modifications will not be considered by
+the County.

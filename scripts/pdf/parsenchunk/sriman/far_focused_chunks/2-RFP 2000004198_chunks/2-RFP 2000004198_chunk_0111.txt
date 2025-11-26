@@ -1,0 +1,29 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0111
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19. CLARIFICATION OF TERMS—If any prospective bidder has questions about the specifications or other solicitation documents,
+Section Number: 19.
+Section Type: technical_requirements
+Word Count: 235
+Character Count: 1547
+Line Count: 14
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+19. CLARIFICATION OF TERMS—If any prospective bidder has questions about the specifications or other solicitation documents,
+the prospective bidder should contact the contract specialist whose name appears on the face of the solicitation no later than
+five working dates before the due date. Any revisions to the solicitation will be made only be addendum issued by the contract
+specialist.
+20. BRAND NAME OR EQUAL ITEMS-Unless otherwise provided in the Invitation for Bid, the name of a certain brand, make or
+manufacturer does not restrict bidders to the specific brand, make or manufacturer named; it conveys the general style, type,
+character, and quality of the article desired. Any article that the County in its sole discretion determines to be the equivalent of
+that specified, considering quality, workmanship, economy of operation, and suitability for the purpose intended, shall be
+accepted. The bidder is responsible for clearly and specifically identifying the product being offered and providing sufficient
+descriptive literature, catalog cuts and technical detail to enable the County to determine if the product offered meets the
+requirements of the solicitation. This is required even if offering the exact brand, make, or manufacturer specified. Failure to
+furnish adequate data for evaluation purposes may result in declaring a bid nonresponsive. Unless the bidder clearly indicates
+in its bid that the product is an equivalent product, such bid will be considered to offer the brand name product referenced in the
+solicitation.

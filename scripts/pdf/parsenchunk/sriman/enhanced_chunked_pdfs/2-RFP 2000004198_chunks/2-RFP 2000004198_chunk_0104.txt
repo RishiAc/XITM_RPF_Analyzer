@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0104
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15.5. Unnecessarily elaborate brochures of other presentations beyond that sufficient to present a
+Section Number: 15.5.
+Section Type: general
+Word Count: 7
+Character Count: 47
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+complete and effective proposal is not desired.

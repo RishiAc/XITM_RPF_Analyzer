@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0056
+Source File: 2-RFP 2000004198.pdf
+Section Title: submission contact Bonfire (Euna) at Support@GoBonfire.com or click on the link “Contact
+Section Number: None
+Section Type: submission_requirements
+Word Count: 80
+Character Count: 525
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+submission contact Bonfire (Euna) at Support@GoBonfire.com or click on the link “Contact
+Bonfire Support here” under Need Help?. (Note: it takes an average of 16 minutes to an hour
+for a response). Therefore, offerors shall take the necessary steps to submit their proposals in
+advance.
+15.2. If, at the time of the scheduled proposal closing Fairfax County Government is closed due to
+inclement weather or another unforeseeable event, the proposal closing will still proceed
+electronically through the Bonfire (Euna) system.

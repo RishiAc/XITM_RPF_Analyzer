@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0130
+Source File: 2-RFP 2000004198.pdf
+Section Title: responsibility of the Contractor to insure compliance with these instructions for items that are drop-shipped.
+Section Number: None
+Section Type: security_compliance
+Word Count: 145
+Character Count: 949
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+responsibility of the Contractor to insure compliance with these instructions for items that are drop-shipped.
+44. RESPONSIBILITY FOR MATERIALS OR GOODS TENDERED-Unless otherwise specified in the solicitation, the Contractor is
+responsible for the materials or supplies covered by the contract until they are delivered at the delivery point designated by the
+County. The Contractor bears all risk of loss on rejected materials or supplies after notice of rejection. Rejected materials or
+supplies must be removed by and at the expense of the Contractor promptly after notification of rejection, unless public health
+and safety require immediate destruction or other disposal of rejected delivery. If rejected materials are not removed by the
+Contractor within ten (10) days after date of notification, the County may return the rejected materials or supplies to the Contractor
+at its risk and expense or dispose of them as the County’s own property.

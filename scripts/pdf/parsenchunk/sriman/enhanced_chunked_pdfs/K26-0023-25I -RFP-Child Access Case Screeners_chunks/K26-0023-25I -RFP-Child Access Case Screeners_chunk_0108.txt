@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0108
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Offeror proposed resource(s) shall be compensated at the proposed hourly rate(s) including
+Section Number: 2.
+Section Type: general
+Word Count: 43
+Character Count: 302
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+scheduling, interviewing, and reporting services for each case.
+a. For billing purposes, hourly rates shall be prorated and rounded up in fifteen (15) minute
+intervals.
+H. INTERVIEW PROCESS
+Shortlisted Offeror proposed resource(s) will be required to complete a panel interview including the
+following:

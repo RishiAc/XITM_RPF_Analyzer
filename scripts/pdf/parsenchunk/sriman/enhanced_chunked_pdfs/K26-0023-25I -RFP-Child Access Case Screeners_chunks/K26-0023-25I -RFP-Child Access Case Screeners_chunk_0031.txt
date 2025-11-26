@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0031
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Successful Offeror’s personnel shall complete all required paperwork as directed for access to
+Section Number: 1.
+Section Type: general
+Word Count: 4
+Character Count: 28
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+any AOC information systems.

@@ -1,0 +1,43 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0025
+Source File: 2-RFP 2000004198.pdf
+Section Title: implemented by staff augmentation support must be fully integrated into the core
+Section Number: None
+Section Type: general
+Word Count: 276
+Character Count: 2052
+Line Count: 26
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+County software, database and interfaces and seamlessly integrate with county
+technologies. Proposals must detail the following; organizational skill sets and
+expertise, proposed staffing models, ensure augmented staff can seamlessly
+integrate and use existing county frameworks, methodologies, and tools. This
+includes a commitment to adhering to the County's security guidelines and best
+practices. The Offeror should ensure that the proposal includes, examples of
+relevant case studies, past work or projects in government settings, and a clear plan
+for onboarding and integrating these staff members within the County’s existing IT
+organization. Proposals must demonstrate offerors ability to provide staff that can
+meet one or more of the supported areas and show competencies in the core
+technologies used by the county. Information about Fairfax County IT Projects,
+Standards, environments and platforms can be found in the Information Technology
+Plan, https://www.fairfaxcounty.gov/informationtechnology/it-plan.
+5.1.2. Fairfax County IT Management Overview – The Department of Information
+Technology (DIT) is the County’s central IT agency that establishes standards and
+architecture for information and communication systems for all County agencies.
+DIT provides leadership, process, governance, resources, and expertise in
+deploying information technology, and provides technology infrastructure, and
+designs, develops, implements and maintains enterprise-wide and agencies’
+specific applications. The Director of DIT is also the County's Chief Information
+Officer and has authority for strategic leadership for technology investments, and
+direction in deployment of technology county-wide, and oversees implementation of
+policy and IT projects. DIT has a Project Management Office that works with all
+agencies’ Project Managers (PM) in reviewing project plans for performance and
+scope, and approving project expenditures. DIT assigns a technical PM who is
+responsible for working with project System Integrators (SI) and staff augmentation

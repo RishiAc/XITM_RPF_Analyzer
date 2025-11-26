@@ -1,0 +1,26 @@
+Section: Commercial Terms - Related Sections
+Type: combined_related
+Related Group: commercial_terms
+Complete Section: True
+Sub-sections: is subject to appropriations by the Fairfax County Board of Supervisors to satisfy payment of, a. IT Staff Augmentation: The Offerors are required to provide rates that are fully loaded. Fully, e. Pricing Schedule, a. Cost estimates relating to a proposed procurement transaction prepared by or for a public body shall not be open to public
+==================================================
+
+
+--- is subject to appropriations by the Fairfax County Board of Supervisors to satisfy payment of ---
+is subject to appropriations by the Fairfax County Board of Supervisors to satisfy payment of
+such obligations. The County’s obligations to make payments during subsequent fiscal years
+are dependent upon the same action. If such an appropriation is not made for any fiscal year,
+
+--- a. IT Staff Augmentation: The Offerors are required to provide rates that are fully loaded. Fully ---
+a. IT Staff Augmentation: The Offerors are required to provide rates that are fully loaded. Fully
+loaded rates shall include but are not limited to overhead cost, administrative fees, travel, meal
+expenses, hotel, etc. The County will not pay any additional cost of any kind. Breakdown of
+other expenses such as clerical support, other overhead costs, supplies, etc. (ref. Pricing
+Schedule – IT Staff Augmentation).
+
+--- e. Pricing Schedule ---
+e. Pricing Schedule
+
+--- a. Cost estimates relating to a proposed procurement transaction prepared by or for a public body shall not be open to public ---
+a. Cost estimates relating to a proposed procurement transaction prepared by or for a public body shall not be open to public
+inspection.

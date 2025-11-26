@@ -1,0 +1,53 @@
+FRONTEND CODE BACKUP
+====================
+Backup Date: $(date)
+Branch: frontend_work
+
+KEY FILES CREATED/MODIFIED:
+===========================
+
+1. Pages:
+   - src/frontend/src/pages/ChatPage.jsx (Main chat interface with API integration)
+   - src/frontend/src/pages/ChatPage.css (Styling for chat page)
+   - src/frontend/src/pages/Dashboard.jsx
+   - src/frontend/src/pages/Dashboard.css
+   - src/frontend/src/pages/RFPsPage.jsx
+   - src/frontend/src/pages/RFPsPage.css
+   - src/frontend/src/pages/Home.jsx
+   - src/frontend/src/pages/Home.css
+
+2. Components:
+   - src/frontend/src/components/MetricCircle.jsx (Metric circle component)
+   - src/frontend/src/components/MetricCircle.css
+   - src/frontend/src/components/MarkdownView.jsx (Markdown rendering)
+   - src/frontend/src/components/Source.jsx (Source citations)
+   - src/frontend/src/components/Source.css
+   - src/frontend/src/components/Navbar.jsx
+   - src/frontend/src/components/Navbar.css
+   - src/frontend/src/components/ScoreCard.jsx
+   - src/frontend/src/components/ScoreCard.css
+
+3. API:
+   - src/frontend/src/api/query.js (queryRFP function)
+
+4. Supabase:
+   - src/frontend/src/SupaBase/fetchRFPs.js
+   - src/frontend/src/SupaBase/supabaseClient.js
+   - src/frontend/src/SupaBase/uploadPDF.js
+
+5. Configuration:
+   - src/frontend/package.json
+   - src/frontend/.env.local (if exists - contains Supabase credentials)
+
+MAIN FEATURES:
+==============
+- ChatPage with three-column layout (metrics sidebar, chat area, phases panel)
+- RFP query integration via queryRFP API
+- Markdown rendering for bot responses
+- Source citations panel
+- Phase boxes with expandable metrics
+- Overall score display
+- Fulfilled requirements list
+- Auto-scroll chat functionality
+
+To restore: Copy files from this backup directory back to src/frontend/

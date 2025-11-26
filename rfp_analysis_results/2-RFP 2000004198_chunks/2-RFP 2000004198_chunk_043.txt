@@ -1,0 +1,20 @@
+Chunk ID: 2-RFP 2000004198_chunk_043
+Section: 28. ORDER OF PRECEDENCE:
+Section Number: 28
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: precedence, order, event, conflict
+Word Count: 34
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+28. ORDER OF PRECEDENCE:
+28.1. In the event of conflict, the Acceptance Agreement (provided at contract award) and the Special
+Provisions shall take precedence over the General Conditions and Instructions to Bidders,
+(Appendix A).

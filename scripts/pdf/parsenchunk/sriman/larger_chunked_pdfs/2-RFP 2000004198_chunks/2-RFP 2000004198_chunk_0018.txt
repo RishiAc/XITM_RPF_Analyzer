@@ -1,0 +1,64 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0018
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.10. Proposals which, after discussion and submission of additional clarification and/or
+Section Number: 18.10.
+Section Type: submission_requirements
+Word Count: 499
+Character Count: 3273
+Line Count: 47
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+18.10. Proposals which, after discussion and submission of additional clarification and/or
+supplementary information, are determined to meet the specifications of this RFP will be
+classified as "acceptable". Proposals found not to be acceptable will be classified as
+"unacceptable" and no further discussion concerning same will be conducted.
+18.11. The County may cancel this RFP or reject proposals at any time prior to an award and is not
+required to furnish a statement of the reasons why a particular proposal was not deemed to be
+the most advantageous.
+19. INSURANCE:
+19.1. The Contractor is responsible for its work and every part thereof, and for all materials, tools,
+equipment, appliances, and property of any and all description used in connection therewith.
+The Contractor assumes all risk of direct and indirect damage or injury to the property or
+persons used or employed on or in connection with the work contracted for, and of all damage
+or injury to any person or property wherever located, resulting from any action, omission,
+commission or operation under the contract.
+19.2. The Contractor shall, during the continuance of all work under the contract provide the
+following:
+a. Statutory Workers' Compensation and Employer's Liability insurance in limits of not less
+than $1,000,000 to protect the Contractor from any liability or damages for any injuries
+(including death and disability) to any and all of its employees, including any and all liability
+or damage which may arise by virtue of any statute or law in force within the
+Commonwealth of Virginia.
+b. Commercial General Liability insurance in the amount of $1,000,000 per occurrence/
+$2,000,000 in aggregate, to protect the Contractor, its sub-Contractors, and the interest of
+the County, its officers, employees and agents against any and all injuries to third parties,
+including bodily injury and personal injury, wherever located, resulting from any action or
+operation under the Contract or in connection with the contracted work.
+17
+RFP 2000004198
+SPECIAL PROVISIONS
+c. Owned, non-owned, and hired Automobile Liability insurance, in the amount of $1,000,000
+per occurrence/aggregate, including property damage, covering all owned, non-owned,
+borrowed, leased, or rented vehicles operated by the Contractor. In addition, all mobile
+equipment used by the Contractor in connection with the contracted work, will be insured
+under either a standard Automobile Liability policy, or a Commercial General Liability
+policy.
+d. Professional Liability Insurance in the amount of $1,000,000 per claim to cover each
+individual professional staff.
+19.3. Liability Insurance “Claims Made” basis:
+a. If the liability insurance purchased by the Contractor has been issued on a "claims made"
+basis, the Contractor must comply with the following additional conditions. The limit of
+liability and the extensions to be included as described previously in these provisions,
+remain the same.
+b. The Contractor must either:
+1. Agree to provide certificates of insurance evidencing the above coverage for a period
+of two years after final payment for the contract. This certificate shall evidence a
+"retroactive date" no later than the beginning of the Contractor's or sub-contractor's
+work under this contract, or

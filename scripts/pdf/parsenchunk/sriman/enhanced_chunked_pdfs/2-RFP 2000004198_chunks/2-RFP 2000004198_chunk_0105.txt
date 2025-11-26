@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0105
+Source File: 2-RFP 2000004198.pdf
+Section Title: 16.1. Offerors are reminded that changes to the proposal, in the form of addenda, are often issued
+Section Number: 16.1.
+Section Type: submission_requirements
+Word Count: 25
+Character Count: 141
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+between the issue date and within three (3) days before the due date. All addenda shall be
+signed and submitted as instructed on the addenda.

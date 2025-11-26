@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0024
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. By submitting a response to this solicitation, the Offeror agrees to accept payments by electronic
+Section Number: 1.
+Section Type: general
+Word Count: 77
+Character Count: 576
+Line Count: 7
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+funds transfer unless the State Comptroller’s Office grants an exemption. The selected Offeror shall
+register using the COT/GAD X-10 Vendor Electronic Funds (EFT) Registration Request Form. Any
+request for exemption must be submitted to the State Comptroller’s Office for approval at the address
+specified on the COT/GAD X-10 form and must include the business identification information as
+stated on the form and include the reason for the exemption. The COT/GAC X-10 form can be
+downloaded at:
+https://www.marylandtaxes.gov/forms/state-accounting/static-files/GADX10Form.pdf

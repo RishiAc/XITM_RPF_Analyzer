@@ -1,0 +1,65 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0010
+Source File: rfp_template.pdf
+Section Title: SPECIAL CONTRACT REQUIREMENTS
+Section Number: None
+Phase: P2
+Word Count: 513
+Character Count: 3103
+Line Count: 38
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 42
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: agency, system, esco, contract, agreement, title, premises, requirements, section, novation
+
+=== CHUNK CONTENT ===
+SPECIAL CONTRACT REQUIREMENTS
+[Reference the DOE IDIQ contract Section H for other potentially relevant clauses.]
+H.1 Special Purpose Entities and Novation
+[Agency may specify that the Contractor must select financing through a competitive selection process
+involving a minimum of three reputable finance companies.]
+The <agency> recognizes that securing financing may involve the establishment of a limited liability
+company (LLC) or other type of special purpose entity (SPE). Creation of an SPE under an ESPC ESA
+requires the execution of a novation agreement by the agency CO and prime contractor to recognize a
+successor in interest to the agency contract when contractor assets are transferred.
+The ESPC statutory authority provides that an agency may enter into an ESPC with an ESCO that is on a
+qualified list established pursuant to the requirements under 42 U.S.C. § 8287(b)(2)(A). The initial award of
+an ESPC ESA to a qualified list ESCO satisfies this requirement, even though the newly created SPE may not
+be on an established qualified list.
+Any subsequent agreement that is executed to novate the contract to a SPE must be approved by the
+responsible contracting officer and must be consistent with all applicable statutory and regulatory
+requirements. Specifically, the requirement that the transferor (ESCO) guarantees performance of the contract
+by the transferee (SPE) must be met. See FAR 42.1204(h)(3). Novation agreement approval is at the
+<agency’s> sole discretion pending a determination by the CO that the SPE is capable of meeting all contract
+requirements and obtaining financing.
+The planned use of an LLC or other type of SPE should be identified in the proposal as part of the Preliminary
+Project Finance Plan (see Section H.16).
+[If this agreement is novated, a novation may also be required for the site access agreement.]
+H.2 Title to the PV System
+Until such time as the <agency> accepts title to the PV System, the ESCO shall be the legal and beneficial
+owner of the PV System. During this time, the system shall be the personal property of the ESCO as defined
+under Article 9 of the Uniform Commercial Code and shall not be deemed as part of, or fixture to, the
+Premises. The <agency> covenants that it will use reasonable commercial efforts to place all parties having an
+interest in the ESCO’s property located on the Premises on notice of the ownership of the PV System and the
+legal status or classification of the PV System as personal property. The <agency> is the owner of the
+Premises and consents to the filing of a disclaimer of the PV System as a fixture of the Premises in the office
+where real estate records are customarily filed in the jurisdiction of the Premises until such time that the
+<agency> accepts title to the PV System.
+As specified in Section H.3, <agency> shall accept title to the PV System from the ESCO by the end of the
+contract term.
+H.3 ESCO’s Reserve Account, FMV Determination and Title Transfer of the PV
+System
+Page 18 of 38
+[This section should be carefully reviewed by legal, contracting and management. Add details regarding

@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0016
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.1.5. If support is for a commercial licensed software product, it is expected that work is
+Section Number: None
+Section Type: general
+Word Count: 99
+Character Count: 690
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5.1.5. If support is for a commercial licensed software product, it is expected that work is
+based on its manufacture specifications and not manipulated outside its developed
+architecture and development standards. The solution design should recommend
+the hardware and database environment that ensures optimal performance,
+supportability and reliability.
+5.1.6. Solution support may be required on technology that is hosted outside the County’s
+IT environment, such as a subscription service. Augmented staff must adhere to
+County IT Security standards for data security and privacy and user access from the
+county’s local and remote network. DIT will specify remote access specifications.

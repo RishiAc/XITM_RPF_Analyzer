@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0065
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. If there is a need for sign language interpretation or other special accommodations due to a disability,
+Section Number: 4.
+Section Type: general
+Word Count: 30
+Character Count: 198
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+please notify the Procurement Officer at least five (5) business days prior to the Pre-proposal
+Conference. The AOC will make a reasonable effort to provide such special accommodations.
+E. QUESTIONS

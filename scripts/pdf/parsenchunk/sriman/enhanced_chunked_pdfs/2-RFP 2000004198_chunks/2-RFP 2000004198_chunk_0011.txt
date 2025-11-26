@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0011
+Source File: 2-RFP 2000004198.pdf
+Section Title: 2.5. Offerors are required to have existing staff in each working title for the IT Staff Augmentation
+Section Number: 2.5.
+Section Type: general
+Word Count: 28
+Character Count: 186
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+labor category or categories the offeror is submitting a proposal(s) to. Verification will be
+demonstrated through the submission of resumes or bios for their current employee and should
