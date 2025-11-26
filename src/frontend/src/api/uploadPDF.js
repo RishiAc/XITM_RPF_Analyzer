@@ -20,6 +20,7 @@ if (supabaseUrl && supabaseKey) {
  * @param {File} file - PDF file
  */
 
+
 export async function uploadPDF(file) {
   if (!file) throw new Error("No file provided");
 

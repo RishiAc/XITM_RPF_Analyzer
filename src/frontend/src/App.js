@@ -1,10 +1,10 @@
-import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import RFPsPage from "./pages/RFPsPage";
-import ChatPage from "./pages/ChatPage";
+// import ChatPage from "./pages/ChatPage";
 import Dashboard from "./pages/Dashboard";
-import KnowledgeBasePage from "./pages/KnowledgeBasePage"
+import ChatPage from "./pages/ChatPageBackup"
+import KnowledgeBasePage from "./pages/KnowledgeBasePage";
 
 
 function App() {

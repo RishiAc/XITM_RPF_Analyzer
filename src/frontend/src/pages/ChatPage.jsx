@@ -1,18 +1,22 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useParams, useLocation } from "react-router-dom";
+import { getPhaseScores } from "../api/score";
+import { getColor } from "../api/colors";
 import Navbar from "../components/Navbar";
 import MetricCircle from "../components/MetricCircle";
 import "./ChatPage.css";
+
+const url = window.location.href
+const scores = getPhaseScores(url.substring(url.lastIndexOf("/") + 1));
 
 const phaseBlueprint = [
   {
     id: "P1",
     label: "Phase 1",
     title: "Eligibility & Kickoff",
-    metrics: [
-      { label: "Due Date Realism", value: 87, max: 100, color: "#3b82f6" },
-      { label: "Eligibility Status", value: 92, max: 100, color: "#10b981" },
-    ],
+    metrics: scores.llm_eval[0].map((query) => {
+        return {label: query.reasoning, value: query.score, max: 5, color: getColor(query.score)};
+    }),
     bullets: [
       "Due date realism",
       "Eligibility and set-aside status",
@@ -23,10 +27,9 @@ const phaseBlueprint = [
     id: "P2",
     label: "Phase 2",
     title: "Scope & Technical Fit",
-    metrics: [
-      { label: "SOW Alignment", value: 85, max: 100, color: "#3b82f6" },
-      { label: "Submission Readiness", value: 78, max: 100, color: "#10b981" },
-    ],
+    metrics: scores.llm_eval[1].map((query) => {
+        return {label: query.reasoning, value: query.score, max: 5, color: getColor(query.score)};
+    }),
     bullets: [
       "Detailed SOW review",
       "Proposal submission instructions (volumes, past performance requirements, resumes, formatting)",
@@ -37,10 +40,9 @@ const phaseBlueprint = [
     id: "P3",
     label: "Phase 3",
     title: "Evaluation Alignment",
-    metrics: [
-      { label: "Evaluation Score", value: 79, max: 100, color: "#f59e0b" },
-      { label: "Competitive Position", value: 82, max: 100, color: "#3b82f6" },
-    ],
+    metrics: scores.llm_eval[2].map((query) => {
+        return {label: query.reasoning, value: query.score, max: 5, color: getColor(query.score)};
+    }),
     bullets: [
       "Evaluation criteria",
       "Award basis (LPTA vs Best Value)",
@@ -51,10 +53,9 @@ const phaseBlueprint = [
     id: "P4",
     label: "Phase 4",
     title: "Pricing & Submission",
-    metrics: [
-      { label: "Timeline Readiness", value: 88, max: 100, color: "#10b981" },
-      { label: "Pricing Alignment", value: 83, max: 100, color: "#3b82f6" },
-    ],
+    metrics: scores.llm_eval[3].map((query) => {
+        return {label: query.reasoning, value: query.score, max: 5, color: getColor(query.score)};
+    }),
     bullets: [
       "Key dates and events (questions due, conferences, site visits)",
       "Pricing model (FFP, T&M, Labor Hour)",
