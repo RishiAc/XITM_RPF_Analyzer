@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import RFPsPage from "./pages/RFPsPage";
 import ChatPage from "./pages/ChatPage";
 import Dashboard from "./pages/Dashboard";
+import KnowledgeBasePage from "./pages/KnowledgeBasePage"
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path="/rfps" element={<RFPsPage />} />
         <Route path="/chat/:id" element={<ChatPage />} />
         <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/knowledge" element={<KnowledgeBasePage />} />
       </Routes>
     </Router>
   );
