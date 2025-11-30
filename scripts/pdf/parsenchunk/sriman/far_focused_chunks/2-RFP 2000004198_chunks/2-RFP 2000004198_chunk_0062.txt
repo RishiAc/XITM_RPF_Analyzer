@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0062
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.3. No Offeror, including any of their representatives, subcontractors, affiliates and interested
+Section Number: 18.3.
+Section Type: general
+Word Count: 99
+Character Count: 654
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+18.3. No Offeror, including any of their representatives, subcontractors, affiliates and interested
+parties, shall contact any member of a SAC or any person involved in the evaluation of the
+proposals. SAC members will refer any and all calls related to this procurement to the
+procurement official named in 13.1. above. Failure to comply with this directive may, at the sole
+discretion of the County, result in the disqualification of an Offeror from the procurement
+process.
+18.4. The County Purchasing Agent may arrange for discussions with firms submitting proposals, if
+required, for the purpose of obtaining additional information or clarification.

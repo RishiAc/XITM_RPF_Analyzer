@@ -1,0 +1,26 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_017
+Section: 2. All subcontractors must be identified and a complete description of their role relative to the proposal
+Section Number: 2
+Section Type: submission_requirements
+Phase: P2
+Due Dates: 03/25/2025
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: identified, proposal, offeror, subcontractors
+Word Count: 107
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+2. All subcontractors must be identified and a complete description of their role relative to the proposal
+must be included in the Offeror’s proposal. If the Successful Offeror requires the use of a
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 14
+subcontractor during the life of the Contract that was not identified in the proposal or the role of an
+identified subcontractor otherwise changes, the Successful Offeror shall obtain approval from the
+Contract Manager. If applicable, subcontractors utilized in meeting the established MBE or VSBE
+participation goal(s) shall be identified as provided in the appropriate MBE/VSBE forms attached to
+this RFP.

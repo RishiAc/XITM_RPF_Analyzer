@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0044
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offerors shall be responsible for all goods and/or services and requirements set forth in this RFP
+Section Number: 1.
+Section Type: technical_requirements
+Word Count: 132
+Character Count: 890
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. Offerors shall be responsible for all goods and/or services and requirements set forth in this RFP
+including the contract performance of any subcontractor participation.
+2. All subcontractors must be identified and a complete description of their role relative to the proposal
+must be included in the Offeror’s proposal. If the Successful Offeror requires the use of a
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 14
+subcontractor during the life of the Contract that was not identified in the proposal or the role of an
+identified subcontractor otherwise changes, the Successful Offeror shall obtain approval from the
+Contract Manager. If applicable, subcontractors utilized in meeting the established MBE or VSBE
+participation goal(s) shall be identified as provided in the appropriate MBE/VSBE forms attached to
+this RFP.

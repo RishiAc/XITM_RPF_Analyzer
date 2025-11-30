@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0105
+Source File: 2-RFP 2000004198.pdf
+Section Title: 11. AREA BIDS-For the purchase and delivery of certain goods and services the County may be divided into Areas (e.g., Areas I,
+Section Number: 11.
+Section Type: general
+Word Count: 123
+Character Count: 763
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+11. AREA BIDS-For the purchase and delivery of certain goods and services the County may be divided into Areas (e.g., Areas I,
+II, III, and IV). When such goods and services are included in the Pricing Schedule, bidders may bid on all areas or an individual
+area. A map showing the areas of the County will be furnished with the solicitation when required.
+12. RECEIPT OF BIDS-Bids received prior to the time of opening will be securely kept, unopened by the County. No responsibility
+will attach to the Purchasing Agent or her representative for the premature opening of a bid not properly addressed and identified.
+Unless specifically authorized in the solicitation, telegraphic, electronic, or facsimile bids/modifications will not be considered by
+the County.

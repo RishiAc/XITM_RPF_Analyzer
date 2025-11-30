@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0093
+Source File: 2-RFP 2000004198.pdf
+Section Title: 12.3. Request for Protection of Trade Secrets or Proprietary Information (Attachment A3) is
+Section Number: 12.3.
+Section Type: general
+Word Count: 24
+Character Count: 165
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+provided as a courtesy to assist offerors desiring to protect trade secrets or proprietary
+information from disclosure under the Virginia Freedom of Information Act.

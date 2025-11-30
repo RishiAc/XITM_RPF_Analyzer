@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0129
+Source File: 2-RFP 2000004198.pdf
+Section Title: 42. PLACING OF ORDERS-Orders against contracts will be placed with the Contractor by Purchase Order or Procurement Card (P-
+Section Number: 42.
+Section Type: general
+Word Count: 154
+Character Count: 1012
+Line Count: 10
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+42. PLACING OF ORDERS-Orders against contracts will be placed with the Contractor by Purchase Order or Procurement Card (P-
+Card) executed and released by the Purchasing Agent or their designee. When a Blanket Purchase Order has been released
+by the Purchasing Agent, telephonic orders may be placed directly with the Contractor by authorized personnel in the ordering
+Agency.
+DELIVERY PROVISIONS
+43. SHIPPING INSTRUCTIONS - CONSIGNMENT-Unless otherwise specified in the solicitation each case, container, package,
+etc., delivered under the contract must be plainly marked, stating the Contractor's name, purchase order number, and delivery
+address as indicated in the order. Deliveries must be made within the hours of 8:00 AM - 3:00 PM. Deliveries at any other time
+will not be accepted unless specific arrangements have been previously made with the receiver at the delivery point. No
+deliveries will be accepted on Saturdays, Sundays and holidays, unless previous arrangements have been made. It shall be the

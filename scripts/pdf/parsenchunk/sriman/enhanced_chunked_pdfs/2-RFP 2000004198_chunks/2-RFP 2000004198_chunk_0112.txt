@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0112
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.3. No Offeror, including any of their representatives, subcontractors, affiliates and interested
+Section Number: 18.3.
+Section Type: general
+Word Count: 63
+Character Count: 376
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+parties, shall contact any member of a SAC or any person involved in the evaluation of the
+proposals. SAC members will refer any and all calls related to this procurement to the
+procurement official named in 13.1. above. Failure to comply with this directive may, at the sole
+discretion of the County, result in the disqualification of an Offeror from the procurement
+process.

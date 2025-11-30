@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0115
+Source File: 2-RFP 2000004198.pdf
+Section Title: 23. NOTICE OF ACCEPTANCE/CONTRACT DOCUMENTS-A written award (or Acceptance Agreement) mailed or otherwise
+Section Number: 23.
+Section Type: general
+Word Count: 88
+Character Count: 618
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+23. NOTICE OF ACCEPTANCE/CONTRACT DOCUMENTS-A written award (or Acceptance Agreement) mailed or otherwise
+furnished to the successful bidder within the time for acceptance specified in the solicitation shall result in a binding contract.
+The following documents, which are included in the solicitation, are incorporated by reference in and made part of the resulting
+contract:
+a. County of Fairfax Solicitation Form (Cover Sheet) and other documents which may be incorporated by reference, if
+applicable
+b. Acceptance Agreement
+c. General Conditions and Instructions to Bidders
+d. Special Provisions and Specifications

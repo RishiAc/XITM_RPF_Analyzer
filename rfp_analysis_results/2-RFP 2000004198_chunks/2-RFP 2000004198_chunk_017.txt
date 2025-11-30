@@ -1,0 +1,49 @@
+Chunk ID: 2-RFP 2000004198_chunk_017
+Section: 2. Personnel: Full-time and part-time staff, proposed consultants and subcontractors
+Section Number: 2
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: Technical
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: work, personnel, experience
+Word Count: 361
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+2. Personnel: Full-time and part-time staff, proposed consultants and subcontractors
+who may be assigned direct work on this contract should be identified. Information is
+required which will show the specific persons who at this time would compose
+personnel for a task or work group, their specific qualifications, and recent relevant
+experience. Offerors must have direct employment with proposed staff. Brokers or
+third-party staffing agencies submitting on behalf of subcontractors without direct
+delivery oversight will not be considered.
+The Offeror should indicate a corporate head count of current personnel who could
+perform each working title role. For instance, in the case of application development,
+3 Senior Programmers, 4 intermediate programmers, etc.
+All Offeror personnel assigned to work on-site at Fairfax County may be required to
+undergo a criminal history check and sign a non-disclosure agreement. Off-site
+personnel may also be subject to a criminal history check depending on the sensitivity
+of the data involved. Note that arrangements for required criminal history checks must
+be made in advance with appropriate County personnel. The County reserves the
+right to reject any personnel proposed by the offeror for any reason.
+The Offeror(s) must provide IT staff at Senior and Intermediate levels of competency.
+The following qualifications and work experience requirements listed below shall
+apply unless otherwise specified in Exhibit A:
+• Senior Level: relates to very experienced and highly qualified individuals who
+are technically proficient and able to work with minimum supervision. Senior
+Level professionals should have as a minimum five (5) years relevant work
+experience unless otherwise stated and are expected to have appropriate and
+related certification in the associated field of work, and/or equivalent experience
+relevant to the position.
+• Intermediate Level: relates to experienced and qualified individuals who are
+technically proficient and able to work with minimal to moderate supervision.
+Intermediate Level professionals should have a minimum of three (3) years’
+relevant work experience unless otherwise stated.
+The personnel named in the technical proposal will remain assigned to the project
+throughout the period of this contract. No diversion or replacement may be made
+without submission of a resume of the proposed replacement with final approval being
+granted by the County Procurement Agent.

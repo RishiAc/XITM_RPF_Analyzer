@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0246
+Source File: 2-RFP 2000004198.pdf
+Section Title: 48. ADDITIONAL CHARGES-Unless bought F.O.B. "shipping point" and Contractor prepays transportation, no delivery charges
+Section Number: 48.
+Section Type: general
+Word Count: 38
+Character Count: 232
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+shall be added to invoices except when express delivery is authorized and substituted on orders for the method specified in the
+contract. In such cases, difference between freight or mail and express charges may be added to invoice.

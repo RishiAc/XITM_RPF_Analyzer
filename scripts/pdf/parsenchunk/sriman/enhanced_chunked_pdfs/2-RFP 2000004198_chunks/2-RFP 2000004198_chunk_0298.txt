@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0298
+Source File: 2-RFP 2000004198.pdf
+Section Title: e. Compliance with the nonvisual access standards set out this Section is not required if the Board of Supervisors determines
+Section Number: None
+Section Type: contract_clauses
+Word Count: 45
+Character Count: 326
+Line Count: 8
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+that (i) the information technology is not available with nonvisual access because the essential elements of the information
+technology are visual and (ii) nonvisual equivalence is not available.
+APPROVED:
+/S/ Elizabeth D. Teare ____________________
+COUNTY ATTORNEY
+/S/ LeeAnne Pender ________ _____
+COUNTY PURCHASING AGENT
+35

@@ -1,0 +1,19 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_021
+Section: 2. Any exceptions to the terms and conditions of this RFP or the Contract must be clearly identified in
+Section Number: 2
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: Technical
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: exceptions, proposal, terms, conditions
+Word Count: 34
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+2. Any exceptions to the terms and conditions of this RFP or the Contract must be clearly identified in
+the Technical Proposal. All exceptions will be taken into consideration when evaluating an Offeror’s
+proposal.

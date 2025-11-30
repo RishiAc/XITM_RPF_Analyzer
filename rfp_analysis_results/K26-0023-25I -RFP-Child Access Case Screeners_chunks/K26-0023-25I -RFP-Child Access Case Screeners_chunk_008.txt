@@ -1,0 +1,75 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_008
+Section: 5. All Successful Offeror personnel assigned to work at AOC locations may be required to obtain an
+Section Number: 5
+Section Type: scope
+Phase: P2
+Due Dates: 03/25/2025
+Eligibility: None
+Evaluation Type: Cost
+Pricing Model: None
+Risk Level: Medium
+FAR References: None
+Keywords: offeror, successful
+Word Count: 744
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+5. All Successful Offeror personnel assigned to work at AOC locations may be required to obtain an
+AOC security identification badge prior to beginning work, and annually thereafter. The Successful
+Offeror is responsible for any fees that may be incurred for initial issuance of the badge and for any
+replacement.
+6. The security identification badge shall always be displayed while on AOC premises. To verify
+identity, the Successful Offeror personnel shall be prepared to provide photo identification upon
+request by an AOC employee.
+7. Successful Offeror personnel are required to immediately notify the Contract Manager, the
+Administrative Official of the respective department or office or the Contract Manager, if their
+security identification badge is lost or stolen.
+8. The Successful Offeror personnel must notify the Contract Manager, the Administrative Official of
+the respective department or office, within one (1) business day if any personnel have been arrested,
+indicted, served with a criminal summons, named in a peace or protective order, or named as a
+defendant in any civil case. The Successful Offeror personnel are also required to provide regular
+updated information regarding the status of any of these court actions.
+9. The Contract Manager, in conjunction with the Chief of the Office of Security Administration and
+the Procurement Officer, may impose restrictive conditions in response to prior criminal convictions,
+pending criminal charges, or a violation of AOC procedures, including removal from the contract,
+and/or restricted access to AOC locations or systems.
+10. In the event of a security incident or suspected security incident, the Successful Offeror personnel
+shall immediately notify the Contract Manager.
+11. The Successful Offeror personnel shall cooperate fully in all security incident investigations.
+12. During the contract, if necessary, for the delivery of goods and services, the Successful Offeror may
+be provided an AOC asset in the form of a cell phone, laptop, or other electronic device. All AOC
+devices are the property of the AOC and must be returned in working, acceptable condition at the
+contract’s conclusion. If said devices are not in working acceptable conditions, Successful Offeror
+may be responsible for the cost of said device(s). All devices must be regularly updated as specified
+by the manufacturer and JIS and must adhere to all confidentiality guidelines as provided by JIS and
+the AOC.
+13. If the AOC determines that there is cause for the Successful Offeror’s work to be suspended, the
+Successful Offeror shall take the following steps:
+a. Immediately cease to represent itself as providing services to the AOC.
+b. Deliver to the AOC: (a) a report describing the current state of the Deliverables provided by
+the Successful Offeror under this Agreement and any applicable Statements of Work
+outstanding as of the date of termination; (b) all AOC Confidential information in its
+possession or, at AOC’s option, destroy all such AOC Confidential information; and (c) all
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 9
+work product to the AOC within seven (7) business days as of the date of termination. Work
+product includes, but is not limited to, works for hire and materials as described in §29.3.
+c. The Successful Offeror is responsible for all AOC assets (including but not limited to,
+laptops, tablets, computers, cell phones, other portable electronic devices, accessories, and
+peripherals, etc.), that have been provided to the Successful Offeror at the AOC’s cost. All
+AOC issued assets are required to be surrendered to the AOC within five (5) business days
+of the termination of services. Assets will be subject to evaluation and can include normal
+and expected wear and tear but must be functional and operable. Assets that do not meet this
+condition may be subject to additional charge to the Successful Offeror. Successful Offeror
+shall be liable to the AOC for all assets not surrendered.
+T. REQUIRED POLICIES, GUIDELINES, AND METHODOLOGIES
+The Offeror shall be required to comply with all applicable laws, regulations, policies, standards and
+guidelines affecting information technology projects, which may be created or changed periodically by the
+AOC. The Offeror shall adhere to and remain abreast of current, new, and revised laws, regulations, policies,
+standards and guidelines affecting project execution. These may include, but are not limited to:
+1. A System Development Life Cycle (SDLC) methodology and framework based on best practices and
+industry standards, such as the incremental waterfall methodology, and the agile software
+development framework.
+2. The Administrative Office of the Courts Judicial Information Systems Security Policy.
+U. SUBSTITUTION OF KEY PERSONNEL

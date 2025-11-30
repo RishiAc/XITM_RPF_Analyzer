@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0100
+Source File: 2-RFP 2000004198.pdf
+Section Title: Bonfire Support here” under Need Help?. (Note: it takes an average of 16 minutes to an hour
+Section Number: None
+Section Type: general
+Word Count: 16
+Character Count: 105
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+for a response). Therefore, offerors shall take the necessary steps to submit their proposals in
+advance.

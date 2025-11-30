@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0080
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: on the extent to which the AOC determines that the experience and qualifications of the parent are
+Section Number: None
+Section Type: contract_clauses
+Word Count: 35
+Character Count: 204
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+applicable to and shared with the Offeror, any stated intent by the parent to be directly involved in
+the performance of the contract, and the value of the parent’s participation as determined by the
+AOC.

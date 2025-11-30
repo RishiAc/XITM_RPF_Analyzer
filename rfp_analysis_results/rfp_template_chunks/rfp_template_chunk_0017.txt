@@ -1,0 +1,77 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0017
+Source File: rfp_template.pdf
+Section Title: https://energy.gov/eere/femp/downloads/2017-doe-idiq-espc-generic-contract) Section I Contract Clauses
+Section Number: None
+Phase: P1
+Word Count: 437
+Character Count: 3134
+Line Count: 50
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.247-34, FAR 52.228-15, FAR 52.236-9, FAR 52.213-17, FAR 52.253-1, FAR 52.236-8, FAR 52.236-5, FAR 52.232-18, FAR 52.237-2, FAR 52.217-2, FAR 52.236-13, FAR 52.236-11, FAR 52.228-5, FAR 52.204-4, FAR 52.228-16, FAR 52.227-1, FAR 52.236-7, FAR 52.229-3, FAR 52.249-2, FAR 52.242-13, FAR 52.236-3, FAR 52.236-12, FAR 52.236-10, FAR 52.252-2, FAR 52.236-1, FAR 52.249-8, FAR 52.236-6, FAR 52.242-15, FAR 52.236-14, FAR 52.236-15, FAR 52.236-2, FAR 52.212-1, FAR 52.232-11, 52.236-7, 52.252-2, 52.249-2, 52.232-11, 52.236-12, 52.236-9, 52.228-16, 52.249-8, 52.236-10, 52.228-15, 52.227-1, 52.228-5, 52.242-13, 52.236-14, 52.204-4, 52.229-3, 52.213-17, 52.236-2, 52.253-1, 52.247-34, 52.236-13, 52.237-2, 52.212-1, 52.242-15, 52.217-2, 52.236-11, 52.236-1, 52.236-6, 52.236-5, 52.236-8, 52.236-3, 52.232-18, 52.236-15
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: 1984, clauses, construction, contract, section, contracts, items, clause, agency, incorporated
+
+=== CHUNK CONTENT ===
+https://energy.gov/eere/femp/downloads/2017-doe-idiq-espc-generic-contract) Section I Contract Clauses
+should be reviewed for possible inclusion. Keep in mind that DOE’s contract is an IDIQ and does not utilize
+FAR Part 12 Commercial Items.
+The Contracting Officer should decide what Buy American Act/Trade Agreement Compliant clause applies, if
+any (taking into account Executive Orders, agency and other applicable policies), as well as the applicable
+labor clauses.
+Clauses that apply only to the construction phase are included towards the bottom of the section.]
+I.1 FAR Clauses Incorporated by Reference (FAR 52.252-2)(FEB 1998)
+NOTICE: The following contract clauses pertinent to this section are hereby incorporated by reference, with
+the same force and effect as if they were given in full text. Upon request, the CO will make their full text
+available. Also, the full text of a clause may be accessed electronically at this address:
+http://farsite.hill.af.mil/
+https://www.acquisition.gov/?q=browsefar
+FAR 52.204-4 Printed or Copied Double-Sided on Recycled Paper
+FAR 52.212-1 Instructions to Offerors -- Commercial Items (Apr 2014)
+FAR 52.213-17 Affirmative procurement of EPA-designated items in service and construction contracts
+FAR 52.217-2 Cancellation under Multiyear Contracts
+FAR 52.227-1 Authorization and Consent
+FAR 52.228-5 Insurance - Work on a Government Installation
+[Agency to determine which bond clause to include. Modify bond section H.7 if needed.]
+FAR 52.228-15 Performance and Payment Bonds—Construction (Oct 2010)
+FAR 52.228-16 Performance and Payment Bonds--Other Than Construction (Nov 2006)
+FAR 52.229-3 Federal, State and Local Taxes
+FAR 52.232-11 Extras
+FAR 52.232-18 Availability of Funds
+Page 27 of 38
+FAR 52.247-34 F.O.B Destination
+FAR 52.249-2 Termination for Convenience of the Government (Fixed-Price) (APR 2012)
+FAR 52.249-8 Default (Fixed-Price Supply & Service)
+FAR 52.253-1 Computer Generated Form
+[Agency to consider the following clauses, to be incorporated by reference, that may apply to the initial
+construction work and/or Operations and Maintenance.]
+FAR 52.236-1 Performance of Work by the Contractor. (APR 1984)
+FAR 52.236-2 Differing Site Conditions. (APR 1984)
+FAR 52.236-3 Site Investigation and Conditions Affecting the Work. (APR 1984)
+FAR 52.236-5 Material and Workmanship. (APR 1984)
+FAR 52.236-6 Superintendence by the Contractor. (APR 1984)
+FAR 52.236-7 Permits and Responsibilities. (NOV 1991)
+FAR 52.236-8 Other Contracts. (APR 1984)
+FAR 52.236-9 Protection of Existing Vegetation, Structures, Equipment, Utilities, and Improvements. (APR
+1984)
+FAR 52.236-10 Operations and Storage Areas. (APR 1984)
+FAR 52.236-11 Use and Possession Prior to Completion. (APR 1984)
+FAR 52.236-12 Cleaning Up. (APR 1984)
+FAR 52.236-13 Accident Prevention. (NOV 1991) and Alternate I (NOV 1991)
+FAR 52.236-14 Availability and Use of Utility Services. (APR 1984)
+FAR 52.236-15 Schedules for Construction Contracts. (APR 1984)
+FAR 52.237-2 Protection of Government Buildings, Equipment, and Vegetation
+FAR 52.242-13 Bankruptcy
+FAR 52.242-15 Alt I Stop-Work Order AUG 1989 - Alternate I

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0006
+Source File: 2-RFP 2000004198.pdf
+Section Title: Offerors submitting a response must meet the following minimum qualifications. Failure to meet the
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 12
+Character Count: 109
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+minimum pre-qualification requirements will result in the Offeror’s proposal being determined
+non-responsive.

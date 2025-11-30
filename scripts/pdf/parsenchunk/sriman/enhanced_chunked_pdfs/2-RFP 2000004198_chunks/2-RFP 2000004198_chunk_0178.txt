@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0178
+Source File: 2-RFP 2000004198.pdf
+Section Title: 30.2. It is the Contractors responsibility to notify the public body(s) of the availability of the contract(s).
+Section Number: 30.2.
+Section Type: general
+Word Count: 5
+Character Count: 36
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+21
+RFP 2000004198
+SPECIAL PROVISIONS

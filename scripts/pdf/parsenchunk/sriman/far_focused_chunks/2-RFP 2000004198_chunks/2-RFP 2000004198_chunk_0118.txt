@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0118
+Source File: 2-RFP 2000004198.pdf
+Section Title: 26. INSPECTION-ACCEPTANCE- Acceptance shall occur only after receipt and inspection provided such inspection, as
+Section Number: 26.
+Section Type: general
+Word Count: 128
+Character Count: 872
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+26. INSPECTION-ACCEPTANCE- Acceptance shall occur only after receipt and inspection provided such inspection, as
+appropriate, is accomplished within a reasonable time. The County reserves the right to conduct any test/inspection it may deem
+advisable to assure goods and services conform to the specifications.
+27. DEFINITE BID QUANTITIES-Where definite quantities are specifically stated, acceptance will bind the County to order quantities
+specified and to pay for, at contract prices, all such supplies or services delivered that meet specifications and conditions of the
+contract. However, the County will not be required to accept delivery of any balances unordered, as of the contract expiration
+date, unless the Contractor furnished the Purchasing Agent with a statement of unordered balances not later than ten (10) days
+after the termination date of the contract.

@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0069
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. The statements and interpretations contained in responses to any questions, whether responded to
+Section Number: 4.
+Section Type: scope_of_work
+Word Count: 23
+Character Count: 123
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+verbally or in writing, are not binding on the AOC unless issued in writing as an addendum.
+F. PROPOSAL CLOSING DATE & TIME

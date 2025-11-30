@@ -1,0 +1,23 @@
+Chunk ID: 2-RFP 2000004198_chunk_044
+Section: 29. SUBCONTRACTING:
+Section Number: 29
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: Small Business
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: owned, business, small, subcontractors, minority
+Word Count: 67
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+29. SUBCONTRACTING:
+29.1. If one or more subcontractors are required, the contractor is encouraged to utilize small,
+minority-owned, and women-owned business enterprises. For assistance in finding
+subcontractors, contact the Virginia Department of Small Business and Supplier Diversity
+https://www.sbsd.virginia.gov; local chambers of commerce and other business organizations.
+by Fairfax County, as a small, minority-owned, and/or woman-owned business, and the type
+and dollar value of the subcontracted goods/services provided.

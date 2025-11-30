@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0084
+Source File: 2-RFP 2000004198.pdf
+Section Title: 22.2. No services for which an additional cost or fee will be charged by the Contractor shall be
+Section Number: 22.2.
+Section Type: budget_pricing
+Word Count: 101
+Character Count: 603
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+22.2. No services for which an additional cost or fee will be charged by the Contractor shall be
+furnished without the prior written authorization of the Fairfax County Procurement Agent.
+23. DELAYS AND SUSPENSIONS:
+23.1. The County may direct the Contractor, in writing, to suspend, delay, or interrupt all or any part
+of the work of this contract for the period of time deemed appropriate for the convenience of
+the County. The County will extend the Contractor's time of completion by a period of time that
+in the discretion of the County Purchasing Agent is reasonably suited for completion of work.

@@ -1,0 +1,74 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0004
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: Attachment N – Bidder/Offeror Resource Experience
+Section Number: None
+Phase: P1
+Word Count: 514
+Character Count: 3454
+Line Count: 47
+
+=== KEY DATES ===
+Due Dates: 03/25/2025
+
+=== ELIGIBILITY ===
+Eligibility Types: SMALL_BUSINESS, VETERAN
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contract, offeror, procurement, solicitation, services, judiciary, business, attachment, child, courts
+
+=== CHUNK CONTENT ===
+Attachment N – Bidder/Offeror Resource Experience
+Attachment O – Resource Acknowledgment
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 4
+SECTION I. GENERAL INFORMATION
+A. SUMMARY STATEMENT
+The Administrative Office of the Courts (AOC) issues this Request for Proposal (RFP) on behalf of the
+Department of Juvenile and Family Services to obtain services to screen child access cases for intimate
+partner violence, domestic violence, and/or child abuse to assist courts in determining whether cases are
+appropriate for mediation pursuant to Md. Rule 9-205.
+B. ABBREVIATIONS AND DEFINITIONS
+For this RFP, the following abbreviations or terms have the meanings indicated below:
+1. AOC – Administrative Office of the Courts
+2. Contract – A formal, written agreement entered into by the Judiciary for the provision of materials,
+supplies, and/or services. A Contract sample is attached to this solicitation as Attachment A.
+3. Contract Manager – The AOC representative that serves as the technical manager for the resulting
+contract. The Contract Manager monitors the daily activities of the contract and provides technical
+guidance to the Successful Offeror.
+4. Diversity & Outreach Programs – Judiciary Program established to encourage and increase
+participation in Judiciary procurement by underrepresented or disadvantaged groups. The Program
+includes Minority Business Enterprises (MBE) and Veteran-owned Small Business Enterprises
+(VSBE).
+5. eMMA – eMaryland Marketplace Advantage online procurement platform used to connect the
+supplier community with contracting opportunities from with the state, county, and local government
+entities.
+6. Extraordinary Personal Event – Leave under the Family Medical Leave Act; an incapacitating injury
+or incapacitating illness; or, other circumstances that in the sole discretion of the AOC warrant an
+extended leave of absence such as extended jury duty, or extended military services that precludes
+the individual from performing their job duties under the contract.
+7. Key Personnel – Offeror personnel or subcontractor personnel who are to be assigned to this contract,
+as identified in Section IV of this RFP, if the Offeror receives award.
+8. Local Time – Time in the Eastern Standard Time Zone.
+9. MBE – Minority Business Enterprise means any legal entity, other than a joint venture, organized to
+engage in commercial transactions, that is at least 51 percent owned and controlled by one or more
+individuals who are in a minority group (African American, Native American, Hispanic, women, or
+the physically or mentally disabled) that is socially and economically disadvantaged, and managed
+and operated by one or more of the socially and economically disadvantaged individuals who own
+it, and is so certified by the Maryland Department of Transportation.
+10. Offeror – An entity that submits a proposal in response to this solicitation.
+11. Procurement Officer – The AOC representative responsible for this solicitation, for the determination
+of contract scope issues, and the only AOC representative who can authorize changes to the contract.
+12. Procurement Portals – Strategic sourcing software allowing the Judiciary to receive and evaluate bids
+and proposal electronically.
+13. RFP – Request for Proposals
+14. Successful Offeror – The awarded Offeror.
+15. VSBE - Veteran-owned Small Business Enterprise means any legal entity that meets the

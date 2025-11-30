@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0236
+Source File: 2-RFP 2000004198.pdf
+Section Title: with the requirements set forth in the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for
+Section Number: None
+Section Type: technical_requirements
+Word Count: 11
+Character Count: 67
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Federal Awards, as they pertain to small and minority business use.

@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0110
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Offerors shall submit their Technical and Financial Proposal in accordance with the required and
+Section Number: 1.
+Section Type: technical_requirements
+Word Count: 45
+Character Count: 295
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+optional submittals as defined in Section IV.B & Section IV.C of this RFP, and the Procurement
+Portal. By submitting a response in the Procurement Portal, the submitting individual certifies they
+are authorized to bind the Offeror to the requirements of this Solicitation, including all addenda.

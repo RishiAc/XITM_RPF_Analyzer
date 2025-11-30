@@ -1,0 +1,67 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0002
+Source File: 2-RFP 2000004198.pdf
+Section Title: 2.2. All firms are required to have been in business for a minimum of five (5) years as of the date
+Section Number: 2.2.
+Section Type: general
+Word Count: 582
+Character Count: 3817
+Line Count: 50
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+2.2. All firms are required to have been in business for a minimum of five (5) years as of the date
+of submission of the response to the RFP.
+2.3. Federal funds may be expended under these contracts; therefore, the offeror(s) must agree by
+signing and accepting the federal terms and conditions without exceptions (ref. Attachment F,
+G, and H).
+2.4. Offerors are required to provide a signed and completed IT Services Provider
+CONSULTANT/CONTRACTOR AGREEMENT (Attachment D) and FCPS Vendor Code of
+Conduct and Expectations (Attachment E).
+2.5. Offerors are required to have existing staff in each working title for the IT Staff Augmentation
+labor category or categories the offeror is submitting a proposal(s) to. Verification will be
+demonstrated through the submission of resumes or bios for their current employee and should
+indicate education, background, and recent relevant experience in the respective
+category/field. Resumes or bios must be of existing staff at the responding firm and resumes
+or bios should indicate that they are currently employed by the offeror. For each working title,
+offeror must provide at least one resume or bio of current professionals currently employed by
+the organization who have been placed on similar engagements in the past three years. Include
+certifications (e.g., as with cybersecurity CISSP, CISM, CEH, OSCP, or equivalents) and detail
+their hands-on project roles.)
+1
+RFP 2000004198
+SPECIAL PROVISIONS
+3. CONTRACT PERIOD AND RENEWAL:
+3.1. The period of the contract shall be a term of five (5) years. This contract may be renewed for
+up to an additional five (5) years, one year at a time or any combination thereof, as mutually
+agreed upon. Automatic contract renewals are prohibited.
+3.2. The obligation of the County to pay compensation due the contractor under the contract or any
+other payment obligations under any contract awarded pursuant to this Request for Proposal
+is subject to appropriations by the Fairfax County Board of Supervisors to satisfy payment of
+such obligations. The County’s obligations to make payments during subsequent fiscal years
+are dependent upon the same action. If such an appropriation is not made for any fiscal year,
+the contract shall terminate effective at the end of the fiscal year for which funds were
+appropriated and the County will not be obligated to make any payments under the contract
+beyond the amount appropriated for payment obligations under the contract. The County will
+provide the contractor with written notice of non-appropriation of funds within thirty (30)
+calendar days after action is completed by the Board of Supervisors. However, the County’s
+failure to provide such notice shall not extend the contract into a fiscal year in which sufficient
+funds have not been appropriated.
+4. BACKGROUND:
+4.1. Fairfax County Government (“FCG”): Fairfax County, Virginia is located in the northeast
+corner of Virginia and has an area of approximately 395 square miles with a diverse population
+of over 1,100,000 residents. FCG has over 50 departments located in over 200 facilities
+throughout the County. Currently, FCG facilities include the main government center campus,
+twenty-five (25) Public Libraries, twenty-three (23) Police locations, forty-six (46) Fire and
+Rescue locations, and in addition many more community, health, human services, and park
+locations. FCG’s Department of Information Technology (“DIT”) manages and implements all
+aspects of information technology solutions and supporting infrastructure that enable county
+agencies to deliver services and information to citizens and the community and implement
+operational efficiencies. DIT establishes standards and architecture for the information and
+communications systems that are implemented in County government agencies throughout the
+County.

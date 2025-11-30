@@ -1,0 +1,65 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0025
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18. UNBALANCED BIDS—A Bid shall be mathematically unbalanced if the Bid contains unit pricing that does not reflect reasonable
+Section Number: None
+Phase: P1
+Word Count: 587
+Character Count: 3769
+Line Count: 38
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Award Basis
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: bidder, shall, county, specifications, solicitation, unbalanced, award, brand, product, bids
+
+=== CHUNK CONTENT ===
+18. UNBALANCED BIDS—A Bid shall be mathematically unbalanced if the Bid contains unit pricing that does not reflect reasonable
+25
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+costs (including actual labor and material cost, overhead and profit) for the performance of the bid item(s) in question. A Bid shall
+be materially unbalanced if there is a reasonable doubt that award of the mathematically unbalanced Bid will result in the lowest
+ultimate cost to the County. A Bid that is, in the sole discretion of the County Purchasing Agent, both mathematically and
+materially unbalanced, may be rejected as non-responsive.
+SPECIFICATIONS
+19. CLARIFICATION OF TERMS—If any prospective bidder has questions about the specifications or other solicitation documents,
+the prospective bidder should contact the contract specialist whose name appears on the face of the solicitation no later than
+five working dates before the due date. Any revisions to the solicitation will be made only be addendum issued by the contract
+specialist.
+20. BRAND NAME OR EQUAL ITEMS-Unless otherwise provided in the Invitation for Bid, the name of a certain brand, make or
+manufacturer does not restrict bidders to the specific brand, make or manufacturer named; it conveys the general style, type,
+character, and quality of the article desired. Any article that the County in its sole discretion determines to be the equivalent of
+that specified, considering quality, workmanship, economy of operation, and suitability for the purpose intended, shall be
+accepted. The bidder is responsible for clearly and specifically identifying the product being offered and providing sufficient
+descriptive literature, catalog cuts and technical detail to enable the County to determine if the product offered meets the
+requirements of the solicitation. This is required even if offering the exact brand, make, or manufacturer specified. Failure to
+furnish adequate data for evaluation purposes may result in declaring a bid nonresponsive. Unless the bidder clearly indicates
+in its bid that the product is an equivalent product, such bid will be considered to offer the brand name product referenced in the
+solicitation.
+21. SPECIFICATIONS-When a solicitation contains a specification that states no substitutes, no deviation therefrom will be permitted
+and the bidder will be required to furnish articles in conformity with that specification.
+The bidder must abide by and comply with the true intent of the specifications and not take advantage of any unintentional error
+or omission, but shall fully complete every part as the true intent and meaning of the specifications and drawings. Whenever the
+mention is made of any articles, material, or workmanship to be in accordance with laws, ordinances, building codes, underwriter's
+codes, A.S.T.M. regulations or similar expressions, the requirements of these laws, ordinances, etc., shall be construed as to the
+minimum requirements of these specifications.
+AWARD
+22. AWARD OR REJECTION OF BIDS-The Purchasing Agent shall award the contract to the lowest responsive and responsible
+bidder complying with all provisions of the IFB, provided the bid price is reasonable and it is in the best interest of the County to
+accept it. Awards made in response to a RFP will be made to the highest qualified offeror whose proposal is determined, in
+writing, to be the most advantageous to the County taking into consideration the evaluation factors set forth in the RFP. The
+Purchasing Agent reserves the right to award a contract by individual items, in the aggregate, or in combination thereof, or to
+reject any or all bids and to waive any informality in bids received whenever such rejection or waiver is in the best interest of the

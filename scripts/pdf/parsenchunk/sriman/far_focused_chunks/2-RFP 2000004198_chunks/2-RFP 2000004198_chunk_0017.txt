@@ -1,0 +1,29 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0017
+Source File: 2-RFP 2000004198.pdf
+Section Title: 5.2. County Network Environment:
+Section Number: 5.2.
+Section Type: general
+Word Count: 89
+Character Count: 719
+Line Count: 14
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+5.2. County Network Environment:
+5.2.1. The County’s technology architecture is a tactical asset that defines technology
+components necessary to support business operations and the infrastructure
+required for implementation of technologies in response to the changing needs of
+government business and industry evolution. It is a multi-layered architecture that
+includes:
+• Application and Data Architectures,
+• Platform Architecture,
+• Network Architecture,
+• Internet Architecture, and
+• Security Architecture.
+5.2.2. More information about the County’s enterprise architecture is available in the
+Information Technology Plan, published by the County DIT, at
+https://www.fairfaxcounty.gov/informationtechnology/it-plan

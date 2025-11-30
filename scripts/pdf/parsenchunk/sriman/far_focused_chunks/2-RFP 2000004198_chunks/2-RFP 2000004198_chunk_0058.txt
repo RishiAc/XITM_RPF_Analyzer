@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0058
+Source File: 2-RFP 2000004198.pdf
+Section Title: 15.5. Unnecessarily elaborate brochures of other presentations beyond that sufficient to present a
+Section Number: 15.5.
+Section Type: general
+Word Count: 93
+Character Count: 579
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+15.5. Unnecessarily elaborate brochures of other presentations beyond that sufficient to present a
+complete and effective proposal is not desired.
+15.6. By executing the cover sheet (DPMM32), Offeror acknowledges that they have read this
+Request for Proposal, understand it, and agree to be bound by its terms and conditions.
+16. ADDENDA:
+16.1. Offerors are reminded that changes to the proposal, in the form of addenda, are often issued
+between the issue date and within three (3) days before the due date. All addenda shall be
+signed and submitted as instructed on the addenda.

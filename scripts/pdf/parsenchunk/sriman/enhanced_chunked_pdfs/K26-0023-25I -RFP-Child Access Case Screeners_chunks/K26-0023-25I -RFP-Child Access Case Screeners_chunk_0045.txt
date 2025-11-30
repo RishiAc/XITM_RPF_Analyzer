@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0045
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 9. The Contract Manager, in conjunction with the Chief of the Office of Security Administration and
+Section Number: 9.
+Section Type: security_compliance
+Word Count: 35
+Character Count: 252
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+the Procurement Officer, may impose restrictive conditions in response to prior criminal convictions,
+pending criminal charges, or a violation of AOC procedures, including removal from the contract,
+and/or restricted access to AOC locations or systems.

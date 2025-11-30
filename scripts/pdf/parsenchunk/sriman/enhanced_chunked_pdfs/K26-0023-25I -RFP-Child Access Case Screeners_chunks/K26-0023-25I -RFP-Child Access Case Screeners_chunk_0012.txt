@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0012
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. Diversity & Outreach Programs – Judiciary Program established to encourage and increase
+Section Number: 4.
+Section Type: general
+Word Count: 49
+Character Count: 393
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+participation in Judiciary procurement by underrepresented or disadvantaged groups. The Program
+includes Minority Business Enterprises (MBE) and Veteran-owned Small Business Enterprises
+(VSBE).
+5. eMMA – eMaryland Marketplace Advantage online procurement platform used to connect the
+supplier community with contracting opportunities from with the state, county, and local government
+entities.

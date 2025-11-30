@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0052
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. A System Development Life Cycle (SDLC) methodology and framework based on best practices and
+Section Number: 1.
+Section Type: general
+Word Count: 14
+Character Count: 112
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+industry standards, such as the incremental waterfall methodology, and the agile software
+development framework.

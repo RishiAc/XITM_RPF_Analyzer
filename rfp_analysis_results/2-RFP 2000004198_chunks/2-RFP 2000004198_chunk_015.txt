@@ -1,0 +1,17 @@
+Chunk ID: 2-RFP 2000004198_chunk_015
+Section: 4. Statement of Qualifications: The Statement of Qualifications must include the following:
+Section Number: 4
+Section Type: eligibility
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: statement, qualifications, include, following
+Word Count: 12
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+4. Statement of Qualifications: The Statement of Qualifications must include the following:

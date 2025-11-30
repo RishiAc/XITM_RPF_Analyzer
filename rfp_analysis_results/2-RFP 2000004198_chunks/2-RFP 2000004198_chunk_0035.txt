@@ -1,0 +1,59 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0035
+Source File: 2-RFP 2000004198.pdf
+Section Title: a. failure without good cause to perform in accordance with the specifications or within the time limit provided in the
+Section Number: None
+Phase: P2
+Word Count: 516
+Character Count: 3092
+Line Count: 32
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: shall, bidder, county, fairfax, action, withdrawal, decision, accordance, contractor, purchasing
+
+=== CHUNK CONTENT ===
+a. failure without good cause to perform in accordance with the specifications or within the time limit provided in the
+contract; or
+b. a recent record of failure to perform or of unsatisfactory performance in accordance with the terms of one or more
+32
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+contracts; provided, that failure to perform or unsatisfactory performance caused by acts beyond the control of the
+Contractor shall not be considered to be a basis for suspension or debarment;
+5. Any other cause the Purchasing Agent determines to be so serious and compelling as to affect responsibility as a Contractor,
+such as debarment by another governmental entity for any cause listed herein, or because of prior reprimands;
+6. The contractor has abandoned performance, been terminated for default on a Fairfax County project, or has taken any actions
+that inure to the detriment of Fairfax County or a Fairfax County project ;
+7. The Contractor is in default on any surety bond or written guarantee on which Fairfax County is an obligee.
+c. If, upon appeal, it is determined that the action taken by the Purchasing Agent was arbitrary or capricious, or not in accordance
+with the Constitution of Virginia, statutes or regulations, the sole relief available to the person or firm shall be restoration of
+eligibility. The person or firm may not institute legal action until all statutory requirements have been met.
+65. APPEAL OF DENIAL OF WITHDRAWAL OF BID-
+a. A decision denying withdrawal of a bid submitted by a bidder or offeror shall be final and conclusive unless the bidder appeals
+the decision within ten (10) days after receipt of the decision by instituting legal action as provided in the Code of Virginia.
+The bidder or offeror may not institute legal action until all statutory requirements have been met.
+b. If no bid bond was posted, a bidder refused withdrawal of bid under the provisions of Article 2, Section 5.A.8, of the Fairfax
+County Purchasing Resolution, prior to appealing, shall deliver to the County a certified check or cash bond in the amount of
+the difference between the bid sought to be withdrawn and the next low bid. Such security shall be released only upon a
+final determination that the bidder was entitled to withdraw the bid.
+c. If, upon appeal, it is determined that the decision refusing withdrawal of the bid was not an honest exercise of discretion, but
+rather was arbitrary or capricious or not in accordance with the Constitution of Virginia, applicable state law or regulation, or
+the terms or conditions of the Invitation to Bid, the sole relief shall be withdrawal of the bid.
+66. APPEAL OF DETERMINATION OF NONRESPONSIBILITY-
+a. Any bidder who, despite being the apparent low bidder, is determined not to be a responsible bidder for a particular County
+contract shall be notified in writing by the Purchasing Agent. Such notice shall state the basis for the determination, which
+shall be final unless the bidder appeals the decision within ten (10) days of receipt of the notice by instituting legal action as

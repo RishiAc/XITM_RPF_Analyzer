@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0017
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 12. Procurement Portals – Strategic sourcing software allowing the Judiciary to receive and evaluate bids
+Section Number: 12.
+Section Type: general
+Word Count: 3
+Character Count: 28
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+and proposal electronically.

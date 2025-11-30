@@ -1,0 +1,35 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0041
+Source File: 2-RFP 2000004198.pdf
+Section Title: or vendors without demonstrable delivery experience will be disqualified. Responding
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 184
+Character Count: 1229
+Line Count: 20
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+or vendors without demonstrable delivery experience will be disqualified. Responding
+firms must have existing staff in the respective labor category who would be available
+to fulfill Fairfax County needs. Information about experience should include direct
+experience with specific subject matters. The Offeror’s record should reflect from the
+date of this RFP a minimum of five (5) years of experience in work of a similar nature
+and magnitude to that being proposed. Relevant experience must be associated with
+contracts or services not more than five years prior to the date of this RFP. Offeror
+must have performed staff augmentation engagements in the submitted category with
+at least three distinct clients within the past five years. Each contract must have lasted
+a minimum of three years and involved mid-to-senior level professionals like those
+described in the working titles. Offeror must submit three (3) case studies
+demonstrating past staff augmentation engagements. Each case study should
+include:
+a. Federal, State, Local Government client name
+b. Project scope, roles provided, and duration
+c. Key outcomes and performance metrics
+d. Contact information for client references
+11
+RFP 2000004198
+SPECIAL PROVISIONS

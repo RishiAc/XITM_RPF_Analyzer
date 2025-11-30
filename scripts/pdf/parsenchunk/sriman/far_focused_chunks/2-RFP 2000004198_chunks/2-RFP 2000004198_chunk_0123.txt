@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0123
+Source File: 2-RFP 2000004198.pdf
+Section Title: 34. FUNDING- The obligation of the County to pay compensation due the Contractor under the contract or any other payment
+Section Number: 34.
+Section Type: general
+Word Count: 166
+Character Count: 1051
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+34. FUNDING- The obligation of the County to pay compensation due the Contractor under the contract or any other payment
+obligations under any contract awarded pursuant to this contract is subject to appropriations by the Fairfax County Board of
+Supervisors to satisfy payment of such obligations. The County’s obligations to make payments during subsequent fiscal years
+are dependent upon the same action. If such an appropriation is not made for any fiscal year, the contract shall terminate
+effective at the end of the fiscal year for which funds were appropriated and the County will not be obligated to make any payments
+under the contract beyond the amount appropriated for payment obligations under the contract. The County will provide the
+Contractor with written notice of non-appropriation of funds within thirty (30) calendar days after action is completed by the Board
+of Supervisors. However, the County’s failure to provide such notice will not extend the contract into a fiscal year in which
+sufficient funds have not been appropriated.

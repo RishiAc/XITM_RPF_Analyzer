@@ -1,0 +1,54 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0006
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. Before an entity can do business in the State of Maryland, it must be registered with the Department
+Section Number: 1.
+Section Type: general
+Word Count: 464
+Character Count: 3102
+Line Count: 37
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+1. Before an entity can do business in the State of Maryland, it must be registered with the Department
+of Assessments and Taxation (SDAT), 123 Market Place, Baltimore, Maryland 21202. For
+registration information, visit: https://www.egov.maryland.gov/businessexpress
+2. It is strongly recommended that any potential Offerors complete the registration prior to the closing
+date for receipt of proposals. An Offeror’s failure to complete the registration with SDAT may
+disqualify an Offeror from final consideration and recommendation for Contract award.
+L. FALSE STATEMENTS
+Offerors are advised that in connection with a procurement contract, a person may not willfully: Falsify,
+conceal, or suppress a material fact by any scheme or device; make a false or fraudulent statement or
+representation of a material fact; use a false writing or document that contains a false or fraudulent statement
+or entry of a material fact; or, aid or conspire with another person to commit any of the aforementioned acts.
+M. PRESS RELEASES
+The Successful Offeror shall issue no press release to any publication, including newspapers and social media
+outlets, regarding work being conducted under the resulting contract from this RFP, or utilize the Maryland
+Judiciary brand mark in any marketing materials, without the express written consent of the AOC.
+N. PAYMENTS TO SUCCESSFUL OFFEROR
+1. By submitting a response to this solicitation, the Offeror agrees to accept payments by electronic
+funds transfer unless the State Comptroller’s Office grants an exemption. The selected Offeror shall
+register using the COT/GAD X-10 Vendor Electronic Funds (EFT) Registration Request Form. Any
+request for exemption must be submitted to the State Comptroller’s Office for approval at the address
+specified on the COT/GAD X-10 form and must include the business identification information as
+stated on the form and include the reason for the exemption. The COT/GAC X-10 form can be
+downloaded at:
+https://www.marylandtaxes.gov/forms/state-accounting/static-files/GADX10Form.pdf
+2. Payments to the Successful Offeror shall be made not later than thirty (30) days after the acceptance
+of deliverables, and receipt of a proper invoice from the Offeror. Any charges of interest or the like
+for late payment are prohibited.
+O. NON-DISCLOSURE AGREEMENT
+All Offerors are advised that if a contract is awarded as a result of this RFP, the Successful Offeror shall be
+required to complete a Non-Disclosure Agreement. A sample of this Agreement is included for informational
+purposes as Attachment F of this RFP. This signed Agreement must be provided with the Successful Offeror’s
+signed Contract.
+P. DAMAGE TO STATE AND PERSONAL PROPERTY
+1. The Offeror, their employees, subcontractors, and agents shall be held directly responsible to repair,
+replace, or restore to its original condition, to the satisfaction of the AOC, curbs, roadway surfaces,
+wheel stops, shrubbery, trees, buildings, bollards, gates, light pole, sign poles or any other State-
+owned property which is damaged by the actions of the above-mentioned representatives.

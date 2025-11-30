@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0132
+Source File: 2-RFP 2000004198.pdf
+Section Title: 46. COMPLIANCE-Delivery must be made as ordered and in accordance with the contract or as directed by the Purchasing Agent
+Section Number: 46.
+Section Type: security_compliance
+Word Count: 164
+Character Count: 1017
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+46. COMPLIANCE-Delivery must be made as ordered and in accordance with the contract or as directed by the Purchasing Agent
+when not in conflict with the contract. The decision of the Purchasing Agent as to reasonable compliance with delivery terms
+shall be final. If the Contractor claims the delay in receipt of goods was caused by the County, the Contractor must provide
+evidence satisfactory to the Purchasing Agent supporting the Contractor’s claim. Any request for extension of delivery time from
+that specified in the contract must be approved by the Purchasing Agent, such extension applying only to the particular item or
+shipment affected. If the Contractor is delayed by the County, there shall be added to the time of completion a time equal to the
+period of such delay caused by the County. However, the Contractor shall not be entitled to claim damages or extra
+compensation for such delay or suspension. These conditions may vary for construction contracts. See contract for the individual
+instructions.

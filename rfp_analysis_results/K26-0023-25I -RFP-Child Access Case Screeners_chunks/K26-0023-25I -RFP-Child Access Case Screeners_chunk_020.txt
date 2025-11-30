@@ -1,0 +1,26 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_020
+Section: 5. The Successful Offeror will be required to follow all current Judiciary protocols referencing
+Section Number: 5
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Medium
+FAR References: None
+Keywords: judiciary, offeror, including, contract
+Word Count: 126
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+5. The Successful Offeror will be required to follow all current Judiciary protocols referencing
+pandemic flu or other infectious diseases including, but not limited to, proof of vaccination,
+producing negative COVID tests, completing/passing an initial screening questionnaire, non-contact
+temperature taking, the wearing of personal protective equipment (e.g., face mask), and practicing
+appropriate social distancing. Failure to comply with any of the Judiciary’s protocol could result in
+being denied entry into Judiciary workspace, and mitigation up to and including contract termination.
+L. ACCEPTANCE OF TERMS & CONDITIONS
+1. By submitting a proposal in response to this RFP, the Offeror, if selected for award, shall be deemed
+to have accepted the terms and conditions of this RFP and the Standard Contract Agreement Sample
+attached hereto as Attachment A.

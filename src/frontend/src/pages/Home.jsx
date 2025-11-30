@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import "./Home.css";
 import Navbar from "../components/Navbar";
 import { uploadPDF } from "../api/uploadPDF"; // adjust path if needed

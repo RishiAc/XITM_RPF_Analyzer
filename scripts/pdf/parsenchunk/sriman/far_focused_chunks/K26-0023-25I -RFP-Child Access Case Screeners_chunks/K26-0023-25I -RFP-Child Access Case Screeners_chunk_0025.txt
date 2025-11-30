@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0025
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 4. All Successful Offeror personnel working on AOC premises, property, systems or projects, contracts,
+Section Number: 4.
+Section Type: general
+Word Count: 117
+Character Count: 739
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+4. All Successful Offeror personnel working on AOC premises, property, systems or projects, contracts,
+or who have access to AOC or State criminal data or systems, may be required to obtain a Criminal
+Justice Information System (CJIS) State and Federal criminal background check prior to beginning
+work. The AOC reserves the right to refuse to allow any Successful Offeror personnel to begin work
+based upon criminal records.
+5. All Successful Offeror personnel assigned to work at AOC locations may be required to obtain an
+AOC security identification badge prior to beginning work, and annually thereafter. The Successful
+Offeror is responsible for any fees that may be incurred for initial issuance of the badge and for any
+replacement.

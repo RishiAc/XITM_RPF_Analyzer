@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0113
+Source File: 2-RFP 2000004198.pdf
+Section Title: 22. AWARD OR REJECTION OF BIDS-The Purchasing Agent shall award the contract to the lowest responsive and responsible
+Section Number: 22.
+Section Type: general
+Word Count: 225
+Character Count: 1337
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+22. AWARD OR REJECTION OF BIDS-The Purchasing Agent shall award the contract to the lowest responsive and responsible
+bidder complying with all provisions of the IFB, provided the bid price is reasonable and it is in the best interest of the County to
+accept it. Awards made in response to a RFP will be made to the highest qualified offeror whose proposal is determined, in
+writing, to be the most advantageous to the County taking into consideration the evaluation factors set forth in the RFP. The
+Purchasing Agent reserves the right to award a contract by individual items, in the aggregate, or in combination thereof, or to
+reject any or all bids and to waive any informality in bids received whenever such rejection or waiver is in the best interest of the
+County. Award may be made to as many bidders as deemed necessary to fulfill the anticipated requirements of Fairfax County.
+The Purchasing Agent also reserves the right to reject the bid of a bidder deemed to be a non-responsible bidder.
+In determining the responsibility of a bidder, the following criteria will be considered:
+a. The ability, capacity and skill of the bidder to perform the contract or provide the service required;
+b. Whether the bidder can perform the contract or provide the service promptly, or within the time specified, without delay or
+interference;

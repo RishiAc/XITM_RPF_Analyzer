@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0006
+Source File: 2-RFP 2000004198.pdf
+Section Title: 2.5. Offerors are required to have existing staff in each working title for the IT Staff Augmentation
+Section Number: 2.5.
+Section Type: general
+Word Count: 116
+Character Count: 748
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+2.5. Offerors are required to have existing staff in each working title for the IT Staff Augmentation
+labor category or categories the offeror is submitting a proposal(s) to. Verification will be
+demonstrated through the submission of resumes or bios for their current employee and should
+indicate education, background, and recent relevant experience in the respective
+category/field. Resumes or bios must be of existing staff at the responding firm and resumes
+or bios should indicate that they are currently employed by the offeror. For each working title,
+offeror must provide at least one resume or bio of current professionals currently employed by
+the organization who have been placed on similar engagements in the past three years. Include

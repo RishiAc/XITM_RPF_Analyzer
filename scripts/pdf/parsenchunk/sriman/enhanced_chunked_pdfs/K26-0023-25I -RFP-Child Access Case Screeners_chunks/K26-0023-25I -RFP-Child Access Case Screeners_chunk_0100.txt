@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0100
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. The Offeror shall propose resource(s) that meet the following minimum qualifications:
+Section Number: 2.
+Section Type: vendor_qualifications
+Word Count: 19
+Character Count: 122
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Bachelor’s degree in social work, psychology, human services, counseling, or a similar field,
+as determined by the AOC.

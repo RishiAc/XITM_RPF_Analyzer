@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0094
+Source File: 2-RFP 2000004198.pdf
+Section Title: and compliance with ADA.
+Section Number: None
+Section Type: security_compliance
+Word Count: 77
+Character Count: 528
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+and compliance with ADA.
+32.2. Fairfax County is committed to a policy of nondiscrimination in all County programs, services,
+and activities and will provide reasonable accommodations upon request. Offerors requesting
+special accommodations should call the Department ADA representative at (703) 324-3201 or
+TTY 711. Please allow two (2) working days in advance of the event to make the necessary
+arrangements.
+33. HIPAA COMPLIANCE:
+33.1. Fairfax County Government has designated certain health care components as covered by the

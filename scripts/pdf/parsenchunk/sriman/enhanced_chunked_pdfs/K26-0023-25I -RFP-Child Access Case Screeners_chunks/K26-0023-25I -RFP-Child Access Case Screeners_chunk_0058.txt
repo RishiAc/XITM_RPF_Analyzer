@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0058
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The Successful Offeror shall provide a written response to the
+Section Number: 1.
+Section Type: general
+Word Count: 30
+Character Count: 195
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+remediation requirements in a Remediation Plan within ten (10)
+days of the date of the notice and shall immediately implement the
+Remediation Plan upon written acceptance by the Contract
+Manager.

@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0159
+Source File: 2-RFP 2000004198.pdf
+Section Title: 69. LEGAL ACTION-No bidder, offeror, potential bidder or offeror, or Contractor shall institute any legal action until all statutory
+Section Number: 69.
+Section Type: general
+Word Count: 79
+Character Count: 530
+Line Count: 5
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+69. LEGAL ACTION-No bidder, offeror, potential bidder or offeror, or Contractor shall institute any legal action until all statutory
+requirements have been met. Statutory requirements include, but are not limited to, the requirements of the Virginia Public
+Procurement Act, as reflected in the Fairfax County Purchasing Resolution and the requirement that any contractor seeking
+monetary relief or damages from the County must submit its claim to the Board of Supervisors in compliance with Virginia Code
+§ 15.2-1243 through 1249.

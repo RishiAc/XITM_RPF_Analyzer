@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0143
+Source File: 2-RFP 2000004198.pdf
+Section Title: shall be stated on the Insurance Certificate that this coverage “is primary to all other coverage
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 4
+Character Count: 24
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+the County may possess.”

@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0119
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: the skills, experience, capabilities, and qualifications to be utilized under the contract.
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 4
+Character Count: 32
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+Specifically, the Offeror shall:

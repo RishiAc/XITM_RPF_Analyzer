@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0230
+Source File: 2-RFP 2000004198.pdf
+Section Title: 33. SUBLETTING OR ASSIGNMENT -It is mutually understood and agreed that the Contractor shall not assign, transfer, convey,
+Section Number: 33.
+Section Type: general
+Word Count: 76
+Character Count: 474
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+sublet or otherwise dispose of his or her contractual duties to any other person, firm or corporation, without the previous written
+consent of the Purchasing Agent. If the Contractor desires to assign its right to payment of the contract, Contractor shall notify
+the Purchasing Agent immediately, in writing, of such assignment of right to payment. In no case shall such assignment of
+contract relieve the Contractor from its obligations or change the terms of the contract.

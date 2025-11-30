@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0024
+Source File: 2-RFP 2000004198.pdf
+Section Title: guidance on the methodology and design required for each support area in each
+Section Number: None
+Section Type: general
+Word Count: 22
+Character Count: 157
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+future work order. Offeror must demonstrate ability to integrate the augmented staff
+into existing County processes and workflows. Any solutions developed or

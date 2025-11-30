@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0015
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 9. MBE – Minority Business Enterprise means any legal entity, other than a joint venture, organized to
+Section Number: 9.
+Section Type: general
+Word Count: 70
+Character Count: 457
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+engage in commercial transactions, that is at least 51 percent owned and controlled by one or more
+individuals who are in a minority group (African American, Native American, Hispanic, women, or
+the physically or mentally disabled) that is socially and economically disadvantaged, and managed
+and operated by one or more of the socially and economically disadvantaged individuals who own
+it, and is so certified by the Maryland Department of Transportation.

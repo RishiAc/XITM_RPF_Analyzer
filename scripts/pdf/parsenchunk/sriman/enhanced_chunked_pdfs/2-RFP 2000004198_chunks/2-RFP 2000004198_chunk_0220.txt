@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0220
+Source File: 2-RFP 2000004198.pdf
+Section Title: 24. TIE-BIDS – If all bids are for the same total amount or unit price (including authorized discounts and delivery times), and if the
+Section Number: 24.
+Section Type: general
+Word Count: 112
+Character Count: 613
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+public interest will not permit the delay of re-advertisement for bids, the Purchasing Agent is authorized to award the contract to
+the tie bidder that has its principal place of business in the County, or if there be none, to the resident Virginia tie bidder, or if
+there be none, to one of the tie bidders by drawing lots in public; or the Purchasing Agent may purchase the goods or services
+in the open market except that the price paid shall not exceed the lowest contract bid price submitted for the same goods or
+services. The decision of the County to make award to one or more such bidders shall be final.

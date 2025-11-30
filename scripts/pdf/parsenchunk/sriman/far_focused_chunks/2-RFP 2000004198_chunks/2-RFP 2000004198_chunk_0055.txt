@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0055
+Source File: 2-RFP 2000004198.pdf
+Section Title: 14.2. Failure to sign “Attachment B” (Affirmation of Legally Required Contract Terms) may result in
+Section Number: 14.2.
+Section Type: contract_clauses
+Word Count: 142
+Character Count: 1022
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+14.2. Failure to sign “Attachment B” (Affirmation of Legally Required Contract Terms) may result in
+rejection of the offeror’s proposal.
+15. SUBMISSION OF PROPOSAL:
+15.1. Proposals must be received electronically through Fairfax County’s online Procurement Portal
+at: https://fairfaxcounty.bonfirehub.com, on or before the Submittal Deadline. Submissions will
+only be accepted through the portal. Fairfax County will not accept proposals submitted by
+paper, telephone, facsimile (“FAX”) transmission, or electronic mail (i.e., e-mail) in response to
+this RFP. Proposal submissions and registration are free of charge. Offerors can register for a
+free account at: https://fairfaxcounty.bonfirehub.com, which will be required when preparing a
+submission. Documents may be uploaded at any time during the open period. The official time
+used for receipt of proposals/modifications is the time stamp within the Bonfire (Euna) portal.
+No other clocks, calendars or timepieces are recognized. For technical questions related to a

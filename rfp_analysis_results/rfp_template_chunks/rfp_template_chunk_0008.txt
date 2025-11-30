@@ -1,0 +1,98 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0008
+Source File: rfp_template.pdf
+Section Title: requirements. For example, add due dates for draft designs if desired in addition to 100% design documents.]
+Section Number: None
+Phase: P1
+Word Count: 607
+Character Count: 4025
+Line Count: 71
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contract, shall, plan, requirements, contractor, construction, agency, system, training, address
+
+=== CHUNK CONTENT ===
+requirements. For example, add due dates for draft designs if desired in addition to 100% design documents.]
+[For rooftop PV systems only.]
+The roof structural analysis shall be completed by <x> days after design NTP.
+F.4.2 Construction Plan and Schedule
+The Contractor shall submit a construction plan for <agency> approval within <x> days after construction
+NTP. The construction plan shall include key milestones and should document that the PV System commercial
+operation date will meet <list incentive and/or other applicable deadlines> deadlines. The schedule shall
+minimize disruption of day-to-day activities, utilities, and services. An updated plan shall be provided every
+<x> weeks.
+F.4.3 Meeting Requirements
+Meetings and/or telecons shall occur between <agency> and Contractor <weekly/bi-weekly/monthly/other
+frequency>.
+[Add other requirements to ensure that there is close coordination throughout the design and construction
+process.]
+F.4.4 Training Requirements
+[Enter all training requirements, such as emergency PV System shut-off and firefighting.]
+F.4.5 Other Deliverables and Submittals
+[Below is an example list that should be modified based on PV System type and RFP requirements]
+1. Contractor emergency points of contact
+2. Safety Plan, including Accident Prevention Plan
+3. Proof of insurance and bonding
+4. Copy of completed HSPD-12 application and approval
+5. Traffic Control Plan
+6. Construction and crane permits
+7. Crane and operator credentials
+8. Safety data sheets for proposed PV systems
+9. Waste disposal manifests
+10. Agency and firefighter personnel training plan
+11. Evidence of completed training (agenda, sign-up sheet, evaluation by participants)
+12. System Acceptance Testing report and Completion Notice
+13. Executed Interconnection Agreement
+Page 14 of 38
+14. O&M Manual including: complete “as-built” drawings showing the final details of the PV System(s) as
+installed, sequence of operation, start-stop and emergency shut-down procedures, preventative
+maintenance procedures, troubleshooting guide, list of spare parts and sources for each main component.
+15. Monthly invoice
+16. Maintenance records upon request by the Government
+17. Calibration reports upon the calibration of any meters
+18. Annual M&V reports
+19. Annual ESCO reserve account statement
+Page 15 of 38
+CONTRACT ADMINISTRATION DATA
+G.1 Authorized Contract Changes
+The CO is the only person authorized to approve changes in any of the requirements of this Contract. No order
+or statement of <agency> personnel during the performance of this Contract shall constitute a change under
+this Contract. The Contractor shall not comply with any order, direction or request of <agency> personnel
+unless it is issued in writing and signed by the CO, or is pursuant to specific authority otherwise included as a
+part of this Contract. Modifications to the Contract will be issued on Standard Form 30.
+In the event the Contractor effects any change at the direction of any person other than the CO, the change will
+be considered to have been made without authority and no adjustment will be made in the contract price to
+cover any incurred costs as a result thereof.
+The <agency> will not be obligated to reimburse the Contractor for work performed, items delivered or any
+costs incurred, nor shall the Contractor be obligated to perform, deliver, or otherwise incur costs except as
+authorized by a duly executed Contract or modification to the Contract.
+The address and telephone number of the CO is:
+Name:
+Mailing Address:
+Telephone Number:
+Email:
+G.2 Contracting Officer’s Representative (COR)
+A COR will be appointed by the CO to provide coordination of all general contracting issues. The COR and
+alternative COR for the Contract is [Can note that the COR will be provided at time of award]:
+COR Name:
+Mailing Address:
+Telephone Number:
+Email:
+Alternate COR Name:
+Mailing Address:
+Telephone Number:
+Email:
+The COR will act as the CO’s on-site representative for technical matters - providing technical clarification, as

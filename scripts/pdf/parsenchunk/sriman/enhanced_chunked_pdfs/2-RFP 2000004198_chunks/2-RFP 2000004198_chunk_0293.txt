@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0293
+Source File: 2-RFP 2000004198.pdf
+Section Title: 73. IMMIGRATION REFORM AND CONTROL ACT-Contractor agrees that it does not, and shall not during the performance of the
+Section Number: 73.
+Section Type: general
+Word Count: 25
+Character Count: 161
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+contract for goods and services in the Commonwealth, knowingly employ an unauthorized alien as defined in the Federal
+Immigration Reform and Control Act of 1986.

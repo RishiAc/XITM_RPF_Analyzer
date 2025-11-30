@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0020
+Source File: 2-RFP 2000004198.pdf
+Section Title: 4.4. Budget is subject to annual appropriations for County needs. Please refer to the Incumbent
+Section Number: 4.4.
+Section Type: budget_pricing
+Word Count: 12
+Character Count: 131
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+vendor information (excel file) and https://www.fairfaxcounty.gov/topics/financialtransparency
+for information on spending to date.

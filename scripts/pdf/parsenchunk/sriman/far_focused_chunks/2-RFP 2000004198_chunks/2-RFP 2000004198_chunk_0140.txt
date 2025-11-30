@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0140
+Source File: 2-RFP 2000004198.pdf
+Section Title: Appendix A
+Section Number: None
+Section Type: general
+Word Count: 166
+Character Count: 1059
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+58. INDEMNIFICATION-
+a. General Indemnification. Contractor must indemnify, keep and save harmless, and defend the County, its agents, officials,
+employees and volunteers against Claims that may accrue or arise against the County as a result of the granting a contract,
+if the Claim was caused by the negligence or error, or omission of the Contractor, its employees, its subcontractor, or its
+subcontractor’s employees. As used in this Section, a Claim includes: injuries, death, damage to property, breach of data
+security, suits, liabilities, judgments, or costs and expenses. Upon request by the County, the Contractor must at its own
+expense: appear, defend, and pay all attorney’s fees and all costs and other expenses related to the Claim. If, related to a
+Claim, any judgment is rendered against the County or a settlement reached that requires the County to pay money, the
+Contractor must at its own expense satisfy and discharge the same. Contractor expressly understands and agrees that any

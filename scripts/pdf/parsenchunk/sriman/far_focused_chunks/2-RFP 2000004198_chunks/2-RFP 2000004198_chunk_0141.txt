@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0141
+Source File: 2-RFP 2000004198.pdf
+Section Title: performance bond or insurance protection required by this Contract, or otherwise provided by the Contractor, does not limit
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 166
+Character Count: 1110
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+performance bond or insurance protection required by this Contract, or otherwise provided by the Contractor, does not limit
+the Contractor’s responsibility to indemnify, keep and save harmless, and defend the County as provided in this Contract.
+b. Intellectual Property Indemnification. In addition to the General Indemnification, Contractor will indemnify the County for
+and defend the County against third-party claims for infringement of any valid United States patent, trademark or copyright
+by the Contractor’s products, software, services, or deliverables. Contractor must indemnify the County for any loss,
+damage, expense or liability, including costs and reasonable attorney’s fees that may result by reason of any such claim.
+In the event of a claim covered by this subparagraph, and in addition to all other obligations of Contractor in this Paragraph
+58, Contractor must at its expense and within a reasonable time: (a) obtain a right for the County to continue using such
+products and software, or allow Contractor to continue performing the Services; (b) modify such products, software, services

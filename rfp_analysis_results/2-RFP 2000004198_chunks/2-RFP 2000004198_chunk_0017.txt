@@ -1,0 +1,73 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0017
+Source File: 2-RFP 2000004198.pdf
+Section Title: d. Professional Liability Insurance in the amount of $1,000,000 per claim to cover each
+Section Number: None
+Phase: P1
+Word Count: 496
+Character Count: 3245
+Line Count: 46
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: insurance, contractor, county, liability, additional, must, provide, coverage, period, contract
+
+=== CHUNK CONTENT ===
+d. Professional Liability Insurance in the amount of $1,000,000 per claim to cover each
+individual professional staff.
+19.3. Liability Insurance “Claims Made” basis:
+a. If the liability insurance purchased by the Contractor has been issued on a "claims made"
+basis, the Contractor must comply with the following additional conditions. The limit of
+liability and the extensions to be included as described previously in these provisions,
+remain the same.
+b. The Contractor must either:
+1. Agree to provide certificates of insurance evidencing the above coverage for a period
+of two years after final payment for the contract. This certificate shall evidence a
+"retroactive date" no later than the beginning of the Contractor's or sub-contractor's
+work under this contract, or
+2. Purchase the extended reporting period endorsement for the policy or policies in force
+during the term of this contract and evidence the purchase of this extended reporting
+period endorsement by means of a certificate of insurance or a copy of the
+endorsement itself.
+19.4. Liability insurance may be arranged by a combination of primary and excess or umbrella
+policies
+19.5. Any deductibles and/or self-insured retentions greater than $50,000 must be disclosed to and
+approved by the County’s Risk manager prior to the commencement of services. Use of large
+deductibles and/or self-insured retentions will require proof of financial ability as determined by
+the County.
+19.6. After a period of five-years from Agreement Date, the County may reasonably require higher
+limits of insurance or additional insurance coverage against other hazards for which insurance
+is reasonably obtainable and which, at the time, are commonly insured against in the case of
+similar properties conducting similar activities within the geographic area of the Property,
+whether or not such additional insurance requirements are otherwise described or
+contemplated herein.
+19.7. The Contractor agrees to provide insurance issued by companies admitted within the
+Commonwealth of Virginia, with the Best's Key Rating of at least A: VII.
+19.8. European markets including those based in London, and the domestic surplus lines markets
+that operate on a non-admitted basis are exempt from this requirement provided that the
+Contractor's broker can provide financial data to establish that a market is equal to or exceeds
+the financial strengths associated with the A.M. Best's rating of A: VII or better.
+19.9. The Contractor will provide an original, signed Certificate of Insurance citing the contract
+number and such endorsements as prescribed herein and The County of Fairfax, its officers,
+employees and agents shall be named as an “additional insured” for all liability policies and it
+shall be stated on the Insurance Certificate that this coverage “is primary to all other coverage
+the County may possess.”
+19.10. The Contractor will secure and maintain all insurance certificates of its subcontractors, which
+shall be made available to the County on demand.
+18
+RFP 2000004198
+SPECIAL PROVISIONS
+19.11. Contractor waives and must require (by endorsement or otherwise) all its insurers to waive
+subrogation rights against the County and other additional insureds for losses paid under the

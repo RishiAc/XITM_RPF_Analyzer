@@ -1,0 +1,18 @@
+Chunk ID: 2-RFP 2000004198_chunk_051
+Section: 1. The Notice of Suspension shall state the reasons for the actions taken and such decision shall be final unless the person or
+Section Number: 1
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: notice, shall, suspension, state, reasons
+Word Count: 45
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+1. The Notice of Suspension shall state the reasons for the actions taken and such decision shall be final unless the person or
+firm appeals within ten (10) days of receipt of the Notice by instituting legal action as provided in the Code of Virginia.

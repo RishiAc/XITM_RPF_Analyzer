@@ -1,0 +1,25 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0048
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6.3. The Labor Categories are aggregated into seven (7) major groups. The offerors shall respond
+Section Number: 6.3.
+Section Type: general
+Word Count: 109
+Character Count: 659
+Line Count: 8
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+to at least one of the Labor Categories and must be able to provide all working titles in the
+Labor Category. Fairfax County is in search of IT Specialists within a given category who can
+demonstrate well-developed competencies, with a standing reputation as experts in a given
+discipline. The County requires the Labor Categories and working titles as described in this
+RFP be the governing title, while the County realizes that firms have their own unique labor
+category titles, for the ease of managing the contract the Labor Category and working titles
+and descriptions as defined in this section and the attached Exhibit A shall be the controlling
+title.

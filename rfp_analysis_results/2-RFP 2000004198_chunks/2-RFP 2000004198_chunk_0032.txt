@@ -1,0 +1,67 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0032
+Source File: 2-RFP 2000004198.pdf
+Section Title: accordance with the contract requirements, or be deemed a defense on the part of the Contractor for infraction thereof. The
+Section Number: None
+Phase: P2
+Word Count: 657
+Character Count: 4218
+Line Count: 40
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contractor, county, such, claim, contract, must, defense, indemnification, indemnify, defend
+
+=== CHUNK CONTENT ===
+accordance with the contract requirements, or be deemed a defense on the part of the Contractor for infraction thereof. The
+Inspector is not authorized to revoke, alter, enlarge, relax, or release any of the requirements of the contract documents.
+Any omission or failure on the part of the Inspector to disapprove or reject any work or material shall not be construed to be
+an acceptance of any such defective work or material. Notification of an omission or failure will be documented by the
+Purchasing Agent.
+30
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+58. INDEMNIFICATION-
+a. General Indemnification. Contractor must indemnify, keep and save harmless, and defend the County, its agents, officials,
+employees and volunteers against Claims that may accrue or arise against the County as a result of the granting a contract,
+if the Claim was caused by the negligence or error, or omission of the Contractor, its employees, its subcontractor, or its
+subcontractor’s employees. As used in this Section, a Claim includes: injuries, death, damage to property, breach of data
+security, suits, liabilities, judgments, or costs and expenses. Upon request by the County, the Contractor must at its own
+expense: appear, defend, and pay all attorney’s fees and all costs and other expenses related to the Claim. If, related to a
+Claim, any judgment is rendered against the County or a settlement reached that requires the County to pay money, the
+Contractor must at its own expense satisfy and discharge the same. Contractor expressly understands and agrees that any
+performance bond or insurance protection required by this Contract, or otherwise provided by the Contractor, does not limit
+the Contractor’s responsibility to indemnify, keep and save harmless, and defend the County as provided in this Contract.
+b. Intellectual Property Indemnification. In addition to the General Indemnification, Contractor will indemnify the County for
+and defend the County against third-party claims for infringement of any valid United States patent, trademark or copyright
+by the Contractor’s products, software, services, or deliverables. Contractor must indemnify the County for any loss,
+damage, expense or liability, including costs and reasonable attorney’s fees that may result by reason of any such claim.
+In the event of a claim covered by this subparagraph, and in addition to all other obligations of Contractor in this Paragraph
+58, Contractor must at its expense and within a reasonable time: (a) obtain a right for the County to continue using such
+products and software, or allow Contractor to continue performing the Services; (b) modify such products, software, services
+or deliverables to make them non-infringing; or (c) replace such products or software with a non-infringing equivalent. If, in
+the Contractor’s reasonable opinion, none of the foregoing options is feasible Contractor must immediately notify the County
+and accept the return of the products, software, services, or deliverables, along with any other components rendered
+unusable as a result of the infringement or claimed infringement, and refund to the County the price paid to Contractor for
+such components as well as any pre-paid fees for the allegedly infringing services, including license, subscription fees, or
+both. Nothing in Paragraph 59, however, relieves the Contractor of liability to the County for damages sustained by the
+County by virtue of any breach of contract related to a third-party infringement claim.
+c. Right to Participate in Defense. The County may, at its sole expense, participate in the defense or resolution of a
+Claim. Contractor will have primary control of the defense and resolution of the Claim, except when such defense or
+resolution requires the County to (i) admit liability or wrongdoing; or (ii) to pay money. In either of these cases Contractor
+must obtain the County’s prior written consent before raising such defense or entering into such resolution.
+d. No Indemnification by the County. The parties agree that under applicable law the County cannot indemnify or
+defend the Contractor. To the extent any promise or term contained in this Contract, including any exhibits,

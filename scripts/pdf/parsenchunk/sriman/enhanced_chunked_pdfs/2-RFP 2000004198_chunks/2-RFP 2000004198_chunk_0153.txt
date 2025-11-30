@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0153
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.17. The Contractor and all subcontractors are to comply with applicable federal, state, and local
+Section Number: 19.17.
+Section Type: general
+Word Count: 28
+Character Count: 176
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+occupational safety and health requirements, including, but not limited to, the Occupational
+Safety and Health Act of 1970, Public Law 91-596, as it may apply to this contract.

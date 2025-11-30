@@ -1,0 +1,35 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0263
+Source File: 2-RFP 2000004198.pdf
+Section Title: 59. OFFICIALS NOT TO BENEFIT-
+Section Number: 59.
+Section Type: general
+Word Count: 334
+Character Count: 2099
+Line Count: 18
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Each bidder, offeror, or contractor shall certify, upon signing a bid, proposal, or contract, that to the best of their knowledge
+no Fairfax County official or employee having official responsibility for the procurement transaction, or member of their
+immediate family, has received or will receive any financial benefit of more than nominal or minimal value relating to the
+award of this contract. For purposes of this Paragraph, “financial benefit” means any payment, loan, subscription, advance,
+deposit of money, services personal use rebates or anything of more than nominal or minimal value, present or promised,
+unless consideration of substantially equal or greater value is exchanged. If a financial benefit has been received or will be
+received, this fact must be disclosed with the bid or proposal or as soon thereafter as it appears that a financial benefit will
+be received. Failure to disclose the information prescribed above may result in suspension or debarment, or rescission of
+the contract made, or could affect payment pursuant to the terms of the contract.
+b. Whenever there is reason to believe that a financial benefit of the sort described in paragraph "a" has been or will be
+received in connection with a bid, proposal or contract, and that the Contractor has failed to disclose such benefit or has
+inadequately disclosed it, the County Executive, as a prerequisite to payment pursuant to the contract, or at any other time,
+may require the Contractor to furnish, under oath, answers to any interrogatories related to such possible benefit.
+c. In the event the bidder or offeror has knowledge of financial benefits as outlined above, this information should be submitted
+with the bid or proposal. If the above does not apply at time of award of contract and becomes known after inception of a
+contract, the bidder or offeror must disclose such facts to the Fairfax County Purchasing Agent, 12000 Government Center
+Parkway, Suite 427, Fairfax, Virginia 22035-0013. Relevant Invitation/Request for Proposal Number (see cover sheet)
+should be referenced in the disclosure.

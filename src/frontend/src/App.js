@@ -1,12 +1,10 @@
+import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import RFPsPage from "./pages/RFPsPage";
 import ChatPage from "./pages/ChatPage";
 import Dashboard from "./pages/Dashboard";
-import LoginPage from "./pages/LoginPage";
-import SignupPage from "./pages/SignupPage";
-import RequireAuth from "./components/RequireAuth";
-import KnowledgeBasePage from "./pages/KnowledgeBasePage";
+import KnowledgeBasePage from "./pages/KnowledgeBasePage"
 
 
 function App() {
@@ -17,16 +15,11 @@ function App() {
       </nav> */}
 
       <Routes>
-        <Route path="/login" element={<LoginPage />} />
-        <Route path="/signup" element={<SignupPage />} />
-
-        <Route element={<RequireAuth />}>
-          <Route path="/" element={<Home />} />
-          <Route path="/rfps" element={<RFPsPage />} />
-          <Route path="/chat/:id" element={<ChatPage />} />
-          <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/knowledgebase" element={<KnowledgeBasePage />} />
-        </Route>
+        <Route path="/" element={<Home />} />
+        <Route path="/rfps" element={<RFPsPage />} />
+        <Route path="/chat/:id" element={<ChatPage />} />
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/knowledge" element={<KnowledgeBasePage />} />
       </Routes>
     </Router>
   );

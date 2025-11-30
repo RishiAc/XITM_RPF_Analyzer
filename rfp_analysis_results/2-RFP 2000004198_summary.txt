@@ -1,0 +1,65 @@
+=== RFP COMPREHENSIVE ANALYSIS SUMMARY ===
+Source File: 2-RFP 2000004198.pdf
+Total Sections: 38
+Total Chunks: 38
+Total Characters: 147704
+
+=== PHASE DISTRIBUTION ===
+  - P1: 17 chunks
+  - P2: 14 chunks
+  - P3: 1 chunks
+  - P4: 6 chunks
+
+=== GOVERNMENT REFERENCES SUMMARY ===
+Total FAR References Found: 0
+Total DFARS References Found: 0
+
+=== ELIGIBILITY SUMMARY ===
+Eligibility Types Found:
+  - SMALL_BUSINESS
+
+=== EVALUATION SUMMARY ===
+Evaluation Types: Award Basis, Points
+
+=== KEY DATES SUMMARY ===
+No specific due dates found
+
+=== CHUNK LIST ===
+2-RFP 2000004198_chunk_0001: General (Phase: P1)
+2-RFP 2000004198_chunk_0002: signing and accepting the federal terms and conditions without exceptions (ref. Attachment F, (Phase: P1)
+2-RFP 2000004198_chunk_0003: through the Institutional Network (INET). To support this enterprise FCPS has established a (Phase: P2)
+2-RFP 2000004198_chunk_0004: support on the technical implementation processes. (Phase: P2)
+2-RFP 2000004198_chunk_0005: Meeting Information Technology Security Policy Requirements (Attachment C) (Phase: P2)
+2-RFP 2000004198_chunk_0006: G. Reconfiguration of a home user’s equipment for the purpose of split-tunneling (Phase: P1)
+2-RFP 2000004198_chunk_0007: that use any of these elements are required to meet these requirements and any (Phase: P2)
+2-RFP 2000004198_chunk_0008: procedures needed to carry out processing requirements for a prolonged period of (Phase: P2)
+2-RFP 2000004198_chunk_0009: (i.e. scope of work (SOW), quote, proposal, etc.). (Phase: P2)
+2-RFP 2000004198_chunk_0010: a. Statement and discussion of the requirements as they are analyzed by the offeror. (Phase: P2)
+2-RFP 2000004198_chunk_0011: personnel for a task or work group, their specific qualifications, and recent relevant (Phase: P2)
+2-RFP 2000004198_chunk_0012: certificates, training courses and other relevant evidence to document the level (Phase: P1)
+2-RFP 2000004198_chunk_0013: 11. PRICING: (Phase: P1)
+2-RFP 2000004198_chunk_0014: submission contact Bonfire (Euna) at Support@GoBonfire.com or click on the link “Contact (Phase: P1)
+2-RFP 2000004198_chunk_0015: on the information provided and the established evaluation criteria. After this review, the cost (Phase: P3)
+2-RFP 2000004198_chunk_0016: The County will consider all cost and business terms to be negotiable and will not be artificially (Phase: P4)
+2-RFP 2000004198_chunk_0017: d. Professional Liability Insurance in the amount of $1,000,000 per claim to cover each (Phase: P1)
+2-RFP 2000004198_chunk_0018: insurance policies required by this Contract or other insurance applicable to the Contractor or (Phase: P1)
+2-RFP 2000004198_chunk_0019: 21.1. The Contractor must maintain all records in compliance with federal and state regulations. The (Phase: P1)
+2-RFP 2000004198_chunk_0020: County may further amend the contract by mutual agreement for any increase in the cost of (Phase: P4)
+2-RFP 2000004198_chunk_0021: bodies may add terms and conditions required by statute, ordinances, and regulations, to the (Phase: P1)
+2-RFP 2000004198_chunk_0022: Appendix A (Phase: P1)
+2-RFP 2000004198_chunk_0023: by reference other contractual terms and conditions applicable to the procurement. (Phase: P1)
+2-RFP 2000004198_chunk_0024: II, III, and IV). When such goods and services are included in the Pricing Schedule, bidders may bid on all areas or an individual (Phase: P4)
+2-RFP 2000004198_chunk_0025: 18. UNBALANCED BIDS—A Bid shall be mathematically unbalanced if the Bid contains unit pricing that does not reflect reasonable (Phase: P1)
+2-RFP 2000004198_chunk_0026: County. Award may be made to as many bidders as deemed necessary to fulfill the anticipated requirements of Fairfax County. (Phase: P2)
+2-RFP 2000004198_chunk_0027: determine whether the supplies and services conform to the contract requirements. (Phase: P2)
+2-RFP 2000004198_chunk_0028: County by virtue of any breach of contract by the Contractor for the purpose of set off until such time as the exact amount of (Phase: P1)
+2-RFP 2000004198_chunk_0029: for the purpose of meeting the requirements of this section. (Phase: P2)
+2-RFP 2000004198_chunk_0030: 43. SHIPPING INSTRUCTIONS - CONSIGNMENT-Unless otherwise specified in the solicitation each case, container, package, (Phase: P4)
+2-RFP 2000004198_chunk_0031: instructions. (Phase: P4)
+2-RFP 2000004198_chunk_0032: accordance with the contract requirements, or be deemed a defense on the part of the Contractor for infraction thereof. The (Phase: P2)
+2-RFP 2000004198_chunk_0033: attachments, or other documents incorporated by reference therein, includes an indemnification or obligation to (Phase: P1)
+2-RFP 2000004198_chunk_0034: Appendix A (Phase: P1)
+2-RFP 2000004198_chunk_0035: a. failure without good cause to perform in accordance with the specifications or within the time limit provided in the (Phase: P2)
+2-RFP 2000004198_chunk_0036: provided in the Code of Virginia. The bidder may not institute legal action until all statutory requirements have been met. (Phase: P2)
+2-RFP 2000004198_chunk_0037: Contractor shall be compensated for the cost of performance at the rate specified in the contract up to the time of such (Phase: P4)
+2-RFP 2000004198_chunk_0038: any records of the contractor involving transactions related to the contract or compliance with any clauses thereunder, for a (Phase: P1)

@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0273
+Source File: 2-RFP 2000004198.pdf
+Section Title: 2. The Notice of Debarment shall state the reasons for the actions taken and the decision shall be final unless the person or
+Section Number: 2.
+Section Type: general
+Word Count: 48
+Character Count: 267
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+firm appeals within ten (10) days of receipt of the Notice by instituting legal action as provided in the Code of Virginia.
+b. The Purchasing Agent shall have the authority to suspend or debar a person or firm from bidding on any contract for the
+causes stated below:

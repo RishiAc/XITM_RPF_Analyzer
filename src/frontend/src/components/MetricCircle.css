@@ -1,0 +1,58 @@
+.metric-circle-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.metric-circle-wrapper {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+
+.metric-circle-svg {
+  width: 100%;
+  height: 100%;
+  transform: rotate(-90deg);
+}
+
+.metric-circle-bg {
+  transition: stroke 0.3s;
+}
+
+.metric-circle-progress {
+  transition: stroke-dashoffset 0.6s ease-in-out;
+}
+
+.metric-circle-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.metric-value {
+  font-size: 20px;
+  font-weight: 700;
+  color: #333333;
+  line-height: 1;
+}
+
+.metric-max {
+  font-size: 14px;
+  font-weight: 500;
+  color: #666666;
+  line-height: 1;
+}
+
+.metric-label {
+  font-size: 11px;
+  color: #666666;
+  text-align: center;
+  font-weight: 500;
+}
+

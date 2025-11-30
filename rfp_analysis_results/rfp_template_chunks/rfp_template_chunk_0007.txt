@@ -1,0 +1,67 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0007
+Source File: rfp_template.pdf
+Section Title: [See “Procurement Specifications Templates for Onsite Solar Photovoltaic: For Use in Developing Federal
+Section Number: None
+Phase: P2
+Word Count: 469
+Character Count: 3055
+Line Count: 40
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contract, design, construction, agency, system, performance, term, contractor, days, espc
+
+=== CHUNK CONTENT ===
+[See “Procurement Specifications Templates for Onsite Solar Photovoltaic: For Use in Developing Federal
+Solicitations”, available at https://energy.gov/eere/femp/downloads/procurement-specifications-templates-
+site-solar-photovoltaic-use-developing.]
+Page 12 of 38
+DELIVERIES OR PERFORMANCE
+F.1 Term of Contract
+[The total ESPC ESA contract length must not exceed 20 years in order to meet the IRS Revenue Procedure
+2017-19 ESPC ESA safe harbor requirements6. An initial contract term of less than 20 years may be beneficial
+so that the contract can be extended if the estimated PV System FMV increases significantly during the
+contract term. This will provide additional time for the required ESCO’s reserve account funds to be
+accumulated. The alternative is to increase the government’s payments that are to be allocated to the ESCO’s
+reserve account. This will only be allowed if the statutory savings requirement is still met and may require a
+more extensive contract modification.]
+The ESPC ESA contract term will begin upon contract award and continue for <x> years, unless terminated
+earlier pursuant to the provisions of this contract.
+F.2 Place of Performance
+The place of performance for this contract is the following:
+<List of PV System(s) location and type (rooftop, carport, ground-mount)>
+F.3 Notice to Proceed (NTP)
+Both the design and construction phases of the contract will begin upon receiving a written NTP from
+<agency>. The Contractor may proceed with design after receiving an official design NTP letter from
+<agency>. The NTP will be provided no later than <x> days after contract award. The PV System design
+shall be submitted within <x> days of the design NTP letter date. The <agency> will review the design and
+provide feedback within <x> days.
+Construction NTP will be granted when the following conditions have been met: all final design approvals are
+received; the final stamped designs are received; all other construction documents including a construction
+plan and schedule (see Section 0) have been reviewed and approved by <agency>; and proof of insurance and
+bonds has been received. Limited construction NTP, in advance of the official construction NTP, may be
+granted upon request for purposes of ordering equipment with long lead-time. Limited construction NTP will
+only be granted by <agency> after review of the equipment specs to ensure that they meet all contract
+requirements.
+F.4 Contract Performance Deliverables
+Construction and acceptance of the PV System shall be completed by <date>. The Contractor will not be held
+responsible for <agency> or other Government delays. In case of delays that are not the fault of the
+Contractor, a new completion date shall be proposed by the Contractor, for approval by the <agency>.
+6 As stated in Section A, tax incentive eligibility due diligence is the responsibility of the ESCO, not the
+government.
+Page 13 of 38
+F.4.1 PV System Design <and Structural Analysis>
+PV system designs are due <x> days after design NTP. [Add other details regarding design deliverable

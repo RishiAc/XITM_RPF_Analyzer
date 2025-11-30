@@ -1,0 +1,31 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0234
+Source File: 2-RFP 2000004198.pdf
+Section Title: 37. NON-DISCRIMINATION-During the performance of this contract, the Contractor agrees as follows:
+Section Number: 37.
+Section Type: general
+Word Count: 231
+Character Count: 1513
+Line Count: 14
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. The Contractor will not discriminate against any employee or applicant for employment because of race, religion, color, sex,
+national origin, age, disability, or other basis prohibited by state law relating to discrimination in employment, except where
+there is a bona fide occupational qualification reasonably necessary to the normal operation of the Contractor. The Contractor
+agrees to post in conspicuous places, available to employees and applicants for employment, notices setting forth the
+provisions of this non-discrimination clause.
+b. The Contractor, in all solicitations or advertisements for employees placed by or on behalf of the Contractor, will state that
+such Contractor is an equal opportunity employer.
+c. Notices, advertisements and solicitations placed in accordance with federal law, rule or regulation shall be deemed sufficient
+for the purpose of meeting the requirements of this section.
+d. The Contractor will include the provisions of the foregoing paragraphs a, b, and c above in every subcontract or purchase
+order of over $10,000 so that the provisions will be binding upon each subcontractor or vendor.
+e. Contractor shall, throughout the term of this contract, comply with the Human Rights Ordinance, Chapter 11 of the Code of
+the County of Fairfax, Virginia, as reenacted or amended. Contractor shall further require that all of its subcontractors will
+comply with the Human Rights Ordinance, Chapter 11 of the Code of the County of Fairfax, Virginia, as reenacted or amended

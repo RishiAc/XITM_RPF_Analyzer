@@ -1,0 +1,28 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0062
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. A Pre-proposal Conference and site visit (as applicable) may be held on the date and time, and at the
+Section Number: 1.
+Section Type: submission_requirements
+Word Count: 126
+Character Count: 832
+Line Count: 11
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+location (i.e., virtual or on-premises) indicated in the project details and important events sections of
+the solicitation on the Procurement Portal.
+a. If the Pre-Proposal Conference is to be held on-premises, Offerors are encouraged to bring
+a copy of this RFP and a business card to help facilitate a more efficient sign-in process. To
+ensure adequate seating and other accommodations at the Pre-proposal Conference, please
+email the Pre-bid/proposal Conference Response Form (Attachment D) to the attention of
+the Procurement Officer no later than one (1) business day prior to the scheduled Pre-
+proposal Conference date and time.
+b. If the Pre-proposal Conference will be held virtually, Offerors shall register using the
+registration link located in the important events section of the solicitation on the Procurement
+Portal.

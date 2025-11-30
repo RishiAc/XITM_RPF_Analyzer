@@ -1,0 +1,19 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_013
+Section: 1. Proposals must be received through the Procurement Portal not later than the date and time indicated
+Section Number: 1
+Section Type: submission_requirements
+Phase: P2
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: proposals, procurement, portal, time
+Word Count: 40
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+1. Proposals must be received through the Procurement Portal not later than the date and time indicated
+on the solicitation. Offerors shall allow sufficient time to complete the submission process on the
+Procurement Portal. Untimely proposals will not be considered.

@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0019
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. The AOC reserves the right to amend this RFP at any time prior to the proposal closing date and
+Section Number: 1.
+Section Type: submission_requirements
+Word Count: 78
+Character Count: 462
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+time. If the RFP is revised prior to the proposal closing date and time, the AOC shall post any addenda
+to the RFP on the Procurement Portal and shall attempt to provide such addenda to all prospective
+Offerors that received the RFP or are otherwise known by the Procurement Officers to have obtained
+this RFP. It remains the responsibility of all prospective Offerors to review the Procurement Portal
+for any addenda issued prior to the submission of proposals.

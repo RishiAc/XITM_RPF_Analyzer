@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0087
+Source File: 2-RFP 2000004198.pdf
+Section Title: 24. ACCESS TO AND INSPECTION OF WORK:
+Section Number: 24.
+Section Type: general
+Word Count: 134
+Character Count: 903
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+24. ACCESS TO AND INSPECTION OF WORK:
+24.1. The Fairfax County Procurement Agent, Chief Technical Officer, departments, or their
+respective authorized designees will, at all times, have access to the work being performed
+under this contract wherever it may be in progress or preparation.
+25. OTHER SERVICES:
+25.1. The Contractor must establish formal evaluation and quality control procedures to monitor each
+facet of the final contract. The evaluation and quality control procedures must provide sufficient
+information to allow the County's administrators to monitor the program's progress and
+effectiveness. The County's administrators will use the quality control report to evaluate the
+effectiveness of the program on an annual basis. The Contractor will submit the quality control
+report to the Contract Administrator identified in the final contract not later than January 1 of
+each contract year.

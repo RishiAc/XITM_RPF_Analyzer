@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0197
+Source File: 2-RFP 2000004198.pdf
+Section Title: 8. ACCEPTANCE OF BIDS/BINDING 90 DAYS-Unless otherwise specified, all formal bids submitted shall be binding for ninety
+Section Number: 8.
+Section Type: general
+Word Count: 15
+Character Count: 96
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+(90) calendar days following bid opening date, unless extended by mutual consent of all parties.

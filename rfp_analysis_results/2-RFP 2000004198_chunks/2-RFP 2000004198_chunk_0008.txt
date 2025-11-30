@@ -1,0 +1,86 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0008
+Source File: 2-RFP 2000004198.pdf
+Section Title: procedures needed to carry out processing requirements for a prolonged period of
+Section Number: None
+Phase: P2
+Word Count: 744
+Character Count: 4615
+Line Count: 59
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: county, staff, offeror, labor, category, shall, procedures, fcps, must, working
+
+=== CHUNK CONTENT ===
+procedures needed to carry out processing requirements for a prolonged period of
+time.
+6. STATEMENT OF NEEDS:
+Qualified offerors are encouraged to submit a proposal to provide IT Staff Augmentation services to
+FCG and FCPS agencies on an as-needed basis.
+6.1. It is the intent of the County to establish IDIQ contract(s) with qualified firm(s) for each labor
+category of IT staff Augmentation that will allow the County to request Staffing on an “as needed
+basis.” A request for staffing will be initiated by the County indicating a work description, the
+job category(ies) required, the number of staff, and the anticipated length of engagement the
+professional may be engaged. The requests are generally on-site but may from time to time be
+remote on an as needed basis by the County.
+8
+RFP 2000004198
+SPECIAL PROVISIONS
+6.2. The County may request that the individual offered by the offeror(s) be made available for an
+interview. The Contractor(s) will be allowed ten (10) business days to present resumes of
+proposed individuals for a specific work order from the time of the request by the County. The
+individuals selected must be fully qualified and available to begin work within fifteen (15)
+business days from the date they are selected by the County. All personnel issues will be
+addressed by the Contractor(s) within 24 hours of notification by the County.
+6.3. The Labor Categories are aggregated into seven (7) major groups. The offerors shall respond
+to at least one of the Labor Categories and must be able to provide all working titles in the
+Labor Category. Fairfax County is in search of IT Specialists within a given category who can
+demonstrate well-developed competencies, with a standing reputation as experts in a given
+discipline. The County requires the Labor Categories and working titles as described in this
+RFP be the governing title, while the County realizes that firms have their own unique labor
+category titles, for the ease of managing the contract the Labor Category and working titles
+and descriptions as defined in this section and the attached Exhibit A shall be the controlling
+title.
+6.4. The Offeror must describe their evaluation and quality control procedures to monitor the
+performance of the Offeror assigned staff. Offerors should speak to procedures for addressing
+any deficiencies in performance and steps for remediation and address the following: 1)
+Assurance that the selected staff can be retained for future work orders if the contract is
+renewed or extended; 2) The Offeror’s recommended administrative procedures which deals
+with submissions and approval of leave (vacation time), sick leave, and other absences; 3) The
+Offeror must include estimate of the amount of leave the staff may be entitled to during the
+year; 4) The Offeror must address their recommended procedures for a reduction in the number
+of staff assigned if Fairfax County decides to reduce the number of IT Contractors need on the
+project; 5) Assurance that an individual meets the requirements per Special Provisions,
+paragraph 6.2.; 6) If the County terminate work under this contract.
+6.5. While on site work is not required in some cases, the Offeror shall describe their ability for their
+assigned staff to work on-site within FCG, DIT, FCPS, or other County agency sites or other
+offsite locations as mutually agreed upon. The primary location for FCG and DIT will be Fairfax
+County Government Center complex, 12000 Government Center Parkway, Fairfax, Virginia
+22035.
+6.6. Working hours for IT Staff Augmentation: The Offerors’ staff are expected to perform their
+assigned duties during the County’s normal hours of 8:00 a.m. to 4:30 p.m., Monday through
+Friday, with a 30-minute lunch break:
+A. The Offeror is required to follow the FCG and/or FCPS Holiday calendar and inclement
+weather policies as applicable or directed by authorized FCG or FCPS personnel.
+Holiday calendars are published annually or may be obtained from FCG or FCPS
+authorized personnel. The hours that do not work are not billable to the County.
+B. The County may need the offeror to be on call where the Offeror’s staff may be required
+to participate in the on-call rotation. The rotation intervals vary per assignment.
+C. The Offeror(s) shall supply time sheets for their staff/consultants. The Offeror’s staff or
+consultants shall not work simultaneously on work for other customers while working
+at Fairfax County.
+6.7. The Offeror shall describe what document is provided to their clients when providing IT Staff
+Augmentation. Provide a sample or samples of the documents presented to the offeror’s clients

@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0144
+Source File: 2-RFP 2000004198.pdf
+Section Title: Continuation of attachments, or other documents incorporated by reference therein, includes an indemnification or obligation to
+Section Number: None
+Section Type: general
+Word Count: 142
+Character Count: 982
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+with the bid or proposal. If the above does not apply at time of award of contract and becomes known after inception of a
+contract, the bidder or offeror must disclose such facts to the Fairfax County Purchasing Agent, 12000 Government Center
+Parkway, Suite 427, Fairfax, Virginia 22035-0013. Relevant Invitation/Request for Proposal Number (see cover sheet)
+should be referenced in the disclosure.
+60. LICENSE REQUIREMENT-All firms doing business in Fairfax County, shall obtain a license as required by Chapter 4, Article 7,
+of The Code of the County of Fairfax, Virginia, as amended, entitled "Business, Professional and Occupational Licensing (BPOL)
+Tax." Questions concerning the BPOL Tax should be directed to the Department of Tax Administration, telephone (703)
+222-8234 or visit: https://www.fairfaxcounty.gov/taxes/business/understanding-bpol-tax.. The BPOL Tax number must be
+indicated in the space provided on the Cover Sheet, "Fairfax License Tax No." when appropriate.

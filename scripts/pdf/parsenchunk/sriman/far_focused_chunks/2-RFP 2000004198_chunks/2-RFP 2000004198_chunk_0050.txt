@@ -1,0 +1,27 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0050
+Source File: 2-RFP 2000004198.pdf
+Section Title: expenses, hotel, etc. The County will not pay any additional cost of any kind. Breakdown of
+Section Number: None
+Section Type: budget_pricing
+Word Count: 103
+Character Count: 669
+Line Count: 12
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+expenses, hotel, etc. The County will not pay any additional cost of any kind. Breakdown of
+other expenses such as clerical support, other overhead costs, supplies, etc. (ref. Pricing
+Schedule – IT Staff Augmentation).
+10. CONSULTATION SERVICES:
+10.1. The Contractor’s staff must be available for consultation with County staff on an as-needed
+basis between 8:00 A.M. and 4:30 P.M., Eastern Time, Monday through Friday.
+13
+RFP 2000004198
+SPECIAL PROVISIONS
+11. PRICING:
+11.1. The subsequent contract will be a firm-fixed price agreement. The fee(s) will remain firm and
+will include all charges that may be incurred in fulfilling the requirements of the contract during

@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0077
+Source File: 2-RFP 2000004198.pdf
+Section Title: applicable to the required or any other insurance maintained by the Contractor or its
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 78
+Character Count: 520
+Line Count: 6
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+applicable to the required or any other insurance maintained by the Contractor or its
+subcontractors. Where permitted by law, Contractor must require similar written express
+waivers of subrogation and insurance clauses from each of its subcontractors.
+19.12. The Contractor will provide on demand certified copies of all insurance policies related to the
+contract within ten business days of demand by the County. These certified copies will be sent
+to the County from the Contractor's insurance agent or representative.

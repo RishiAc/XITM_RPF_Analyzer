@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0114
+Source File: 2-RFP 2000004198.pdf
+Section Title: 18.5. Offerors are advised that, in the event of receipt of an adequate number of proposals, which,
+Section Number: 18.5.
+Section Type: submission_requirements
+Word Count: 53
+Character Count: 426
+Line Count: 5
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+in the opinion of the County Purchasing Agent, require no clarifications and/or supplementary
+information, such proposals may be evaluated without further discussion. Consequently,
+offerors should provide complete, thorough proposals with the offeror’s most favorable terms.
+Should proposals require additional clarification and/or supplementary information, offerors
+should submit such additional material in a timely manner.

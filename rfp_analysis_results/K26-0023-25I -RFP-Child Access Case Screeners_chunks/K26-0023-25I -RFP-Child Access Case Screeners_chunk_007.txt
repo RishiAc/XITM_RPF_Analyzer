@@ -1,0 +1,29 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_007
+Section: 2. Site visits to any AOC location must be coordinated by AOC staff with the designated site personnel
+Section Number: 2
+Section Type: general
+Phase: P1
+Due Dates: 03/25/2025
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: criminal, personnel, systems, access
+Word Count: 144
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+2. Site visits to any AOC location must be coordinated by AOC staff with the designated site personnel
+in advance of any visit.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 8
+3. Any Successful Offeror personnel working at AOC locations, or on AOC systems or projects, or who
+have access to AOC or State criminal data or systems, must be approved in writing by the
+Procurement Officer prior to beginning work.
+4. All Successful Offeror personnel working on AOC premises, property, systems or projects, contracts,
+or who have access to AOC or State criminal data or systems, may be required to obtain a Criminal
+Justice Information System (CJIS) State and Federal criminal background check prior to beginning
+work. The AOC reserves the right to refuse to allow any Successful Offeror personnel to begin work
+based upon criminal records.

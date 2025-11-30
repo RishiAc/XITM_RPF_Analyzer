@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0084
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. A proposal that takes exception to these terms may be rejected and therefore determined to be not
+Section Number: 3.
+Section Type: contract_clauses
+Word Count: 7
+Character Count: 51
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+reasonably susceptible of being selected for award.

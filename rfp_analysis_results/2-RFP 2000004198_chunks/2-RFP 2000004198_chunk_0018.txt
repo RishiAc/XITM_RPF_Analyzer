@@ -1,0 +1,67 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0018
+Source File: 2-RFP 2000004198.pdf
+Section Title: insurance policies required by this Contract or other insurance applicable to the Contractor or
+Section Number: None
+Phase: P1
+Word Count: 494
+Character Count: 3230
+Line Count: 40
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: contractor, county, insurance, contract, subcontractors, shall, orders, purchase, procurement, card
+
+=== CHUNK CONTENT ===
+insurance policies required by this Contract or other insurance applicable to the Contractor or
+its subcontractors. The waiver must apply to all deductibles and/or self-insured retentions
+applicable to the required or any other insurance maintained by the Contractor or its
+subcontractors. Where permitted by law, Contractor must require similar written express
+waivers of subrogation and insurance clauses from each of its subcontractors.
+19.12. The Contractor will provide on demand certified copies of all insurance policies related to the
+contract within ten business days of demand by the County. These certified copies will be sent
+to the County from the Contractor's insurance agent or representative.
+19.13. No change, cancellation, or non-renewal shall be made in any insurance coverage without a
+30-day written notice to the County. The Contractor shall furnish a new certificate prior to any
+change or cancellation date. The failure of the Contractor to deliver a new and valid certificate
+will result in suspension of all payments until the new certificate is furnished.
+19.14. Compliance by the Contractor and all subcontractors with the foregoing requirements as to
+carrying insurance shall not relieve the Contractor and all subcontractors of their liabilities
+provisions of the contract.
+19.15. Nothing contained in the specifications shall be construed as creating any contractual
+relationship between any subcontractor and the County. The Contractor is as fully responsible
+to the County for the acts and omissions of the subcontractors and of persons employed by the
+Contractor as it is for acts and omissions of person directly employed by Contractor.
+19.16. Precaution shall be exercised at all times for the protection of persons (including employees)
+and property.
+19.17. The Contractor and all subcontractors are to comply with applicable federal, state, and local
+occupational safety and health requirements, including, but not limited to, the Occupational
+Safety and Health Act of 1970, Public Law 91-596, as it may apply to this contract.
+20. METHOD OF ORDERING:
+20.1. The County may use two (2) different methods of placing orders from the final contract:
+Purchase Orders (PO’s) and approved County procurement cards.
+20.2. A Purchase Order (PO) may be issued to the contractor on behalf of the County agency
+ordering the items/services covered under this contract. The purchase order indicates that
+sufficient funds have been obligated as required by Title 15.2-1238 of the Code of the
+Commonwealth of Virginia.
+20.3. Procurement Card orders and payments may also be made by the use of a Fairfax County or
+Fairfax County Public Schools “Procurement” Card. The Procurement Card is currently a
+Master Card. Contractors are encouraged to accept this method of receiving orders.
+20.4. Regardless of the method of ordering used, solely the contract and any modification determine
+performance time and dates.
+20.5. Performance under this contract is not to begin until receipt of the purchase order, Procurement
+Card order, or other notification to proceed by the County Purchasing Agent and/or County
+agency to proceed. Purchase requisitions shall not be used for placing orders.
+21. REPORTS AND INVOICING:

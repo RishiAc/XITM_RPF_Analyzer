@@ -1,0 +1,29 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0050
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: authorized designee, and resolve the issue at no additional cost to the AOC.
+Section Number: None
+Section Type: budget_pricing
+Word Count: 119
+Character Count: 873
+Line Count: 14
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+authorized designee, and resolve the issue at no additional cost to the AOC.
+N. DIVERSITY & OUTREACH PROGRAMS
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 15
+The objective of the Diversity & Outreach Programs is to encourage and increase participation in AOC
+procurements by Minority Business Enterprises (MBE) and Veteran-owned Small Business Enterprises
+(VSBE).
+1. Minority Business Enterprise
+MBEs are encouraged to respond to this solicitation notice as Prime Contractors. In order to
+participate as an MBE in AOC procurements, MBEs must be certified by the Maryland Department
+of Transportation (MDOT). Additional information regarding certification can be located on the
+MDOT Website: https://www.mdot.maryland.gov/tso/Pages/Index.aspx?PageId=90
+a. There is no MBE goal established for this solicitation.

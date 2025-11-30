@@ -1,0 +1,69 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0015
+Source File: rfp_template.pdf
+Section Title: perform at its own cost, and without additional charge to the <agency>, the professional services necessary to
+Section Number: None
+Phase: P4
+Word Count: 470
+Character Count: 3115
+Line Count: 42
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.212-4, 52.212-4
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: agency, contractor, force, majeure, service, system, plan, identify, procedures, necessary
+
+=== CHUNK CONTENT ===
+perform at its own cost, and without additional charge to the <agency>, the professional services necessary to
+correct errors and omissions, to include any necessary replacement of the PV System that are caused by
+Contractor’s failure to comply with the above standards.
+H.12 Solar Easement
+The <agency> will take reasonable steps as necessary within its control to prevent other buildings, structures
+or flora (outside of the PV System) from overshadowing or otherwise blocking access of sunlight to the PV
+Systems. If the <agency> takes actions that result in shading of the solar array, and the Contractor is harmed
+thereby, such event shall be governed by FAR 52.212-4 paragraph (d), Disputes.
+The Contractor, with <agency> assistance, is responsible for obtaining solar access rights from any other
+landowners adjacent to the Premises.
+H.13 Protection of Financier’s Interest
+[Incorporate agency requirements and reference the DOE IDIQ contract Section H.]
+H.14 Force Majeure
+[Incorporate requirements based on agency policy and terminology. Add a force majeure definition if
+applicable.]
+H.14.1 Force Majeure and Service Interruption Plan
+All offerors shall include a force majeure and service interruption plan in their proposal. The plan will be
+incorporated into the final contract at award and shall include the following components:
+Page 24 of 38
+[Sample plan components below for your consideration. Determine whether some or all of this Force
+Majeure and Service Interruption Plan will be part of the evaluation process.]
+1) Describe how the Contractor plans to protect itself (both financially and in terms of physical assets)
+from a Force Majeure event that significantly affects the PV System.
+2) Identify steps that the Contractor will take to prevent damage to the PV System when there is a known
+pending disaster such as a hurricane.
+3) Identify how the Contractor will bring the PV System back into service expeditiously following any
+such force majeure event.
+4) Identify any intent to rely on the Federal Emergency Management Agency or other government relief
+agencies for financial assistance in recovering from any Force Majeure event and identify to what
+extent, if any, the Contractor would expect reimbursement under the contract.
+5) Identify catastrophic insurance, if applicable, that will be purchased for this contract.
+6) Define procedures for responding to all service interruptions caused by the utility, system operator or
+PV System under normal daily operations and during disaster/contingency operations. These
+procedures should cover the following items:
+a) Discussion of the expected causes of service interruption and how each would be handled by the
+Contractor.
+b) Procedures for handling each type of service call (e.g., emergency, urgent, and routine) from
+notification to completion (may use diagrams, Gantt Charts, flow charts, etc.).
+c) Estimated time for re-establishment of permanent service.
+d) Discussion of <agency> notification procedures.
+e) Emergency restoration plan.
+f) [Add other agency requirements and any procedures necessary to sufficiently address those

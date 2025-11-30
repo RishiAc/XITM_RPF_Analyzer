@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0058
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. The AOC prefers the following:
+Section Number: 3.
+Section Type: general
+Word Count: 129
+Character Count: 850
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+3. The AOC prefers the following:
+a. Offeror proposed resource(s) to have a master’s degree in social work, psychology, human
+services, counseling, or a similar field, as determined by the AOC.
+b. Offeror proposed resource (s) has three (3) years’ experience conducting interviews with
+clients/patients/parties in a clinical or court related setting.
+D. SCOPE OF WORK
+1. Offeror proposed resource(s) shall be responsible for using the Mediator’s Assessment of Safety
+Issues and Concerns – Short (MASIC-S) screening tool to conduct confidential interviews, virtually
+via Zoom, with parties in child access cases and make recommendations to the courts as to whether
+the case is appropriate for referral to mediation. The AOC will provide the MASIC-S interview tool
+in Qualtrics and access to Zoom and Jabber phone capabilities to facilitate interviews.

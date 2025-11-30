@@ -6,7 +6,9 @@ app = FastAPI(title="XITM RFP API", version="0.0.2")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    # Loosen CORS for local dev so preflight never blocks chat requests
+    allow_origins=["*"],
+    allow_origin_regex=".*",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

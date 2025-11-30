@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0067
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. The Procurement Officer, based on the availability of time to research and communicate, shall
+Section Number: 2.
+Section Type: general
+Word Count: 27
+Character Count: 192
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+answer questions at their discretion prior to the proposal closing date and time.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 13

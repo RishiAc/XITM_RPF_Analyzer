@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0202
+Source File: 2-RFP 2000004198.pdf
+Section Title: 14. OMISSIONS & DISCREPANCIES-Any items or parts of any equipment listed in this solicitation that clearly necessary for the
+Section Number: 14.
+Section Type: general
+Word Count: 132
+Character Count: 799
+Line Count: 6
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+operation and completion of such equipment, but are: (i) not fully described by the County; or (ii) are omitted by the County from
+such specification, shall be considered a part of such equipment even if not directly specified or called for in the specifications.
+If a bidder finds discrepancies or ambiguities in, or omissions from, the solicitation, including the drawings and/or specifications,
+it shall notify the Purchasing Agent at least five (5) days prior to the date set for the opening of bids. If necessary, the Purchasing
+Agent will send a written addendum for clarification to all bidders no later than three (3) days before the date set for opening of
+bids. Notifications regarding specifications will not be considered if received within five days of the date set for opening of bids.

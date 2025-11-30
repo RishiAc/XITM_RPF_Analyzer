@@ -1,0 +1,48 @@
+=== RFP COMPREHENSIVE ANALYSIS SUMMARY ===
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Total Sections: 19
+Total Chunks: 19
+Total Characters: 74546
+
+=== PHASE DISTRIBUTION ===
+  - P1: 11 chunks
+  - P2: 6 chunks
+  - P3: 1 chunks
+  - P4: 1 chunks
+
+=== GOVERNMENT REFERENCES SUMMARY ===
+Total FAR References Found: 0
+Total DFARS References Found: 0
+
+=== ELIGIBILITY SUMMARY ===
+Eligibility Types Found:
+  - SMALL_BUSINESS
+  - VETERAN
+
+=== EVALUATION SUMMARY ===
+Evaluation Types: Award Basis, Criteria
+
+=== KEY DATES SUMMARY ===
+Due Dates Found:
+  - 03/25/2025
+
+=== CHUNK LIST ===
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0001: General (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0002: Q. OFFEROR SECURITY REQUIREMENTS ..................................................................................................... 7 (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0003: SECTION III. SCOPE OF WORK ..................................................................................................................... 18 (Phase: P2)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0004: Attachment N – Bidder/Offeror Resource Experience (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0005: requirements set by the United States Small Business Administration, that is organized to engage in (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0006: of deliverables, and receipt of a proper invoice from the Offeror. Any charges of interest or the like (Phase: P2)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0007: 4. Any software used to meet the requirements of this solicitation, on any AOC system, must be (Phase: P2)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0008: may be responsible for the cost of said device(s). All devices must be regularly updated as specified (Phase: P4)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0009: proposed substitute has qualifications at least equal to those of the Successful Offeror (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0010: SECTION II. INSTRUCTIONS TO OFFERORS (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0011: Offeror’s ability to meet the requirements of this RFP. (Phase: P2)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0012: to have accepted the terms and conditions of this RFP and the Standard Contract Agreement Sample (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0013: policy by either the insurance carrier or the Successful Offeror, at least sixty (60) days prior to any (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0014: B. BACKGROUND INFORMATION (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0015: public space with distracting background noise during meetings). (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0016: in the Technical Proposal. Exceptions to terms and conditions may result in having the (Phase: P2)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0017: the skills, experience, capabilities, and qualifications to be utilized under the contract. (Phase: P1)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0018: 1. Evaluation of the proposals will be performed by a committee established for the purpose of (Phase: P3)
+K26-0023-25I -RFP-Child Access Case Screeners_chunk_0019: performance, financial capacity, technical expertise, or other qualifications bearing (Phase: P2)

@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0050
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6.5. While on site work is not required in some cases, the Offeror shall describe their ability for their
+Section Number: 6.5.
+Section Type: general
+Word Count: 43
+Character Count: 279
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+assigned staff to work on-site within FCG, DIT, FCPS, or other County agency sites or other
+offsite locations as mutually agreed upon. The primary location for FCG and DIT will be Fairfax
+County Government Center complex, 12000 Government Center Parkway, Fairfax, Virginia
+22035.

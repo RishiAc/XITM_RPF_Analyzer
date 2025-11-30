@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0126
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: analyzing the proposals based on the evaluation criteria set forth below. The Evaluation Committee
+Section Number: None
+Section Type: evaluation_criteria
+Word Count: 24
+Character Count: 172
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+will provide input to the Procurement Officer after reviewing proposals, participating in oral
+presentations and discussions, and any other activities relative to this RFP.

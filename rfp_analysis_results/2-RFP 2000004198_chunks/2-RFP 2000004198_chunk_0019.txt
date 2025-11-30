@@ -1,0 +1,70 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0019
+Source File: 2-RFP 2000004198.pdf
+Section Title: 21.1. The Contractor must maintain all records in compliance with federal and state regulations. The
+Section Number: None
+Phase: P1
+Word Count: 488
+Character Count: 3086
+Line Count: 43
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: county, contractor, contract, must, services, project, agent, completion, cost, fairfax
+
+=== CHUNK CONTENT ===
+21.1. The Contractor must maintain all records in compliance with federal and state regulations. The
+Contractor(s) must submit to the Project Manager, monthly statistical reports and an annual
+tabulated report.
+19
+RFP 2000004198
+SPECIAL PROVISIONS
+21.2. If multiple departments are involved, the Contractor must invoice each Project Manager
+separately. Invoices for all users of the contract must meet County requirements, unless
+otherwise indicated. The Contractor must send the Project Manager(s) an itemized monthly
+invoice (or as agreed to between the parties), which must include the information listed below:
+a. Project Milestone;
+b. Project Phase and task;
+c. Contract number and PO Number;
+d. Date of services;
+e. The type of services; and,
+f. The itemized cost for each item/service.
+Describe ability to customize invoices/billing based on Fairfax County requirements; give
+examples.
+21.3. The Contractor will provide each County department a monthly and year-to-date utilization
+report which lists all information shown above in paragraph 21.2, a-f. The Contractor will mail
+the invoices and the utilization reports to the addresses identified in the final contract.
+22. CHANGES:
+22.1. Fairfax County may, at any time, by written order, require changes in the services to be
+performed by the Contractor. If such changes cause an increase or decrease in the Contractors
+cost of, or time required for, performance of any services under this contract, an equitable
+adjustment shall be made, and the contract shall be modified in writing accordingly. The County
+Procurement Agent must approve all work that is beyond the scope of this RFP.
+22.2. No services for which an additional cost or fee will be charged by the Contractor shall be
+furnished without the prior written authorization of the Fairfax County Procurement Agent.
+23. DELAYS AND SUSPENSIONS:
+23.1. The County may direct the Contractor, in writing, to suspend, delay, or interrupt all or any part
+of the work of this contract for the period of time deemed appropriate for the convenience of
+the County. The County will extend the Contractor's time of completion by a period of time that
+in the discretion of the County Purchasing Agent is reasonably suited for completion of work.
+The County may further amend the contract by mutual agreement for any increase in the cost
+of performance of the contract (excluding profit) resulting solely from the delay or suspension
+of the contract. No adjustment shall be made under this clause for any delay or interruption
+resulting from any other cause, including the fault or negligence of the Contractor.
+23.2. If the County does not direct the Contractor, in writing, to suspend, delay, or interrupt the
+contract, the Contractor must give the County Purchasing Agent written notice if Fairfax County
+fails to provide data or services that are required for contract completion by the Contractor.
+The County may extend the Contractor's time of completion by a period of time that in the
+discretion of the County Purchasing Agent is reasonably suited for completion of work. The

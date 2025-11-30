@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0083
+Source File: 2-RFP 2000004198.pdf
+Section Title: 21.3. The Contractor will provide each County department a monthly and year-to-date utilization
+Section Number: 21.3.
+Section Type: general
+Word Count: 120
+Character Count: 752
+Line Count: 9
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+21.3. The Contractor will provide each County department a monthly and year-to-date utilization
+report which lists all information shown above in paragraph 21.2, a-f. The Contractor will mail
+the invoices and the utilization reports to the addresses identified in the final contract.
+22. CHANGES:
+22.1. Fairfax County may, at any time, by written order, require changes in the services to be
+performed by the Contractor. If such changes cause an increase or decrease in the Contractors
+cost of, or time required for, performance of any services under this contract, an equitable
+adjustment shall be made, and the contract shall be modified in writing accordingly. The County
+Procurement Agent must approve all work that is beyond the scope of this RFP.

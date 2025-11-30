@@ -1,0 +1,32 @@
+Chunk ID: 2-RFP 2000004198_chunk_007
+Section: 3. CONTRACT PERIOD AND RENEWAL:
+Section Number: 3
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: None
+Pricing Model: None
+Risk Level: Low
+FAR References: None 
+Keywords: contract, county, year, under, obligations
+Word Count: 217
+Source File: 2-RFP 2000004198.pdf
+================================================================================
+
+3. CONTRACT PERIOD AND RENEWAL:
+3.1. The period of the contract shall be a term of five (5) years. This contract may be renewed for
+up to an additional five (5) years, one year at a time or any combination thereof, as mutually
+agreed upon. Automatic contract renewals are prohibited.
+3.2. The obligation of the County to pay compensation due the contractor under the contract or any
+other payment obligations under any contract awarded pursuant to this Request for Proposal
+is subject to appropriations by the Fairfax County Board of Supervisors to satisfy payment of
+such obligations. The County’s obligations to make payments during subsequent fiscal years
+are dependent upon the same action. If such an appropriation is not made for any fiscal year,
+the contract shall terminate effective at the end of the fiscal year for which funds were
+appropriated and the County will not be obligated to make any payments under the contract
+beyond the amount appropriated for payment obligations under the contract. The County will
+provide the contractor with written notice of non-appropriation of funds within thirty (30)
+calendar days after action is completed by the Board of Supervisors. However, the County’s
+failure to provide such notice shall not extend the contract into a fiscal year in which sufficient
+funds have not been appropriated.

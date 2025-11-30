@@ -1,0 +1,65 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0003
+Source File: rfp_template.pdf
+Section Title: submitted). An agency ESCO qualified list consistent with 42 U.S.C. § 8287(b)(2)(A)-(B) requirements can be
+Section Number: None
+Phase: P2
+Word Count: 507
+Character Count: 3143
+Line Count: 38
+
+=== KEY DATES ===
+Due Dates: September
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: esco, contract, espc, energy, agency, federal, requirements, must, under, renewable
+
+=== CHUNK CONTENT ===
+submitted). An agency ESCO qualified list consistent with 42 U.S.C. § 8287(b)(2)(A)-(B) requirements can be
+referenced instead of the DOE Qualified List.].
+In order for the ESPC ESA contract to be scored annually, it must be consistent with the requirements under
+the OMB “Addendum to OMB Memorandum M-98-13 on Federal Use of Energy Savings Performance
+Contracts (ESPCs) and Utility Energy Service Contracts (UESCs)” (M-12-21, dated September 28, 2012),
+including the requirement that the federal government retain title to the onsite renewable energy generation
+system at the conclusion of the contract.
+The ESCO may be eligible for tax incentives such as the federal Investment Tax Credit (ITC) and the Modified
+Accelerated Cost Recovery System (MACRS). Internal Revenue Service (IRS) Revenue Procedure 2017-19
+(see https://www.irs.gov/pub/irs-irbs/irb17-07.pdf) provides a safe harbor (related to ITC eligibility) under
+which the IRS will not challenge the treatment of an ESPC ESA as a service contract under 26 U.S.C. §
+7701(e)(3). Section 4 specifies the following requirements that must be met to qualify for this safe harbor:
+“(1) Term. The total term of the ESPC ESA cannot exceed 20 years in length. The term must be
+consistent with and appropriate for the scope and scale of the renewable project.
+(2) Other Federal guidance. The ESPC ESA must satisfy the requirements of 42 U.S.C § 8287 and
+OMB Memorandum M-12-21.
+(3) Operation of Alternative Energy Facility. Under no circumstances will the FA3 attempt to operate
+the renewable energy generation asset. In the event of a shut-down or mechanical issue, FA will
+immediately notify the ESCO or its designated contractor.
+(4) Risk. The ESCO bears all financial risk for non-performance, except to the extent such non-
+performance is attributable to a temporary shut-down of the facility for repairs, maintenance, or
+capital improvements.
+(5) Reduced Costs. The contract price for electricity will not be reduced if operating costs should
+diminish.
+(6) Equipment Purchase. The FA may have the option to purchase, or may be required to purchase,
+the renewable energy generation asset at the end of the contract term, for its fair market value (FMV)
+at the time of the purchase.”
+3 FA=Federal Agency
+Page 4 of 38
+Tax incentive eligibility due diligence is the responsibility of the ESCO, not the government. The ESPC ESA
+price will not be modified if the IRS determines that the ESCO is not eligible for the tax incentives and the
+ESCO has no other recourse against the <agency>.
+The ESCO will transfer a portion of the payments it receives from <agency> each year into a reserve account
+held by the ESCO.4 The <agency> satisfies the obligation to take title to the PV System by the end of the
+contract through its annual payments over the course of the contract (and through any adjustments to the
+payments resulting from the ESCO's periodic reappraisals of the PV System FMV to ensure that the ESCO’s
+reserve account has sufficient funds by the point at which title is transferred).
+See Sections B.1 and H.3 for reserve account and FMV determination details. The total ESPC ESA price,

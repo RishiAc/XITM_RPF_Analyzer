@@ -1,0 +1,23 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0048
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 1. By submitting a proposal in response to this RFP, the Offeror, if selected for award, shall be deemed
+Section Number: 1.
+Section Type: submission_requirements
+Word Count: 99
+Character Count: 602
+Line Count: 8
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+1. By submitting a proposal in response to this RFP, the Offeror, if selected for award, shall be deemed
+to have accepted the terms and conditions of this RFP and the Standard Contract Agreement Sample
+attached hereto as Attachment A.
+2. Any exceptions to the terms and conditions of this RFP or the Contract must be clearly identified in
+the Technical Proposal. All exceptions will be taken into consideration when evaluating an Offeror’s
+proposal.
+3. A proposal that takes exception to these terms may be rejected and therefore determined to be not
+reasonably susceptible of being selected for award.

@@ -1,0 +1,21 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0038
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Site visits to any AOC location must be coordinated by AOC staff with the designated site personnel
+Section Number: 2.
+Section Type: general
+Word Count: 19
+Character Count: 134
+Line Count: 4
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+in advance of any visit.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 8

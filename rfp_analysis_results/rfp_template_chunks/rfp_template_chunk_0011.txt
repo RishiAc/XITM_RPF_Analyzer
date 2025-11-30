@@ -1,0 +1,73 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0011
+Source File: rfp_template.pdf
+Section Title: requirements associated with the ESCO’s reserve account. The ESCO could be required to obtain an FMV
+Section Number: None
+Phase: P2
+Word Count: 661
+Character Count: 4104
+Line Count: 46
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Award Basis
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 52.249-2, 52.249-2
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: esco, reserve, account, shall, appraisal, contract, agency, funds, system, specified
+
+=== CHUNK CONTENT ===
+requirements associated with the ESCO’s reserve account. The ESCO could be required to obtain an FMV
+appraisal right after contract award so that the government’s estimated FMV and the resulting reserve
+account payment can be confirmed. Consult with FEMP for assistance and updated information.]
+Title to the PV System shall be transferred to <Agency> for FMV, determined by the methodology specified in
+Section H.3.2, by the end of the contract and funds necessary for this purchase must be generated from a
+specified portion of the scheduled payments that are transferred to a reserve account held by the ESCO.
+H.3.1 ESCO’s Reserve Account
+Each <specify frequency – monthly, each year or other> the ESCO will transfer a specified portion of the
+payments it receives from the <agency> into a reserve account held by the ESCO. The ESCO’s deposit into
+the ESCO’s reserve account shall be < x> $/kWh as specified in Section B.1.
+[Modify the following paragraph based on the desired FMV re-appraisal intervals, the selection criteria for
+the entity that will conduct the appraisals and the associated credentials, and who will be responsible for the
+appraisal costs. Hiring one company to conduct all the appraisals may reduce costs, since subsequent
+appraisals should just involve an update to the initial appraisal.]
+An updated FMV appraisal shall be made at the following intervals <list desired intervals such as years 5, 10
+and 15>. If needed, the contract length7 and/or <agency’s> payment to be allocated to the ESCO’s reserve
+account shall be increased or decreased, through a contract modification. This will ensure that the ESCO’s
+reserve account has sufficient funds to reach the FMV of the PV System before title transfer to the <agency>.
+The <agency> may require additional FMV appraisals if the differential between the prior FMV appraisal and
+the current FMV appraisal is greater than 25%.
+The appraiser8 shall be selected by the ESCO, with approval by the <agency>. The FMV appraisal costs shall
+be borne by the ESCO.
+H.3.1.1 ESCO Reserve Account Fund Uses and Management
+[This section contains optional sample language regarding the management and use of the reserve account
+funds. The CO may include a clause requiring CO approval of all reserve account fund expenditures.]
+The ESCO’s reserve account funds are intended for the following uses only: FMV purchase, applied by the
+ESCO to final ESPC payments, a contract modification (i.e. additional equipment) and/or termination liability.
+In the case of termination, disbursement from the ESCO’s reserve account fund shall be negotiated through the
+termination settlement process, in accordance with FAR 52.249-2.
+7 The contract length can only be extended up to 20 years.
+8 Add Appraiser requirements. Possible language: “A nationally recognized, independent third-party Accredited
+Senior Appraiser with a specialty in machinery and equipment appraisal techniques applied to solar photovoltaic
+property. <Agency> shall be a named Intended User in the appraisal assignment, and shall be granted access to the
+complete work file supporting the appraisal.”
+Page 19 of 38
+An annual reserve account statement, including documentation of all reserve account activity during the year,
+shall be included in the annual M&V report. All costs of administering the ESCO’s reserve account shall be
+borne by the ESCO, rather than being taken out of the reserve account funds.
+Any funds in the ESCO reserve account in excess of the PV System FMV may, at the ESCO’s option, be
+applied by the ESCO to offset the final ESPC payment(s). The reserve account balance shall be zero by the
+end of the contract.
+H.3.2 Determination of Final FMV
+At least six months prior to the end of the contract the final PV System FMV appraisal shall be made. This
+value will be determined by an appraiser9. Such appraiser shall act reasonably and in good faith to
+determine the PV System FMV and shall set forth such determination in a written opinion delivered to the
+Parties. The valuation made by the appraiser shall be binding upon the Parties in the absence of fraud or

@@ -1,0 +1,39 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0021
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 3. Failure to acknowledge receipt of an addendum does not relieve the Offeror from complying with
+Section Number: 3.
+Section Type: general
+Word Count: 229
+Character Count: 1438
+Line Count: 22
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+the terms, additions, deletions, clarifications, or corrections set forth in the addendum, and may cause
+the proposal to be deemed not reasonably susceptible of being selected for award.
+G. CANCELLATIONS
+The AOC reserves the right to cancel this RFP; accept or reject any and all proposals, in whole or in part,
+received in response to this RFP; or, waive or permit cure of minor irregularities and conduct discussions
+with all Offerors in any manner necessary to serve the best interests of the AOC. The AOC also reserves the
+right, in its sole discretion, to award a Contract based upon the written proposals received without prior
+discussions or negotiations.
+H. PROTESTS/DISPUTES
+Any protest or dispute related to this solicitation or the resulting Contract shall be subject to the provisions
+of the Judicial Branch Procurement Policy.
+I. MULTIPLE OR ALTERNATE PROPOSALS
+Neither multiple nor alternate proposals will be accepted.
+J. ARREARAGES
+By submitting a proposal in response to this RFP, each Offeror represents that it is not in arrears in the
+payment of any obligations due and owing the State of Maryland, including the payment of taxes and
+employee benefits, and that it shall not become so in arrears during the term of the Contract, if selected for
+Contract award.
+K. VERIFICATION OF REGISTRATION AND TAX PAYMENT
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 6

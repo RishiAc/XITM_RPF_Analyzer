@@ -1,0 +1,22 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0053
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: such cancellation or restriction. All insurance policies shall name as an additional insured the
+Section Number: None
+Section Type: insurance_warranty
+Word Count: 94
+Character Count: 575
+Line Count: 7
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+such cancellation or restriction. All insurance policies shall name as an additional insured the
+Maryland Administrative Office of the Courts.
+3. The requiring of any and all insurance as set forth in this RFP, or elsewhere, shall be in addition to
+and not in any way in substitution for all the other protection provided under the Contract for
+acceptance and/or approval of any insurance by the Procurement Officer, and shall not be construed
+as relieving or excusing the Successful Offeror from any liability or obligation imposed upon it by
+the provisions of the Contract.

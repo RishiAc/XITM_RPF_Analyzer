@@ -1,0 +1,32 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0033
+Source File: 2-RFP 2000004198.pdf
+Section Title: 6.5. While on site work is not required in some cases, the Offeror shall describe their ability for their
+Section Number: 6.5.
+Section Type: general
+Word Count: 211
+Character Count: 1309
+Line Count: 17
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+6.5. While on site work is not required in some cases, the Offeror shall describe their ability for their
+assigned staff to work on-site within FCG, DIT, FCPS, or other County agency sites or other
+offsite locations as mutually agreed upon. The primary location for FCG and DIT will be Fairfax
+County Government Center complex, 12000 Government Center Parkway, Fairfax, Virginia
+22035.
+6.6. Working hours for IT Staff Augmentation: The Offerors’ staff are expected to perform their
+assigned duties during the County’s normal hours of 8:00 a.m. to 4:30 p.m., Monday through
+Friday, with a 30-minute lunch break:
+A. The Offeror is required to follow the FCG and/or FCPS Holiday calendar and inclement
+weather policies as applicable or directed by authorized FCG or FCPS personnel.
+Holiday calendars are published annually or may be obtained from FCG or FCPS
+authorized personnel. The hours that do not work are not billable to the County.
+B. The County may need the offeror to be on call where the Offeror’s staff may be required
+to participate in the on-call rotation. The rotation intervals vary per assignment.
+C. The Offeror(s) shall supply time sheets for their staff/consultants. The Offeror’s staff or
+consultants shall not work simultaneously on work for other customers while working
+at Fairfax County.

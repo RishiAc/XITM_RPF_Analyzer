@@ -1,0 +1,20 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0047
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 12. During the contract, if necessary, for the delivery of goods and services, the Successful Offeror may
+Section Number: 12.
+Section Type: general
+Word Count: 49
+Character Count: 294
+Line Count: 3
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+be provided an AOC asset in the form of a cell phone, laptop, or other electronic device. All AOC
+devices are the property of the AOC and must be returned in working, acceptable condition at the
+contract’s conclusion. If said devices are not in working acceptable conditions, Successful Offeror

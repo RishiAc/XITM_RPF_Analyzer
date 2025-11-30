@@ -1,0 +1,30 @@
+RFP Analysis Summary
+===================
+
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Processing Date: 2025-10-27 16:59:51
+Total Chunks: 33
+Total Sections: 33
+Total Characters: 74,569
+Total Words: 10,214
+
+FAR/DFARS References Found: 0
+
+Eligibility Types Found: 1
+  - Small Business
+
+Evaluation Types Found: 3
+  - Cost
+  - Price
+  - Technical
+
+Pricing Models Found: 0
+
+Risk Level Distribution:
+  - Low: 28 chunks
+  - Medium: 5 chunks
+
+Phase Distribution:
+  - P2: 10 chunks
+  - P1: 20 chunks
+  - P3: 3 chunks

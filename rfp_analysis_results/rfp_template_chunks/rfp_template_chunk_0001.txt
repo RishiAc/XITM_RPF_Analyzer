@@ -1,0 +1,74 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0001
+Source File: rfp_template.pdf
+Section Title: General
+Section Number: None
+Phase: P1
+Word Count: 472
+Character Count: 3124
+Line Count: 47
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Award Basis
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 23.205
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: section, should, contract, agency, part, staff, award, clauses, appropriate, contracting
+
+=== CHUNK CONTENT ===
+RFP Template
+[Throughout this template, fill-in-the-blank areas are indicated with the symbols <> and notes are indicated
+by [ ]. Footnotes provide additional background information.
+Disclaimer: This template is intended to be used as a resource. Agency staff should adhere to their agency’s
+policies and requirements, and should use their agency’s templates and forms, as appropriate. The RFP
+should be carefully reviewed by agency counsel, agency contracting staff and other appropriate agency staff.
+This is not a complete RFP. It does not include Sections C, E, and M, which are a required part of a complete
+RFP. Sections C and E are covered in the “Procurement Specifications Templates for Onsite Solar
+Photovoltaic: For Use in Developing Federal Solicitations” (see
+https://energy.gov/eere/femp/downloads/procurement-specifications-templates-site-solar-photovoltaic-use-
+developing). Section M will be added to a future version of this document.
+This RFP assumes that FAR Part 12 Commercial Items is utilized. Agency contracting and legal staff should
+determine if this is appropriate. The clauses, especially the Davis Bacon Act and The Service Contract Act
+clauses, should be carefully reviewed to ensure that there is no conflict between FAR Parts . The RFP should
+be modified accordingly if an agency decides not to use FAR Part 12.
+To solicit and award an ESPC without a multiple award contract, a contracting officer should refer to the
+procedures, selection method, and terms and conditions provided in 42 USC § 8287 and FAR 23.205(c) Solicit
+and Award.
+A Notice of Intent to Award (NOITA) step could be added before contract award. This would allow the
+government to ensure that the energy service company (ESCO, also referred to as the Contractor in this RFP)
+has everything in order for a successful project; including project financing, evidence of bonds/insurance, a
+signed interconnection agreement and/or other criteria.
+There may be some provisions in the RFP that should be moved to the site access agreement.
+Contracting/legal staff should coordinate with real property staff to determine the appropriate document for
+the relevant clauses. Clause duplication should be avoided to prevent language conflicts that may occur due to
+document edits]
+Page 1 of 38
+Table of Contents
+SF 1449, Solicitation/Contract/Order for Commercial Items
+Part I – The Schedule
+Section A – Solicitation/contract form
+Section B – Supplies or services and prices/costs
+Section C – Description/specifications/statement of work*
+Section D – Packaging and marking
+Section E – Inspection and acceptance*
+Section F – Deliveries or performance
+Section G – Contract administration data
+Section H – Special contract requirements
+Part II – Contract Clauses
+Section I – Contract Clauses
+Part III – List of Documents, Exhibits, and Other Amendments
+Section J – List of attachments
+Part IV – Representations and Instructions
+Section K – Representations, certifications, and other statements of offerors or
+respondents
+Section L – Instructions, conditions, and notices to offerors or respondents
+Section M - Evaluation factors for award*

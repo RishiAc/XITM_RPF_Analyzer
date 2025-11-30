@@ -1,0 +1,30 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0130
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 2. Selection Procedures:
+Section Number: 2.
+Section Type: general
+Word Count: 146
+Character Count: 993
+Line Count: 13
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+a. Technical Proposals are evaluated for technical merit and ranked. During this review, oral
+presentations, interviews, and discussions may be held. The purpose of such discussions
+shall be to assure a full understanding of the AOCs requirements and the Offeror’s ability to
+perform, and to facilitate understanding of the Contract that shall be most advantageous to
+the AOC.
+(1) At the discretion of the Procurement Officer, following the recommendation of the
+Evaluation Committee, a shortlist of Offerors may be established during the
+technical evaluation. Only shortlisted Offerors would continue in the evaluation
+process; Offerors not shortlisted shall be so advised.
+(2) Offerors must confirm in writing any substantive oral clarifications of, or changes
+in, their Technical Proposal made during discussions. Any such written clarifications
+or changes become part of the Offeror’s Technical Proposal.
+(3) The AOC may require any Offeror to furnish additional information regarding past

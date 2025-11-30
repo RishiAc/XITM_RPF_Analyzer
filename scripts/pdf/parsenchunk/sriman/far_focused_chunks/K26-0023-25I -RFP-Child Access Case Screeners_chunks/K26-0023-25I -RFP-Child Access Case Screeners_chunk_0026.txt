@@ -1,0 +1,26 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0026
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: 6. The security identification badge shall always be displayed while on AOC premises. To verify
+Section Number: 6.
+Section Type: security_compliance
+Word Count: 140
+Character Count: 928
+Line Count: 11
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+6. The security identification badge shall always be displayed while on AOC premises. To verify
+identity, the Successful Offeror personnel shall be prepared to provide photo identification upon
+request by an AOC employee.
+7. Successful Offeror personnel are required to immediately notify the Contract Manager, the
+Administrative Official of the respective department or office or the Contract Manager, if their
+security identification badge is lost or stolen.
+8. The Successful Offeror personnel must notify the Contract Manager, the Administrative Official of
+the respective department or office, within one (1) business day if any personnel have been arrested,
+indicted, served with a criminal summons, named in a peace or protective order, or named as a
+defendant in any civil case. The Successful Offeror personnel are also required to provide regular
+updated information regarding the status of any of these court actions.

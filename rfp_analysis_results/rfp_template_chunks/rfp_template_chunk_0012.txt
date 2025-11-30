@@ -1,0 +1,69 @@
+=== CHUNK METADATA ===
+Chunk ID: rfp_template_chunk_0012
+Source File: rfp_template.pdf
+Section Title: manifest error. The cost of the appraisal shall be borne by the ESCO.
+Section Number: None
+Phase: P4
+Word Count: 512
+Character Count: 3207
+Line Count: 42
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: SMALL_BUSINESS
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: FAR 17.108
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: agency, srecs, purchase, contract, shall, contractor, esco, title, system, notification
+
+=== CHUNK CONTENT ===
+manifest error. The cost of the appraisal shall be borne by the ESCO.
+The final FMV amount shall be compared to the ESCO’s reserve account balance. If there is a shortfall; the
+<agency> shall ensure that there will be sufficient funds by the end of the contract by one or more of the
+following:
+1) Increase reserve account payment.
+2) Increase the contract length.
+3) Use agency funds, subject to availability of appropriations.
+A contract modification may be required.
+H.3.3 Title Transfer of the PV System for FMV
+By the end of the contract, the <agency> shall accept title to the PV System from the ESCO at FMV, as
+determined per Section H.3.2, using the funds in the ESCO’s reserve account.
+Upon title transfer, the Parties will promptly execute all documents necessary to (A) cause title to the PV
+system to pass to the <agency>, free and clear of any encumbrances and (B) assign all warranties for the PV
+panels and other PV System equipment to the <agency>.
+H.4 Congressional Notification
+[Modify this section based on FAR 17.108 provisions that apply to your agency and any other agency-specific
+policies. FEMP congressional notification information is available at
+http://energy.gov/sites/prod/files/2014/07/f17/espc_congressional_notification.pdf]
+FAR 17.108 requires agencies to notify Congress at least 30 days prior to the award of certain proposed
+multiyear contracts. Congressional notification will be required for this contract if the cancellation ceiling
+exceeds <$135.5 million for DoD, NASA and Coast Guard; $13.5 million for other agencies, or other
+amount based on current FAR/agency policies>.
+9 Add Appraiser requirements that are the same or more stringent than the initial appraisal requirements.
+Page 20 of 38
+The contract may then be awarded only after the end of the 30-day period beginning on the date the
+notification is received by Congress.
+H.5 Disposition of Solar Renewable Energy Certificate (SRECs)
+[Agency should decide whether they want to purchase the project SRECs based on the applicable SREC
+market price. The Contractor could be required to purchase replacement RECs or the agency should plan to
+purchase replacement RECs, if needed for compliance with the current RE goal. It may be beneficial for an
+agency to purchase the SRECs in the latter years of the contract when the SREC value will likely be low or
+zero. Contact FEMP for assistance in developing appropriate RFP language.]
+[If the agency would like the Contractor to sell the SRECs and reduce the ESPC ESA price:]
+The Government’s purchase of energy from the PV Systems excludes any associated SRECs. The Contractor
+is free to sell the SRECs <and shall purchase replacement RECs on behalf of the agency or agency will
+purchase replacement RECs>. The Contractor is responsible for fulfilling all requirements necessary for the
+SREC sale. It is anticipated that SREC proceeds may allow the Contractor to proposal the <agency> a lower
+ESPC ESA price.
+[If the agency would like to purchase the SRECs with the electricity:]
+The SRECs shall be <transferred to the agency or retired on the agency’s behalf in one of the REC tracking
+systems10>.
+H.6 Small Business Subcontracting Plan and Reporting Requirement

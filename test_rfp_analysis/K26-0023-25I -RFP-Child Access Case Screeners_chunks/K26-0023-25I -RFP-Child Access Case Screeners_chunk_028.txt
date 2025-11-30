@@ -1,0 +1,40 @@
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_028
+Section: 2. Acknowledgments
+Section Number: 2
+Section Type: general
+Phase: P1
+Due Dates: None
+Eligibility: None
+Evaluation Type: Technical
+Pricing Model: None
+Risk Level: Low
+FAR References: None
+Keywords: insurance, offeror, being, shall, requirements
+Word Count: 275
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+================================================================================
+
+2. Acknowledgments
+a. Exceptions to Terms & Conditions: Offeror shall acknowledge any exceptions to the
+requirements of this RFP, the Contract (Attachment A), or any other attachments on the
+Procurement Portal. Offerors answering “Yes” shall provide any exceptions as a submittal
+in the Technical Proposal. Exceptions to terms and conditions may result in having the
+proposal deemed unacceptable or classified as not reasonably susceptible of being selected
+for award.
+b. Addenda Acknowledgment: Offeror shall acknowledge receipt of any addenda on the
+Procurement Portal. Failure to acknowledge addenda may result in your proposal being
+found not reasonably susceptible of being selected for award.
+c. Insurance Acknowledgment: Offeror shall acknowledge they have reviewed the insurance
+requirements, as written in Section II of this RFP, on the Procurement Portal. Offerors are
+reminded that only the Successful Offeror is required to meet the insurance requirements,
+and the Successful Offeror is not required to provide a Certificate of Insurance (COI)
+meeting the written insurance requirements until receiving notification from the AOC that
+they are the Apparent Awardee. If the Offeror requires additional insurance coverage to meet
+the written insurance requirements in this RFP, the Offeror shall ensure that such potential
+additional insurance expenses are reflected and included in their Financial Proposal. Failure
+to acknowledge insurance requirements may result in your proposal being found not
+reasonably susceptible of being selected for award.
+d. Attachment O – Resource Acknowledgment: Offerors shall submit an Attachment O –
+Resource Acknowledgment for each proposed resource. Failure to submit a completed
+Attachment O – Resource Acknowledgment, completed by the proposed resource(s), may
+result in your proposal being found not reasonably susceptible of being selected for award.

@@ -1,0 +1,66 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0016
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: C. OFFEROR & RESOURCE QUALIFICATIONS
+Section Number: None
+Section Type: vendor_qualifications
+Word Count: 452
+Character Count: 3109
+Line Count: 49
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+C. OFFEROR & RESOURCE QUALIFICATIONS
+1. The Offeror shall have one (1) year of experience in providing recruitment, staffing, and/or otherwise
+providing professional consulting services. If the Offeror is the proposed resource and is not
+represented by a recruitment/staffing agency, this minimum requirement will not apply.
+2. The Offeror shall propose resource(s) that meet the following minimum qualifications:
+a. Bachelor’s degree in social work, psychology, human services, counseling, or a similar field,
+as determined by the AOC.
+3. The AOC prefers the following:
+a. Offeror proposed resource(s) to have a master’s degree in social work, psychology, human
+services, counseling, or a similar field, as determined by the AOC.
+b. Offeror proposed resource (s) has three (3) years’ experience conducting interviews with
+clients/patients/parties in a clinical or court related setting.
+D. SCOPE OF WORK
+1. Offeror proposed resource(s) shall be responsible for using the Mediator’s Assessment of Safety
+Issues and Concerns – Short (MASIC-S) screening tool to conduct confidential interviews, virtually
+via Zoom, with parties in child access cases and make recommendations to the courts as to whether
+the case is appropriate for referral to mediation. The AOC will provide the MASIC-S interview tool
+in Qualtrics and access to Zoom and Jabber phone capabilities to facilitate interviews.
+2. Offeror proposed resource(s) will be provided access to MDEC to report time for each screening, as
+well as administrative time for each case.
+E. OFFEROR RESOURCE(S) SKILLS, EXPERIENCE, & CAPABILITIES
+1. Offeror shall propose resource(s) possessing the following preferred skills, experience, and
+capabilities:
+a. Skill in:
+(1) Conducting interviews with clients;
+(2) Working with sensitive issues and commitment to respecting the confidential nature
+of the program; and,
+(3) Identifying intimate partner violence (IPV), domestic violence, and/or child abuse.
+Solicitation No. K26-0023-25I – Child Access Case Screeners – mdcourts.gov/procurement
+Rev. 03/25/2025
+Page 18
+b. Knowledge of IPV/domestic violence/child abuse issues.
+c. Ability to:
+(1) Interact sensitively with traumatized populations and to be empathetic to those who
+have been victims of IPV/domestic violence/child abuse;
+(2) Work with diverse populations;
+(3) Work independently; and,
+(4) Maintain confidential information.
+d. Excellent organizational skills with the ability to meet deadlines.
+F. PLACE OF PERFORMANCE
+1. Work shall be performed 100% remote at a suitable off-site location selected by the Offeror/Offeror
+Resource(s).
+a. The AOC reserves the right to determine an off-site location is not suitable (e.g., crowded
+public space with distracting background noise during meetings).
+b. The Offeror proposed resource may not perform remote work from a country other than the
+United States of America without prior approval from the Contract Manager. Unless there
+are extenuating circumstances, Offerors shall not anticipate receiving approval for remote
+work from a country other than the United States of America.
+G. SCHEDULE & COORDINATION

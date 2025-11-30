@@ -1,0 +1,30 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0070
+Source File: 2-RFP 2000004198.pdf
+Section Title: 19.2. The Contractor shall, during the continuance of all work under the contract provide the
+Section Number: 19.2.
+Section Type: general
+Word Count: 147
+Character Count: 961
+Line Count: 15
+
+=== FAR REFERENCES ===
+FAR References Found: 0
+FAR References: None
+
+=== CHUNK CONTENT ===
+19.2. The Contractor shall, during the continuance of all work under the contract provide the
+following:
+a. Statutory Workers' Compensation and Employer's Liability insurance in limits of not less
+than $1,000,000 to protect the Contractor from any liability or damages for any injuries
+(including death and disability) to any and all of its employees, including any and all liability
+or damage which may arise by virtue of any statute or law in force within the
+Commonwealth of Virginia.
+b. Commercial General Liability insurance in the amount of $1,000,000 per occurrence/
+$2,000,000 in aggregate, to protect the Contractor, its sub-Contractors, and the interest of
+the County, its officers, employees and agents against any and all injuries to third parties,
+including bodily injury and personal injury, wherever located, resulting from any action or
+operation under the Contract or in connection with the contracted work.
+17
+RFP 2000004198
+SPECIAL PROVISIONS

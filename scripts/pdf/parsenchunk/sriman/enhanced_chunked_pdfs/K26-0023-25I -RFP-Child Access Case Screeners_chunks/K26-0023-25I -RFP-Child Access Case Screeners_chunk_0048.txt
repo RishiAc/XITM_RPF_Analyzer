@@ -1,0 +1,19 @@
+=== CHUNK METADATA ===
+Chunk ID: K26-0023-25I -RFP-Child Access Case Screeners_chunk_0048
+Source File: K26-0023-25I -RFP-Child Access Case Screeners.pdf
+Section Title: may be responsible for the cost of said device(s). All devices must be regularly updated as specified
+Section Number: None
+Section Type: budget_pricing
+Word Count: 19
+Character Count: 109
+Line Count: 2
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+by the manufacturer and JIS and must adhere to all confidentiality guidelines as provided by JIS and
+the AOC.

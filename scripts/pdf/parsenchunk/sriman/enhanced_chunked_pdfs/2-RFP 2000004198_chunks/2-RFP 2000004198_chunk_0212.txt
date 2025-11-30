@@ -1,0 +1,24 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0212
+Source File: 2-RFP 2000004198.pdf
+Section Title: 21. SPECIFICATIONS-When a solicitation contains a specification that states no substitutes, no deviation therefrom will be permitted
+Section Number: 21.
+Section Type: technical_requirements
+Word Count: 101
+Character Count: 662
+Line Count: 7
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+and the bidder will be required to furnish articles in conformity with that specification.
+The bidder must abide by and comply with the true intent of the specifications and not take advantage of any unintentional error
+or omission, but shall fully complete every part as the true intent and meaning of the specifications and drawings. Whenever the
+mention is made of any articles, material, or workmanship to be in accordance with laws, ordinances, building codes, underwriter's
+codes, A.S.T.M. regulations or similar expressions, the requirements of these laws, ordinances, etc., shall be construed as to the
+minimum requirements of these specifications.
+AWARD

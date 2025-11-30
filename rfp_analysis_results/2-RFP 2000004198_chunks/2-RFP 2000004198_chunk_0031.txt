@@ -1,0 +1,97 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0031
+Source File: 2-RFP 2000004198.pdf
+Section Title: instructions.
+Section Number: None
+Phase: P4
+Word Count: 963
+Character Count: 6054
+Line Count: 70
+
+=== KEY DATES ===
+Due Dates: None
+
+=== ELIGIBILITY ===
+Eligibility Types: None
+
+=== EVALUATION ===
+Evaluation Type: Not specified
+
+=== GOVERNMENT REFERENCES ===
+FAR References: None
+DFARS References: None
+
+=== KEYWORDS ===
+Top Keywords: county, contract, contractor, services, equipment, delivery, shall, must, unless, otherwise
+
+=== CHUNK CONTENT ===
+instructions.
+47. POINT OF DESTINATION-All materials shipped to the County must be shipped F.O.B. DESTINATION unless otherwise stated
+in the contract or purchase order. The materials must be delivered to the "Ship to" address indicated on the purchase order.
+48. ADDITIONAL CHARGES-Unless bought F.O.B. "shipping point" and Contractor prepays transportation, no delivery charges
+shall be added to invoices except when express delivery is authorized and substituted on orders for the method specified in the
+contract. In such cases, difference between freight or mail and express charges may be added to invoice.
+49. METHOD AND CONTAINERS-Unless otherwise specified, goods shall be delivered in commercial packages in standard
+commercial containers that are constructed to ensure acceptance by common or other carrier for safe transportation to the point
+of delivery. Containers become the property of the County unless otherwise specified by bidder.
+50. REPLACEMENT-Materials or components that have been rejected by the Purchasing Agent, in accordance with the terms of a
+contract, shall be replaced by the Contractor at no cost to the County.
+51. PACKING SLIPS OR DELIVERY TICKETS-All shipments must be accompanied by Packing Slips or Delivery Tickets and must
+contain the following information for each item delivered:
+a. The Purchase Order Number,
+b. The Name of the Article and Stock Number (Supplier's),
+29
+RFP 2000004198
+Appendix A
+GENERAL CONDITIONS AND INSTRUCTIONS TO BIDDERS
+c. The Quantity Ordered,
+d. The Quantity Shipped,
+e. The Quantity Back Ordered,
+f. The Name of the Contractor.
+Contractors are cautioned that failure to comply with these conditions is sufficient reason for the County’s refusal to accept the
+goods.
+BILLING
+52. BILLING-Billing for the Fairfax County Public Schools and for County agencies: Unless otherwise specified on the contract or
+purchase order (PO), invoices are to be submitted for each purchase order immediately upon completion of the shipment or
+services. Invoices should be mailed to the "BILL TO" address on the PO or to the appropriate address specified in the contract.
+PAYMENTS
+53. PAYMENT-Payment shall be made after satisfactory performance that is in accordance with all provisions of the contract, and
+upon receipt of a properly completed invoice. The County reserves the right to withhold any or all payments or portions thereof
+for Contractor's failure to perform in accordance with the provision of the contract or any subsequent modifications.
+54. PARTIAL PAYMENTS-Unless otherwise specified, partial payments will be made upon acceptance of materials or services so
+invoiced if in accordance with completion date. However, up to 5 percent (5%) of the value of the entire order may be retained
+until completion of contract.
+55. PAYMENT FOR EQUIPMENT, INSTALLATION, AND TESTING-When equipment requires installation (which includes erection,
+setting up or placing in position, service, or use) and testing, and the installation or testing is delayed, payment may be made on
+the basis of 50% of the contract price when such equipment is delivered on the site. A further allowance of 25% may be made
+when the equipment is installed and ready for test. The balance shall be paid after the equipment is tested and found to be
+satisfactory. If the equipment must be tested, but installation is not required to be made by the Contractor or if the equipment
+must be installed but testing is not required, payment may be made on the basis of 75% at the time of delivery and the balance
+shall be paid after satisfactory test or installation is completed.
+GENERAL
+56. GENERAL GUARANTY-Contractor agrees to:
+a. Save the County, its agents and employees harmless from liability of any nature or kind for the use of any copyrighted or
+uncopyrighted composition; secret process, patented or unpatented; invention; article or appliance furnished or used in the
+performance of a contract for which the Contractor is not the patentee, assignee, licensee or owner.
+b. Warrant that when the contract includes a software license, or use of licensed software, the Contractor is the owner of the
+Software or otherwise has the right to grant to the County the license to use the Software granted through the Contract
+without violating or infringing any law, rule, regulation, copyright, patent, trade secret or other proprietary right of any third
+party.
+c. Protect the County against latent defective material or workmanship and to repair or replace any damages or marring
+occasioned in transit or delivery.
+d. Furnish adequate protection against damage to all work and to repair damages of any kind to the building or equipment, to
+his or her own work or to the work of other contractors, for which his or her workers are responsible.
+e. Pay for all permits, licenses and fees and give all notices and comply with all laws, ordinances, rules, regulations, and
+policies of the County.
+f. Protect the County from loss or damage to County owned property while it is in the custody of the Contractor.
+57. SERVICE CONTRACT GUARANTY-Contractor agrees to:
+a. Furnish services described in the solicitation and resultant contract at the times and places and in the manner and subject
+to conditions of those documents provided that the County may reduce the said services at any time.
+b. Enter upon the performance of services with all due diligence and dispatch, assiduously press to its complete performance,
+and exercise therein the highest degree of skill and competence.
+c. All work and services rendered in strict conformance to all laws, statues, and ordinances and the applicable government
+rules, regulations, methods, and procedures.
+d. Allow services to be inspected or reviewed by an employee of the County at any reasonable time and place selected by the
+County. The County is under no obligation to compensate Contractor for any services not rendered in strict conformity with
+the contract.
+e. Stipulate that the presence of a County Inspector shall not lessen the obligation of the Contractor for performance in

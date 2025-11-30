@@ -1,0 +1,18 @@
+=== CHUNK METADATA ===
+Chunk ID: 2-RFP 2000004198_chunk_0085
+Source File: 2-RFP 2000004198.pdf
+Section Title: 11.1. The subsequent contract will be a firm-fixed price agreement. The fee(s) will remain firm and
+Section Number: 11.1.
+Section Type: general
+Word Count: 16
+Character Count: 99
+Line Count: 1
+
+=== GOVERNMENT POLICIES ===
+All Policy References: None
+FAR References: None
+DFARS References: None
+Clause References: None
+
+=== CHUNK CONTENT ===
+will include all charges that may be incurred in fulfilling the requirements of the contract during
