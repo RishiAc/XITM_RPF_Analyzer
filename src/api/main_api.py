@@ -1,4 +1,4 @@
-from . import query_table_api, vector_api, chunk_api, llm_eval_api, query_api
+from . import query_table_api, vector_api, chunk_api, llm_eval_api, query_api, scoring_api
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -19,8 +19,4 @@ app.include_router(chunk_api.router)
 app.include_router(query_table_api.router)
 app.include_router(llm_eval_api.router)
 app.include_router(query_api.router)
-
-
-@app.get("/health")
-def health():
-    return {"ok": True}
+app.include_router(scoring_api.router)
