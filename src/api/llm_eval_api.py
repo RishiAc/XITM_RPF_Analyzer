@@ -154,12 +154,20 @@ def orchestrate_and_evaluate(body: OrchestrateBody):
 
         # Update Supabase RFP_Evals table
         for query in results:
+            # Use evaluation if available, otherwise use generated_summary
+            if "evaluation" in query:
+                llm_answer = query["evaluation"]["explanation"]
+                score = query["evaluation"]["score"]
+            else:
+                llm_answer = query.get("generated_summary", "")
+                score = 1  # Default score when there's no knowledge_base_answer to evaluate
+            
             insert_json = {
                 "rfp_id": body.rfp_doc_id,
                 "query_number": query["query_number"],
                 "query_text": query["rfp_query_text"],
-                "query_llm_answer": query["evaluation"]["explanation"],
-                "score": query["evaluation"]["score"],
+                "query_llm_answer": llm_answer,
+                "score": score,
                 "rfp_citation_chunks": [topk["text"] for topk in query["rfp_topk"]],
                 "knowledge_base_chunk": query.get("knowledge_base_answer"),
                 "query_phase": query["query_phase"]

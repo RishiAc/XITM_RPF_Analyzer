@@ -17,6 +17,7 @@ export async function fetchRFPs() {
 
   const formatted = data.map((row) => ({
     id: row.id,
+    doc_id: row.doc_id,
     title: `RFP ${row.name}`,
   }));
   console.log(formatted)

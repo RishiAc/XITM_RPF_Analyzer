@@ -27,6 +27,7 @@ if OPENAI_API_KEY:
 
 # ---- singletons ----
 _app_model = SentenceTransformer(EMBED_MODEL)
+_reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 _client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY, timeout=20)
 print(SUPABASE_URL)
 _sb: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
@@ -73,11 +74,11 @@ def _embed(chunks: List[Dict[str, Union[int, str]]]) -> List[List[float]]:
 def _fetch_query_table(query_numbers: Optional[List[int]] = None) -> List[Dict]:
     """
     SELECT query_number, knowledge_base_answer, rfp_query_text, weight, query_phase
-    FROM public.Query_Table
+    FROM public.Query_Table_duplicate
     [WHERE query_number IN (...)]
     ORDER BY query_number ASC
     """
-    q = _sb.table("Query_Table").select(
+    q = _sb.table("Query_Table_duplicate").select(
         "query_number, knowledge_base_answer, rfp_query_text, weight, query_phase"  # Added query_phase
     ).order("query_number", desc=False)
 
@@ -227,9 +228,8 @@ def orchestrate_queries(body: OrchestrateBody):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"orchestrate-queries error: {type(e).__name__}: {e}")
 def rerank(hits, query):
-    reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
     texts = [hit.payload["text"] for hit in hits]
-    scores = reranker.predict([(query, text) for text in texts])
+    scores = _reranker.predict([(query, text) for text in texts])
     
     # Return structured results with text and metadata
     reranked_results = [
