@@ -1,75 +1,40 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useParams, useLocation } from "react-router-dom";
 import Navbar from "../components/Navbar";
-import MetricCircle from "../components/MetricCircle";
+import PhaseCard from "../components/PhaseCard";
 import "./ChatPage.css";
 
-const phaseBlueprint = [
-  {
-    id: "P1",
-    label: "Phase 1",
-    title: "Eligibility & Kickoff",
-    metrics: [
-      { label: "Due Date Realism", value: 87, max: 100, color: "#3b82f6" },
-      { label: "Eligibility Status", value: 92, max: 100, color: "#10b981" },
-    ],
-    bullets: [
-      "Due date realism",
-      "Eligibility and set-aside status",
-      "High-level SOW alignment",
-    ],
-  },
-  {
-    id: "P2",
-    label: "Phase 2",
-    title: "Scope & Technical Fit",
-    metrics: [
-      { label: "SOW Alignment", value: 85, max: 100, color: "#3b82f6" },
-      { label: "Submission Readiness", value: 78, max: 100, color: "#10b981" },
-    ],
-    bullets: [
-      "Detailed SOW review",
-      "Proposal submission instructions (volumes, past performance requirements, resumes, formatting)",
-      "Mandatory certifications or clearances",
-    ],
-  },
-  {
-    id: "P3",
-    label: "Phase 3",
-    title: "Evaluation Alignment",
-    metrics: [
-      { label: "Evaluation Score", value: 79, max: 100, color: "#f59e0b" },
-      { label: "Competitive Position", value: 82, max: 100, color: "#3b82f6" },
-    ],
-    bullets: [
-      "Evaluation criteria",
-      "Award basis (LPTA vs Best Value)",
-      "Competitive intelligence (new vs recompete, incumbent research)",
-    ],
-  },
-  {
-    id: "P4",
-    label: "Phase 4",
-    title: "Pricing & Submission",
-    metrics: [
-      { label: "Timeline Readiness", value: 88, max: 100, color: "#10b981" },
-      { label: "Pricing Alignment", value: 83, max: 100, color: "#3b82f6" },
-    ],
-    bullets: [
-      "Key dates and events (questions due, conferences, site visits)",
-      "Pricing model (FFP, T&M, Labor Hour)",
-    ],
-  },
+// Phase configuration - metadata for each capture phase
+const PHASE_CONFIG = [
+    { id: "P1", title: "Eligibility & Kickoff" },
+    { id: "P2", title: "Scope & Technical Fit" },
+    { id: "P3", title: "Evaluation Alignment" },
+    { id: "P4", title: "Pricing & Submission" }
 ];
 
+// Static requirements data (can be made dynamic later)
 const fulfilledRequirements = [
-  { id: 1, text: "SAM.gov registration verified", status: "complete", category: "Compliance" },
-  { id: 2, text: "SDVOSB certification confirmed", status: "complete", category: "Eligibility" },
-  { id: 3, text: "Past performance references compiled", status: "complete", category: "Evaluation" },
-  { id: 4, text: "Technical capability matrix completed", status: "in-progress", category: "Technical" },
-  { id: 5, text: "Pricing workbook 60% complete", status: "in-progress", category: "Pricing" },
-  { id: 6, text: "FAR clause compliance review", status: "pending", category: "Compliance" },
+    { id: 1, text: "SAM.gov registration verified", status: "complete", category: "Compliance" },
+    { id: 2, text: "SDVOSB certification confirmed", status: "complete", category: "Eligibility" },
+    { id: 3, text: "Past performance references compiled", status: "complete", category: "Evaluation" },
+    { id: 4, text: "Technical capability matrix completed", status: "in-progress", category: "Technical" },
+    { id: 5, text: "Pricing workbook 60% complete", status: "in-progress", category: "Pricing" },
+    { id: 6, text: "FAR clause compliance review", status: "pending", category: "Compliance" },
 ];
+
+/**
+ * Group queries by their phase
+ * @param {Array} queries - Array of query objects from orchestrate-eval API
+ * @returns {Object} - Object with phase IDs as keys and arrays of queries as values
+ */
+const groupByPhase = (queries) => {
+  return queries.reduce((acc, query) => {
+    const phaseKey = `P${query.query_phase ?? 1}`;
+    if (!acc[phaseKey]) acc[phaseKey] = [];
+    acc[phaseKey].push(query);
+    return acc;
+  }, {});
+};
 
 const ChatPage = () => {
     const { id } = useParams();
@@ -80,6 +45,50 @@ const ChatPage = () => {
     const [messages, setMessages] = useState([]);
     const [input, setInput] = useState("");
     const [expandedPhase, setExpandedPhase] = useState(null);
+    const [phaseData, setPhaseData] = useState({});
+    const [isLoading, setIsLoading] = useState(false);
+
+    // Fetch evaluation data from orchestrate-eval API
+    useEffect(() => {
+        const fetchEvaluationData = async () => {
+            if (!id) return;
+            
+            setIsLoading(true);
+            try {
+                // Call the orchestrate-eval API
+                const response = await fetch(`http://localhost:8080/eval/orchestrate-eval`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        rfp_id: id,
+                        rfp_doc_id: id,
+                        top_k: 5
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error('Failed to fetch evaluation data');
+                }
+
+                const data = await response.json();
+                
+                // Group queries by phase
+                if (data.queries) {
+                    const grouped = groupByPhase(data.queries);
+                    setPhaseData(grouped);
+                }
+            } catch (error) {
+                console.error('Error fetching evaluation data:', error);
+                // Keep phaseData empty on error - PhaseCard will show empty state
+            } finally {
+                setIsLoading(false);
+            }
+        };
+
+        fetchEvaluationData();
+    }, [id]);
 
     const sendMessage = () => {
         if (!input.trim()) return;
@@ -91,11 +100,11 @@ const ChatPage = () => {
         setInput("");
     };
 
-    const handlePhaseClick = (phase) => {
-        if (expandedPhase?.id === phase.id) {
+    const handlePhaseClick = (phaseId) => {
+        if (expandedPhase === phaseId) {
             setExpandedPhase(null);
         } else {
-            setExpandedPhase(phase);
+            setExpandedPhase(phaseId);
         }
     };
 
@@ -221,41 +230,20 @@ const ChatPage = () => {
 
                 {/* Right Sidebar with Phases */}
                 <aside className="phases-panel">
-                    <h4 className="phases-panel-title">Capture Phases</h4>
+                    <h4 className="phases-panel-title">
+                        Capture Phases
+                        {isLoading && <span className="loading-indicator"> (Loading...)</span>}
+                    </h4>
                     <div className="phases-grid">
-                        {phaseBlueprint.map((phase) => (
-                            <div
+                        {PHASE_CONFIG.map((phase) => (
+                            <PhaseCard
                                 key={phase.id}
-                                className={`phase-box ${expandedPhase?.id === phase.id ? "expanded" : ""}`}
-                                onClick={() => handlePhaseClick(phase)}
-                            >
-                                <div className="phase-box-header">
-                                    <span className="phase-id">{phase.id}</span>
-                                    <span className="phase-title">{phase.title}</span>
-                                </div>
-                                {expandedPhase?.id === phase.id && (
-                                    <div className="phase-box-content">
-                                        <div className="phase-metrics-grid">
-                                            {phase.metrics.map((metric, idx) => (
-                                                <MetricCircle
-                                                    key={idx}
-                                                    value={metric.value}
-                                                    max={metric.max}
-                                                    label={metric.label}
-                                                    color={metric.color}
-                                                />
-                                            ))}
-                                        </div>
-                                        <div className="phase-details">
-                                            <ul>
-                                                {phase.bullets.map((bullet, idx) => (
-                                                    <li key={idx}>{bullet}</li>
-                                                ))}
-                                            </ul>
-                                        </div>
-                                    </div>
-                                )}
-                            </div>
+                                id={phase.id}
+                                title={phase.title}
+                                queries={phaseData[phase.id] || []}
+                                isExpanded={expandedPhase === phase.id}
+                                onToggle={() => handlePhaseClick(phase.id)}
+                            />
                         ))}
                     </div>
                 </aside>

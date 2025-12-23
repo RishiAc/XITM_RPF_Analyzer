@@ -406,6 +406,14 @@
   border-bottom: 2px solid #e5e7eb;
 }
 
+.loading-indicator {
+  font-size: 11px;
+  font-weight: 400;
+  color: #6b7280;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
 .phases-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
