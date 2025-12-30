@@ -1,3 +1,5 @@
+import { client } from "./client";
+
 const BASE_URL = "http://localhost:8080";  // backend origin
 
 /**
@@ -100,7 +102,6 @@ export async function evaluateLLM(docId, query, qaAnswer, topK = 5) {
  * @param {string} rfp_doc_id
  */
 
-import { client } from "./client";
 
 export async function queryRFP(query, rfp_doc_id) {
 

@@ -1,14 +1,30 @@
-.venv
-__pycache__
-*.pyc
-*.pyo
-*.pyd
-.env
-.env.*
+# Git & editor stuff
 .git
 .gitignore
 .vscode
 .idea
-dist
-build
-data/sample_pdfs/*
+*.swp
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Env files
+.env
+.env.*
+*.pem
+
+# Node/React junk we don't want in the Python image
+node_modules
+**/node_modules
+src/frontend/node_modules
+src/frontend/build
+src/frontend/.next
+src/frontend/dist
+
+# Tests / artifacts (optional)
+coverage/
+htmlcov/
+*.log
