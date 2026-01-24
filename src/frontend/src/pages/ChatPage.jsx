@@ -61,44 +61,40 @@ const ChatPage = () => {
     chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
-  // Fetch evaluation data from orchestrate-eval API
-  useEffect(() => {
-    const fetchEvaluationData = async () => {
-      if (!id) return;
+  // Fetch evaluation data from batch-orchestrate-eval API (button-triggered)
+  const fetchEvaluationData = async () => {
+    if (!id) return;
 
-      setIsLoading(true);
-      try {
-        const response = await fetch("http://localhost:8080/eval/batch-orchestrate-eval", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            rfp_id: id,
-            rfp_doc_id: id,
-            top_k: 5,
-            batch_size: 4
-          }),
-        });
+    setIsLoading(true);
+    try {
+      const response = await fetch("http://localhost:8080/eval/batch-orchestrate-eval", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          rfp_id: id,
+          rfp_doc_id: id,
+          top_k: 5,
+          batch_size: 4
+        }),
+      });
 
-        if (!response.ok) throw new Error("Failed to fetch evaluation data");
+      if (!response.ok) throw new Error("Failed to fetch evaluation data");
 
-        const data = await response.json();
+      const data = await response.json();
 
-        if (data.queries) {
-          const grouped = groupByPhase(data.queries);
-          setPhaseData(grouped);
-        } else {
-          setPhaseData({});
-        }
-      } catch (error) {
-        console.error("Error fetching evaluation data:", error);
+      if (data.queries) {
+        const grouped = groupByPhase(data.queries);
+        setPhaseData(grouped);
+      } else {
         setPhaseData({});
-      } finally {
-        setIsLoading(false);
       }
-    };
-
-    fetchEvaluationData();
-  }, [id]);
+    } catch (error) {
+      console.error("Error fetching evaluation data:", error);
+      setPhaseData({});
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   const sendMessage = async () => {
     if (!input.trim() || loading) return;
@@ -335,10 +331,16 @@ const ChatPage = () => {
 
         {/* Right Sidebar with Phases */}
         <aside className="phases-panel">
-          <h4 className="phases-panel-title">
-            Capture Phases
-            {isLoading && <span className="loading-indicator"> (Loading...)</span>}
-          </h4>
+          <div className="phases-panel-header">
+            <h4 className="phases-panel-title">Capture Phases</h4>
+            <button
+              className="run-analysis-btn"
+              onClick={fetchEvaluationData}
+              disabled={isLoading}
+            >
+              {isLoading ? "Analyzing..." : "Run Analysis"}
+            </button>
+          </div>
 
           <div className="phases-grid">
             {PHASE_CONFIG.map((phase) => (

@@ -1,21 +1,15 @@
 import os
 import json
 import openai
-import psycopg2
-import re
 from fastapi import APIRouter, HTTPException
-from .models import SearchBody, EvaluateRequest, BatchOrchestrateEvalBody, BatchQueryResult, BatchResponse  # Updated import
+from .models import BatchOrchestrateEvalBody, BatchQueryResult, BatchResponse
 from typing import List, Dict, Any
-from fastapi import APIRouter, HTTPException
-import re, json
-from .vector_api import orchestrate_queries, search, OrchestrateBody  # import search/orchestrator here
+from .vector_api import orchestrate_queries, OrchestrateBody
 from supabase import create_client
+from tenacity import retry, stop_after_attempt, wait_random_exponential
 
 # ---- Environment ----
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-DB_URL = os.getenv("SUPABASE_URL")
-VECTOR_API_URL = "http://localhost:8000/vector/search"
-MOCK_DB = True
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 
@@ -28,66 +22,16 @@ router = APIRouter(prefix="/eval", tags=["LLM Evaluation"])
 
 supabase_client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
-# ---- Database Helper ----
-def get_db_conn():
-    if MOCK_DB:
-        return None
-    try:
-        conn = psycopg2.connect(DB_URL)
-        conn.autocommit = True
-        return conn
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Database connection failed: {e}")
 
-# ---- Request Models ----
-
-
-def _evaluate_alignment(qa_answer: str, retrieved_texts: List[str]) -> dict:
-    """
-    Shared helper: given a firm's QA answer and a list of retrieved RFP excerpts,
-    call the LLM and return a dict like {"score": int, "explanation": str}.
-    """
-    # Truncate for safety/readability
-    truncated = [t[:500] for t in retrieved_texts]
-
-    prompt = f"""
-        You are evaluating how well a firm's capabilities align with the RFP requirements.
-
-        Rate from 1–5:
-        1 = No alignment
-        2 = Weakly related
-        3 = Some relevant overlap
-        4 = Strong alignment with minor gaps
-        5 = Fully aligned, comprehensive match
-
-        Return JSON only:
-        {{"score": <int>, "explanation": "<brief reasoning>"}}
-
-        Firm Capabilities:
-        {qa_answer}
-
-        RFP Statement of Work excerpts:
-        {chr(10).join(['- ' + t for t in truncated])}
-    """
-
-    completion = openai.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.2,
-    )
-
-    text = completion.choices[0].message.content
-    m = re.search(r'(\{.*"score".*\})', text, re.S)
-    if not m:
-        raise ValueError("Could not parse LLM response as JSON")
-    return json.loads(m.group(1))
-
-
+@retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
 def _process_batch(batch_queries: List[Dict[str, Any]]) -> BatchResponse:
     """
     Process a batch of queries in a single OpenAI API call.
     Each query is tagged as either 'evaluate' or 'summarize'.
     Returns structured BatchResponse with results for each query.
+    
+    Uses exponential backoff with jitter (1-60s) and retries up to 6 times
+    on rate limit or transient errors.
     """
     # Build the JSON payload for the batch
     batch_payload = {"queries": batch_queries}
@@ -150,138 +94,6 @@ Return a JSON object with a "results" array containing one object per query with
         ))
     
     return BatchResponse(results=results)
-
-
-@router.post("/llm-eval")
-def evaluate_llm_test(body: EvaluateRequest):
-    """
-    Standalone endpoint:
-    - runs vector search for the given (doc_id, query, top_k)
-    - evaluates how well qa_answer aligns using _evaluate_alignment.
-    """
-    try:
-        # 1️⃣ Build SearchBody and run vector search
-        search_body = SearchBody(
-            doc_id=body.doc_id,
-            query=body.query,
-            top_k=body.top_k,
-        )
-        search_results = search(search_body)  # uses rerank + qdrant
-
-        # 2️⃣ Slice to top_k results
-        k = body.top_k or 5
-        top_hits = search_results[:k]
-
-        # 3️⃣ Extract text from each result dictionary
-        retrieved_texts = [hit.get("text", "") for hit in top_hits]
-
-        # 4️⃣ Delegate to shared LLM helper
-        return _evaluate_alignment(body.qa_answer, retrieved_texts)
-
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Evaluation failed: {e}")
-
-
-@router.post("/orchestrate-eval")
-def orchestrate_and_evaluate(body: OrchestrateBody):
-    """
-    Calls vector.orchestrate-queries and for each query:
-      - if knowledge_base_answer exists -> score alignment using _evaluate_alignment
-      - else -> generate a concise summary of top-k matches.
-    Also writes results into Supabase RFP_Evals.
-    """
-    try:
-        orch = orchestrate_queries(body)
-        queries = orch.get("queries", [])
-        results = []
-
-        k = body.top_k or 5
-
-        for q in queries:
-            qnum = q.get("query_number")
-            rq = q.get("rfp_query_text", "")
-            kb = (q.get("knowledge_base_answer") or "").strip()
-            topk = q.get("rfp_topk", []) or []
-
-            item = {
-                "query_number": qnum,
-                "rfp_query_text": rq,
-                "query_phase": q.get("query_phase"),
-                "weight": q.get("weight"),
-                "rfp_topk": topk,
-            }
-
-            # Use precomputed top-k texts from orchestrate-queries
-            excerpts = [t.get("text", "") for t in topk[:k]]
-
-            if kb:
-                # Evaluate alignment between KB answer and RFP excerpts
-                try:
-                    eval_res = _evaluate_alignment(kb, excerpts)
-                    item.update(
-                        {
-                            "knowledge_base_answer": kb,
-                            "evaluation": eval_res,
-                        }
-                    )
-                except Exception as e:
-                    item.update({"evaluation_error": str(e)})
-            else:
-                # No KB answer -> summarize RFP excerpts
-                try:
-                    prompt = (
-                        "Summarize in 1-3 sentences the relevant points from these "
-                        "excerpts for the query:\n\n"
-                        f"Query: {rq}\n\n" + "\n\n".join(excerpts)
-                    )
-                    completion = openai.chat.completions.create(
-                        model="gpt-4o-mini",
-                        messages=[{"role": "user", "content": prompt}],
-                        temperature=0.0,
-                    )
-                    summary = completion.choices[0].message.content.strip()
-                    item.update({"generated_summary": summary})
-                except Exception as e:
-                    item.update({"summary_error": str(e)})
-
-            results.append(item)
-
-        return_val = {
-            "rfp_id": body.rfp_id,
-            "total_queries": len(results),
-            "queries": results,
-        }
-
-        # ---- Update Supabase RFP_Evals table ----
-        for query in results:
-            # Use evaluation if available, otherwise generated_summary
-            if "evaluation" in query:
-                llm_answer = query["evaluation"]["explanation"]
-                score = query["evaluation"]["score"]
-            else:
-                llm_answer = query.get("generated_summary", "")
-                score = 1  # default when there's no KB answer to evaluate
-
-            insert_json = {
-                "rfp_id": body.rfp_doc_id,
-                "query_number": query["query_number"],
-                "query_text": query["rfp_query_text"],
-                "query_llm_answer": llm_answer,
-                "score": score,
-                "rfp_citation_chunks": [t.get("text", "") for t in query["rfp_topk"]],
-                "knowledge_base_chunk": query.get("knowledge_base_answer"),
-                "query_phase": query["query_phase"],
-            }
-
-            supabase_client.table("RFP_Evals").insert(insert_json).execute()
-
-        return return_val
-
-    except HTTPException:
-        # Just bubble up any explicit HTTPExceptions
-        raise
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"orchestrate-eval error: {e}")
 
 
 @router.post("/batch-orchestrate-eval")
