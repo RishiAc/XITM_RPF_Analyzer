@@ -8,10 +8,11 @@
   cursor: pointer;
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   overflow: hidden;
-  min-height: 100px;
+  aspect-ratio: 1 / 1;
   display: flex;
   flex-direction: column;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
+  justify-content: center;
 }
 
 .phase-card:hover {
@@ -22,18 +23,29 @@
 
 .phase-card.expanded {
   grid-column: 1 / -1;
-  min-height: auto;
+  aspect-ratio: auto;
+  min-height: 120px;
   max-height: 400px;
   border-color: var(--primary-blue, #3b82f6);
   box-shadow: 0 8px 24px rgba(59, 130, 246, 0.2);
   background: linear-gradient(135deg, #ffffff 0%, #f9fafb 100%);
   overflow-y: auto;
+  justify-content: flex-start;
 }
 
 /* Phase Card Header */
 .phase-card-header {
   display: flex;
+  flex-direction: column;
   align-items: center;
+  text-align: center;
+  gap: 8px;
+  padding-bottom: 0;
+}
+
+.phase-card.expanded .phase-card-header {
+  flex-direction: row;
+  text-align: left;
   gap: 12px;
   padding-bottom: 12px;
 }
@@ -41,12 +53,12 @@
 .phase-card-id {
   font-weight: 700;
   color: #ffffff;
-  font-size: 14px;
-  min-width: 36px;
-  height: 36px;
+  font-size: 18px;
+  min-width: 48px;
+  height: 48px;
   background: linear-gradient(135deg, var(--primary-blue, #3b82f6) 0%, #2563eb 100%);
   padding: 0;
-  border-radius: 8px;
+  border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -54,23 +66,62 @@
   box-shadow: 0 2px 4px rgba(59, 130, 246, 0.2);
 }
 
+.phase-card.expanded .phase-card-id {
+  font-size: 14px;
+  min-width: 36px;
+  height: 36px;
+  border-radius: 8px;
+}
+
 .phase-card-title {
   flex: 1;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 13px;
   color: #1f2937;
-  line-height: 1.5;
+  line-height: 1.4;
   margin: 0;
 }
 
+.phase-card.expanded .phase-card-title {
+  font-size: 14px;
+  text-align: left;
+}
+
 .phase-card-count {
-  font-size: 11px;
+  font-size: 10px;
   color: #6b7280;
   background-color: #f3f4f6;
-  padding: 4px 8px;
+  padding: 3px 8px;
   border-radius: 12px;
   font-weight: 500;
   flex-shrink: 0;
+}
+
+.phase-card.expanded .phase-card-count {
+  font-size: 11px;
+  padding: 4px 8px;
+}
+
+/* Phase Card Score - Mini MetricCircle */
+.phase-card-score {
+  flex-shrink: 0;
+  transform: scale(0.45);
+  transform-origin: center center;
+  margin: -20px 0;
+}
+
+.phase-card.expanded .phase-card-score {
+  transform: scale(0.5);
+  transform-origin: center right;
+  margin: -16px -12px -16px 0;
+}
+
+.phase-card-score .metric-circle-container {
+  gap: 2px;
+}
+
+.phase-card-score .metric-label {
+  display: none;
 }
 
 /* Phase Card Content (Expanded) */

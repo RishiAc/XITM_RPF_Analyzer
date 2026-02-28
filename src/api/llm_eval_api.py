@@ -1,12 +1,24 @@
 import os
+import re
 import json
+import logging
 import openai
+from openai import RateLimitError, APIError, APIConnectionError
 from fastapi import APIRouter, HTTPException
 from .models import BatchOrchestrateEvalBody, BatchQueryResult, BatchResponse
 from typing import List, Dict, Any
 from .vector_api import orchestrate_queries, OrchestrateBody
 from supabase import create_client
-from tenacity import retry, stop_after_attempt, wait_random_exponential
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    retry_if_exception_type,
+    before_sleep_log,
+    after_log
+)
+
+# ---- Logging ----
+logger = logging.getLogger(__name__)
 
 # ---- Environment ----
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -23,20 +35,51 @@ router = APIRouter(prefix="/eval", tags=["LLM Evaluation"])
 supabase_client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 
-@retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
+def dynamic_wait(retry_state):
+    """Parse Retry-After from OpenAI errors; use 25s minimum for free tier (3 RPM)."""
+    exc = retry_state.outcome.exception()
+    error_str = str(exc)
+    
+    # Parse "try again in Xh Xm Xs" from error message
+    hours = minutes = seconds = 0
+    if h := re.search(r'(\d+)h', error_str): hours = int(h.group(1))
+    if m := re.search(r'(\d+)m', error_str): minutes = int(m.group(1))
+    if s := re.search(r'(\d+(?:\.\d+)?)s', error_str): seconds = float(s.group(1))
+    retry_after = hours * 3600 + minutes * 60 + seconds
+    
+    # Use Retry-After if reasonable (<2 min), otherwise exponential backoff
+    attempt = retry_state.attempt_number
+    if 0 < retry_after < 120:
+        wait = retry_after + 1
+    else:
+        wait = min(25 * (2 ** (attempt - 1)), 120)  # 25s base for free tier, max 120s
+    
+    logger.info(f"Rate limited. Waiting {wait:.1f}s (attempt {attempt}, retry_after={retry_after:.1f}s)")
+    return wait
+
+
+@retry(
+    retry=retry_if_exception_type((RateLimitError, APIError, APIConnectionError)),
+    wait=dynamic_wait,
+    stop=stop_after_attempt(15),
+    before_sleep=before_sleep_log(logger, logging.WARNING),
+    after=after_log(logger, logging.INFO),
+    reraise=True
+)
 def _process_batch(batch_queries: List[Dict[str, Any]]) -> BatchResponse:
     """
     Process a batch of queries in a single OpenAI API call.
     Each query is tagged as either 'evaluate' or 'summarize'.
     Returns structured BatchResponse with results for each query.
     
-    Uses exponential backoff with jitter (1-60s) and retries up to 6 times
-    on rate limit or transient errors.
+    Dynamically waits based on OpenAI's Retry-After header. Uses 25s minimum
+    for free tier (3 RPM). Retries up to 15 times on rate limit errors.
     """
     # Build the JSON payload for the batch
     batch_payload = {"queries": batch_queries}
     
-    system_prompt = """You are an expert analyst processing multiple queries about RFP documents.
+    system_prompt = """You are a business development analyst for an IT government contracting firm processing multiple queries about RFP documents.
+
 You will receive a JSON object with an array of queries. Each query has:
 - query_number: unique identifier
 - task: either "evaluate" or "summarize"
@@ -44,17 +87,24 @@ You will receive a JSON object with an array of queries. Each query has:
 - rfp_excerpts: relevant excerpts from the RFP document
 - knowledge_base_answer: (only for "evaluate" tasks) the firm's capabilities to evaluate
 
-For "evaluate" tasks:
-Rate alignment from 1-5:
-1 = No alignment
-2 = Weakly related
-3 = Some relevant overlap
-4 = Strong alignment with minor gaps
-5 = Fully aligned, comprehensive match
-Provide a brief explanation of your reasoning.
+### Ground Rules:
+1. You MUST base your response solely on the rfp_excerpts provided for each query.
+2. Assume the person reading your response does not have the RFP document. You MUST quote specific text from the excerpts.
+3. Your responses should be as specific and verbose as possible, citing exact phrases, requirements, dates, or specifications from the excerpts.
+4. Include direct quotes from the excerpts to support your analysis.
 
-For "summarize" tasks:
-Provide a concise 1-3 sentence summary of the relevant points from the excerpts.
+### For "evaluate" tasks:
+Rate alignment from 1-5:
+1 = No alignment - the firm's capabilities do not address any RFP requirements
+2 = Weakly related - minimal overlap between capabilities and requirements
+3 = Some relevant overlap - partial alignment with gaps
+4 = Strong alignment with minor gaps - most requirements addressed
+5 = Fully aligned, comprehensive match - all requirements clearly addressed
+
+Provide a detailed explanation citing specific quotes from the RFP excerpts that support your score. Explain exactly which requirements from the RFP are met or not met by the firm's capabilities.
+
+### For "summarize" tasks:
+Provide a comprehensive summary answering the query based on the excerpts. Include specific details, quotes, dates, requirements, and any relevant information found in the excerpts. Be thorough and verbose.
 
 Process each query independently and return results in the same order."""
 
@@ -66,8 +116,8 @@ Return a JSON object with a "results" array containing one object per query with
 - query_number: the query's identifier
 - task_type: "evaluate" or "summarize"
 - score: (only for evaluate) integer 1-5
-- explanation: (only for evaluate) brief reasoning
-- summary: (only for summarize) 1-3 sentence summary"""
+- explanation: (only for evaluate) detailed reasoning with specific quotes from the excerpts
+- summary: (only for summarize) comprehensive summary with specific details and quotes from the excerpts"""
 
     completion = openai.chat.completions.create(
         model="gpt-4o-mini",
@@ -122,8 +172,8 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
         if not queries:
             raise HTTPException(status_code=400, detail="No queries found")
         
-        k = body.top_k or 5
-        batch_size = body.batch_size or 4
+        k = body.top_k or 20  # Match chat feature's top_k
+        batch_size = body.batch_size or 2  # Default 2 for free tier; increase to 4+ on paid tier
         
         # 2) Prepare queries with task tags
         tagged_queries = []
@@ -135,8 +185,8 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
             kb = (q.get("knowledge_base_answer") or "").strip()
             topk = q.get("rfp_topk", []) or []
             
-            # Extract excerpts (truncate for token limits)
-            excerpts = [t.get("text", "")[:500] for t in topk[:k]]
+            # Extract excerpts (full text, no truncation)
+            excerpts = [t.get("text", "") for t in topk[:k]]
             
             # Store metadata for later Supabase writes
             query_metadata[qnum] = {
@@ -204,8 +254,8 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
             
             final_results.append(item)
             
-            # Write to Supabase RFP_Evals
-            insert_json = {
+            # Write to Supabase RFP_Evals (upsert to replace existing evaluations)
+            upsert_json = {
                 "rfp_id": body.rfp_doc_id,
                 "query_number": qnum,
                 "query_text": meta.get("rfp_query_text", ""),
@@ -215,7 +265,7 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
                 "knowledge_base_chunk": meta.get("knowledge_base_answer"),
                 "query_phase": meta.get("query_phase"),
             }
-            supabase_client.table("RFP_Evals").insert(insert_json).execute()
+            supabase_client.table("RFP_Evals").upsert(upsert_json, on_conflict="rfp_id,query_number").execute()
         
         return {
             "rfp_id": body.rfp_id,
@@ -229,3 +279,92 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"batch-orchestrate-eval error: {e}")
+
+
+@router.get("/get-evals")
+def get_existing_evaluations(rfp_id: str):
+    """
+    Fetch existing evaluations from Supabase RFP_Evals table.
+    Returns evaluations in the same format as batch-orchestrate-eval,
+    along with calculated scores.
+    """
+    try:
+        # Query RFP_Evals table for this RFP
+        response = (
+            supabase_client
+            .table("RFP_Evals")
+            .select("query_number, query_text, query_llm_answer, score, query_phase, rfp_citation_chunks, knowledge_base_chunk")
+            .eq("rfp_id", rfp_id)
+            .order("query_number")
+            .execute()
+        )
+        
+        if not response.data:
+            return {
+                "rfp_id": rfp_id,
+                "total_queries": 0,
+                "queries": [],
+                "scores": None
+            }
+        
+        # Transform rows into frontend format (matching batch-orchestrate-eval output)
+        queries = []
+        phase_totals = {1: {"sum": 0, "count": 0}, 2: {"sum": 0, "count": 0}, 
+                        3: {"sum": 0, "count": 0}, 4: {"sum": 0, "count": 0}}
+        
+        for row in response.data:
+            query_phase = row.get("query_phase") or 1
+            score = row.get("score") or 1
+            kb_chunk = row.get("knowledge_base_chunk")
+            llm_answer = row.get("query_llm_answer") or ""
+            
+            # Build query item in same format as batch-orchestrate-eval
+            item = {
+                "query_number": row.get("query_number"),
+                "rfp_query_text": row.get("query_text") or "",
+                "query_phase": query_phase,
+                "rfp_topk": [{"text": chunk} for chunk in (row.get("rfp_citation_chunks") or [])],
+            }
+            
+            # If knowledge_base_chunk exists, this was an "evaluate" task
+            if kb_chunk:
+                item["knowledge_base_answer"] = kb_chunk
+                item["evaluation"] = {
+                    "score": score,
+                    "explanation": llm_answer
+                }
+            else:
+                # This was a "summarize" task
+                item["generated_summary"] = llm_answer
+            
+            queries.append(item)
+            
+            # Accumulate for score calculation
+            if 1 <= query_phase <= 4:
+                phase_totals[query_phase]["sum"] += score
+                phase_totals[query_phase]["count"] += 1
+        
+        # Calculate phase scores (average score per phase)
+        phase_scores = {}
+        total_sum = 0
+        total_count = 0
+        for phase_num in range(1, 5):
+            pt = phase_totals[phase_num]
+            if pt["count"] > 0:
+                phase_scores[f"phase{phase_num}"] = pt["sum"] / pt["count"]
+                total_sum += pt["sum"]
+                total_count += pt["count"]
+            else:
+                phase_scores[f"phase{phase_num}"] = 0.0
+        
+        phase_scores["total"] = total_sum / total_count if total_count > 0 else 0.0
+        
+        return {
+            "rfp_id": rfp_id,
+            "total_queries": len(queries),
+            "queries": queries,
+            "scores": phase_scores
+        }
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"get-evals error: {e}")

@@ -19,6 +19,11 @@ docker run -d --name rfp-api \
   xitm-rfp-api:dev
 docker logs -f rfp-api
 
+
+docker build -t xitm-rfp-api:dev -f deployment/docker/dockerfile .
+docker rm -f xitm-rfp-api-dev
+docker run --name xitm-rfp-api-dev --env-file .env -p 8080:8080 -d xitm-rfp-api:dev
+
 ### You should only have one container running with the same name, otherwize you'll run into errors
 
 ### Try running this in your terminal after running the API. should return ok 

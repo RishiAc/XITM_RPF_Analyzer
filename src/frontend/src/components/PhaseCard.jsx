@@ -1,4 +1,5 @@
 import React from "react";
+import MetricCircle from "./MetricCircle";
 import "./PhaseCard.css";
 
 /**
@@ -8,26 +9,36 @@ import "./PhaseCard.css";
  * 
  * @param {string} id - Phase identifier (e.g., "P1", "P2")
  * @param {string} title - Phase title (e.g., "Eligibility & Kickoff")
+ * @param {number} score - Phase score (1-5 scale)
  * @param {Array} queries - Array of query objects from orchestrate-eval API
  * @param {boolean} isExpanded - Whether the phase card is expanded
  * @param {function} onToggle - Callback when card is clicked to toggle expansion
  */
-const PhaseCard = ({ id, title, queries = [], isExpanded, onToggle }) => {
+const PhaseCard = ({ id, title, score, queries = [], isExpanded, onToggle }) => {
     
     /**
      * Get color class based on score (1-5 scale)
      */
-    const getScoreColor = (score) => {
-        if (score >= 4) return "score-high";
-        if (score >= 3) return "score-medium";
+    const getScoreColor = (scoreVal) => {
+        if (scoreVal >= 4) return "score-high";
+        if (scoreVal >= 3) return "score-medium";
         return "score-low";
+    };
+
+    /**
+     * Get color hex based on score (1-5 scale)
+     */
+    const getScoreColorHex = (scoreVal) => {
+        if (scoreVal >= 4) return "#10b981"; // green
+        if (scoreVal >= 3) return "#f59e0b"; // yellow
+        return "#ef4444"; // red
     };
 
     /**
      * Get score label text
      */
-    const getScoreLabel = (score) => {
-        switch (score) {
+    const getScoreLabel = (scoreVal) => {
+        switch (scoreVal) {
             case 5: return "Excellent";
             case 4: return "Strong";
             case 3: return "Moderate";
@@ -45,9 +56,22 @@ const PhaseCard = ({ id, title, queries = [], isExpanded, onToggle }) => {
             <div className="phase-card-header">
                 <span className="phase-card-id">{id}</span>
                 <span className="phase-card-title">{title}</span>
-                <span className="phase-card-count">
-                    {queries.length} {queries.length === 1 ? "query" : "queries"}
-                </span>
+                
+                {/* Show MetricCircle if score is available, otherwise show query count */}
+                {score !== undefined && score !== null ? (
+                    <div className="phase-card-score">
+                        <MetricCircle
+                            value={Number(score.toFixed(1))}
+                            max={5}
+                            label=""
+                            color={getScoreColorHex(score)}
+                        />
+                    </div>
+                ) : (
+                    <span className="phase-card-count">
+                        {queries.length} {queries.length === 1 ? "query" : "queries"}
+                    </span>
+                )}
             </div>
 
             {isExpanded && (
@@ -105,4 +129,3 @@ const PhaseCard = ({ id, title, queries = [], isExpanded, onToggle }) => {
 };
 
 export default PhaseCard;
-

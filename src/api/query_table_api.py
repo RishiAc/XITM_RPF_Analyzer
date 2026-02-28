@@ -7,7 +7,7 @@ import os
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 
-query_table = create_client(SUPABASE_URL, SUPABASE_KEY).table("Query_Table")
+query_table = create_client(SUPABASE_URL, SUPABASE_KEY).table("Query_Table_duplicate")
 router = APIRouter(prefix="/knowledge_base", tags=["knowledge_base"])
 
 class CreateBody(BaseModel):
