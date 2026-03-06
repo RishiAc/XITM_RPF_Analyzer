@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
-from api.clients.supabase import _sb
+from .clients.supabase import _sb
 
 router = APIRouter(prefix="/score", tags=["score"])
 

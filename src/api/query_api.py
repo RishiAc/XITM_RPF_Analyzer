@@ -1,9 +1,9 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
-from api.vector_api import search, SearchBody
+from .vector_api import search, SearchBody
 from pprint import pprint
 from qdrant_client.models import ScoredPoint
-from api.clients.openai import get_chat_completion
+from .clients.openai import get_chat_completion
 
 router = APIRouter(prefix="/query", tags=["query"])
 

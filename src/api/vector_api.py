@@ -49,21 +49,22 @@ def _ensure_collection(dim: int):
 
 def _ensure_payload_index():
     """
-    Create an index on payload key 'doc_id' so we can filter by it.
+    Create indexes on payload keys 'doc_id' and 'doc_type' so we can filter by them.
     Qdrant expects KEYWORD (exact-match) for MatchValue filters.
     """
-    try:
-        _client.create_payload_index(
-            collection_name=QDRANT_COLLECTION,
-            field_name="doc_id",
-            field_schema=models.PayloadSchemaType.KEYWORD,
-        )
-    except UnexpectedResponse as e:
-        code = getattr(e, "status_code", None)
-        # 409: already indexed; 403: not allowed (ok if already exists)
-        if code in (409, 403):
-            return
-        raise
+    for field in ("doc_id", "doc_type"):
+        try:
+            _client.create_payload_index(
+                collection_name=QDRANT_COLLECTION,
+                field_name=field,
+                field_schema=models.PayloadSchemaType.KEYWORD,
+            )
+        except UnexpectedResponse as e:
+            code = getattr(e, "status_code", None)
+            # 409: already indexed; 403: not allowed (ok if already exists)
+            if code in (409, 403):
+                continue
+            raise
 
 def _embed(chunks: List[Dict[str, Union[int, str]]]) -> List[List[float]]:
     texts = [chunk["text"] for chunk in chunks]
@@ -79,7 +80,7 @@ def _fetch_query_table(query_numbers: Optional[List[int]] = None) -> List[Dict]:
     ORDER BY query_number ASC
     """
     q = _sb.table("Query_Table_duplicate").select(
-        "query_number, knowledge_base_answer, rfp_query_text, weight, query_phase"  # Added query_phase
+        "query_number, knowledge_base_answer, knowledge_base_chunks, rfp_query_text, weight, query_phase"  # Added query_phase
     ).order("query_number", desc=False)
 
     if query_numbers:
@@ -93,6 +94,7 @@ router = APIRouter(prefix = "/vector", tags=["vector"])
 class IngestBody(BaseModel):
     doc_id: str
     chunks: List[Dict[str, Union[int, str]]]
+    doc_type: Optional[str] = "rfp"  # "rfp" or "company"
 
 class SearchBody(BaseModel):
     doc_id: str
@@ -128,14 +130,16 @@ def ingest_chunks(body: IngestBody):
 
         # Use UUIDs for Qdrant point IDs (required: int or UUID)
         points = []
+        doc_type = body.doc_type or "rfp"
         for i, c in enumerate(body.chunks):
             pid = str(uuid.uuid5(uuid.NAMESPACE_URL, f"{body.doc_id}:{i}"))  # deterministic UUID
             vector = vecs[i]
+            payload = {"doc_id": body.doc_id, "doc_type": doc_type, "text": c["text"], "page_num": c["chunk_num"]}
             points.append(
                 models.PointStruct(
                     id=pid,
                     vector=vector,
-                    payload={"doc_id": body.doc_id, "text": c["text"], "page_num": c["chunk_num"]}
+                    payload=payload
                 )
             )
 
@@ -195,7 +199,7 @@ def orchestrate_queries(body: OrchestrateBody):
         for row in rows:
             qnum = row.get("query_number")
             rfp_q = (row.get("rfp_query_text") or "").strip()
-            kb_ans = (row.get("knowledge_base_answer") or "").strip()
+            kb_chunks = (row.get("knowledge_base_chunks") or [])
             weight = row.get("weight")
             phase = row.get("query_phase")  # Get the phase
 
@@ -211,7 +215,7 @@ def orchestrate_queries(body: OrchestrateBody):
                 "rfp_id": body.rfp_id,
                 "query_number": qnum,
                 "rfp_query_text": rfp_q,
-                "knowledge_base_answer": kb_ans,
+                "knowledge_base_chunks": kb_chunks,
                 "weight": weight,
                 "query_phase": phase,  # Include phase in output
                 "rfp_topk": rfp_topk,
@@ -227,6 +231,43 @@ def orchestrate_queries(body: OrchestrateBody):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"orchestrate-queries error: {type(e).__name__}: {e}")
+def search_company_docs(query: str, top_k: int = 5):
+    """Search only company documents (doc_type='company') in Qdrant."""
+    qvec = _embed([{"text": query}])[0]
+    filt = models.Filter(
+        must=[models.FieldCondition(key="doc_type", match=models.MatchValue(value="company"))]
+    )
+    hits = _client.search(
+        collection_name=QDRANT_COLLECTION,
+        query_vector=qvec,
+        limit=top_k,
+        query_filter=filt,
+        with_payload=True,
+    )
+    return rerank(hits, query)
+
+
+def compute_evidence_for_query(query_number: int):
+    """Pre-compute company doc chunks for a single query and store in Query_Table_duplicate."""
+    row = _sb.table("Query_Table_duplicate").select("rfp_query_text").eq("query_number", query_number).single().execute()
+    if not row.data:
+        return
+    query_text = (row.data.get("rfp_query_text") or "").strip()
+    if not query_text:
+        _sb.table("Query_Table_duplicate").update({"knowledge_base_chunks": []}).eq("query_number", query_number).execute()
+        return
+    results = search_company_docs(query_text, top_k=5)
+    chunks = [{"text": r["text"], "source": r.get("doc_id", ""), "score": r.get("score", 0)} for r in results]
+    _sb.table("Query_Table_duplicate").update({"knowledge_base_chunks": chunks}).eq("query_number", query_number).execute()
+
+
+def compute_evidence_for_all_queries():
+    """Pre-compute company doc chunks for all queries in Query_Table_duplicate."""
+    rows = _sb.table("Query_Table_duplicate").select("query_number").execute()
+    for row in (rows.data or []):
+        compute_evidence_for_query(row["query_number"])
+
+
 def rerank(hits, query):
     texts = [hit.payload["text"] for hit in hits]
     scores = _reranker.predict([(query, text) for text in texts])

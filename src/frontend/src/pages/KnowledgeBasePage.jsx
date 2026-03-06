@@ -1,191 +1,196 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import Navbar from "../components/Navbar";
+import KBPhaseCard from "../components/KBPhaseCard";
 import "./KnowledgeBasePage.css";
 import {
-	fetchQueries as fetchQueriesApi,
-	createOrUpdateQuery,
-	deleteQuery as deleteQueryApi,
+    fetchQueries as fetchQueriesApi,
+    createOrUpdateQuery,
+    deleteQuery as deleteQueryApi,
 } from "../api/knowledgebase";
+import { getAuthUrl, getStatus, syncFolder } from "../api/gdrive";
+
+const PHASES = [
+    { id: "P1", title: "Eligibility & Kickoff", phase: 1 },
+    { id: "P2", title: "Scope & Technical Fit", phase: 2 },
+    { id: "P3", title: "Evaluation Alignment", phase: 3 },
+    { id: "P4", title: "Pricing & Submission", phase: 4 },
+    { id: "P5", title: "Custom Queries", phase: 5 },
+];
 
 const KnowledgeBasePage = () => {
-	const [queries, setQueries] = useState([]);
-	const [form, setForm] = useState({
-		query_number: "",
-		knowledge_base_answer: "",
-		rfp_query_text: "",
-		weight: "",
-		query_phase: 5,
-	});
-	const [isEditing, setIsEditing] = useState(false);
+    const [queries, setQueries] = useState([]);
+    const [expandedPhase, setExpandedPhase] = useState(null);
+    const [gdriveConnected, setGdriveConnected] = useState(false);
+    const [syncing, setSyncing] = useState(false);
+    const [folderId, setFolderId] = useState("");
+    const [syncedFiles, setSyncedFiles] = useState([]);
 
-	const fetchQueries = async () => {
-		const data = await fetchQueriesApi();
-		const sorted = data.sort((a, b) => a.query_number - b.query_number);
-		setQueries(sorted);
-	};
+    const fetchQueries = async () => {
+        const data = await fetchQueriesApi();
+        const sorted = data.sort((a, b) => a.query_number - b.query_number);
+        setQueries(sorted);
+    };
 
-	useEffect(() => {
-		fetchQueries();
-	}, []);
+    useEffect(() => {
+        fetchQueries();
+    }, []);
 
-	const handleSubmit = async (e) => {
-		e.preventDefault();
+    useEffect(() => {
+        getStatus().then(setGdriveConnected).catch(() => setGdriveConnected(false));
+    }, []);
 
-		const payload = {
-			...form,
-			weight: Number(form.weight),
-			query_phase: form.query_phase,
-			query_number: isEditing
-				? Number(form.query_number)
-				: Math.max(0, ...queries.map((q) => q.query_number)) + 1,
-		};
+    const handleConnectGDrive = async () => {
+        try {
+            const authUrl = await getAuthUrl();
+            window.location.href = authUrl;
+        } catch (err) {
+            console.error(err);
+            alert("Failed to connect. Ensure GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET are set.");
+        }
+    };
 
-		const success = await createOrUpdateQuery(payload, isEditing);
-		if (success) {
-			setForm({
-				query_number: "",
-				knowledge_base_answer: "",
-				rfp_query_text: "",
-				weight: "",
-				query_phase: 5,
-			});
-			setIsEditing(false);
-			fetchQueries();
-		}
-	};
+    const handleSync = async () => {
+        if (!folderId.trim()) {
+            alert("Enter a folder ID from your Google Drive URL");
+            return;
+        }
+        setSyncing(true);
+        try {
+            const result = await syncFolder(folderId.trim());
+            setSyncedFiles(result.files || []);
+            fetchQueries();
+        } catch (err) {
+            alert(err.message || "Sync failed");
+        } finally {
+            setSyncing(false);
+        }
+    };
 
-	const handleDelete = async (query_number, query_phase) => {
-		if (query_phase < 5) return;
-		const success = await deleteQueryApi(query_number);
-		if (success) fetchQueries();
-	};
+    const queriesByPhase = useMemo(() => {
+        const grouped = {};
+        PHASES.forEach((p) => {
+            grouped[p.phase] = [];
+        });
+        queries.forEach((q) => {
+            if (grouped[q.query_phase]) {
+                grouped[q.query_phase].push(q);
+            } else {
+                grouped[5] = grouped[5] || [];
+                grouped[5].push(q);
+            }
+        });
+        return grouped;
+    }, [queries]);
 
-	const handleEdit = (q) => {
-		setForm({ ...q });
-		setIsEditing(true);
-	};
+    const handleToggle = (phase) => {
+        setExpandedPhase(expandedPhase === phase ? null : phase);
+    };
 
-	return (
-		<div className="kb-container">
-			<Navbar />
-			<div className="kb-page-content">
-				<header className="kb-header">
-					<h1>
-						Knowledge <span>Base</span>
-					</h1>
-					<p>Manage your stored RFP queries and knowledge base answers.</p>
-				</header>
+    const handleAddQuery = async (queryData) => {
+        const nextQueryNumber = Math.max(0, ...queries.map((q) => q.query_number)) + 1;
+        const payload = {
+            ...queryData,
+            query_number: nextQueryNumber,
+        };
 
-				<main className="kb-content">
-					{/* Table Section */}
-					<section className="kb-table-section">
-						<table className="kb-table">
-							<thead>
-								<tr>
-									<th>#</th>
-									<th>Answer</th>
-									<th>Query Text</th>
-									<th>Weight</th>
-									<th>Phase</th>
-									<th>Actions</th>
-								</tr>
-							</thead>
-							<tbody>
-								{queries.map((q) => (
-									<tr key={q.query_number}>
-										<td>{q.query_number}</td>
-										<td>{q.knowledge_base_answer}</td>
-										<td>{q.rfp_query_text}</td>
-										<td>{q.weight}</td>
-										<td>{q.query_phase}</td>
-										<td>
-											{q.query_phase <= 5 && (
-												<>
-													<button
-														className="edit-btn"
-														onClick={() => handleEdit(q)}
-													>
-														Edit
-													</button>
-													{q.query_phase === 5 && (
-														<button
-															className="delete-btn"
-															onClick={() =>
-																handleDelete(q.query_number, q.query_phase)
-															}
-														>
-															Delete
-														</button>
-													)}
-												</>
-											)}
-										</td>
-									</tr>
-								))}
-								{queries.length === 0 && (
-									<tr>
-										<td colSpan="6" style={{ textAlign: "center", color: "#555" }}>
-											No queries found.
-										</td>
-									</tr>
-								)}
-							</tbody>
-						</table>
-					</section>
+        const success = await createOrUpdateQuery(payload, false);
+        if (success) {
+            await fetchQueries();
+        }
+        return success;
+    };
 
-					{/* Form Section */}
-					<section className="kb-form-section">
-						<div className="kb-form-card">
-							<h2>{isEditing ? "Update Query" : "Add Query"}</h2>
-							<form onSubmit={handleSubmit}>
-								{isEditing && (
-									<input
-										type="number"
-										value={form.query_number}
-										readOnly
-										className="readonly"
-									/>
-								)}
-								<input
-									type="text"
-									placeholder="RFP Query Text"
-									value={form.rfp_query_text}
-									readOnly={isEditing && form.query_phase >= 1 && form.query_phase <= 4}
-									onChange={(e) =>
-										setForm({ ...form, rfp_query_text: e.target.value })
-									}
-									className={isEditing && form.query_phase >= 1 && form.query_phase <= 4 ? "readonly" : ""}
-									required
-								/>
+    const handleEditQuery = async (queryData) => {
+        const success = await createOrUpdateQuery(queryData, true);
+        if (success) {
+            await fetchQueries();
+        }
+        return success;
+    };
 
-								<input
-									type="text"
-									placeholder="Knowledge Base Answer"
-									value={form.knowledge_base_answer}
-									onChange={(e) =>
-										setForm({ ...form, knowledge_base_answer: e.target.value })
-									}
-									required
-								/>
-								<input
-									type="number"
-									step="0.1"
-									placeholder="Weight"
-									value={form.weight}
-									onChange={(e) => setForm({ ...form, weight: e.target.value })}
-									required
-								/>
+    const handleDeleteQuery = async (queryNumber, queryPhase) => {
+        if (queryPhase !== 5) return false;
+        const success = await deleteQueryApi(queryNumber);
+        if (success) {
+            await fetchQueries();
+        }
+        return success;
+    };
 
-								<button type="submit" className="submit-btn">
-									{isEditing ? "Update" : "Add"}
-								</button>
-							</form>
-						</div>
-					</section>
-				</main>
-			</div>
-		</div>
-	);
+    return (
+        <div className="kb-container">
+            <Navbar />
+            <div className="kb-page-content">
+                <header className="kb-header">
+                    <h1>
+                        Knowledge <span>Base</span>
+                    </h1>
+                    <p>
+                        Manage your RFP queries and knowledge base answers organized by capture phase.
+                        Click on a phase to expand and add or edit queries.
+                    </p>
+                </header>
+
+                <div className="gdrive-section">
+                    <h3>Company Knowledge Base</h3>
+                    {!gdriveConnected ? (
+                        <button className="gdrive-connect-btn" onClick={handleConnectGDrive}>
+                            Connect Google Drive
+                        </button>
+                    ) : (
+                        <>
+                            <p className="gdrive-status">Connected</p>
+                            <div className="gdrive-sync-row">
+                                <input
+                                    type="text"
+                                    placeholder="Folder ID (from Drive URL)"
+                                    value={folderId}
+                                    onChange={(e) => setFolderId(e.target.value)}
+                                    className="gdrive-folder-input"
+                                />
+                                <button
+                                    className="gdrive-sync-btn"
+                                    onClick={handleSync}
+                                    disabled={syncing}
+                                >
+                                    {syncing ? "Syncing..." : "Sync Documents"}
+                                </button>
+                            </div>
+                            {syncedFiles.length > 0 && (
+                                <div className="gdrive-files-list">
+                                    <span className="gdrive-files-label">Documents used as context:</span>
+                                    <ul>
+                                        {syncedFiles.map((name, i) => (
+                                            <li key={i}>{name}</li>
+                                        ))}
+                                    </ul>
+                                </div>
+                            )}
+                        </>
+                    )}
+                </div>
+
+                <main className="kb-content">
+                    <div className="kb-phases-grid">
+                        {PHASES.map((phaseInfo) => (
+                            <KBPhaseCard
+                                key={phaseInfo.phase}
+                                id={phaseInfo.id}
+                                title={phaseInfo.title}
+                                phase={phaseInfo.phase}
+                                queries={queriesByPhase[phaseInfo.phase] || []}
+                                isExpanded={expandedPhase === phaseInfo.phase}
+                                onToggle={() => handleToggle(phaseInfo.phase)}
+                                onAddQuery={handleAddQuery}
+                                onEditQuery={handleEditQuery}
+                                onDeleteQuery={handleDeleteQuery}
+                            />
+                        ))}
+                    </div>
+                </main>
+            </div>
+        </div>
+    );
 };
 
 export default KnowledgeBasePage;

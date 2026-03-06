@@ -1,0 +1,458 @@
+================================================================================
+                    XITM RFP ANALYZER - COMPREHENSIVE PLATFORM SUMMARY
+================================================================================
+
+OVERVIEW
+--------
+The XITM RFP Analyzer is a Retrieval-Augmented Generation (RAG) application 
+designed for IT government contracting firms to evaluate Request for Proposal 
+(RFP) documents. The platform helps business development teams decide whether 
+to pursue an RFP by:
+
+1. Building a company knowledge base of capabilities, certifications, and expertise
+2. Uploading and processing RFP PDF documents into searchable vector embeddings
+3. Running automated evaluations comparing RFP requirements against company capabilities
+4. Providing phase-based scoring to quantify alignment/readiness
+5. Enabling conversational queries against RFP documents via RAG
+
+
+================================================================================
+                              TECHNICAL STACK
+================================================================================
+
+Layer               | Technology
+--------------------|------------------------------------------------------------
+Backend             | FastAPI (Python 3.11+)
+Frontend            | React 19 with React Router
+Vector Database     | Qdrant Cloud (cosine similarity)
+Embeddings          | SentenceTransformers (all-MiniLM-L6-v2, 384 dimensions)
+Reranking           | CrossEncoder (ms-marco-MiniLM-L-6-v2)
+LLM                 | OpenAI GPT (gpt-4o-mini for batch eval, gpt-5-nano for chat)
+PDF Parsing         | LlamaParse with Anthropic Sonnet for OCR
+Database            | Supabase (PostgreSQL)
+Deployment          | Docker (uvicorn server, nginx for frontend)
+
+
+================================================================================
+                           ARCHITECTURE OVERVIEW
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                              FRONTEND (React)                                │
+│  ┌────────────┐  ┌─────────────┐  ┌────────────────┐  ┌───────────────────┐ │
+│  │ Home Page  │  │  RFPs List  │  │   Chat Page    │  │ Knowledge Base    │ │
+│  │ (Upload)   │  │  (Browse)   │  │ (Analysis+Chat)│  │ (Query Mgmt)      │ │
+│  └────────────┘  └─────────────┘  └────────────────┘  └───────────────────┘ │
+└─────────────────────────────────────────────────────────────────────────────┘
+                                       │
+                                       ▼
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                          BACKEND (FastAPI)                                   │
+│  ┌────────────┐  ┌─────────────┐  ┌────────────┐  ┌───────────────────────┐ │
+│  │ chunk_api  │  │ vector_api  │  │ query_api  │  │ query_table_api       │ │
+│  │ /chunk/*   │  │ /vector/*   │  │ /query/*   │  │ /knowledge_base/*     │ │
+│  └────────────┘  └─────────────┘  └────────────┘  └───────────────────────┘ │
+│  ┌────────────────────────┐  ┌───────────────────────────────────────────┐  │
+│  │      llm_eval_api      │  │              scoring_api                  │  │
+│  │        /eval/*         │  │               /score/*                    │  │
+│  └────────────────────────┘  └───────────────────────────────────────────┘  │
+└─────────────────────────────────────────────────────────────────────────────┘
+                                       │
+                    ┌──────────────────┼──────────────────┐
+                    ▼                  ▼                  ▼
+            ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
+            │    Qdrant    │   │   Supabase   │   │    OpenAI    │
+            │ (Vectors)    │   │ (PostgreSQL) │   │   (LLM)      │
+            └──────────────┘   └──────────────┘   └──────────────┘
+
+
+================================================================================
+                        DATABASE SCHEMA (SUPABASE)
+================================================================================
+
+RFPs TABLE
+----------
+Stores metadata about uploaded RFP documents:
+
+- id: UUID (primary key, auto-generated)
+- name: string (original filename)
+- qdrant_doc_id: string (matches RFPs.id, used for vector filtering)
+- overall_score: float (0-100 scale)
+- status: string
+- num_pages: int
+- P1, P2, P3, P4: int (phase scores, 0-100 scale)
+
+
+QUERY_TABLE_DUPLICATE TABLE
+---------------------------
+The knowledge base storing company capabilities as query-answer pairs:
+
+- query_number: int (primary key, auto-increment)
+- rfp_query_text: text (the question/requirement to evaluate)
+- knowledge_base_answer: text (company's capability/answer)
+- weight: float (importance multiplier for scoring)
+- query_phase: int (1-5, categorizes the query)
+- knowledge_base_chunks: jsonb (pre-computed company doc chunks for each query; default '[]')
+
+
+RFP_EVALS TABLE
+---------------
+Stores LLM-generated evaluations for each query against each RFP:
+
+- rfp_id: string (links to RFPs.qdrant_doc_id)
+- query_number: int (links to Query_Table_duplicate)
+- query_text: text
+- query_llm_answer: text (LLM explanation or summary)
+- score: int (1-5 alignment scale)
+- query_phase: int
+- rfp_citation_chunks: text[] (array of RFP excerpts used)
+- knowledge_base_chunk: text (company capability used for evaluation)
+
+
+================================================================================
+                         CAPTURE PHASES (BUSINESS LOGIC)
+================================================================================
+
+The platform organizes queries into 5 capture phases, mirroring the government 
+contracting capture process:
+
+Phase | Name                    | Purpose                        | Example Queries
+------|-------------------------|--------------------------------|------------------
+P1    | Eligibility & Kickoff   | Go/No-Go decision criteria     | "Does this require SDVOSB certification?"
+P2    | Scope & Technical Fit   | Technical requirements         | "What are the key performance requirements?"
+P3    | Evaluation Alignment    | Understanding scoring criteria | "What are the evaluation criteria?"
+P4    | Pricing & Submission    | Cost/timeline considerations   | "What is the pricing structure?"
+P5    | Custom Queries          | User-defined queries           | Any additional questions
+
+
+================================================================================
+                              CORE WORKFLOWS
+================================================================================
+
+1. PDF UPLOAD & INGESTION FLOW
+------------------------------
+Endpoint: POST /chunk/upload-pdf
+
+Process:
+1. Create placeholder record in Supabase RFPs table (generates UUID)
+2. Save uploaded PDF to temporary file
+3. Count pages using PyPDF2
+4. Parse PDF using LlamaParse with:
+   - parse_mode="parse_page_with_agent" (AI-assisted parsing)
+   - model="anthropic-sonnet-4.0" (for complex document understanding)
+   - high_res_ocr=True (for scanned documents)
+   - output_tables_as_HTML=True (preserves table structure)
+5. Chunk the parsed text using SentenceSplitter:
+   - Default: 200 tokens per chunk, 50 token overlap
+6. Generate embeddings for each chunk using SentenceTransformers
+7. Upsert embeddings to Qdrant with payload: {doc_id, text, page_num}
+8. Update Supabase record with page count
+
+Key Files:
+- src/api/chunk_api.py - Upload endpoint
+- src/api/pdf/parser.py - LlamaParse integration & chunking
+- src/api/vector_api.py - Embedding generation & Qdrant ingestion
+
+
+2. KNOWLEDGE BASE MANAGEMENT FLOW
+---------------------------------
+Endpoints: /knowledge_base/*
+
+Users build company capabilities by creating query-answer pairs:
+
+Data Structure:
+{
+  "query_number": 1,
+  "rfp_query_text": "Does the company have FedRAMP authorization?",
+  "knowledge_base_answer": "Yes, our cloud platform maintains FedRAMP Moderate authorization since 2023...",
+  "weight": 2.0,
+  "query_phase": 1
+}
+
+Frontend: KnowledgeBasePage.jsx + KBPhaseCard.jsx
+- Displays queries grouped by phase
+- Allows CRUD operations on queries
+- Only P5 (Custom Queries) allows deletion
+
+Key Files:
+- src/api/query_table_api.py - CRUD endpoints
+- src/frontend/src/api/knowledgebase.js - Frontend API calls
+
+
+3. RFP ANALYSIS/EVALUATION FLOW
+-------------------------------
+Endpoint: POST /eval/batch-orchestrate-eval
+
+This is the core business logic that evaluates an RFP against the knowledge base:
+
+Process:
+1. Load all queries from Query_Table_duplicate
+2. For each query:
+   a. Embed the rfp_query_text
+   b. Search Qdrant for top-k relevant RFP chunks (filtered by doc_id)
+   c. Rerank results using CrossEncoder
+3. Tag each query as either:
+   - "evaluate" - If knowledge_base_answer exists (compare capabilities to requirements)
+   - "summarize" - If no answer exists (just extract info from RFP)
+4. Batch queries (default 2-4 per API call) and send to GPT-4o-mini
+5. LLM returns structured response with:
+   - For evaluate: Score (1-5) + detailed explanation citing RFP excerpts
+   - For summarize: Comprehensive summary with quotes
+6. Upsert results to RFP_Evals table
+
+SCORING RUBRIC (1-5 Scale):
+Score | Meaning
+------|--------
+1     | No alignment - capabilities don't address RFP requirements
+2     | Weakly related - minimal overlap
+3     | Some relevant overlap - partial alignment with gaps
+4     | Strong alignment with minor gaps
+5     | Fully aligned - comprehensive match
+
+Key Files:
+- src/api/llm_eval_api.py - Batch evaluation logic
+- src/api/vector_api.py - orchestrate_queries() function
+- src/api/models.py - Pydantic models
+
+
+4. SCORING CALCULATION FLOW
+---------------------------
+Endpoint: POST /score/score-rfp
+
+After evaluation, scores are calculated and persisted:
+
+Algorithm:
+    # For each phase (1-4):
+    phase_score = sum(query_score * query_weight) / sum(query_weights)
+    
+    # Overall score:
+    overall_score = sum(all_weighted_scores) / sum(all_weights)
+    
+    # Convert 1-5 scale to 0-100 for display:
+    display_score = raw_score * 20
+
+Storage:
+- Phase scores (P1-P4) stored in RFPs table as 0-100 values
+- Used by frontend for visual representation
+
+Key Files:
+- src/api/scoring_api.py - Score calculation & persistence
+
+
+5. CHAT/QUERY FLOW (RAG)
+------------------------
+Endpoint: POST /query/query-rfp
+
+Users can ask natural language questions about an RFP:
+
+Process:
+1. Embed user query using SentenceTransformers
+2. Search Qdrant for top-20 relevant chunks (filtered by RFP's doc_id)
+3. Rerank results using CrossEncoder
+4. Build system prompt with chunk context
+5. Call OpenAI to generate answer with sources
+6. Return structured response:
+   {
+     "answer": "The RFP requires...",
+     "sources": ["Quote from RFP page 3...", "Another quote..."]
+   }
+
+System Prompt Instructions:
+- Ground answers solely in provided chunks
+- Quote specific text from excerpts
+- Be verbose and specific
+- Include sources as separate citations
+
+Key Files:
+- src/api/query_api.py - Chat endpoint
+- src/api/clients/openai.py - OpenAI wrapper
+- src/frontend/src/api/query.js - Frontend API call
+
+
+================================================================================
+                              FRONTEND PAGES
+================================================================================
+
+HOME PAGE (Home.jsx)
+--------------------
+- PDF upload functionality
+- Drag-and-drop or file picker
+- Calls /chunk/upload-pdf
+
+
+RFPS PAGE (RFPsPage.jsx)
+------------------------
+- Lists all uploaded RFPs from Supabase
+- Shows name, page count, status
+- Links to ChatPage for each RFP
+
+
+CHAT PAGE (ChatPage.jsx)
+------------------------
+The main analysis interface with three panels:
+
+Left Sidebar:
+- Overall readiness score (0-5 scale, color-coded)
+- Static requirements checklist (placeholder for future)
+
+Center Panel:
+- "Run Analysis" button triggers batch evaluation
+- Four collapsible phase cards (P1-P4)
+- Each card shows queries, scores, and LLM explanations
+
+Right Sidebar:
+- Chat interface for free-form queries
+- Markdown-rendered responses
+- Expandable sources panel
+
+
+KNOWLEDGE BASE PAGE (KnowledgeBasePage.jsx)
+-------------------------------------------
+- Five phase cards (P1-P5)
+- CRUD interface for queries
+- Each query shows: text, answer, weight, phase
+
+
+================================================================================
+                              KEY COMPONENTS
+================================================================================
+
+PhaseCard.jsx
+-------------
+Displays evaluation results for a capture phase:
+- Score visualization (MetricCircle)
+- Expandable query list
+- Shows evaluation score, explanation, and knowledge base context
+
+KBPhaseCard.jsx
+---------------
+Editable version for knowledge base management:
+- Add/edit query forms
+- Delete capability (P5 only)
+- Weight and phase assignment
+
+MetricCircle.jsx
+----------------
+SVG circular progress indicator:
+- Animates value changes
+- Color-coded by score threshold
+
+
+================================================================================
+                           API ROUTE SUMMARY
+================================================================================
+
+Route                                  | Method | Purpose
+---------------------------------------|--------|----------------------------------
+/vector/health                         | GET    | Health check
+/vector/ingest-chunks                  | POST   | Store embeddings in Qdrant
+/vector/search                         | POST   | Semantic search with reranking
+/vector/orchestrate-queries            | POST   | Batch search for all KB queries
+/chunk/upload-pdf                      | POST   | Upload, parse, chunk, ingest PDF
+/knowledge_base/create_query_row       | POST   | Add new KB query
+/knowledge_base/update_query_row       | POST   | Edit existing query
+/knowledge_base/delete_query_row/{n}   | POST   | Delete query
+/knowledge_base/get_all_query_rows     | GET    | Fetch all queries
+/eval/batch-orchestrate-eval           | POST   | Run full RFP evaluation
+/eval/get-evals                        | GET    | Fetch existing evaluations
+/query/query-rfp                       | POST   | Free-form RAG query
+/score/score-rfp                       | POST   | Calculate and persist scores
+
+
+================================================================================
+                          ENVIRONMENT VARIABLES
+================================================================================
+
+QDRANT_API_KEY=<qdrant-api-key>
+QDRANT_URL=https://<cluster>.aws.cloud.qdrant.io
+QDRANT_COLLECTION=rfp_chunks
+EMBED_MODEL=sentence-transformers/all-MiniLM-L6-v2
+SUPABASE_URL=<supabase-project-url>
+SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
+OPENAI_API_KEY=<openai-api-key>
+LLAMA_PARSE_KEY=<llamaparse-api-key>
+
+
+================================================================================
+                        BUSINESS VALUE PROPOSITION
+================================================================================
+
+1. Time Savings: Automates the tedious process of reading and evaluating 
+   lengthy RFP documents
+
+2. Consistency: Applies the same evaluation criteria to every RFP
+
+3. Quantified Decisions: Provides numerical scores to support go/no-go decisions
+
+4. Knowledge Capture: Centralizes company capabilities in a reusable knowledge base
+
+5. Traceability: Every score is backed by citations from the actual RFP document
+
+
+================================================================================
+                       DECISION FRAMEWORK (IMPLICIT)
+================================================================================
+
+Based on the scoring rubric, teams can use scores to guide decisions:
+
+Overall Score      | Interpretation
+-------------------|--------------------------------------------------------
+4.0-5.0 (80-100%)  | Strong candidate - high alignment, pursue aggressively
+3.0-4.0 (60-80%)   | Moderate fit - gaps exist, evaluate cost to address
+2.0-3.0 (40-60%)   | Weak alignment - significant gaps, may not be worth pursuing
+1.0-2.0 (20-40%)   | Poor fit - capabilities don't match requirements
+
+
+================================================================================
+                           PROJECT STRUCTURE
+================================================================================
+
+XITM_RPF_Analyzer/
+├── .env                          # Environment variables (API keys)
+├── readme.md                     # Project documentation
+├── requirements.txt              # Python dependencies
+├── deployment/
+│   └── docker/
+│       ├── dockerfile            # Backend Docker configuration
+│       ├── frontend.Dockerfile   # Frontend Docker configuration
+│       └── .dockerignore
+├── src/
+│   ├── api/                      # Backend FastAPI application
+│   │   ├── main_api.py           # FastAPI app entry point
+│   │   ├── vector_api.py         # Vector operations (embed, search, ingest)
+│   │   ├── chunk_api.py          # PDF upload endpoint
+│   │   ├── query_api.py          # RAG chat endpoint
+│   │   ├── query_table_api.py    # Knowledge base CRUD
+│   │   ├── llm_eval_api.py       # Batch evaluation logic
+│   │   ├── scoring_api.py        # Score calculation
+│   │   ├── models.py             # Pydantic models
+│   │   ├── clients/
+│   │   │   ├── openai.py         # OpenAI wrapper
+│   │   │   ├── qdrant.py         # Qdrant client
+│   │   │   ├── supabase.py       # Supabase client
+│   │   │   └── embedding.py      # SentenceTransformer model
+│   │   └── pdf/
+│   │       └── parser.py         # LlamaParse + chunking
+│   └── frontend/                 # React frontend application
+│       └── src/
+│           ├── App.js            # Main routing
+│           ├── pages/
+│           │   ├── Home.jsx      # PDF upload
+│           │   ├── RFPsPage.jsx  # RFP listing
+│           │   ├── ChatPage.jsx  # Main analysis UI
+│           │   └── KnowledgeBasePage.jsx
+│           ├── components/
+│           │   ├── PhaseCard.jsx
+│           │   ├── KBPhaseCard.jsx
+│           │   ├── MetricCircle.jsx
+│           │   └── ...
+│           └── api/
+│               ├── query.js
+│               ├── knowledgebase.js
+│               └── uploadPDF.js
+
+
+================================================================================
+This summary provides complete context for understanding, debugging, extending, 
+or integrating with the XITM RFP Analyzer platform.
+================================================================================

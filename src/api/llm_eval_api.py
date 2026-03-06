@@ -86,6 +86,7 @@ You will receive a JSON object with an array of queries. Each query has:
 - rfp_query_text: the original query
 - rfp_excerpts: relevant excerpts from the RFP document
 - knowledge_base_answer: (only for "evaluate" tasks) the firm's capabilities to evaluate
+- company_evidence: (only for "evaluate" tasks) pre-retrieved excerpts from company internal documents
 
 ### Ground Rules:
 1. You MUST base your response solely on the rfp_excerpts provided for each query.
@@ -94,6 +95,13 @@ You will receive a JSON object with an array of queries. Each query has:
 4. Include direct quotes from the excerpts to support your analysis.
 
 ### For "evaluate" tasks:
+You will receive:
+- rfp_excerpts: Relevant excerpts from the RFP document (retrieved live)
+- knowledge_base_answer: Direct answer provided by the user (if any)
+- company_evidence: Pre-retrieved excerpts from company internal documents
+
+Evaluate alignment considering the firm's capabilities from BOTH knowledge_base_answer AND company_evidence against the RFP requirements.
+
 Rate alignment from 1-5:
 1 = No alignment - the firm's capabilities do not address any RFP requirements
 2 = Weakly related - minimal overlap between capabilities and requirements
@@ -183,6 +191,7 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
             qnum = q.get("query_number")
             rq = q.get("rfp_query_text", "")
             kb = (q.get("knowledge_base_answer") or "").strip()
+            company_evidence = q.get("knowledge_base_chunks", []) or []
             topk = q.get("rfp_topk", []) or []
             
             # Extract excerpts (full text, no truncation)
@@ -197,13 +206,17 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
                 "knowledge_base_answer": kb if kb else None,
             }
             
+            # Evaluate if we have manual answer OR pre-computed company evidence
+            has_evidence = kb or (isinstance(company_evidence, list) and len(company_evidence) > 0)
+            
             # Build tagged query for batch processing
-            if kb:
+            if has_evidence:
                 tagged_queries.append({
                     "query_number": qnum,
                     "task": "evaluate",
                     "rfp_query_text": rq,
                     "knowledge_base_answer": kb,
+                    "company_evidence": company_evidence,
                     "rfp_excerpts": excerpts
                 })
             else:

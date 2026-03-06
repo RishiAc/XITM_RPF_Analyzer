@@ -4,6 +4,8 @@ from supabase import create_client
 from typing import Optional
 import os
 
+from .vector_api import compute_evidence_for_query
+
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY")
 
@@ -49,7 +51,10 @@ async def create_query_row(body: CreateBody):
         if body.query_number != None:
             create_json["query_number"] = body.query_number
 
-        return query_table.insert(create_json).execute()
+        result = query_table.insert(create_json).execute()
+        query_number = result.data[0]["query_number"]
+        compute_evidence_for_query(query_number)
+        return result
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -83,7 +88,10 @@ async def update_query_row(body: UpdateBody):
             update_json["query_phase"] = body.query_phase
 
         # Update row
-        return query_table.update(update_json).eq("query_number", body.query_number).execute()
+        result = query_table.update(update_json).eq("query_number", body.query_number).execute()
+        if body.rfp_query_text is not None:
+            compute_evidence_for_query(body.query_number)
+        return result
     
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
