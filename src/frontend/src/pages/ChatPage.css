@@ -222,15 +222,29 @@
   color: #6b7280;
 }
 
-/* Main Chat Area */
-.chat-main-area {
+/* Middle Section - Phases Panel (Center) */
+.phases-panel-center {
   flex: 1;
   display: flex;
   flex-direction: column;
+  background: linear-gradient(180deg, #fafbfc 0%, #f7f7f8 100%);
+  min-width: 0;
+  min-height: 0;
+  overflow-y: auto;
+  padding: 16px;
+}
+
+/* Right Sidebar - Chat */
+.chat-sidebar-right {
+  width: 420px;
+  display: flex;
+  flex-direction: column;
   background-color: #ffffff;
-  min-width: 0;  /* IMPORTANT: allow text + flex to shrink */
-  min-height: 0; /* IMPORTANT: allow inner scrolling */
+  border-left: 1px solid #e5e7eb;
+  min-height: 0;
   overflow: hidden;
+  flex-shrink: 0;
+  box-shadow: -1px 0 3px rgba(0, 0, 0, 0.05);
 }
 
 .chat-title-light {
@@ -447,19 +461,7 @@
   font-size: 0.9em;
 }
 
-/* Right Sidebar - Phases */
-.phases-panel {
-  width: 320px;
-  background: linear-gradient(180deg, #fafbfc 0%, #f7f7f8 100%);
-  border-left: 1px solid #e5e7eb;
-  display: flex;
-  flex-direction: column;
-  padding: 16px;
-  overflow-y: auto;
-  flex-shrink: 0;
-  min-height: 0;
-  box-shadow: -1px 0 3px rgba(0, 0, 0, 0.05);
-}
+/* Phases Panel Header (used in center layout) */
 
 .phases-panel-header {
   display: flex;
@@ -508,8 +510,10 @@
 
 .phases-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 12px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: auto;
+  gap: 16px;
+  align-content: start;
 }
 
 /* If your PhaseCard uses .phase-box classes, keep these */
@@ -534,14 +538,14 @@
 /* Scrollbars */
 .chat-box-light::-webkit-scrollbar,
 .metrics-sidebar::-webkit-scrollbar,
-.phases-panel::-webkit-scrollbar,
+.phases-panel-center::-webkit-scrollbar,
 .chat-sources-panel__body::-webkit-scrollbar {
   width: 6px;
 }
 
 .chat-box-light::-webkit-scrollbar-thumb,
 .metrics-sidebar::-webkit-scrollbar-thumb,
-.phases-panel::-webkit-scrollbar-thumb,
+.phases-panel-center::-webkit-scrollbar-thumb,
 .chat-sources-panel__body::-webkit-scrollbar-thumb {
   background-color: #d1d5db;
   border-radius: 3px;

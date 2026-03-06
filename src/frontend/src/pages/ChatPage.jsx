@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { useParams, useLocation } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import PhaseCard from "../components/PhaseCard";
-// import MetricCircle from "../components/MetricCircle"; // not used
+import MetricCircle from "../components/MetricCircle";
 import { queryRFP } from "../api/query";
 import MarkdownView from "../components/MarkdownView";
 import Source from "../components/Source";
@@ -40,12 +40,22 @@ const groupByPhase = (queries) => {
   }, {});
 };
 
+/**
+ * Get color based on score (1-5 scale)
+ */
+const getScoreColor = (score) => {
+  if (score >= 4) return "#10b981"; // green
+  if (score >= 3) return "#f59e0b"; // yellow
+  return "#ef4444"; // red
+};
+
 const ChatPage = () => {
   const { id } = useParams();
   const location = useLocation();
   const title = location.state?.title || `RFP ${id}`;
 
-  const overallScore = 82;
+  const [overallScore, setOverallScore] = useState(null);
+  const [phaseScores, setPhaseScores] = useState({});
 
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState("");
@@ -61,6 +71,72 @@ const ChatPage = () => {
     chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
+  // Load existing evaluations on mount
+  useEffect(() => {
+    const loadExistingEvals = async () => {
+      if (!id) return;
+      
+      try {
+        const response = await fetch(`http://localhost:8080/eval/get-evals?rfp_id=${id}`);
+        
+        if (!response.ok) {
+          console.error("Failed to fetch existing evals");
+          return;
+        }
+        
+        const data = await response.json();
+        
+        // If evaluations exist, populate the state
+        if (data.queries && data.queries.length > 0) {
+          const grouped = groupByPhase(data.queries);
+          setPhaseData(grouped);
+          
+          // Set scores if available
+          if (data.scores) {
+            setOverallScore(data.scores.total);
+            setPhaseScores({
+              P1: data.scores.phase1,
+              P2: data.scores.phase2,
+              P3: data.scores.phase3,
+              P4: data.scores.phase4,
+            });
+          }
+        }
+      } catch (error) {
+        console.error("Error loading existing evals:", error);
+      }
+    };
+    
+    loadExistingEvals();
+  }, [id]);
+
+  // Fetch scores from the scoring API
+  const fetchScores = async () => {
+    try {
+      const scoreRes = await fetch(`http://localhost:8080/score/score-rfp?rfp_id=${id}`, {
+        method: "POST",
+      });
+      
+      if (!scoreRes.ok) {
+        console.error("Failed to fetch scores");
+        return;
+      }
+      
+      const scores = await scoreRes.json();
+      
+      // Store scores on 1-5 scale
+      setOverallScore(scores.total);
+      setPhaseScores({
+        P1: scores.phase1,
+        P2: scores.phase2,
+        P3: scores.phase3,
+        P4: scores.phase4,
+      });
+    } catch (error) {
+      console.error("Error fetching scores:", error);
+    }
+  };
+
   // Fetch evaluation data from batch-orchestrate-eval API (button-triggered)
   const fetchEvaluationData = async () => {
     if (!id) return;
@@ -74,7 +150,7 @@ const ChatPage = () => {
           rfp_id: id,
           rfp_doc_id: id,
           top_k: 5,
-          batch_size: 4
+          batch_size: 3
         }),
       });
 
@@ -85,6 +161,9 @@ const ChatPage = () => {
       if (data.queries) {
         const grouped = groupByPhase(data.queries);
         setPhaseData(grouped);
+        
+        // After evaluation completes, fetch and update scores
+        await fetchScores();
       } else {
         setPhaseData({});
       }
@@ -179,43 +258,21 @@ const ChatPage = () => {
           <div className="sidebar-header">
             <h3 className="sidebar-title">{title}</h3>
             <div className="overall-score-light">
-              <div className="score-circle-wrapper">
-                <svg className="score-circle-svg" viewBox="0 0 100 100">
-                  <defs>
-                    <linearGradient id="scoreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                      <stop offset="0%" stopColor="#3b82f6" />
-                      <stop offset="100%" stopColor="#1d4ed8" />
-                    </linearGradient>
-                  </defs>
-                  <circle
-                    className="score-circle-bg"
-                    cx="50"
-                    cy="50"
-                    r="45"
-                    fill="none"
-                    stroke="#e5e5e6"
-                    strokeWidth="8"
-                  />
-                  <circle
-                    className="score-circle-progress"
-                    cx="50"
-                    cy="50"
-                    r="45"
-                    fill="none"
-                    stroke="url(#scoreGradient)"
-                    strokeWidth="8"
-                    strokeDasharray={2 * Math.PI * 45}
-                    strokeDashoffset={2 * Math.PI * 45 * (1 - overallScore / 100)}
-                    strokeLinecap="round"
-                    transform="rotate(-90 50 50)"
-                  />
-                </svg>
-                <div className="score-circle-content">
-                  <span className="score-number-light">{overallScore}</span>
-                  <span className="score-percent">%</span>
-                </div>
-              </div>
-              <span className="score-label-light">Overall Readiness</span>
+              {overallScore !== null ? (
+                <MetricCircle
+                  value={Number(overallScore.toFixed(1))}
+                  max={5}
+                  label="Overall Readiness"
+                  color={getScoreColor(overallScore)}
+                />
+              ) : (
+                <MetricCircle
+                  value={0}
+                  max={5}
+                  label="Overall Readiness"
+                  color="#6b7280"
+                />
+              )}
             </div>
           </div>
 
@@ -248,8 +305,36 @@ const ChatPage = () => {
           </div>
         </aside>
 
-        {/* Main Chat Area */}
-        <main className="chat-main-area">
+        {/* Middle Section - Phases */}
+        <section className="phases-panel-center">
+          <div className="phases-panel-header">
+            <h4 className="phases-panel-title">Capture Phases</h4>
+            <button
+              className="run-analysis-btn"
+              onClick={fetchEvaluationData}
+              disabled={isLoading}
+            >
+              {isLoading ? "Analyzing..." : "Run Analysis"}
+            </button>
+          </div>
+
+          <div className="phases-grid">
+            {PHASE_CONFIG.map((phase) => (
+              <PhaseCard
+                key={phase.id}
+                id={phase.id}
+                title={phase.title}
+                score={phaseScores[phase.id]}
+                queries={phaseData[phase.id] || []}
+                isExpanded={expandedPhase === phase.id}
+                onToggle={() => handlePhaseClick(phase.id)}
+              />
+            ))}
+          </div>
+        </section>
+
+        {/* Right Sidebar - Chat */}
+        <aside className="chat-sidebar-right">
           <div className="chat-title-light">
             <h2>{title}</h2>
           </div>
@@ -326,33 +411,6 @@ const ChatPage = () => {
                 </>
               ) : null}
             </div>
-          </div>
-        </main>
-
-        {/* Right Sidebar with Phases */}
-        <aside className="phases-panel">
-          <div className="phases-panel-header">
-            <h4 className="phases-panel-title">Capture Phases</h4>
-            <button
-              className="run-analysis-btn"
-              onClick={fetchEvaluationData}
-              disabled={isLoading}
-            >
-              {isLoading ? "Analyzing..." : "Run Analysis"}
-            </button>
-          </div>
-
-          <div className="phases-grid">
-            {PHASE_CONFIG.map((phase) => (
-              <PhaseCard
-                key={phase.id}
-                id={phase.id}
-                title={phase.title}
-                queries={phaseData[phase.id] || []}
-                isExpanded={expandedPhase === phase.id}
-                onToggle={() => handlePhaseClick(phase.id)}
-              />
-            ))}
           </div>
         </aside>
       </div>

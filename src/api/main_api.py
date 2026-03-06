@@ -1,4 +1,7 @@
-from . import query_table_api, vector_api, chunk_api, llm_eval_api, query_api, scoring_api
+from dotenv import load_dotenv
+load_dotenv()
+
+from . import query_table_api, vector_api, chunk_api, llm_eval_api, query_api, scoring_api, gdrive_api
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -20,3 +23,4 @@ app.include_router(query_table_api.router)
 app.include_router(llm_eval_api.router)
 app.include_router(query_api.router)
 app.include_router(scoring_api.router)
+app.include_router(gdrive_api.router)
