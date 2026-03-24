@@ -51,7 +51,7 @@ const KnowledgeBasePage = () => {
 
     const handleSync = async () => {
         if (!folderId.trim()) {
-            alert("Enter a folder ID from your Google Drive URL");
+            alert("Enter a Google Drive folder ID or folder URL");
             return;
         }
         setSyncing(true);
@@ -143,7 +143,7 @@ const KnowledgeBasePage = () => {
                             <div className="gdrive-sync-row">
                                 <input
                                     type="text"
-                                    placeholder="Folder ID (from Drive URL)"
+                                    placeholder="Folder ID or full Google Drive folder URL"
                                     value={folderId}
                                     onChange={(e) => setFolderId(e.target.value)}
                                     className="gdrive-folder-input"

@@ -256,8 +256,16 @@ def compute_evidence_for_query(query_number: int):
     if not query_text:
         _sb.table("Query_Table_duplicate").update({"knowledge_base_chunks": []}).eq("query_number", query_number).execute()
         return
-    results = search_company_docs(query_text, top_k=5)
-    chunks = [{"text": r["text"], "source": r.get("doc_id", ""), "score": r.get("score", 0)} for r in results]
+    try:
+        results = search_company_docs(query_text, top_k=5)
+        chunks = [{"text": r["text"], "source": r.get("doc_id", ""), "score": r.get("score", 0)} for r in results]
+    except UnexpectedResponse as e:
+        # 404 = collection doesn't exist or wrong Qdrant URL; store empty to avoid sync crash
+        code = getattr(e, "status_code", None)
+        if code == 404:
+            chunks = []
+        else:
+            raise
     _sb.table("Query_Table_duplicate").update({"knowledge_base_chunks": chunks}).eq("query_number", query_number).execute()
 
 

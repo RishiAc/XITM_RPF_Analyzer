@@ -138,7 +138,7 @@ def query_rfp(body: QueryBody):
         payload = SearchBody(
             doc_id = body.rfp_doc_id,
             query = body.query,
-            top_k = 20
+            top_k = 8
         )
 
         res = search(payload)

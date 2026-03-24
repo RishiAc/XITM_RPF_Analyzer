@@ -4,6 +4,7 @@ import Navbar from "../components/Navbar";
 import PhaseCard from "../components/PhaseCard";
 import MetricCircle from "../components/MetricCircle";
 import { queryRFP } from "../api/query";
+import { client } from "../api/client";
 import MarkdownView from "../components/MarkdownView";
 import Source from "../components/Source";
 import "./ChatPage.css";
@@ -49,6 +50,8 @@ const getScoreColor = (score) => {
   return "#ef4444"; // red
 };
 
+const API_BASE_URL = client.apiBaseUrl;
+
 const ChatPage = () => {
   const { id } = useParams();
   const location = useLocation();
@@ -77,7 +80,7 @@ const ChatPage = () => {
       if (!id) return;
       
       try {
-        const response = await fetch(`http://localhost:8080/eval/get-evals?rfp_id=${id}`);
+        const response = await fetch(`${API_BASE_URL}/eval/get-evals?rfp_id=${id}`);
         
         if (!response.ok) {
           console.error("Failed to fetch existing evals");
@@ -113,7 +116,7 @@ const ChatPage = () => {
   // Fetch scores from the scoring API
   const fetchScores = async () => {
     try {
-      const scoreRes = await fetch(`http://localhost:8080/score/score-rfp?rfp_id=${id}`, {
+      const scoreRes = await fetch(`${API_BASE_URL}/score/score-rfp?rfp_id=${id}`, {
         method: "POST",
       });
       
@@ -143,7 +146,7 @@ const ChatPage = () => {
 
     setIsLoading(true);
     try {
-      const response = await fetch("http://localhost:8080/eval/batch-orchestrate-eval", {
+      const response = await fetch(`${API_BASE_URL}/eval/batch-orchestrate-eval`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

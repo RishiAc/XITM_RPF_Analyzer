@@ -7,7 +7,7 @@ import React, {
   useState,
 } from "react";
 import { supabase } from "../SupaBase/supabaseClient";
-import { authConfig } from "../config/authConfig";
+import { authConfig, isEmailAllowed } from "../config/authConfig";
 
 const AuthContext = createContext(null);
 
@@ -19,6 +19,11 @@ export const AuthProvider = ({ children }) => {
   const isAdmin = useMemo(() => {
     if (!user?.email) return false;
     return authConfig.adminEmails.includes(user.email.toLowerCase());
+  }, [user]);
+
+  const isAuthorized = useMemo(() => {
+    if (!user?.email) return false;
+    return isEmailAllowed(user.email);
   }, [user]);
 
   const initializeSession = useCallback(async () => {
@@ -36,8 +41,16 @@ export const AuthProvider = ({ children }) => {
         return;
       }
 
+      const nextUser = activeSession?.user ?? null;
+      if (nextUser?.email && !isEmailAllowed(nextUser.email)) {
+        await supabase.auth.signOut();
+        setSession(null);
+        setUser(null);
+        return;
+      }
+
       setSession(activeSession);
-      setUser(activeSession?.user ?? null);
+      setUser(nextUser);
     } catch (err) {
       console.error("Unexpected error retrieving session:", err);
       setSession(null);
@@ -53,8 +66,16 @@ export const AuthProvider = ({ children }) => {
     const {
       data: { subscription },
     } = supabase.auth.onAuthStateChange((_event, newSession) => {
+      const nextUser = newSession?.user ?? null;
+      if (nextUser?.email && !isEmailAllowed(nextUser.email)) {
+        supabase.auth.signOut();
+        setSession(null);
+        setUser(null);
+        return;
+      }
+
       setSession(newSession);
-      setUser(newSession?.user ?? null);
+      setUser(nextUser);
     });
 
     return () => {
@@ -77,11 +98,12 @@ export const AuthProvider = ({ children }) => {
       session,
       user,
       isAdmin,
+      isAuthorized,
       isLoading,
       refreshSession: initializeSession,
       signOut,
     }),
-    [session, user, isAdmin, isLoading, initializeSession, signOut]
+    [session, user, isAdmin, isAuthorized, isLoading, initializeSession, signOut]
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

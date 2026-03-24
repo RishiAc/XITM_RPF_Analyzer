@@ -84,37 +84,35 @@ const PhaseCard = ({ id, title, score, queries = [], isExpanded, onToggle }) => 
                         <div className="phase-query-list">
                             {queries.map((query, idx) => (
                                 <div key={query.query_number || idx} className="phase-query-item">
+                                    {/* Top: Q tag, question/query, score tag */}
                                     <div className="phase-query-header">
                                         <span className="phase-query-number">
                                             Q{query.query_number || idx + 1}
                                         </span>
+                                        <h4 className="phase-query-text">
+                                            {query.rfp_query_text}
+                                        </h4>
                                         {query.evaluation && (
                                             <span className={`phase-query-score ${getScoreColor(query.evaluation.score)}`}>
                                                 {query.evaluation.score}/5 · {getScoreLabel(query.evaluation.score)}
                                             </span>
                                         )}
-                                        {query.generated_summary && (
-                                            <div className="phase-query-answer">
-                                                <span className="answer-label">Summary:</span>
-                                                {query.generated_summary}
-                                            </div>
-                                            )}
                                     </div>
-                                    
-                                    <div className="phase-query-text">
-                                        {query.rfp_query_text}
-                                    </div>
-                                    
-                                    {query.evaluation?.explanation && (
+
+                                    {/* Middle: Analysis (evaluation) or summary fallback */}
+                                    {(query.evaluation?.explanation || query.generated_summary) && (
                                         <div className="phase-query-answer">
-                                            <span className="answer-label">Analysis:</span>
-                                            {query.evaluation.explanation}
+                                            <span className="answer-label">
+                                                {query.evaluation?.explanation ? "ANALYSIS:" : "SUMMARY:"}
+                                            </span>
+                                            {query.evaluation?.explanation || query.generated_summary}
                                         </div>
                                     )}
 
+                                    {/* Bottom: Knowledge Base (manual answer) - if exists */}
                                     {query.knowledge_base_answer && (
                                         <div className="phase-query-kb">
-                                            <span className="kb-label">Knowledge Base:</span>
+                                            <span className="kb-label">KNOWLEDGE BASE:</span>
                                             {query.knowledge_base_answer}
                                         </div>
                                     )}

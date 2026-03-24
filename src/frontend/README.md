@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Production Deployment (Vercel)
+
+- Set Vercel project root to `src/frontend`.
+- Configure frontend env vars from `.env.example`.
+- Set `REACT_APP_API_URL` to your Cloud Run backend URL.
+- SPA rewrites are configured in `vercel.json`.
+- Full backend + frontend deployment steps are in `deployment/cloudrun/README.md`.

@@ -3,13 +3,22 @@ const allowedDomainNormalized = allowedDomain
   ? allowedDomain.trim().toLowerCase()
   : null;
 
+const approvedEmails = (process.env.REACT_APP_APPROVED_EMAILS || "")
+  .split(",")
+  .map((email) => email.trim().toLowerCase())
+  .filter(Boolean);
+
 const adminEmails = (process.env.REACT_APP_ADMIN_EMAILS || "")
   .split(",")
-  .map((email) => email.trim())
+  .map((email) => email.trim().toLowerCase())
   .filter(Boolean);
+
+const approvedEmailSet = new Set(approvedEmails);
+const adminEmailSet = new Set(adminEmails);
 
 export const authConfig = {
   allowedDomain,
+  approvedEmails,
   adminEmails,
   otpExpiryMinutes: Number(process.env.REACT_APP_OTP_EXPIRY_MIN || 5),
 };
@@ -20,16 +29,19 @@ export const isEmailAllowed = (email) => {
   const domain = normalized.split("@")[1];
 
   if (!domain) return false;
-  if (authConfig.adminEmails.includes(normalized)) return true;
+  if (adminEmailSet.has(normalized)) return true;
 
-  if (!allowedDomainNormalized) return false;
-  return domain === allowedDomainNormalized;
+  // If explicit approved list exists, only those emails can access.
+  if (approvedEmailSet.size > 0) return approvedEmailSet.has(normalized);
+
+  if (allowedDomainNormalized) return domain === allowedDomainNormalized;
+  return false;
 };
 
 const API_BASE_URL =
-  process.env.NODE_ENV === "production"
-    ? "http://backend:8080"  // Internal Docker service name
-    : "http://localhost:8080";  // Local dev (non-Docker)
+  process.env.REACT_APP_API_URL ||
+  process.env.REACT_APP_STAGING_BACKEND_URL ||
+  "http://localhost:8080";
 
 export const AUTH_CONFIG = {
   apiBaseUrl: API_BASE_URL,

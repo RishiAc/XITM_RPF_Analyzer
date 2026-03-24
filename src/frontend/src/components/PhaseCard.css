@@ -173,23 +173,37 @@
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
 }
 
-/* Query Header */
+/* Query Header: Q tag | Question | Score tag */
 .phase-query-header {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 10px;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 12px;
 }
 
 .phase-query-number {
   font-weight: 700;
   font-size: 12px;
-  color: #4b5563;
-  background-color: #e5e7eb;
+  color: #ffffff;
+  background-color: #9ca3af;
   padding: 4px 10px;
   border-radius: 6px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  flex-shrink: 0;
+}
+
+.phase-query-header .phase-query-text {
+  flex: 1;
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #1f2937;
+  line-height: 1.5;
+}
+
+.phase-query-header .phase-query-score {
+  flex-shrink: 0;
 }
 
 /* Score Badge */
@@ -201,40 +215,31 @@
 }
 
 .phase-query-score.score-high {
-  background-color: #d1fae5;
-  color: #065f46;
+  background-color: #10b981;
+  color: #ffffff;
 }
 
 .phase-query-score.score-medium {
-  background-color: #fef3c7;
-  color: #92400e;
+  background-color: #f59e0b;
+  color: #ffffff;
 }
 
 .phase-query-score.score-low {
-  background-color: #fee2e2;
-  color: #991b1b;
+  background-color: #ef4444;
+  color: #ffffff;
 }
 
-/* Query Text */
-.phase-query-text {
+
+/* Analysis Section (middle) */
+.phase-query-answer {
   font-size: 13px;
   color: #1f2937;
   line-height: 1.6;
-  font-weight: 500;
-  margin-bottom: 10px;
-  padding-bottom: 10px;
-  border-bottom: 1px dashed #e5e7eb;
-}
-
-/* Query Answer/Explanation */
-.phase-query-answer {
-  font-size: 13px;
-  color: #4b5563;
-  line-height: 1.6;
-  background-color: #ffffff;
-  padding: 12px;
+  background-color: #f8fafc;
+  padding: 12px 14px;
   border-radius: 8px;
-  border-left: 3px solid var(--primary-blue, #3b82f6);
+  border-left: 4px solid var(--primary-blue, #3b82f6);
+  margin-bottom: 12px;
 }
 
 .phase-query-answer .answer-label {
@@ -244,19 +249,18 @@
   color: var(--primary-blue, #3b82f6);
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 
-/* Knowledge Base Section */
+/* Knowledge Base Section (bottom) */
 .phase-query-kb {
   font-size: 13px;
-  color: #4b5563;
+  color: #1f2937;
   line-height: 1.6;
   background-color: #fffbeb;
-  padding: 12px;
+  padding: 12px 14px;
   border-radius: 8px;
-  border-left: 3px solid var(--accent-yellow, #f59e0b);
-  margin-top: 10px;
+  border-left: 4px solid #f59e0b;
 }
 
 .phase-query-kb .kb-label {
@@ -266,7 +270,7 @@
   color: #92400e;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 
 /* Scrollbar for expanded card */

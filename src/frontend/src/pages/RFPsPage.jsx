@@ -1,19 +1,20 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import "./RFPsPage.css";
 import { fetchRFPs } from "../SupaBase/fetchRFPs";
 
-
-// insert RFPs here from database we can add stuff like unscored vs scored in the future
-const cardsData = await fetchRFPs();
-
 const RFPsPage = () => {
   const navigate = useNavigate();
+  const [cardsData, setCardsData] = useState([]);
+
+  useEffect(() => {
+    fetchRFPs().then(setCardsData);
+  }, []);
 
   const handleCardClick = (card) => {
-  navigate(`/chat/${card.id}`, { state: { title: card.title } });
-//   navigate(`/dashboard`, { state: { title: card.title } });
+    const rfpId = card.qdrant_doc_id ?? card.id;
+    navigate(`/chat/${rfpId}`, { state: { title: card.title } });
   };
 
   return (
@@ -24,7 +25,7 @@ const RFPsPage = () => {
 		<div className="cards-container">
 			{cardsData.map((card) => (
 			<div
-				key={card.id}
+				key={card.qdrant_doc_id ?? card.id}
 				className="card"
 				onClick={() => handleCardClick(card)}
 			>

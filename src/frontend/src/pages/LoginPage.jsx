@@ -3,7 +3,7 @@ import "./LoginPage.css";
 import Navbar from "../components/Navbar";
 import { authConfig, isEmailAllowed } from "../config/authConfig";
 import { supabase } from "../SupaBase/supabaseClient";
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 
 const LoginPage = () => {
   const [email, setEmail] = useState("");
@@ -13,13 +13,19 @@ const LoginPage = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const navigate = useNavigate();
+  const location = useLocation();
+  const redirectTo = location.state?.from?.pathname || "/";
+  const hasApprovedList = (authConfig.approvedEmails || []).length > 0;
+  const allowedHint = hasApprovedList
+    ? "an approved email address"
+    : `your ${authConfig.allowedDomain} email`;
 
   const handleSubmit = async (event) => {
     event.preventDefault();
 
     if (!isEmailAllowed(email)) {
       setEmailError(
-        `Please use your ${authConfig.allowedDomain} email or contact an administrator.`
+        `Please use ${allowedHint} or contact an administrator.`
       );
       return;
     }
@@ -39,7 +45,7 @@ const LoginPage = () => {
         return;
       }
 
-      navigate("/");
+      navigate(redirectTo, { replace: true });
     } catch (err) {
       console.error("Supabase sign-in error:", err);
       setGeneralError("Unexpected error during sign-in. Please try again.");
@@ -96,7 +102,7 @@ const LoginPage = () => {
 
           <div className="login-footer">
             <Link to="/signup">
-              Sign up with your @{authConfig.allowedDomain} email or admin email
+              Need access? Create an account with an approved email
             </Link>
           </div>
         </section>
