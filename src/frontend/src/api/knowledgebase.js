@@ -1,4 +1,6 @@
-const BASE_URL = "http://localhost:8080";  // backend origin
+import { client } from "./client";
+
+const BASE_URL = client.apiBaseUrl;
 
 /**
  * Fetch all knowledge base queries

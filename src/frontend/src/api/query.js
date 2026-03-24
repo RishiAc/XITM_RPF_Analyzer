@@ -3,9 +3,10 @@
  * @param {string} query 
  * @param {string} rfp_doc_id
  */
-export async function queryRFP(query, rfp_doc_id) {
+import { client } from "./client";
 
-    const URL = "http://localhost:8080/query/query-rfp";
+export async function queryRFP(query, rfp_doc_id) {
+    const URL = `${client.apiBaseUrl}/query/query-rfp`;
 
     if (!query) throw new Error("No Query Provided");
 

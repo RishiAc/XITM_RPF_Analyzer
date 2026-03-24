@@ -1,19 +1,5 @@
 // src/api/uploadPDF.js
-import { createClient } from "@supabase/supabase-js";
 import { client } from "./client.js";
-
-// Initialize Supabase client (still fine to have for future use)
-const supabaseUrl = process.env.REACT_APP_SUPABASE_URL;
-const supabaseKey = process.env.REACT_APP_SUPABASE_ANON_KEY;
-
-let supabase = null;
-if (supabaseUrl && supabaseKey) {
-  supabase = createClient(supabaseUrl, supabaseKey);
-} else {
-  console.warn(
-    "Supabase credentials missing (REACT_APP_SUPABASE_URL / REACT_APP_SUPABASE_ANON_KEY). Supabase client disabled."
-  );
-}
 
 /**
  * Upload a PDF and send it to FastAPI for Supabase + Qdrant processing
@@ -27,9 +13,9 @@ export async function uploadPDF(file) {
     const formData = new FormData();
     formData.append("file", file);
 
-    console.log("client.stagingBackendUrl", client.stagingBackendUrl);
+    console.log("client.apiBaseUrl", client.apiBaseUrl);
 
-    const response = await fetch(`http://localhost:8080/chunk/upload-pdf`, {
+    const response = await fetch(`${client.apiBaseUrl}/chunk/upload-pdf`, {
       method: "POST",
       body: formData,
     });

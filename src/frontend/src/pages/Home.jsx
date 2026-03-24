@@ -40,7 +40,7 @@ const Home = () => {
             <div className="home-content">
                 <div className="home-left">
                     <h1>
-                        XITM <span>RFP Analyzer</span>
+                        ProjectLIFT <span>RFP Analyzer</span>
                     </h1>
                     <p className="subtitle">
                         Upload your RFPs and ask questions about the document

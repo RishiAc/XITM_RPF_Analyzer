@@ -16,6 +16,7 @@ from tenacity import (
     before_sleep_log,
     after_log
 )
+from langchain_core.runnables import RunnableLambda
 
 # ---- Logging ----
 logger = logging.getLogger(__name__)
@@ -154,6 +155,9 @@ Return a JSON object with a "results" array containing one object per query with
     return BatchResponse(results=results)
 
 
+process_batch_runnable = RunnableLambda(_process_batch)
+
+
 @router.post("/batch-orchestrate-eval")
 def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
     """
@@ -204,6 +208,7 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
                 "weight": q.get("weight"),
                 "rfp_topk": topk,
                 "knowledge_base_answer": kb if kb else None,
+                "company_evidence": company_evidence,
             }
             
             # Evaluate if we have manual answer OR pre-computed company evidence
@@ -227,18 +232,23 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
                     "rfp_excerpts": excerpts
                 })
         
-        # 3) Process in batches
-        all_results = []
-        for i in range(0, len(tagged_queries), batch_size):
-            batch = tagged_queries[i:i + batch_size]
-            batch_response = _process_batch(batch)
-            all_results.extend(batch_response.results)
+        # 3) Process batches in parallel via LangChain batch()
+        batch_inputs = [
+            tagged_queries[i:i + batch_size]
+            for i in range(0, len(tagged_queries), batch_size)
+        ]
+        batch_responses = process_batch_runnable.batch(
+            batch_inputs,
+            config={"max_concurrency": 5}
+        )
+        all_results = [r for resp in batch_responses for r in resp.results]
         
         # 4) Build response and write to Supabase
         final_results = []
         for result in all_results:
             qnum = result.query_number
             meta = query_metadata.get(qnum, {})
+            company_evidence = meta.get("company_evidence") or []
             
             item = {
                 "query_number": qnum,
@@ -264,6 +274,10 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
                 })
                 llm_answer = result.summary or ""
                 score = 1  # default for summaries
+
+            # Persist only the manual knowledge base answer for display.
+            # Retrieved company evidence should not be shown as KB answer text.
+            persisted_kb_chunk = meta.get("knowledge_base_answer")
             
             final_results.append(item)
             
@@ -275,7 +289,7 @@ def batch_orchestrate_and_evaluate(body: BatchOrchestrateEvalBody):
                 "query_llm_answer": llm_answer,
                 "score": score,
                 "rfp_citation_chunks": [t.get("text", "") for t in meta.get("rfp_topk", [])],
-                "knowledge_base_chunk": meta.get("knowledge_base_answer"),
+                "knowledge_base_chunk": persisted_kb_chunk,
                 "query_phase": meta.get("query_phase"),
             }
             supabase_client.table("RFP_Evals").upsert(upsert_json, on_conflict="rfp_id,query_number").execute()
@@ -320,6 +334,31 @@ def get_existing_evaluations(rfp_id: str):
                 "scores": None
             }
         
+        # Determine which query_numbers are evidence-backed in Query_Table_duplicate.
+        # This allows correct evaluate/summarize reconstruction even when
+        # RFP_Evals.knowledge_base_chunk is null in older rows.
+        qnums = [row.get("query_number") for row in (response.data or []) if row.get("query_number") is not None]
+        evidence_map = {}
+        kb_answer_map = {}
+        kb_chunks_map = {}
+        if qnums:
+            qt = (
+                supabase_client
+                .table("Query_Table_duplicate")
+                .select("query_number, knowledge_base_answer, knowledge_base_chunks")
+                .in_("query_number", qnums)
+                .execute()
+            )
+            for r in (qt.data or []):
+                kb_ans = (r.get("knowledge_base_answer") or "").strip()
+                kb_chunks = r.get("knowledge_base_chunks") or []
+                qn = r.get("query_number")
+                kb_answer_map[qn] = kb_ans
+                kb_chunks_map[qn] = kb_chunks if isinstance(kb_chunks, list) else []
+                evidence_map[r.get("query_number")] = bool(
+                    kb_ans or (isinstance(kb_chunks, list) and len(kb_chunks) > 0)
+                )
+
         # Transform rows into frontend format (matching batch-orchestrate-eval output)
         queries = []
         phase_totals = {1: {"sum": 0, "count": 0}, 2: {"sum": 0, "count": 0}, 
@@ -328,8 +367,8 @@ def get_existing_evaluations(rfp_id: str):
         for row in response.data:
             query_phase = row.get("query_phase") or 1
             score = row.get("score") or 1
-            kb_chunk = row.get("knowledge_base_chunk")
             llm_answer = row.get("query_llm_answer") or ""
+            has_evidence = bool(evidence_map.get(row.get("query_number")))
             
             # Build query item in same format as batch-orchestrate-eval
             item = {
@@ -339,9 +378,12 @@ def get_existing_evaluations(rfp_id: str):
                 "rfp_topk": [{"text": chunk} for chunk in (row.get("rfp_citation_chunks") or [])],
             }
             
-            # If knowledge_base_chunk exists, this was an "evaluate" task
-            if kb_chunk:
-                item["knowledge_base_answer"] = kb_chunk
+            # If evidence exists (manual KB answer and/or company evidence), this is evaluate.
+            if has_evidence:
+                # Display only the manual answer entered on Knowledge Base page.
+                display_kb = (kb_answer_map.get(row.get("query_number")) or "").strip()
+                if display_kb:
+                    item["knowledge_base_answer"] = display_kb
                 item["evaluation"] = {
                     "score": score,
                     "explanation": llm_answer

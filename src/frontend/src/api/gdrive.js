@@ -1,4 +1,6 @@
-const BASE_URL = process.env.REACT_APP_STAGING_BACKEND_URL || "http://localhost:8080";
+import { client } from "./client";
+
+const BASE_URL = client.apiBaseUrl;
 
 export async function getAuthUrl() {
     const res = await fetch(`${BASE_URL}/gdrive/auth-url`);

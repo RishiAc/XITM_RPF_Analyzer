@@ -3,16 +3,18 @@ Google Drive API integration for company knowledge base sync.
 OAuth flow, list folder files, download PDF/DOCX, parse, chunk, ingest to Qdrant.
 """
 import os
+import re
 import tempfile
 from pathlib import Path
 from typing import Optional
+from urllib.parse import parse_qs, urlparse
 
 from fastapi import APIRouter, HTTPException
 from fastapi.responses import RedirectResponse
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import Flow
 from googleapiclient.discovery import build
-from pydantic import BaseModel
+from pydantic import BaseModel, field_validator
 
 from .pdf.parser import parse, chunks_to_json
 from .vector_api import IngestBody, ingest_chunks, compute_evidence_for_all_queries
@@ -32,6 +34,41 @@ _pending_flows: dict[str, Flow] = {}
 PDF_MIME = "application/pdf"
 DOCX_MIME = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
 GOOGLE_DOCS_MIME = "application/vnd.google-apps.document"
+
+
+def _extract_folder_id(folder_input: str) -> str:
+    """
+    Accept either a raw folder ID or a Google Drive URL and return the folder ID.
+    Supported examples:
+    - 1h2byUXx7IjskGgyhyuxrxTNVpfBiCIt0
+    - https://drive.google.com/drive/folders/<id>?usp=drive_link
+    - https://drive.google.com/open?id=<id>
+    """
+    value = (folder_input or "").strip()
+    if not value:
+        raise ValueError("folder_id is required")
+
+    # Direct folder URL form: .../folders/<id>
+    path_match = re.search(r"/folders/([A-Za-z0-9_-]+)", value)
+    if path_match:
+        return path_match.group(1)
+
+    # Query param form: ...?id=<id>
+    parsed = urlparse(value)
+    query_id = parse_qs(parsed.query).get("id", [None])[0]
+    if query_id and re.fullmatch(r"[A-Za-z0-9_-]+", query_id):
+        return query_id
+
+    # Handle strings without scheme that still contain ?id=<id>
+    query_match = re.search(r"(?:\?|&)id=([A-Za-z0-9_-]+)", value)
+    if query_match:
+        return query_match.group(1)
+
+    # Raw folder ID fallback
+    if re.fullmatch(r"[A-Za-z0-9_-]+", value):
+        return value
+
+    raise ValueError("Invalid Google Drive folder ID or URL")
 
 
 def _get_flow() -> Flow:
@@ -71,6 +108,11 @@ def _get_credentials() -> Credentials:
 
 class SyncBody(BaseModel):
     folder_id: str
+
+    @field_validator("folder_id")
+    @classmethod
+    def validate_and_extract_folder_id(cls, value: str) -> str:
+        return _extract_folder_id(value)
 
 
 @router.get("/auth-url")

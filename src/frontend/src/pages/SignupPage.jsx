@@ -13,13 +13,17 @@ const SignupPage = () => {
   const [generalError, setGeneralError] = useState("");
   const [successMessage, setSuccessMessage] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const hasApprovedList = (authConfig.approvedEmails || []).length > 0;
+  const allowedHint = hasApprovedList
+    ? "an approved email address"
+    : `your @${authConfig.allowedDomain} email`;
 
   const handleSubmit = async (event) => {
     event.preventDefault();
 
     if (!isEmailAllowed(email)) {
       setEmailError(
-        `Signup with your @${authConfig.allowedDomain} email or contact an administrator.`
+        `Signup with ${allowedHint} or contact an administrator.`
       );
       return;
     }

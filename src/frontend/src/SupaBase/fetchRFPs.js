@@ -7,7 +7,7 @@ export async function fetchRFPs() {
   // goes to supabase selects the name collumn and creates a row based on names
   const { data, error } = await supabase
     .from("RFPs")
-    .select("name, id")
+    .select("name, id, qdrant_doc_id")
     .order("name", { ascending: true });
 
   if (error) {
@@ -17,7 +17,7 @@ export async function fetchRFPs() {
 
   const formatted = data.map((row) => ({
     id: row.id,
-    doc_id: row.doc_id,
+    qdrant_doc_id: row.qdrant_doc_id ?? row.id,
     title: `RFP ${row.name}`,
   }));
   console.log(formatted)

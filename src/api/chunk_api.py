@@ -71,6 +71,7 @@ async def upload_pdf(file: UploadFile = File(...)):
             "num_pages": num_pages,
             "qdrant_result": qdrant_result,
         }
+        return result
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -78,4 +79,3 @@ async def upload_pdf(file: UploadFile = File(...)):
     finally:
         if temp_file:
             temp_file.close()
-        return result

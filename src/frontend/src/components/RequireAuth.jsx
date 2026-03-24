@@ -4,13 +4,13 @@ import { useAuth } from "../context/AuthContext";
 
 const RequireAuth = () => {
   const location = useLocation();
-  const { user, isLoading } = useAuth();
+  const { user, isAuthorized, isLoading } = useAuth();
 
   if (isLoading) {
     return null;
   }
 
-  if (!user) {
+  if (!user || !isAuthorized) {
     return <Navigate to="/login" replace state={{ from: location }} />;
   }
 
