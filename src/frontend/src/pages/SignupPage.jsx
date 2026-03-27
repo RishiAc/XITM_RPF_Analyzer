@@ -52,6 +52,18 @@ const SignupPage = () => {
         return;
       }
 
+      const isExistingAccount =
+        data?.user &&
+        Array.isArray(data.user.identities) &&
+        data.user.identities.length === 0;
+
+      if (isExistingAccount) {
+        setSuccessMessage(
+          "That approved email already has an account. Use Forgot password on the sign-in screen to set a new password."
+        );
+        return;
+      }
+
       if (data?.user) {
         setSuccessMessage(
           "Account created! Check your email for a verification code."
@@ -128,6 +140,12 @@ const SignupPage = () => {
             <span>Already have an account?</span>
             <Link to="/login">Sign in</Link>
           </div>
+          <div className="signup-footer signup-footer-secondary">
+            <span>Forgot your password?</span>
+            <Link to={`/reset-password?email=${encodeURIComponent(email.trim())}`}>
+              Reset it
+            </Link>
+          </div>
         </section>
       </div>
     </div>
@@ -135,5 +153,3 @@ const SignupPage = () => {
 };
 
 export default SignupPage;
-
-

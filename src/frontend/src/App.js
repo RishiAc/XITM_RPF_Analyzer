@@ -13,6 +13,7 @@ import Dashboard from "./pages/Dashboard";
 import KnowledgeBasePage from "./pages/KnowledgeBasePage";
 import LoginPage from "./pages/LoginPage";
 import SignupPage from "./pages/SignupPage";
+import ResetPasswordPage from "./pages/ResetPasswordPage";
 import RequireAuth from "./components/RequireAuth";
 import { useAuth } from "./context/AuthContext";
 
@@ -37,6 +38,8 @@ function App() {
           <Route path="/login" element={<LoginPage />} />
           <Route path="/signup" element={<SignupPage />} />
         </Route>
+
+        <Route path="/reset-password" element={<ResetPasswordPage />} />
 
         <Route element={<RequireAuth />}>
           <Route path="/" element={<Home />} />

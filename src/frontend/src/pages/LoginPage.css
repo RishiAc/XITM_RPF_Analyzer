@@ -150,6 +150,35 @@ body,
   text-decoration: underline;
 }
 
+.login-error {
+  margin: 0;
+  color: #d93025;
+  font-size: 0.9rem;
+}
+
+.login-success {
+  margin: 0;
+  color: #0f9d58;
+  font-size: 0.9rem;
+}
+
+.auth-inline-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -0.35rem;
+}
+
+.auth-text-link {
+  color: var(--primary-blue);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.auth-text-link:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 900px) {
   .login-content {
     flex-direction: column;
@@ -164,5 +193,10 @@ body,
   .login-card {
     width: 100%;
     max-width: 420px;
+  }
+
+  .auth-inline-actions,
+  .login-footer {
+    justify-content: center;
   }
 }

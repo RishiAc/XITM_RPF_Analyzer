@@ -19,6 +19,9 @@ const LoginPage = () => {
   const allowedHint = hasApprovedList
     ? "an approved email address"
     : `your ${authConfig.allowedDomain} email`;
+  const resetPasswordLink = email.trim()
+    ? `/reset-password?email=${encodeURIComponent(email.trim())}`
+    : "/reset-password";
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -93,6 +96,12 @@ const LoginPage = () => {
               autoComplete="current-password"
             />
 
+            <div className="auth-inline-actions">
+              <Link to={resetPasswordLink} className="auth-text-link">
+                Forgot password?
+              </Link>
+            </div>
+
             {generalError && <p className="login-error">{generalError}</p>}
 
             <button type="submit" disabled={isSubmitting}>
@@ -112,4 +121,3 @@ const LoginPage = () => {
 };
 
 export default LoginPage;
-

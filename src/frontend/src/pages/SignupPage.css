@@ -144,6 +144,10 @@
   text-decoration: underline;
 }
 
+.signup-footer-secondary {
+  margin-top: -1rem;
+}
+
 .signup-error {
   margin: 0;
   color: #d93025;
@@ -171,5 +175,9 @@
     width: 100%;
     max-width: 420px;
   }
-}
 
+  .signup-footer {
+    justify-content: center;
+    gap: 0.5rem;
+  }
+}
